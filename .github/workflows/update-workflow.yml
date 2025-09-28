@@ -11,12 +11,12 @@ on:
           - cn
           - en
       extract_en_assets:
-        description: "Extract game assets for EN server"
+        description: "Extract assets for EN server"
         required: true
         type: boolean
         default: false
       auto_merge_pr:
-        description: "Automatically merge the PR if no conflicts"
+        description: "Automatically merge PR"
         required: true
         type: boolean
         default: false
@@ -166,6 +166,7 @@ jobs:
             if [[ $(cat temp/apk.out) != *"Up to date"* ]]; then
               unzip -q temp/download/${{ inputs.server }}.apk -d temp/apk \
               && unzip -q temp/apk/Android/obb/com.YoStarEN.Arknights/main*.obb -d temp/obb
+              echo $(grep -oP 'https://[^ ]+' temp/apk.out | head -1) > apk_url_${{ inputs.server }}.txt
             fi
           fi
 
