@@ -162,12 +162,12 @@ jobs:
             if [[ "${PIPESTATUS}" -ne 0 ]]; then
               exit 1
             fi
+          fi
 
-            if [[ $(cat temp/apk.out) != *"Up to date"* ]]; then
-              unzip -q temp/download/${{ inputs.server }}.apk -d temp/apk \
-              && unzip -q temp/apk/Android/obb/com.YoStarEN.Arknights/main*.obb -d temp/obb
-              echo $(grep -oP 'https://[^ ]+' temp/apk.out | head -1) > apk_url_${{ inputs.server }}.txt
-            fi
+          if [[ $(cat temp/apk.out) != *"Up to date"* ]]; then
+            unzip -q temp/download/${{ inputs.server }}.apk -d temp/apk \
+            && unzip -q temp/apk/Android/obb/com.YoStarEN.Arknights/main*.obb -d temp/obb
+            echo $(grep -oP 'https://[^ ]+' temp/apk.out | head -1) > apk_url_${{ inputs.server }}.txt
           fi
 
       - name: Checkout branch
@@ -197,6 +197,9 @@ jobs:
         run: |
           source $HOME/venv/bin/activate
           source scripts/utils.sh
+
+          sudo apt install tree
+          tree temp -L 5
 
           OPTIONS="--filter-by-text gamedata -t textasset -g container --log-level warning"
           mkdir -p temp/extract/obb temp/extract/anon
