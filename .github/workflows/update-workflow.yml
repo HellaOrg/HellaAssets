@@ -151,7 +151,7 @@ jobs:
           fi
 
           if [[ "${{ inputs.skip_apk_update }}" == "true" ]]; then
-            wget "$LOCAL_URL" -O ${{ inputs.server }}.apk
+            wget -nv "$LOCAL_URL" -O temp/download/${{ inputs.server }}.apk
           else
             python3 download_apk.py         \
               --server ${{ inputs.server }} \
