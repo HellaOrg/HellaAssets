@@ -211,6 +211,9 @@ jobs:
           --merge-dir scripts/temp/merge                        \
           --out-dir gamedata
 
+          mv gamedata/dyn/gamedata/* gamedata || :
+          rm -rf gamedata/dyn
+
           git_commit "${{ inputs.modify_assets }}" "gamedata" "Gamedata"
           if [[ $(cat /tmp/git_commit) -eq 1 ]]; then
             git push
