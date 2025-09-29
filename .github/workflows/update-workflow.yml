@@ -209,7 +209,7 @@ jobs:
           --anon-dir scripts/temp/extract/anon                  \
           --obb-dir scripts/temp/extract/obb                    \
           --merge-dir scripts/temp/merge                        \
-          --out-dir scripts/temp/gamedata
+          --out-dir gamedata
 
           git_commit "${{ inputs.modify_assets }}" "gamedata" "Gamedata"
           if [[ $(cat /tmp/git_commit) -eq 1 ]]; then
