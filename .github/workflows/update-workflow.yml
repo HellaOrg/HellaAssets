@@ -152,6 +152,8 @@ jobs:
 
           if [[ "${{ inputs.skip_apk_update }}" == "true" ]]; then
             wget -nv "$LOCAL_URL" -O temp/download/${{ inputs.server }}.apk
+            unzip -q temp/download/${{ inputs.server }}.apk -d temp/apk \
+            && unzip -q temp/apk/Android/obb/com.YoStarEN.Arknights/main*.obb -d temp/obb
           else
             python3 download_apk.py         \
               --server ${{ inputs.server }} \
@@ -162,12 +164,11 @@ jobs:
             if [[ "${PIPESTATUS}" -ne 0 ]]; then
               exit 1
             fi
-          fi
-
-          if [[ $(cat temp/apk.out) != *"Up to date"* ]]; then
-            unzip -q temp/download/${{ inputs.server }}.apk -d temp/apk \
-            && unzip -q temp/apk/Android/obb/com.YoStarEN.Arknights/main*.obb -d temp/obb
-            echo $(grep -oP 'https://[^ ]+' temp/apk.out | head -1) > apk_url_${{ inputs.server }}.txt
+            if [[ $(cat temp/apk.out) != *"Up to date"* ]]; then
+              unzip -q temp/download/${{ inputs.server }}.apk -d temp/apk \
+              && unzip -q temp/apk/Android/obb/com.YoStarEN.Arknights/main*.obb -d temp/obb
+              echo $(grep -oP 'https://[^ ]+' temp/apk.out | head -1) > apk_url_${{ inputs.server }}.txt
+            fi
           fi
 
       - name: Checkout branch
@@ -198,20 +199,17 @@ jobs:
           source $HOME/venv/bin/activate
           source scripts/utils.sh
 
-          sudo apt install tree
-          tree temp -L 5
-
           OPTIONS="--filter-by-text gamedata -t textasset -g container --log-level warning"
-          mkdir -p temp/extract/obb temp/extract/anon
-          dotnet $ARKSTUDIOCLI temp/obb/assets/AB/Android/anon $OPTIONS -o temp/extract/obb
-          dotnet $ARKSTUDIOCLI temp/download/anon $OPTIONS -o temp/extract/anon
+          mkdir -p scripts/temp/extract/obb scripts/temp/extract/anon
+          dotnet $ARKSTUDIOCLI temp/obb/assets/AB/Android/anon $OPTIONS -o scripts/temp/extract/obb
+          dotnet $ARKSTUDIOCLI temp/download/anon $OPTIONS -o scripts/temp/extract/anon
 
           python3 scripts/gamedata.py                   \
-          --schema-dir temp/ArknightsFlatbuffers/yostar \
-          --anon-dir temp/extract/anon                  \
-          --obb-dir temp/extract/obb                    \
-          --merge-dir temp/merge                        \
-          --out-dir gamedata
+          --schema-dir scripts/temp/ArknightsFlatbuffers/yostar \
+          --anon-dir scripts/temp/extract/anon                  \
+          --obb-dir scripts/temp/extract/obb                    \
+          --merge-dir scripts/temp/merge                        \
+          --out-dir scripts/temp/gamedata
 
           git_commit "${{ inputs.modify_assets }}" "gamedata" "Gamedata"
           if [[ $(cat /tmp/git_commit) -eq 1 ]]; then
