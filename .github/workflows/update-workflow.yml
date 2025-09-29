@@ -201,8 +201,8 @@ jobs:
 
           OPTIONS="--filter-by-text gamedata -t textasset -g container --log-level warning"
           mkdir -p scripts/temp/extract/obb scripts/temp/extract/anon
-          dotnet $ARKSTUDIOCLI temp/obb/assets/AB/Android/anon $OPTIONS -o scripts/temp/extract/obb
-          dotnet $ARKSTUDIOCLI temp/download/anon $OPTIONS -o scripts/temp/extract/anon
+          dotnet $ARKSTUDIOCLI scripts/temp/obb/assets/AB/Android/anon $OPTIONS -o scripts/temp/extract/obb
+          dotnet $ARKSTUDIOCLI scripts/temp/download/anon $OPTIONS -o scripts/temp/extract/anon
 
           python3 scripts/gamedata.py                   \
           --schema-dir scripts/temp/ArknightsFlatbuffers/yostar \
