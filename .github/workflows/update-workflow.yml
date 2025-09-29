@@ -195,7 +195,7 @@ jobs:
       - name: Extract gamedata
         if: steps.download-assets.outputs.extract-gamedata == 'true'
         run: |
-          source venv/bin/activate
+          source $HOME/venv/bin/activate
           source scripts/utils.sh
 
           OPTIONS="--filter-by-text gamedata -t textasset -g container --log-level warning"
