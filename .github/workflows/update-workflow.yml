@@ -71,12 +71,6 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - name: test
-        if: inputs.auto_merge_pr == true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: echo "hi"
-
       - name: Install dependencies
         working-directory: scripts
         run: |
