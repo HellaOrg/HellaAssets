@@ -216,7 +216,7 @@ jobs:
           --merge-dir scripts/temp/merge                        \
           --out-dir gamedata
 
-          mv gamedata/dyn/gamedata/* gamedata || :
+          cp -rf gamedata/dyn/gamedata/* gamedata || :
           rm -rf gamedata/dyn
 
           git_commit "${{ inputs.modify_assets }}" "gamedata" "Gamedata"
