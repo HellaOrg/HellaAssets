@@ -1386,16 +1386,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_283_midn",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "  \b  \f \f      7   (      \r   char_283_midn  ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -1403,16 +1397,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_209_ardign",
-          "level": 1,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -1420,16 +1408,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_284_spot",
-          "level": 1,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "   f,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

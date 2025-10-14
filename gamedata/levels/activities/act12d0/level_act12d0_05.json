@@ -5259,16 +5259,10 @@
         "hidden": false,
         "alias": "trap_015_tree#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_015_tree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      8   \b \f  \b \b         8,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5281,16 +5275,10 @@
         "hidden": false,
         "alias": "trap_015_tree#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_015_tree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5303,16 +5291,10 @@
         "hidden": false,
         "alias": "trap_015_tree#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_015_tree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   @,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5325,16 +5307,10 @@
         "hidden": false,
         "alias": "trap_015_tree#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_015_tree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5347,16 +5323,10 @@
         "hidden": false,
         "alias": "trap_015_tree#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_015_tree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5369,16 +5339,10 @@
         "hidden": false,
         "alias": "trap_015_tree#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_015_tree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   D,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5391,16 +5355,10 @@
         "hidden": false,
         "alias": "trap_015_tree#7",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_015_tree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5413,16 +5371,10 @@
         "hidden": false,
         "alias": "trap_015_tree#8",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_015_tree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5435,16 +5387,10 @@
         "hidden": false,
         "alias": "trap_015_tree#9",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_015_tree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   H,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5457,16 +5403,10 @@
         "hidden": false,
         "alias": "trap_015_tree#10",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_015_tree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -5480,15 +5420,9 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_016_peon",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 0,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": -1,
         "skinId": null,
         "tmplId": null,
         "overrideSkillBlackboard": null

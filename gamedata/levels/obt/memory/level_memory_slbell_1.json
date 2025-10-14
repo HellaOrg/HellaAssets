@@ -2805,16 +2805,10 @@
         "hidden": false,
         "alias": "trap_020_roadblock#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_020_roadblock",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      <   \b \f  \b \b         4,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -2824,16 +2818,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_174_slbell",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": "  \b  \f \f         (         char_174_slbell    ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2841,16 +2829,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_218_cuttle",
-          "level": 70,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": ",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2858,16 +2840,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_002_amiya",
-          "level": 70,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 3
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 5,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2875,16 +2851,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_212_ansel",
-          "level": 25,
-          "phase": "PHASE_1",
-          "favorPoint": 25,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 5,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": ",
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

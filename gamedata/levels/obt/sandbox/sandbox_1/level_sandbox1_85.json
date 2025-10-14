@@ -12098,17 +12098,11 @@
         "hidden": true,
         "alias": "char_113_cqbw#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_113_cqbw",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 1,
+        "skinId": "     0   T           \b \f  \b \b      &   \f   \b  \f \f      Z   d      \r   char_113_cqbw      char_113_cqbw#0        $       \b        \f              ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12120,17 +12114,11 @@
         "hidden": true,
         "alias": "char_4046_ebnhlz#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4046_ebnhlz",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "     D           l,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12142,17 +12130,11 @@
         "hidden": true,
         "alias": "char_113_cqbw#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_113_cqbw",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "     @           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12164,17 +12146,11 @@
         "hidden": true,
         "alias": "char_4046_ebnhlz#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4046_ebnhlz",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "        D           l,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12186,17 +12162,11 @@
         "hidden": true,
         "alias": "char_291_aglina#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_291_aglina",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 2,
+        "skinId": "        @           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12208,17 +12178,11 @@
         "hidden": true,
         "alias": "char_135_halo#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_135_halo",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "     @           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12230,17 +12194,11 @@
         "hidden": true,
         "alias": "char_291_aglina#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_291_aglina",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 2,
+        "skinId": "     @           \f,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12252,17 +12210,11 @@
         "hidden": true,
         "alias": "char_135_halo#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_135_halo",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "        @           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -12276,17 +12228,11 @@
         "hidden": true,
         "alias": "trap_009_battery#00",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_009_battery",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12298,17 +12244,11 @@
         "hidden": true,
         "alias": "trap_009_battery#01",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_009_battery",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12320,16 +12260,10 @@
         "hidden": true,
         "alias": "trap_009_battery#10",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_009_battery",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": -1,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -12342,17 +12276,11 @@
         "hidden": true,
         "alias": "trap_009_battery#11",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_009_battery",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12364,34 +12292,12 @@
         "hidden": false,
         "alias": "trap_484_xbcp#end_0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_484_xbcp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@cp_id",
-            "value": -1.0,
-            "valueStr": null
-          },
-          {
-            "key": "talent@cp_cnt",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "talent@round_cnt",
-            "value": 2.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 144,
+        "mainSkillLvl": 0,
+        "skinId": "          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12402,34 +12308,12 @@
         "hidden": false,
         "alias": "trap_484_xbcp#end_1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_484_xbcp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@cp_id",
-            "value": -1.0,
-            "valueStr": null
-          },
-          {
-            "key": "talent@cp_cnt",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "talent@round_cnt",
-            "value": 2.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 144,
+        "mainSkillLvl": 0,
+        "skinId": "          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12440,24 +12324,12 @@
         "hidden": false,
         "alias": "trap_484_xbcp#0_0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_484_xbcp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@cp_id",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 64,
+        "mainSkillLvl": 0,
+        "skinId": "          @   \\           0,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12468,24 +12340,12 @@
         "hidden": false,
         "alias": "trap_484_xbcp#0_1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_484_xbcp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@cp_id",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 64,
+        "mainSkillLvl": 0,
+        "skinId": "          @   \\           ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12496,24 +12356,12 @@
         "hidden": false,
         "alias": "trap_484_xbcp#1_0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_484_xbcp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@cp_id",
-            "value": 1.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 68,
+        "mainSkillLvl": 0,
+        "skinId": "          D   `           ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12524,24 +12372,12 @@
         "hidden": false,
         "alias": "trap_484_xbcp#1_1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_484_xbcp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@cp_id",
-            "value": 1.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 68,
+        "mainSkillLvl": 0,
+        "skinId": "          D   `           ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12552,17 +12388,11 @@
         "hidden": false,
         "alias": "trap_011_ore#00",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_011_ore",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8            ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12574,17 +12404,11 @@
         "hidden": false,
         "alias": "trap_011_ore#10",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_011_ore",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12596,17 +12420,11 @@
         "hidden": false,
         "alias": "trap_011_ore#20",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_011_ore",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           H,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12618,17 +12436,11 @@
         "hidden": false,
         "alias": "trap_011_ore#30",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_011_ore",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12640,34 +12452,12 @@
         "hidden": false,
         "alias": "trap_486_xbspd#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_486_xbspd",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 0,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 10.0,
-            "valueStr": null
-          },
-          {
-            "key": "multiplier@racing_max_move_speed",
-            "value": 1.3,
-            "valueStr": null
-          },
-          {
-            "key": "multiplier@racing_acceleration",
-            "value": 1.5,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 172,
+        "mainSkillLvl": -1,
+        "skinId": null,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12678,34 +12468,12 @@
         "hidden": false,
         "alias": "trap_486_xbspd#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_486_xbspd",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 0,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 10.0,
-            "valueStr": null
-          },
-          {
-            "key": "multiplier@racing_max_move_speed",
-            "value": 1.3,
-            "valueStr": null
-          },
-          {
-            "key": "multiplier@racing_acceleration",
-            "value": 1.5,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 172,
+        "mainSkillLvl": -1,
+        "skinId": null,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12716,34 +12484,12 @@
         "hidden": false,
         "alias": "trap_486_xbspd#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_486_xbspd",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 0,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 10.0,
-            "valueStr": null
-          },
-          {
-            "key": "multiplier@racing_max_move_speed",
-            "value": 1.3,
-            "valueStr": null
-          },
-          {
-            "key": "multiplier@racing_acceleration",
-            "value": 1.5,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 172,
+        "mainSkillLvl": -1,
+        "skinId": null,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12754,54 +12500,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
+        "inst": null,
+        "skillIndex": 320,
         "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@duration",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "skinId": "          @  `          T,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12812,54 +12516,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
+        "inst": null,
+        "skillIndex": 320,
         "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@duration",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "skinId": "          @  `          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12870,54 +12532,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          \b,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12928,54 +12548,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          t,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -12986,54 +12564,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -13044,54 +12580,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          L,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -13102,17 +12596,11 @@
         "hidden": true,
         "alias": "trap_009_battery#20",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_009_battery",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -13124,17 +12612,11 @@
         "hidden": true,
         "alias": "trap_009_battery#30",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_009_battery",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -13146,17 +12628,11 @@
         "hidden": false,
         "alias": "trap_011_ore#01",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_011_ore",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8            ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -13168,17 +12644,11 @@
         "hidden": false,
         "alias": "trap_011_ore#11",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_011_ore",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -13190,17 +12660,11 @@
         "hidden": false,
         "alias": "trap_011_ore#21",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_011_ore",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           @,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -13212,17 +12676,11 @@
         "hidden": false,
         "alias": "trap_011_ore#31",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_011_ore",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -13234,54 +12692,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          P,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -13292,54 +12708,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#7",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -13350,54 +12724,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#8",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          (,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -13408,54 +12740,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#9",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -13466,54 +12756,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#10",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `           ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -13524,54 +12772,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#11",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          l,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -13582,54 +12788,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#12",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -13640,54 +12804,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#13",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          D,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -13698,54 +12820,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#14",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -13756,54 +12836,12 @@
         "hidden": false,
         "alias": "trap_485_xbrandprop#15",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_485_xbrandprop",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 2.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[not_first]",
-            "value": 4.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[not_first]",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_sprint[first]",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_magnet[first]",
-            "value": 999.0,
-            "valueStr": null
-          },
-          {
-            "key": "prob_lifesteal[first]",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 320,
+        "mainSkillLvl": 0,
+        "skinId": "          @  `          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [

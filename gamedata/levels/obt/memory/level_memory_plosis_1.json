@@ -1592,16 +1592,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_128_plosis",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": "  \b  \f \f         2         char_128_plosis    ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -1609,16 +1603,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_185_frncat",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 25,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": ",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -1626,16 +1614,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_150_snakek",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 25,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "l,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -1643,16 +1625,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_271_spikes",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 25,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "8,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

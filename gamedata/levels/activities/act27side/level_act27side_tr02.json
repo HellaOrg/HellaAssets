@@ -1895,17 +1895,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_325_bison",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "    0           \b   \b \b              \f \b               2         char_325_bison     ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -1917,17 +1911,11 @@
         "hidden": false,
         "alias": "char_348_ceylon",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_348_ceylon",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 5,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "      $   H           \b \f  \b \b         ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -1939,17 +1927,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_166_skfire",
-          "level": 70,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "char_166_skfire@summer#1",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": " (   0      char_166_skfire@summer#1    ,
+        "tmplId": "char_166_skfire@summer#1",
         "overrideSkillBlackboard": null
       },
       {
@@ -1961,17 +1943,11 @@
         "hidden": true,
         "alias": "char_180_amgoat",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_180_amgoat",
-          "level": 80,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "          @           \f,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -1985,17 +1961,11 @@
         "hidden": false,
         "alias": "trap_122_stmpq#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_122_stmpq",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -2007,17 +1977,11 @@
         "hidden": false,
         "alias": "trap_122_stmpq#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_122_stmpq",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2026,34 +1990,22 @@
         "hidden": true,
         "alias": "char_308_swire",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_308_swire",
-          "level": 70,
-          "phase": "PHASE_1",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "    @           \f   \b  \f \f      F   d         char_308_swire     char_308_swire     ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": true,
         "alias": "char_4106_bryota",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4106_bryota",
-          "level": 70,
-          "phase": "PHASE_1",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "    8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2063,17 +2015,11 @@
         "hidden": true,
         "alias": "trap_123_stmbot",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_123_stmbot",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

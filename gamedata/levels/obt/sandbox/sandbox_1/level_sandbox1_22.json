@@ -9438,17 +9438,11 @@
         "hidden": false,
         "alias": "trap_459_xblight#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_459_xblight",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         <           h,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9460,17 +9454,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9482,17 +9470,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9504,17 +9486,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9526,17 +9502,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9548,17 +9518,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9570,17 +9534,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9592,17 +9550,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#7",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9614,17 +9566,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#8",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9636,17 +9582,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#9",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9658,17 +9598,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#10",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9680,17 +9614,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#11",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9702,17 +9630,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#12",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9724,17 +9646,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#13",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9746,17 +9662,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#14",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9768,17 +9678,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#15",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9790,17 +9694,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#16",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9812,17 +9710,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#17",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9834,17 +9726,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#18",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9856,17 +9742,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#19",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9878,17 +9758,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#20",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9900,17 +9774,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#21",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9922,17 +9790,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#22",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9944,17 +9806,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#23",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9966,17 +9822,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#24",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9988,17 +9838,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#25",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -10010,17 +9854,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#26",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -10032,17 +9870,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#27",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -10054,17 +9886,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#28",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -10076,17 +9902,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#29",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -10098,17 +9918,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#30",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -10120,17 +9934,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#31",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -10142,17 +9950,11 @@
         "hidden": true,
         "alias": "trap_440_xbalis#32",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_440_xbalis",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

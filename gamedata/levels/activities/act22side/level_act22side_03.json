@@ -2759,39 +2759,12 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_098_mire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "attack_speed",
-            "value": -0.05,
-            "valueStr": null
-          },
-          {
-            "key": "max_stack_cnt",
-            "value": 10.0,
-            "valueStr": null
-          },
-          {
-            "key": "move_speed",
-            "value": -0.05,
-            "valueStr": null
-          },
-          {
-            "key": "value",
-            "value": 3.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 156,
+        "mainSkillLvl": 0,
+        "skinId": "         ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [

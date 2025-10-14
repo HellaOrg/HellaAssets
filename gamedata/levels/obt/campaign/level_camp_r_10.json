@@ -15576,16 +15576,10 @@
         "hidden": false,
         "alias": "trap_048_neonlamp#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_048_neonlamp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      4   <,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

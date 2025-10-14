@@ -3950,17 +3950,11 @@
         "hidden": true,
         "alias": "trap_234_mpmageb#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_234_mpmageb",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3972,17 +3966,11 @@
         "hidden": true,
         "alias": "trap_234_mpmageb#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_234_mpmageb",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3994,17 +3982,11 @@
         "hidden": true,
         "alias": "trap_234_mpmageb#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_234_mpmageb",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -4016,17 +3998,11 @@
         "hidden": true,
         "alias": "trap_234_mpmageb#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_234_mpmageb",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -4038,17 +4014,11 @@
         "hidden": true,
         "alias": "trap_234_mpmageb#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_234_mpmageb",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -4060,17 +4030,11 @@
         "hidden": true,
         "alias": "trap_234_mpmageb#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_234_mpmageb",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -4082,17 +4046,11 @@
         "hidden": true,
         "alias": "trap_234_mpmageb#7",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_234_mpmageb",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -4105,17 +4063,11 @@
         "hidden": true,
         "alias": "trap_234_mpmageb#8",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_234_mpmageb",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

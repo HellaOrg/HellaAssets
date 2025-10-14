@@ -822,13 +822,34 @@
           ,
           
             "2": {
-              "type": "HIRE",
+              "type": "MEETING",
               "level": 1,
               "count": 1
             }
           ,
           
             "3": {
+              "type": "HIRE",
+              "level": 1,
+              "count": 1
+            }
+          ,
+          
+            "4": {
+              "type": "HIRE",
+              "level": 1,
+              "count": 1
+            }
+          ,
+          
+            "5": {
+              "type": "TRAINING",
+              "level": 1,
+              "count": 1
+            }
+          ,
+          
+            "6": {
               "type": "TRAINING",
               "level": 1,
               "count": 1
@@ -861,6 +882,27 @@
               "level": 3,
               "count": 1
             }
+          ,
+          
+            "4": {
+              "type": "CONTROL",
+              "level": 3,
+              "count": 1
+            }
+          ,
+          
+            "5": {
+              "type": "CONTROL",
+              "level": 3,
+              "count": 1
+            }
+          ,
+          
+            "6": {
+              "type": "CONTROL",
+              "level": 3,
+              "count": 1
+            }
           
         }
       }
@@ -885,6 +927,27 @@
           ,
           
             "3": {
+              "type": "CONTROL",
+              "level": 4,
+              "count": 1
+            }
+          ,
+          
+            "4": {
+              "type": "CONTROL",
+              "level": 4,
+              "count": 1
+            }
+          ,
+          
+            "5": {
+              "type": "CONTROL",
+              "level": 4,
+              "count": 1
+            }
+          ,
+          
+            "6": {
               "type": "CONTROL",
               "level": 4,
               "count": 1
@@ -1364,7 +1427,7 @@
         "description": "Rhodes Island's personal leisure facilities provide operators with individualized entertainment and activity space.",
         "defaultPrefabId": "room_private_6x2",
         "canLevelDown": true,
-        "maxCount": 3,
+        "maxCount": 6,
         "category": "CUSTOM_P",
         "size": {
           "row": 2,
@@ -2086,6 +2149,24 @@
             }
           ,
           
+            "slot_49": {
+              "id": "slot_49",
+              "cleanCostId": "CUSTOM_P",
+              "costLabor": 0,
+              "provideLabor": 4,
+              "size": {
+                "row": 2,
+                "col": 6
+              },
+              "offset": {
+                "row": 2,
+                "col": 39
+              },
+              "category": "CUSTOM_P",
+              "storeyId": "B3"
+            }
+          ,
+          
             "slot_14": {
               "id": "slot_14",
               "cleanCostId": "OUTPUT",
@@ -2320,6 +2401,24 @@
             }
           ,
           
+            "slot_50": {
+              "id": "slot_50",
+              "cleanCostId": "CUSTOM_P",
+              "costLabor": 0,
+              "provideLabor": 3,
+              "size": {
+                "row": 2,
+                "col": 6
+              },
+              "offset": {
+                "row": 4,
+                "col": 39
+              },
+              "category": "CUSTOM_P",
+              "storeyId": "B2"
+            }
+          ,
+          
             "slot_24": {
               "id": "slot_24",
               "cleanCostId": "OUTPUT",
@@ -2530,6 +2629,24 @@
               "offset": {
                 "row": 6,
                 "col": 33
+              },
+              "category": "CUSTOM_P",
+              "storeyId": "B1"
+            }
+          ,
+          
+            "slot_51": {
+              "id": "slot_51",
+              "cleanCostId": "CUSTOM_P",
+              "costLabor": 0,
+              "provideLabor": 3,
+              "size": {
+                "row": 2,
+                "col": 6
+              },
+              "offset": {
+                "row": 6,
+                "col": 39
               },
               "category": "CUSTOM_P",
               "storeyId": "B1"
@@ -2774,6 +2891,39 @@
                 ,
                 
                   "2": {
+                    "items": [
+                      {
+                        "id": "3132",
+                        "count": 1,
+                        "type": "MATERIAL"
+                      }
+                    ]
+                  }
+                ,
+                
+                  "3": {
+                    "items": [
+                      {
+                        "id": "3132",
+                        "count": 1,
+                        "type": "MATERIAL"
+                      }
+                    ]
+                  }
+                ,
+                
+                  "4": {
+                    "items": [
+                      {
+                        "id": "3132",
+                        "count": 1,
+                        "type": "MATERIAL"
+                      }
+                    ]
+                  }
+                ,
+                
+                  "5": {
                     "items": [
                       {
                         "id": "3132",
@@ -15105,6 +15255,201 @@
           }
         ]
       }
+    ,
+    
+      "char_1041_angel2": {
+        "charId": "char_1041_angel2",
+        "maxManpower": 8640000,
+        "buffChar": [
+          {
+            "buffData": [
+              {
+                "buffId": "dorm_rec_single_power[100]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              },
+              {
+                "buffId": "dorm_rec_single_power[001]",
+                "cond": {
+                  "phase": "PHASE_2",
+                  "level": 1
+                }
+              }
+            ]
+          },
+          {
+            "buffData": [
+              {
+                "buffId": "trade_ord_spd_par[001]",
+                "cond": {
+                  "phase": "PHASE_2",
+                  "level": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "char_4193_lemuen": {
+        "charId": "char_4193_lemuen",
+        "maxManpower": 8640000,
+        "buffChar": [
+          {
+            "buffData": [
+              {
+                "buffId": "trade_ord_spd&multiPar[000]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              },
+              {
+                "buffId": "trade_ord_spd&multiPar[100]",
+                "cond": {
+                  "phase": "PHASE_2",
+                  "level": 1
+                }
+              }
+            ]
+          },
+          {
+            "buffData": [
+
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "char_4194_rmixer": {
+        "charId": "char_4194_rmixer",
+        "maxManpower": 8640000,
+        "buffChar": [
+          {
+            "buffData": [
+              {
+                "buffId": "meet_spd[011]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              },
+              {
+                "buffId": "meet_spd[022]",
+                "cond": {
+                  "phase": "PHASE_2",
+                  "level": 1
+                }
+              }
+            ]
+          },
+          {
+            "buffData": [
+              {
+                "buffId": "meet_spd_ext&P[000]",
+                "cond": {
+                  "phase": "PHASE_2",
+                  "level": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "char_4187_graceb": {
+        "charId": "char_4187_graceb",
+        "maxManpower": 8640000,
+        "buffChar": [
+          {
+            "buffData": [
+              {
+                "buffId": "dorm_rec_single[033]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              }
+            ]
+          },
+          {
+            "buffData": [
+              {
+                "buffId": "train_spd&profession[1020]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "char_4188_confes": {
+        "charId": "char_4188_confes",
+        "maxManpower": 8640000,
+        "buffChar": [
+          {
+            "buffData": [
+              {
+                "buffId": "power_rec_spd[006]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              }
+            ]
+          },
+          {
+            "buffData": [
+              {
+                "buffId": "power_rec_spd_ext&faction[000]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 30
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "char_4198_christ": {
+        "charId": "char_4198_christ",
+        "maxManpower": 8640000,
+        "buffChar": [
+          {
+            "buffData": [
+              {
+                "buffId": "manu_prod_limit&cost[012]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              }
+            ]
+          },
+          {
+            "buffData": [
+              {
+                "buffId": "manu_prod_spd_double[100]",
+                "cond": {
+                  "phase": "PHASE_2",
+                  "level": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
     
   },
   "buffs": {
@@ -16355,6 +16700,20 @@
       }
     ,
     
+      "power_rec_spd[006]": {
+        "buffId": "power_rec_spd[006]",
+        "buffName": "Now Charging",
+        "buffIcon": "power",
+        "skillIcon": "bskill_pow_spd1",
+        "sortId": 2007,
+        "buffColor": "#8fc31f",
+        "textColor": "#ffffff",
+        "buffCategory": "OUTPUT",
+        "roomType": "POWER",
+        "description": "When this Operator is assigned to a Power Plant, increases the drone recovery rate by <@cc.vup>+10%</>"
+      }
+    ,
+    
       "power_rec_drone[000]": {
         "buffId": "power_rec_drone[000]",
         "buffName": "Line Patrol Frame",
@@ -16422,6 +16781,20 @@
         "buffCategory": "OUTPUT",
         "roomType": "POWER",
         "description": "When this Operator is assigned to a Power Plant, if <@cc.kw>Logos</> is assigned to be the Trainer in the Training Room, increases the drone recovery rate by <@cc.vup>+5%</>."
+      }
+    ,
+    
+      "power_rec_spd_ext&faction[000]": {
+        "buffId": "power_rec_spd_ext&faction[000]",
+        "buffName": "Now Under Maintenance",
+        "buffIcon": "power",
+        "skillIcon": "bskill_power_rec_spd_ext&faction",
+        "sortId": 2000,
+        "buffColor": "#8fc31f",
+        "textColor": "#ffffff",
+        "buffCategory": "OUTPUT",
+        "roomType": "POWER",
+        "description": "When this Operator is assigned to a Power Plant, if another <$cc.g.laterano><@cc.kw>Laterano</></> Operator is assigned to a Power Plant, drone charging speed <@cc.vup>+5%</>"
       }
     ,
     
@@ -17019,6 +17392,20 @@
         "buffIcon": "manufacture",
         "skillIcon": "bskill_man_limit&cost2",
         "sortId": 3212,
+        "buffColor": "#ffd800",
+        "textColor": "#333333",
+        "buffCategory": "OUTPUT",
+        "roomType": "MANUFACTURE",
+        "description": "When this Operator is assigned to a Factory, capacity limit <@cc.vup>+10</> and Morale consumed per hour <@cc.vup>-0.25</>"
+      }
+    ,
+    
+      "manu_prod_limit&cost[012]": {
+        "buffId": "manu_prod_limit&cost[012]",
+        "buffName": "Perfect Nap Spot",
+        "buffIcon": "manufacture",
+        "skillIcon": "bskill_man_limit&cost2",
+        "sortId": 3213,
         "buffColor": "#ffd800",
         "textColor": "#333333",
         "buffCategory": "OUTPUT",
@@ -17682,6 +18069,20 @@
         "buffCategory": "OUTPUT",
         "roomType": "MANUFACTURE",
         "description": "When this Operator is assigned to a Factory, <@cc.kw>Precious Metal</> productivity <@cc.vup>+15%</> when <@cc.kw>Warmy</> is assigned to the same Factory"
+      }
+    ,
+    
+      "manu_prod_spd_double[100]": {
+        "buffId": "manu_prod_spd_double[100]",
+        "buffName": "Fancy Feast's Reward",
+        "buffIcon": "manufacture",
+        "skillIcon": "bskill_man_spd_double2",
+        "sortId": 3736,
+        "buffColor": "#ffd800",
+        "textColor": "#333333",
+        "buffCategory": "OUTPUT",
+        "roomType": "MANUFACTURE",
+        "description": "When this Operator is assigned to a Factory, <@cc.kw>Battle Record</> formula productivity <@cc.vup>+30%</> when <@cc.kw>Tragodia</> is assigned to the same Factory"
       }
     ,
     
@@ -18830,6 +19231,48 @@
         "buffCategory": "OUTPUT",
         "roomType": "TRADING",
         "description": "When this Operator is assigned to a Trading Post, for every <$cc.g.glasgow><@cc.kw>Glasgow Gang</></> Operator in the same Trading Post, order acquisition efficiency <@cc.vup>+20%</>; when in the same Trading Post as <@cc.kw>Siege</>, additional order acquisition efficiency <@cc.vup>+35%</>"
+      }
+    ,
+    
+      "trade_ord_spd_par[001]": {
+        "buffId": "trade_ord_spd_par[001]",
+        "buffName": "Same-City Express Order",
+        "buffIcon": "trading",
+        "skillIcon": "bskill_tra_laterano1",
+        "sortId": 4802,
+        "buffColor": "#0075a9",
+        "textColor": "#ffffff",
+        "buffCategory": "OUTPUT",
+        "roomType": "TRADING",
+        "description": "When this Operator is assigned to a Trading Post, for every <$cc.g.laterano><@cc.kw>Laterano</></> Operator in the same Trading Post, order acquisition efficiency <@cc.vup>+15%</>"
+      }
+    ,
+    
+      "trade_ord_spd&multiPar[000]": {
+        "buffId": "trade_ord_spd&multiPar[000]",
+        "buffName": "Order Distribution α",
+        "buffIcon": "trading",
+        "skillIcon": "bskill_tra_spd1",
+        "sortId": 4302,
+        "buffColor": "#0075a9",
+        "textColor": "#ffffff",
+        "buffCategory": "OUTPUT",
+        "roomType": "TRADING",
+        "description": "When this Operator is assigned to a Trading Post, order acquisition efficiency <@cc.vup>+20%</>"
+      }
+    ,
+    
+      "trade_ord_spd&multiPar[100]": {
+        "buffId": "trade_ord_spd&multiPar[100]",
+        "buffName": "Amicus",
+        "buffIcon": "trading",
+        "skillIcon": "bskill_tra_lemuen1",
+        "sortId": 4820,
+        "buffColor": "#0075a9",
+        "textColor": "#ffffff",
+        "buffCategory": "OUTPUT",
+        "roomType": "TRADING",
+        "description": "When this Operator is assigned to a Trading Post, order acquisition efficiency <@cc.vup>+20%</>; if <@cc.kw><$cc.angel>Exusiai</></> is assigned to the same Trading Post, additionally order acquisition efficiency <@cc.vup>+25%</>"
       }
     ,
     
@@ -20555,6 +20998,20 @@
       }
     ,
     
+      "train_spd&profession[1020]": {
+        "buffId": "train_spd&profession[1020]",
+        "buffName": "Guard Expert α",
+        "buffIcon": "training",
+        "skillIcon": "bskill_train_guard1",
+        "sortId": 9701,
+        "buffColor": "#7d0022",
+        "textColor": "#ffffff",
+        "buffCategory": "FUNCTION",
+        "roomType": "TRAINING",
+        "description": "When this Operator is assigned to be the Trainer in the Training Room, <@cc.kw>Guard</> Operators' Specialization training speed <@cc.vup>+30%</>"
+      }
+    ,
+    
       "train_spd&profession2[020]": {
         "buffId": "train_spd&profession2[020]",
         "buffName": "Guard Expert α",
@@ -21591,6 +22048,20 @@
       }
     ,
     
+      "dorm_rec_single_power[100]": {
+        "buffId": "dorm_rec_single_power[100]",
+        "buffName": "Natural Optimist",
+        "buffIcon": "dormitory",
+        "skillIcon": "bskill_dorm_single1",
+        "sortId": 5202,
+        "buffColor": "#21cdcb",
+        "textColor": "#ffffff",
+        "buffCategory": "RECOVERY",
+        "roomType": "DORMITORY",
+        "description": "When this Operator is assigned to a Dormitory, restores <@cc.vup>+0.55</> Morale per hour to another Operator assigned to that Dormitory whose Morale is not full (Only the strongest effect of this type takes place)"
+      }
+    ,
+    
       "dorm_rec_single[000]": {
         "buffId": "dorm_rec_single[000]",
         "buffName": "Medical Service",
@@ -21681,6 +22152,20 @@
         "buffIcon": "dormitory",
         "skillIcon": "bskill_dorm_single3",
         "sortId": 5232,
+        "buffColor": "#21cdcb",
+        "textColor": "#ffffff",
+        "buffCategory": "RECOVERY",
+        "roomType": "DORMITORY",
+        "description": "When this Operator is assigned to a Dormitory, restores <@cc.vup>+0.7</> Morale per hour to another Operator assigned to that Dormitory whose Morale is not full (Only the strongest effect of this type takes place)"
+      }
+    ,
+    
+      "dorm_rec_single[033]": {
+        "buffId": "dorm_rec_single[033]",
+        "buffName": "Canticle of Grace",
+        "buffIcon": "dormitory",
+        "skillIcon": "bskill_dorm_single3",
+        "sortId": 5234,
         "buffColor": "#21cdcb",
         "textColor": "#ffffff",
         "buffCategory": "RECOVERY",
@@ -22204,6 +22689,20 @@
         "buffCategory": "RECOVERY",
         "roomType": "DORMITORY",
         "description": "When this Operator is assigned to a Dormitory, restores <@cc.vup>+0.55</> Morale per hour to one other Operators assigned to that Dormitory whose Morale is not full (Only the strongest effect of this type takes place); if the target is a <$cc.g.sm><@cc.kw>Sami</></> Operator, further increases Morale restored by <@cc.vup>+0.45</>"
+      }
+    ,
+    
+      "dorm_rec_single_power[001]": {
+        "buffId": "dorm_rec_single_power[001]",
+        "buffName": "Funny Holy City Stories",
+        "buffIcon": "dormitory",
+        "skillIcon": "bskill_dorm_single_laterano",
+        "sortId": 5126,
+        "buffColor": "#21cdcb",
+        "textColor": "#ffffff",
+        "buffCategory": "RECOVERY",
+        "roomType": "DORMITORY",
+        "description": "When this Operator is assigned to a Dormitory, restores <@cc.vup>+0.55</> Morale per hour to all other Operators assigned to that Dormitory whose Morale is not full (Only the strongest effect of this type takes place); if the target is a <$cc.g.laterano><@cc.kw>Laterano</></> Operator, further increases Morale restored by <@cc.vup>+0.45</>"
       }
     ,
     
@@ -23061,6 +23560,20 @@
       }
     ,
     
+      "meet_spd[011]": {
+        "buffId": "meet_spd[011]",
+        "buffName": "Tea Master",
+        "buffIcon": "meeting",
+        "skillIcon": "bskill_meet_spd2",
+        "sortId": 6002,
+        "buffColor": "#dd653f",
+        "textColor": "#ffffff",
+        "buffCategory": "FUNCTION",
+        "roomType": "MEETING",
+        "description": "When this Operator is assigned to the Reception Room, Clue search speed increases by <@cc.vup>15%</>"
+      }
+    ,
+    
       "meet_spd[020]": {
         "buffId": "meet_spd[020]",
         "buffName": "Clue Search β",
@@ -23108,6 +23621,20 @@
         "buffName": "Curiosity",
         "buffIcon": "meeting",
         "skillIcon": "bskill_meet_spd2",
+        "sortId": 6002,
+        "buffColor": "#dd653f",
+        "textColor": "#ffffff",
+        "buffCategory": "FUNCTION",
+        "roomType": "MEETING",
+        "description": "When this Operator is assigned to the Reception Room, Clue search speed increases by <@cc.vup>20%</>"
+      }
+    ,
+    
+      "meet_spd[022]": {
+        "buffId": "meet_spd[022]",
+        "buffName": "Expert Socializer",
+        "buffIcon": "meeting",
+        "skillIcon": "bskill_meet_spd3",
         "sortId": 6002,
         "buffColor": "#dd653f",
         "textColor": "#ffffff",
@@ -23254,6 +23781,20 @@
         "buffCategory": "FUNCTION",
         "roomType": "MEETING",
         "description": "When this Operator is assigned to the Reception room together with <@cc.kw>Suzuran</>, increases Clue search speed by an additional <@cc.vup>30%</>"
+      }
+    ,
+    
+      "meet_spd_ext&P[000]": {
+        "buffId": "meet_spd_ext&P[000]",
+        "buffName": "Eternal Youth",
+        "buffIcon": "meeting",
+        "skillIcon": "bskill_meet_spd_confes1",
+        "sortId": 6042,
+        "buffColor": "#dd653f",
+        "textColor": "#ffffff",
+        "buffCategory": "FUNCTION",
+        "roomType": "MEETING",
+        "description": "When this Operator is assigned to the Reception Room, if <@cc.kw>Fiammetta</> is assigned to a Dormitory, Clue search speed increases by <@cc.vup>10%</>"
       }
     ,
     
@@ -30820,7 +31361,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "ORTHER_S",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -30964,7 +31505,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "ORTHER_S",
+          "subType": "CHAIR",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -37155,8 +37696,8 @@
           "iconId": "furni_beerhouse_diningTable1_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "SEATING",
-          "subType": "SOFA",
+          "type": "TABLE",
+          "subType": "NONE",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -37191,8 +37732,8 @@
           "iconId": "furni_beerhouse_diningTable2_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "SEATING",
-          "subType": "SOFA",
+          "type": "TABLE",
+          "subType": "NONE",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -39675,8 +40216,8 @@
           "iconId": "furni_office_spotlight_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILINGLAMP",
-          "subType": "NONE",
+          "type": "CEILING",
+          "subType": "LIGHT",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -44140,7 +44681,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "CEILING",
-          "subType": "DECORATION_C",
+          "subType": "CURTAIN_C",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -44680,7 +45221,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "CEILING",
-          "subType": "DECORATION_C",
+          "subType": "CURTAIN_C",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -50152,7 +50693,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "CEILING",
-          "subType": "DECORATION_C",
+          "subType": "CURTAIN_C",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -51052,7 +51593,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "CHAIR",
+          "subType": "ORTHER_S",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -54220,7 +54761,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "ORTHER_S",
+          "subType": "SOFA",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": true,
@@ -54976,7 +55517,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "ORTHER_S",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -55552,7 +56093,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "SOFA",
+          "subType": "CHAIR",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -55984,7 +56525,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "SOFA",
+          "subType": "CHAIR",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -57713,7 +58254,7 @@
           "musicId": "",
           "type": "WALLPAPER",
           "subType": "NONE",
-          "location": "WALL",
+          "location": "NONE",
           "category": "WALL",
           "validOnRotate": false,
           "enableRotate": false,
@@ -57749,7 +58290,7 @@
           "musicId": "",
           "type": "FLOOR",
           "subType": "NONE",
-          "location": "FLOOR",
+          "location": "NONE",
           "category": "FLOOR",
           "validOnRotate": false,
           "enableRotate": false,
@@ -57892,7 +58433,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "DECORATION",
-          "subType": "NONE",
+          "subType": "DEVICE",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -58289,7 +58830,7 @@
           "musicId": "",
           "type": "WALLPAPER",
           "subType": "NONE",
-          "location": "WALL",
+          "location": "NONE",
           "category": "WALL",
           "validOnRotate": false,
           "enableRotate": false,
@@ -58325,7 +58866,7 @@
           "musicId": "",
           "type": "FLOOR",
           "subType": "NONE",
-          "location": "FLOOR",
+          "location": "NONE",
           "category": "FLOOR",
           "validOnRotate": false,
           "enableRotate": false,
@@ -58901,7 +59442,7 @@
           "musicId": "",
           "type": "WALLPAPER",
           "subType": "NONE",
-          "location": "WALL",
+          "location": "NONE",
           "category": "WALL",
           "validOnRotate": false,
           "enableRotate": false,
@@ -58937,7 +59478,7 @@
           "musicId": "",
           "type": "FLOOR",
           "subType": "NONE",
-          "location": "FLOOR",
+          "location": "NONE",
           "category": "FLOOR",
           "validOnRotate": false,
           "enableRotate": false,
@@ -59332,7 +59873,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "WALLDECO",
-          "subType": "NONE",
+          "subType": "ORTHER_WD",
           "location": "WALL",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -59477,7 +60018,7 @@
           "musicId": "",
           "type": "WALLPAPER",
           "subType": "NONE",
-          "location": "WALL",
+          "location": "NONE",
           "category": "WALL",
           "validOnRotate": false,
           "enableRotate": false,
@@ -59513,7 +60054,7 @@
           "musicId": "",
           "type": "FLOOR",
           "subType": "NONE",
-          "location": "FLOOR",
+          "location": "NONE",
           "category": "FLOOR",
           "validOnRotate": false,
           "enableRotate": false,
@@ -59800,7 +60341,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "CEILING",
-          "subType": "DECORATION_C",
+          "subType": "LIGHT",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -60268,7 +60809,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "STOOL",
+          "subType": "SOFA",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -60339,8 +60880,8 @@
           "iconId": "furni_outdoor_ceilingLight_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILINGLAMP",
-          "subType": "NONE",
+          "type": "CEILING",
+          "subType": "LIGHT",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -60520,7 +61061,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "BENCH",
+          "subType": "STOOL",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -61239,8 +61780,8 @@
           "iconId": "furni_classroom_tableChairGraffiti_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "SEATING",
-          "subType": "ORTHER_S",
+          "type": "TABLE",
+          "subType": "NONE",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -61275,8 +61816,8 @@
           "iconId": "furni_classroom_tableChairPenRack_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "SEATING",
-          "subType": "ORTHER_S",
+          "type": "TABLE",
+          "subType": "NONE",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": true,
@@ -62032,7 +62573,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "BENCH",
+          "subType": "STOOL",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -62284,7 +62825,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "BENCH",
+          "subType": "ORTHER_S",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -62391,8 +62932,8 @@
           "iconId": "furni_court_hole_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "DECORATION",
-          "subType": "ORTHER_D",
+          "type": "WALLDECO",
+          "subType": "ORTHER_WD",
           "location": "WALL",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -65344,7 +65885,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "SOFA",
+          "subType": "CHAIR",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -66388,7 +66929,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "BENCH",
+          "subType": "STOOL",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -70348,7 +70889,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "STOOL",
+          "subType": "BARSTOOL",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -70384,7 +70925,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "STOOL",
+          "subType": "BARSTOOL",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -70780,7 +71321,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "CEILING",
-          "subType": "DECORATION_C",
+          "subType": "CURTAIN_C",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -71644,7 +72185,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "CABINET",
-          "subType": "STORAGE",
+          "subType": "NONE",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -71716,7 +72257,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "STOOL",
+          "subType": "BARSTOOL",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -71968,7 +72509,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "STOOL",
+          "subType": "CHAIR",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -72904,7 +73445,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "STOOL",
+          "subType": "BARSTOOL",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -73227,8 +73768,8 @@
           "iconId": "furni_hodrerStudy_ceilingLamp2_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILINGLAMP",
-          "subType": "NONE",
+          "type": "CEILING",
+          "subType": "LIGHT",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -74272,7 +74813,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "CHAIR",
+          "subType": "BARSTOOL",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": true,
@@ -74595,8 +75136,8 @@
           "iconId": "furni_musicalStore_horn_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "DECORATION",
-          "subType": "STORAGE",
+          "type": "WALLDECO",
+          "subType": "SHELF",
           "location": "WALL",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -74703,8 +75244,8 @@
           "iconId": "furni_musicalStore_clarinet_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "WALLDECO",
-          "subType": "SHELF",
+          "type": "DECORATION",
+          "subType": "STORAGE",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -75639,7 +76180,7 @@
           "iconId": "furni_laundry_signboard_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILINGLAMP",
+          "type": "CEILING",
           "subType": "LIGHT",
           "location": "CEILING",
           "category": "FURNITURE",
@@ -75748,7 +76289,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "CHAIR",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -75784,7 +76325,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "DECORATION",
-          "subType": "NONE",
+          "subType": "STORAGE",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -75928,7 +76469,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "DECORATION",
-          "subType": "NONE",
+          "subType": "STORAGE",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -76180,7 +76721,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "CEILINGLAMP",
-          "subType": "LIGHT",
+          "subType": "NONE",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -76252,7 +76793,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "DECORATION",
-          "subType": "NONE",
+          "subType": "PLANT",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -76288,7 +76829,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "DECORATION",
-          "subType": "NONE",
+          "subType": "ORTHER_D",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -76360,7 +76901,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "CHAIR",
+          "subType": "STOOL",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -76576,7 +77117,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "CHAIR",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -76612,7 +77153,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "CHAIR",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -77008,7 +77549,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "STOOL",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -77223,8 +77764,8 @@
           "iconId": "furni_TempleFair_tapestry_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILINGLAMP",
-          "subType": "NONE",
+          "type": "CEILING",
+          "subType": "LIGHT",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -78735,7 +79276,7 @@
           "iconId": "furni_SargonFair_ceilingbasket_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "DECORATION",
+          "type": "CEILING",
           "subType": "DECORATION_C",
           "location": "CEILING",
           "category": "FURNITURE",
@@ -78987,8 +79528,8 @@
           "iconId": "furni_artmuseum_chandelier_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILINGLAMP",
-          "subType": "NONE",
+          "type": "CEILING",
+          "subType": "LIGHT",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -79204,7 +79745,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "WALLDECO",
-          "subType": "NONE",
+          "subType": "ART_WD",
           "location": "WALL",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -79240,7 +79781,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "NONE",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -80499,7 +81040,7 @@
           "iconId": "furni_Airship_ceilingtrumpet_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILING",
+          "type": "CEILINGLAMP",
           "subType": "NONE",
           "location": "CEILING",
           "category": "FURNITURE",
@@ -81760,7 +82301,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "STOOL",
+          "subType": "CHAIR",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -81831,8 +82372,8 @@
           "iconId": "furni_HunterInstitute_mirrorspecimenrack_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "DECORATION",
-          "subType": "DEVICE",
+          "type": "WALLDECO",
+          "subType": "SHELF",
           "location": "WALL",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -81904,7 +82445,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "CEILING",
-          "subType": "NONE",
+          "subType": "DEVICE_C",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -82155,8 +82696,8 @@
           "iconId": "furni_HunterInstitute_rectangularspecimenrack_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "DECORATION",
-          "subType": "DEVICE",
+          "type": "CEILING",
+          "subType": "DEVICE_C",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -83812,7 +84353,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "SOFA",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -83955,8 +84496,8 @@
           "iconId": "furni_pepesroom_lampstand_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILING",
-          "subType": "LIGHT",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -84351,8 +84892,8 @@
           "iconId": "furni_citizengarden_plantwall_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "WALLDECO",
-          "subType": "ART_WD",
+          "type": "DECORATION",
+          "subType": "ART_D",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -84388,7 +84929,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "STOOL",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -84747,8 +85288,8 @@
           "iconId": "furni_citizengarden_vaseshelf_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "WALLDECO",
-          "subType": "SHELF",
+          "type": "DECORATION",
+          "subType": "STORAGE",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -84891,8 +85432,8 @@
           "iconId": "furni_amuselounge_headset_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILING",
-          "subType": "LIGHT",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -85503,8 +86044,8 @@
           "iconId": "furni_rhodesKitchen_ceilingLight_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILING",
-          "subType": "LIGHT",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -85971,8 +86512,8 @@
           "iconId": "furni_rhodesKitchen_ceilingCabinet_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "WALLDECO",
-          "subType": "SHELF",
+          "type": "CEILING",
+          "subType": "ORTHER_C",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -86368,7 +86909,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "CHAIR",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -88527,8 +89068,8 @@
           "iconId": "furni_shipRoom_canvas_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "DECORATION",
-          "subType": "ORTHER_D",
+          "type": "CEILING",
+          "subType": "DECORATION_C",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -88960,7 +89501,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "NONE",
+          "subType": "CHAIR",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -89500,7 +90041,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "DECORATION",
-          "subType": "NONE",
+          "subType": "INSTRUMENT_D",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -90040,7 +90581,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "DECORATION",
-          "subType": "NONE",
+          "subType": "PARTITION",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -90076,7 +90617,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "DECORATION",
-          "subType": "NONE",
+          "subType": "ORTHER_D",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -90184,7 +90725,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "DECORATION",
-          "subType": "NONE",
+          "subType": "PARTITION",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -90256,7 +90797,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "CEILING",
-          "subType": "NONE",
+          "subType": "DECORATION_C",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -90291,7 +90832,7 @@
           "iconId": "furni_villagemanor_chandelier_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILING",
+          "type": "CEILINGLAMP",
           "subType": "NONE",
           "location": "CEILING",
           "category": "FURNITURE",
@@ -90472,7 +91013,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "CHAIR",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -90507,7 +91048,7 @@
           "iconId": "furni_villagemanor_ceilinglamp_01",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILING",
+          "type": "CEILINGLAMP",
           "subType": "NONE",
           "location": "CEILING",
           "category": "FURNITURE",
@@ -90580,7 +91121,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "CHAIR",
+          "subType": "BENCH",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -90616,7 +91157,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "DECORATION",
-          "subType": "NONE",
+          "subType": "PLANT",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -90724,7 +91265,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "CEILING",
-          "subType": "DECORATION_C",
+          "subType": "CURTAIN_C",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -90760,7 +91301,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "DECORATION",
-          "subType": "NONE",
+          "subType": "ORTHER_D",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -91084,7 +91625,7 @@
           "interactType": "NONE",
           "musicId": "",
           "type": "SEATING",
-          "subType": "STOOL",
+          "subType": "BARSTOOL",
           "location": "FLOOR",
           "category": "FURNITURE",
           "validOnRotate": true,
@@ -91695,8 +92236,8 @@
           "iconId": "furni_kaltsroom_ceilinglight_02",
           "interactType": "NONE",
           "musicId": "",
-          "type": "CEILINGLAMP",
-          "subType": "NONE",
+          "type": "CEILING",
+          "subType": "LIGHT",
           "location": "CEILING",
           "category": "FURNITURE",
           "validOnRotate": false,
@@ -92071,6 +92612,1374 @@
           "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
           "description": "Medical Department flooring recreated from operators' memories. The same anti-bacterial coating has been applied to it, and the familiar color is reassuring. This place carries the dream of healing the land.",
           "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_ceilingLight_01": {
+          "id": "furni_skadisp_ceilingLight_01",
+          "sortId": 1897,
+          "name": "Lights//Bones",
+          "iconId": "furni_skadisp_ceilingLight_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_1",
+          "width": 6,
+          "depth": 2,
+          "height": 3,
+          "comfort": 115,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A mock-skeletal light fixture, seemingly woven with a shoal of ocean life. Fire and light mean naught to either she or her of the deepsea, but imprinted on them at birth, it's driven them to pursue, create, and make it theirs.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 105,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_weaponrack_01": {
+          "id": "furni_skadisp_weaponrack_01",
+          "sortId": 1898,
+          "name": "Sword Stand//Attack Appendage",
+          "iconId": "furni_skadisp_weaponrack_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CABINET",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_1",
+          "width": 4,
+          "depth": 3,
+          "height": 8,
+          "comfort": 265,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A giant stone to hold Skadi's sword bag. Ishar'mla can scantly believe Skadi would simply shrug off and toss aside the vile helper that took His life like this.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 195,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_cutofftable_01": {
+          "id": "furni_skadisp_cutofftable_01",
+          "sortId": 1899,
+          "name": "Ornament//Food",
+          "iconId": "furni_skadisp_cutofftable_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "PLANT",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_1",
+          "width": 2,
+          "depth": 2,
+          "height": 4,
+          "comfort": 145,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A vase-like giant conch, given a light touchup and some coral fronds to produce a beautiful ornament. A treat for the eyes, and for the energy reserves.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 133,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_walllamp_01": {
+          "id": "furni_skadisp_walllamp_01",
+          "sortId": 1900,
+          "name": "Wall Lamp//Offspring",
+          "iconId": "furni_skadisp_walllamp_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLDECO",
+          "subType": "ORTHER_WD",
+          "location": "WALL",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_2",
+          "width": 3,
+          "depth": 1,
+          "height": 3,
+          "comfort": 75,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A manmade wall light, seemingly home to its own ocean life. Skadi's never produced an heir of her own, not to mention parent-child bonding is hardly Ægir tradition, so the compassion in her for some young creatures utterly mystifies her.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 68,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_harp_01": {
+          "id": "furni_skadisp_harp_01",
+          "sortId": 1901,
+          "name": "Harp//Call",
+          "iconId": "furni_skadisp_harp_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "INSTRUMENT_D",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_2",
+          "width": 7,
+          "depth": 3,
+          "height": 6,
+          "comfort": 330,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A bleached coral harp, and the stool was made from the spare rock. Is music a sweet spring that soothes the hearRtT,, oOrR A CALL THAT BECKONS YOUR KIN?",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 243,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_chandelier_01": {
+          "id": "furni_skadisp_chandelier_01",
+          "sortId": 1902,
+          "name": "Chandelier//Clan",
+          "iconId": "furni_skadisp_chandelier_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_2",
+          "width": 12,
+          "depth": 5,
+          "height": 4,
+          "comfort": 260,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "An artisan chandelier, seemingly host to a microcosm of ocean life. 'Are you still one oOfF uWsE MANY?' The question is made in mirror. One does not respond. The other, with iron will, answers for both.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 193,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_candlelight_01": {
+          "id": "furni_skadisp_candlelight_01",
+          "sortId": 1903,
+          "name": "Candlestick//Lure",
+          "iconId": "furni_skadisp_candlelight_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "FLOORLAMP",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_2",
+          "width": 2,
+          "depth": 2,
+          "height": 6,
+          "comfort": 170,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A naturally formed coral branch, given a spot of sculpting to produce a perfect candlestick. Seemingly the preferred circling spot of some ocean life. Life is given and life is made, all in the name of survivOalF PERSISTING.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 155,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_bed_01": {
+          "id": "furni_skadisp_bed_01",
+          "sortId": 1904,
+          "name": "Stone Bed//Rock Face",
+          "iconId": "furni_skadisp_bed_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "BEDDING",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_1",
+          "width": 9,
+          "depth": 3,
+          "height": 4,
+          "comfort": 335,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A sitting bed cut from a slab of whole seabed ore. Cool, but not damp. The explorer's mission is to break through extant territory, be it an enemy or the ocean itself that greets them.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 248,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_carpet_01": {
+          "id": "furni_skadisp_carpet_01",
+          "sortId": 1905,
+          "name": "Mat//Sediment",
+          "iconId": "furni_skadisp_carpet_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CARPET",
+          "subType": "NONE",
+          "location": "CARPET",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_1",
+          "width": 7,
+          "depth": 4,
+          "height": 1,
+          "comfort": 65,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A dark gray dirt-resistant mat, fine down, snug underfoot. Stripped of flesh, stripped of bone, 'til stripped of body outright, still was no part of Him upset. For that is evolution's drive; the weak are the flesh that feed the strong.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 60,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_lowcolumn_01": {
+          "id": "furni_skadisp_lowcolumn_01",
+          "sortId": 1906,
+          "name": "Pedestal//Carcass",
+          "iconId": "furni_skadisp_lowcolumn_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "COLUMN",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_3",
+          "width": 3,
+          "depth": 2,
+          "height": 5,
+          "comfort": 155,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A crooked yet balanced piece of history, marked with traces of civilization and barbarity both. Damage follows in battle's wake, and one might leave it as a warning to progeny, but why not take it as a sign to improve oneself in the now?",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 128,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_table_01": {
+          "id": "furni_skadisp_table_01",
+          "sortId": 1907,
+          "name": "Table//Evolution",
+          "iconId": "furni_skadisp_table_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_3",
+          "width": 8,
+          "depth": 4,
+          "height": 4,
+          "comfort": 360,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A designer coral table, arrayed with books and loose leaf memos. Every generation starts anew, and wears and tears so in the process. If tThHiIsS WAS YOUR EVOLUTIONARY TRAJECTORY, NO WONDER YOU WOULD BE DRAGGED BELOW.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 265,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_carpet_02": {
+          "id": "furni_skadisp_carpet_02",
+          "sortId": 1908,
+          "name": "Rug//Current",
+          "iconId": "furni_skadisp_carpet_02",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CARPET",
+          "subType": "NONE",
+          "location": "CARPET",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_3",
+          "width": 14,
+          "depth": 6,
+          "height": 1,
+          "comfort": 145,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A wave-like rug, specially treated to imbue a wave-like feel. Both of them claim to know the sea better than the other. Arguments are merely shows of personality at times, sans conclusion.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 133,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_chair_01": {
+          "id": "furni_skadisp_chair_01",
+          "sortId": 1909,
+          "name": "Seat//Nest",
+          "iconId": "furni_skadisp_chair_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "CHAIR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_3",
+          "width": 6,
+          "depth": 5,
+          "height": 10,
+          "comfort": 540,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A richly decorated seat—no matter how exquisitely designed, to sit upon it is still to sit on stone. Sitting back and closing your eyes reigns as the most comfortable, economical relaxation method; even Feranmuts are no exception to that.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 398,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_minitable_01": {
+          "id": "furni_skadisp_minitable_01",
+          "sortId": 1910,
+          "name": "Stone Plinth//Material",
+          "iconId": "furni_skadisp_minitable_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_4",
+          "width": 4,
+          "depth": 2,
+          "height": 2,
+          "comfort": 165,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A small shelf of stone scraps from designing the bed. Technically holds things. To learn the use of tools is evolution.//To evolve oneself grants the function of tools.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 150,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_storage_01": {
+          "id": "furni_skadisp_storage_01",
+          "sortId": 1911,
+          "name": "Collection//Curiosity",
+          "iconId": "furni_skadisp_storage_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "STORAGE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_4",
+          "width": 5,
+          "depth": 3,
+          "height": 4,
+          "comfort": 235,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Similarly, a shelf of stone scraps from designing the bed, and it clashes with the crafts that adorn it. At least they can be betrothed in their curiousness.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 193,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_column_01": {
+          "id": "furni_skadisp_column_01",
+          "sortId": 1912,
+          "name": "Pillar//Defense",
+          "iconId": "furni_skadisp_column_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "COLUMN",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_4",
+          "width": 3,
+          "depth": 2,
+          "height": 10,
+          "comfort": 225,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A fully intact pillar, similarly decorated in marks of civilization and barbarity both. They do not differ in essence. Not where protecting one's kin is concerned.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 185,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_wallpaper_01": {
+          "id": "furni_skadisp_wallpaper_01",
+          "sortId": 1913,
+          "name": "Panoramic Display//Home",
+          "iconId": "furni_skadisp_wallpaper_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLPAPER",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_4",
+          "width": 34,
+          "depth": 1,
+          "height": 10,
+          "comfort": 240,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A panoramic display of the natural deepsea, teeming with glimpses of ocean creatures. MMyY hHoOmMeE, and my final destinatioAnND THE PLACE WHERE I BEGAN.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 198,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_skadisp_floor_01": {
+          "id": "furni_skadisp_floor_01",
+          "sortId": 1914,
+          "name": "Flooring//Seafloor",
+          "iconId": "furni_skadisp_floor_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "FLOOR",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furni_set_skadisp",
+          "groupId": "furni_set_skadisp_4",
+          "width": 34,
+          "depth": 10,
+          "height": 1,
+          "comfort": 240,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Sea stone flooring, fringed with an ocean foam motif. Repaired, she turns on the seafloor lighting array. Rays bathe her body. Clashing instincts take root in her memory. Thereafter, a long-gone flight of fancy resurfaces in times of pain.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 198,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": true,
+          "isOnly": -1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_shelf_01": {
+          "id": "furni_gunworkshop_shelf_01",
+          "sortId": 1915,
+          "name": "Storage Rack",
+          "iconId": "furni_gunworkshop_shelf_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLDECO",
+          "subType": "SHELF",
+          "location": "WALL",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_1",
+          "width": 7,
+          "depth": 2,
+          "height": 4,
+          "comfort": 95,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A storage shelf caked in dust and piled with Paganini's inadvertent hoard of junk. If only he could be bothered to do some spring cleaning, he might find the rainy day savings he hid up here forever ago. Quite a tidy little sum, too!",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_gunshelf_01": {
+          "id": "furni_gunworkshop_gunshelf_01",
+          "sortId": 1916,
+          "name": "Large Rifle Display Rack",
+          "iconId": "furni_gunworkshop_gunshelf_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "STORAGE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_1",
+          "width": 3,
+          "depth": 3,
+          "height": 7,
+          "comfort": 225,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A large gun display rack with holy statue. Hard-wearing, long-lasting. The brush at its foot is made from Paganini's own plumage. One free with every gun, and they can be ordered separately too.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_floorlamp_01": {
+          "id": "furni_gunworkshop_floorlamp_01",
+          "sortId": 1917,
+          "name": "Display Light",
+          "iconId": "furni_gunworkshop_floorlamp_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "FLOORLAMP",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_1",
+          "width": 2,
+          "depth": 2,
+          "height": 5,
+          "comfort": 360,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Professional display lighting, soft and gentle, to bring out a gun's true coloring. Rest assured, Paganini guarantees each paintjob will look just the same under natural light.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_partition_01": {
+          "id": "furni_gunworkshop_partition_01",
+          "sortId": 1918,
+          "name": "Rag Curtain",
+          "iconId": "furni_gunworkshop_partition_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "PARTITION",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_3",
+          "width": 2,
+          "depth": 5,
+          "height": 10,
+          "comfort": 80,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A tattered curtain, smeared with bore cleaner and oil and solvent. Challenging aroma. If you can't find Paganini inside, look up—he likes to ponder while perched on the strut. Topics include philosophy, work, and tonight's supper.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_storagetray_01": {
+          "id": "furni_gunworkshop_storagetray_01",
+          "sortId": 1919,
+          "name": "Spare Parts Holder",
+          "iconId": "furni_gunworkshop_storagetray_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "STORAGE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_2",
+          "width": 2,
+          "depth": 2,
+          "height": 2,
+          "comfort": 155,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A bowl for spare gun parts. Filled with all calibers of bullet. Each bullet is engraved with a blessing from Paganini to his clients, of which 'MAY YOU SNEEZE WELL' is certainly one.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_cabinet_01": {
+          "id": "furni_gunworkshop_cabinet_01",
+          "sortId": 1920,
+          "name": "Small Handgun Display Case",
+          "iconId": "furni_gunworkshop_cabinet_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CABINET",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_1",
+          "width": 4,
+          "depth": 3,
+          "height": 6,
+          "comfort": 360,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A small gun display case with installed holy statue. Pristine glass offers a perfect eyeful of all a gun's charm points. Spake Paganini to his client: 'Did I leave my keys in there? Could you grab them for me? Thanks.'",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_sidetable_01": {
+          "id": "furni_gunworkshop_sidetable_01",
+          "sortId": 1921,
+          "name": "Standard Handgun Display Pedestal",
+          "iconId": "furni_gunworkshop_sidetable_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "STORAGE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_2",
+          "width": 3,
+          "depth": 3,
+          "height": 7,
+          "comfort": 130,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A display pedestal with holy statue. Small footprint and multipurpose, with a cubby at the bottom for Paganini's smithing tools. Spake Paganini to his client: 'While you're looking at that, could you pass me my mallet? Thanks.'",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_chandelier_01": {
+          "id": "furni_gunworkshop_chandelier_01",
+          "sortId": 1922,
+          "name": "Wrought Ceiling Light",
+          "iconId": "furni_gunworkshop_chandelier_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_3",
+          "width": 4,
+          "depth": 4,
+          "height": 4,
+          "comfort": 290,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A ceiling light for the workshop, second-hand. Unpretentious, and only cost Paganini one Signa Creditorum. He has staggeringly good vision, able to see things even in the dark, so this light has seldom been asked to do its job.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_table_01": {
+          "id": "furni_gunworkshop_table_01",
+          "sortId": 1923,
+          "name": "Firearm Crafting Bench",
+          "iconId": "furni_gunworkshop_table_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_2",
+          "width": 5,
+          "depth": 5,
+          "height": 4,
+          "comfort": 290,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A workbench Paganini thrifted. Cramped, low, forces him to hunch his back while working, overall very uncomfortable. Spake Paganini thus: 'No first-rate gunsmith complains about their work environment.'",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_stool_01": {
+          "id": "furni_gunworkshop_stool_01",
+          "sortId": 1924,
+          "name": "Blue Bar Stool",
+          "iconId": "furni_gunworkshop_stool_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "BARSTOOL",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": true,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_2",
+          "width": 2,
+          "depth": 2,
+          "height": 2,
+          "comfort": 40,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A crudely crafted bar stool with uneven legs. Paganini's debut woodworking project. Convinced of his dexterity, he took this failure hard—but not as hard as his apprentice clutching her head. She'd literally taken a tumble due to that stool.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_longtable_01": {
+          "id": "furni_gunworkshop_longtable_01",
+          "sortId": 1925,
+          "name": "Firearm Crafting Table",
+          "iconId": "furni_gunworkshop_longtable_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_2",
+          "width": 9,
+          "depth": 2,
+          "height": 8,
+          "comfort": 175,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A worktable bought by a neck-rubbing Paganini. Broad, high, ergonomic, very comfortable. Spake Paganini thus: 'A first-rate gunsmith ensures their environment suits them.'",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_carpet_01": {
+          "id": "furni_gunworkshop_carpet_01",
+          "sortId": 1926,
+          "name": "Worn Tufted Carpet",
+          "iconId": "furni_gunworkshop_carpet_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CARPET",
+          "subType": "NONE",
+          "location": "CARPET",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_3",
+          "width": 9,
+          "depth": 7,
+          "height": 1,
+          "comfort": 445,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A plush carpet, practically of retirement age. Paganini's 'Spotless Workshop' initiative came to an abrupt halt after the dust cloud that emerged from cleaning this carpet.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_statues_01": {
+          "id": "furni_gunworkshop_statues_01",
+          "sortId": 1927,
+          "name": "Combination Display Cabinet",
+          "iconId": "furni_gunworkshop_statues_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CABINET",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_3",
+          "width": 6,
+          "depth": 5,
+          "height": 10,
+          "comfort": 245,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A display cabinet and holy statue set. The guns are personal favorites of his. Spake Paganini to his client: 'Try them if you like, but don't touch the plant.' For while his works are many, the plants he hasn't killed are but one.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_ceilinglight_01": {
+          "id": "furni_gunworkshop_ceilinglight_01",
+          "sortId": 1928,
+          "name": "Cloth Ceiling Light",
+          "iconId": "furni_gunworkshop_ceilinglight_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_4",
+          "width": 2,
+          "depth": 2,
+          "height": 5,
+          "comfort": 175,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A classical and expensive lamp, the buying of which put Paganini through great mental turmoil. That said, all sense of sunk cost disappears when he sees his apprentice studying under its light.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_storage_01": {
+          "id": "furni_gunworkshop_storage_01",
+          "sortId": 1929,
+          "name": "Antique Firearm Cabinet",
+          "iconId": "furni_gunworkshop_storage_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CABINET",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_4",
+          "width": 7,
+          "depth": 3,
+          "height": 10,
+          "comfort": 340,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "An ornate cabinet with a recess. Furnished with holy statues and antique guns, all genuine articles from great makers. 'Veni, credidi, servavi.'",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_carpet_02": {
+          "id": "furni_gunworkshop_carpet_02",
+          "sortId": 1930,
+          "name": "Woven Rug",
+          "iconId": "furni_gunworkshop_carpet_02",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CARPET",
+          "subType": "NONE",
+          "location": "CARPET",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_4",
+          "width": 8,
+          "depth": 3,
+          "height": 1,
+          "comfort": 175,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A soft, light woven rug. Pricey. Sent by a Columbian cousin on his father's side. Paganini initially mistook it as a shawl, only suspecting its ruggy nature after four whole winds around his apprentice's neck with plenty left to spare.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_bench_01": {
+          "id": "furni_gunworkshop_bench_01",
+          "sortId": 1931,
+          "name": "Upholstered Corner Bench",
+          "iconId": "furni_gunworkshop_bench_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "BENCH",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_4",
+          "width": 4,
+          "depth": 2,
+          "height": 2,
+          "comfort": 240,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A simple yet stylish retro corner bench for two. Paganini sits here with his apprentice for vespers after supper. In their silent prayer, time trickles by; it makes calluses on his apprentice's fingers, and a walking stick for his knees.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_recordplayer_01": {
+          "id": "furni_gunworkshop_recordplayer_01",
+          "sortId": 1932,
+          "name": "Gospel Record Player",
+          "iconId": "furni_gunworkshop_recordplayer_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "ENTERTAINMENT",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_4",
+          "width": 1,
+          "depth": 2,
+          "height": 4,
+          "comfort": 240,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A record player preloaded with hundreds of gospel tunes. The needle skips, but it still works. Whether leaving gospel on improves work efficiency, none can say; its efficacy for falling asleep at night, however, is undisputed.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_wallpaper_01": {
+          "id": "furni_gunworkshop_wallpaper_01",
+          "sortId": 1933,
+          "name": "Painted Wooden Wall",
+          "iconId": "furni_gunworkshop_wallpaper_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLPAPER",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_1",
+          "width": 34,
+          "depth": 1,
+          "height": 10,
+          "comfort": 240,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Wood walls dotted with repair. Painted lovely blue with his apprentice long ago. Scores of patched bullet holes from clients trying their new guns. Spake an exasperated Paganini thus: 'If I saw this coming, I'd have gone with wallpaper.'",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_gunworkshop_floor_01": {
+          "id": "furni_gunworkshop_floor_01",
+          "sortId": 1934,
+          "name": "Ornate Wooden Flooring",
+          "iconId": "furni_gunworkshop_floor_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "FLOOR",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furni_set_gunworkshop",
+          "groupId": "furni_set_gunworkshop_3",
+          "width": 34,
+          "depth": 10,
+          "height": 1,
+          "comfort": 240,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Decently-maintained wooden flooring. Assembled in a lovely little geometric pattern with his apprentice long ago. Paganini can tell every floorboard individually, and every client who's ever set foot on them.",
+          "obtainApproach": "Event Reward",
           "processedProductId": "3401",
           "processedProductCount": 0,
           "processedByProductPercentage": 0,
@@ -95792,6 +97701,78 @@
         }
       ,
       
+        "furni_enemyduel_table_01": {
+          "id": "furni_enemyduel_table_01",
+          "sortId": 10234,
+          "name": "'Professional Spectator' Desk",
+          "iconId": "furni_enemyduel_table_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 7,
+          "depth": 3,
+          "height": 5,
+          "comfort": 200,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A desk built to watch exciting competitions, complete with professional equipment. 'This side is definitely going to win. Trust me, I'm a pro.'",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 0
+        }
+      ,
+      
+        "furni_enemyduel_chair_01": {
+          "id": "furni_enemyduel_chair_01",
+          "sortId": 10235,
+          "name": "Duel Gaming Chair",
+          "iconId": "furni_enemyduel_chair_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "CHAIR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 3,
+          "depth": 3,
+          "height": 4,
+          "comfort": 105,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Chair for watching exciting competitions. A headrest and comfort pillow make it comfortable to sit in for long periods. Get the fatigue out of your system and get ready for the next round!",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 0
+        }
+      ,
+      
         "furni_animation_projector_03": {
           "id": "furni_animation_projector_03",
           "sortId": 10249,
@@ -99284,6 +101265,42 @@
         }
       ,
       
+        "furni_terratimes_Laterano_01": {
+          "id": "furni_terratimes_Laterano_01",
+          "sortId": 11098,
+          "name": "Plaque - Sanctity",
+          "iconId": "furni_terratimes_Laterano_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLDECO",
+          "subType": "PLAQUE",
+          "location": "WALL",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 4,
+          "depth": 1,
+          "height": 2,
+          "comfort": 75,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
+          "description": "Is sanctity, too, a product of the Law?",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4144,
+          "quantity": 0
+        }
+      ,
+      
         "furni_contract_s0_01": {
           "id": "furni_contract_s0_01",
           "sortId": 12001,
@@ -102760,7 +104777,7 @@
           "depth": 3,
           "height": 8,
           "comfort": 0,
-          "usage": "Can be used to decorate the Reception Room",
+          "usage": "[Functional Furniture - Pinboard] Can be used to decorate the Reception Room",
           "description": "A message board for recording visitor information, adorned with adorable bunny doodles. Guests often leave gifts for Rhodes Island here—be sure to check it from time to time!",
           "obtainApproach": "Original set",
           "processedProductId": "3401",
@@ -102796,7 +104813,7 @@
           "depth": 3,
           "height": 5,
           "comfort": 0,
-          "usage": "Can be used to decorate the Reception Room",
+          "usage": "[Functional Furniture - Record Player] Can be used to decorate the Reception Room",
           "description": "Record player on which you can play Rhodes Island's surprising collection of vinyls. Pick a record, set the needle down, and let the music flow—the melodies will wrap around the ship, stirring up shared memories with your fellow operators.",
           "obtainApproach": "Original set",
           "processedProductId": "3401",
@@ -102809,6 +104826,42 @@
           "isOnly": 1,
           "enableRoomType": 32,
           "quantity": 1
+        }
+      ,
+      
+        "furniM_act61d0_messageboard_01": {
+          "id": "furniM_act61d0_messageboard_01",
+          "sortId": 90116,
+          "name": "'Strawberry flavor, please!'",
+          "iconId": "furniM_act61d0_messageboard_01",
+          "interactType": "FUNCTION",
+          "musicId": "",
+          "type": "FUNCTION",
+          "subType": "VISITOR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 7,
+          "depth": 5,
+          "height": 8,
+          "comfort": 0,
+          "usage": "[Functional Furniture - Pinboard] Can be used to decorate the Reception Room",
+          "description": "A free doughnut dispenser at the Shrine of Nurtury entrance. You have to pray before you get one, and if your prayer is earnest enough, the doughnut of your desire sprouts a halo.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 0
         }
       ,
       
@@ -103086,6 +105139,78 @@
           "comfort": 300,
           "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
           "description": "A witchcraft construct in the shape of a door. Though it still emits an otherworldly glow, it lacks the great power from the legends: the power to transport people into the future.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4144,
+          "quantity": 0
+        }
+      ,
+      
+        "furni_act61d0_confessionalTricycle_01": {
+          "id": "furni_act61d0_confessionalTricycle_01",
+          "sortId": 20009,
+          "name": "'CONFESS (Replica)'",
+          "iconId": "furni_act61d0_confessionalTricycle_01",
+          "interactType": "ANIMATOR",
+          "musicId": "",
+          "type": "INTERACT",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 6,
+          "depth": 3,
+          "height": 6,
+          "comfort": 300,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
+          "description": "As the automated confessional the Lateran Curia gifted to Rhodes Island proved popular, Engineering made one too. It can't counsel like a real one, but reception's still been warm. A private space free of disturbance! (And free of charge.)",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4144,
+          "quantity": 0
+        }
+      ,
+      
+        "furni_animation_musicBox_01": {
+          "id": "furni_animation_musicBox_01",
+          "sortId": 20010,
+          "name": "'Dreams Recollected' Music Box",
+          "iconId": "furni_animation_musicBox_01",
+          "interactType": "MUSIC",
+          "musicId": "music_furniture_musicBox",
+          "type": "INTERACT",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 5,
+          "depth": 4,
+          "height": 5,
+          "comfort": 600,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
+          "description": "This music box was created to commemorate the conclusion of an anime.\nMay all beings find the peace they deserve. 'Sleep, sleep, my dear baby.'",
           "obtainApproach": "Event Reward",
           "processedProductId": "3401",
           "processedProductCount": 0,
@@ -105039,7 +107164,7 @@
           "sortId": 14,
           "name": "Modern Music Rehearsal Room",
           "themeType": "EVENT",
-          "desc": "One of the music rehearsal rooms at Rhodes Islands. Open for free to Operators who love playing guitar.",
+          "desc": "One of the music rehearsal rooms at Rhodes Island. Open for free to Operators who love playing guitar.",
           "quickSetup": [
             {
               "furnitureId": "furni_guitar_guitar1_01",
@@ -119690,6 +121815,312 @@
         }
       ,
       
+        "furni_set_skadisp": {
+          "id": "furni_set_skadisp",
+          "enableRoomType": 4112,
+          "sortId": 109,
+          "name": "'Offspring of the Sea'",
+          "themeType": "EVENT",
+          "desc": "A space created in the ocean's image and filled with the breath of life. Here, two immiscible souls soak in their sense of one another.",
+          "quickSetup": [
+            {
+              "furnitureId": "furni_skadisp_ceilingLight_01",
+              "pos0": 1,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_weaponrack_01",
+              "pos0": 0,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_cutofftable_01",
+              "pos0": 0,
+              "pos1": 3,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_walllamp_01",
+              "pos0": 10,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_harp_01",
+              "pos0": 5,
+              "pos1": 6,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_chandelier_01",
+              "pos0": 11,
+              "pos1": 3,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_candlelight_01",
+              "pos0": 13,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_bed_01",
+              "pos0": 4,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_carpet_01",
+              "pos0": 7,
+              "pos1": 1,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_lowcolumn_01",
+              "pos0": 22,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_table_01",
+              "pos0": 15,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_carpet_02",
+              "pos0": 16,
+              "pos1": 3,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_chair_01",
+              "pos0": 23,
+              "pos1": 2,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_minitable_01",
+              "pos0": 25,
+              "pos1": 7,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_storage_01",
+              "pos0": 29,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_column_01",
+              "pos0": 31,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_wallpaper_01",
+              "pos0": 0,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_skadisp_floor_01",
+              "pos0": 0,
+              "pos1": 10,
+              "dir": 0
+            }
+          ],
+          "groups": [
+            "furni_set_skadisp_1",
+            "furni_set_skadisp_2",
+            "furni_set_skadisp_3",
+            "furni_set_skadisp_4"
+          ],
+          "furnitures": [
+            "furni_skadisp_ceilingLight_01",
+            "furni_skadisp_weaponrack_01",
+            "furni_skadisp_cutofftable_01",
+            "furni_skadisp_walllamp_01",
+            "furni_skadisp_harp_01",
+            "furni_skadisp_chandelier_01",
+            "furni_skadisp_candlelight_01",
+            "furni_skadisp_bed_01",
+            "furni_skadisp_carpet_01",
+            "furni_skadisp_lowcolumn_01",
+            "furni_skadisp_table_01",
+            "furni_skadisp_carpet_02",
+            "furni_skadisp_chair_01",
+            "furni_skadisp_minitable_01",
+            "furni_skadisp_storage_01",
+            "furni_skadisp_column_01",
+            "furni_skadisp_wallpaper_01",
+            "furni_skadisp_floor_01"
+          ]
+        }
+      ,
+      
+        "furni_set_gunworkshop": {
+          "id": "furni_set_gunworkshop",
+          "enableRoomType": 4112,
+          "sortId": 110,
+          "name": "Paganini's Firearms Workshop",
+          "themeType": "EVENT",
+          "desc": "A recreation of the master gunsmith Paganini's workshop. Among the top firearm makers in Laterano, but dead last for workshop cleanliness. In the words of a client: 'The mark of quality is when you find his feathers in your barrel!'",
+          "quickSetup": [
+            {
+              "furnitureId": "furni_gunworkshop_shelf_01",
+              "pos0": 0,
+              "pos1": 6,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_gunshelf_01",
+              "pos0": 0,
+              "pos1": 3,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_floorlamp_01",
+              "pos0": 1,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_partition_01",
+              "pos0": 7,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_storagetray_01",
+              "pos0": 7,
+              "pos1": 6,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_cabinet_01",
+              "pos0": 3,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_sidetable_01",
+              "pos0": 9,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_chandelier_01",
+              "pos0": 12,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_table_01",
+              "pos0": 10,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_stool_01",
+              "pos0": 16,
+              "pos1": 3,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_longtable_01",
+              "pos0": 12,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_carpet_01",
+              "pos0": 8,
+              "pos1": 2,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_statues_01",
+              "pos0": 19,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_ceilinglight_01",
+              "pos0": 25,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_storage_01",
+              "pos0": 27,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_carpet_02",
+              "pos0": 25,
+              "pos1": 2,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_bench_01",
+              "pos0": 27,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_recordplayer_01",
+              "pos0": 33,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_wallpaper_01",
+              "pos0": 0,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_gunworkshop_floor_01",
+              "pos0": 0,
+              "pos1": 10,
+              "dir": 0
+            }
+          ],
+          "groups": [
+            "furni_set_gunworkshop_1",
+            "furni_set_gunworkshop_2",
+            "furni_set_gunworkshop_3",
+            "furni_set_gunworkshop_4"
+          ],
+          "furnitures": [
+            "furni_gunworkshop_shelf_01",
+            "furni_gunworkshop_gunshelf_01",
+            "furni_gunworkshop_floorlamp_01",
+            "furni_gunworkshop_partition_01",
+            "furni_gunworkshop_storagetray_01",
+            "furni_gunworkshop_cabinet_01",
+            "furni_gunworkshop_sidetable_01",
+            "furni_gunworkshop_chandelier_01",
+            "furni_gunworkshop_table_01",
+            "furni_gunworkshop_stool_01",
+            "furni_gunworkshop_longtable_01",
+            "furni_gunworkshop_carpet_01",
+            "furni_gunworkshop_statues_01",
+            "furni_gunworkshop_ceilinglight_01",
+            "furni_gunworkshop_storage_01",
+            "furni_gunworkshop_carpet_02",
+            "furni_gunworkshop_bench_01",
+            "furni_gunworkshop_recordplayer_01",
+            "furni_gunworkshop_wallpaper_01",
+            "furni_gunworkshop_floor_01"
+          ]
+        }
+      ,
+      
         "furniM_set_basicRoom": {
           "id": "furniM_set_basicRoom",
           "enableRoomType": 32,
@@ -127006,6 +129437,140 @@
             "furni_kaltsroom_floor_01"
           ]
         }
+      ,
+      
+        "furni_set_skadisp_1": {
+          "id": "furni_set_skadisp_1",
+          "sortId": 1,
+          "name": "Rest//Weariness",
+          "themeId": "furni_set_skadisp",
+          "comfort": 215,
+          "count": 5,
+          "furniture": [
+            "furni_skadisp_ceilingLight_01",
+            "furni_skadisp_weaponrack_01",
+            "furni_skadisp_bed_01",
+            "furni_skadisp_cutofftable_01",
+            "furni_skadisp_carpet_01"
+          ]
+        }
+      ,
+      
+        "furni_set_skadisp_2": {
+          "id": "furni_set_skadisp_2",
+          "sortId": 2,
+          "name": "Decoration//Camouflage",
+          "themeId": "furni_set_skadisp",
+          "comfort": 200,
+          "count": 4,
+          "furniture": [
+            "furni_skadisp_harp_01",
+            "furni_skadisp_walllamp_01",
+            "furni_skadisp_candlelight_01",
+            "furni_skadisp_chandelier_01"
+          ]
+        }
+      ,
+      
+        "furni_set_skadisp_3": {
+          "id": "furni_set_skadisp_3",
+          "sortId": 3,
+          "name": "Understanding=Understanding",
+          "themeId": "furni_set_skadisp",
+          "comfort": 290,
+          "count": 4,
+          "furniture": [
+            "furni_skadisp_table_01",
+            "furni_skadisp_carpet_02",
+            "furni_skadisp_chair_01",
+            "furni_skadisp_lowcolumn_01"
+          ]
+        }
+      ,
+      
+        "furni_set_skadisp_4": {
+          "id": "furni_set_skadisp_4",
+          "sortId": 4,
+          "name": "Environment=Environment",
+          "themeId": "furni_set_skadisp",
+          "comfort": 230,
+          "count": 5,
+          "furniture": [
+            "furni_skadisp_storage_01",
+            "furni_skadisp_minitable_01",
+            "furni_skadisp_column_01",
+            "furni_skadisp_floor_01",
+            "furni_skadisp_wallpaper_01"
+          ]
+        }
+      ,
+      
+        "furni_set_gunworkshop_1": {
+          "id": "furni_set_gunworkshop_1",
+          "sortId": 1,
+          "name": "Bedlam (Storage Area)",
+          "themeId": "furni_set_gunworkshop",
+          "comfort": 210,
+          "count": 5,
+          "furniture": [
+            "furni_gunworkshop_gunshelf_01",
+            "furni_gunworkshop_shelf_01",
+            "furni_gunworkshop_cabinet_01",
+            "furni_gunworkshop_floorlamp_01",
+            "furni_gunworkshop_wallpaper_01"
+          ]
+        }
+      ,
+      
+        "furni_set_gunworkshop_2": {
+          "id": "furni_set_gunworkshop_2",
+          "sortId": 2,
+          "name": "Absolute Poverty (Work Area)",
+          "themeId": "furni_set_gunworkshop",
+          "comfort": 255,
+          "count": 5,
+          "furniture": [
+            "furni_gunworkshop_storagetray_01",
+            "furni_gunworkshop_table_01",
+            "furni_gunworkshop_longtable_01",
+            "furni_gunworkshop_stool_01",
+            "furni_gunworkshop_sidetable_01"
+          ]
+        }
+      ,
+      
+        "furni_set_gunworkshop_3": {
+          "id": "furni_set_gunworkshop_3",
+          "sortId": 3,
+          "name": "Dirt and Filth (Front Area)",
+          "themeId": "furni_set_gunworkshop",
+          "comfort": 290,
+          "count": 5,
+          "furniture": [
+            "furni_gunworkshop_partition_01",
+            "furni_gunworkshop_chandelier_01",
+            "furni_gunworkshop_carpet_01",
+            "furni_gunworkshop_statues_01",
+            "furni_gunworkshop_floor_01"
+          ]
+        }
+      ,
+      
+        "furni_set_gunworkshop_4": {
+          "id": "furni_set_gunworkshop_4",
+          "sortId": 4,
+          "name": "Illumination (Prayer Area)",
+          "themeId": "furni_set_gunworkshop",
+          "comfort": 180,
+          "count": 5,
+          "furniture": [
+            "furni_gunworkshop_ceilinglight_01",
+            "furni_gunworkshop_storage_01",
+            "furni_gunworkshop_bench_01",
+            "furni_gunworkshop_recordplayer_01",
+            "furni_gunworkshop_carpet_02"
+          ]
+        }
       
     },
     "types": {
@@ -127172,7 +129737,7 @@
       
         "BENCH": {
           "subType": "BENCH",
-          "name": "Benches",
+          "name": "Long Bench",
           "type": "SEATING",
           "sortId": 5,
           "countLimit": -1,
@@ -135543,9 +138108,24 @@
         }
       ,
       
+        "bgm_bg_office": {
+          "bgmId": "bgm_bg_office",
+          "bgmSortId": 16,
+          "bgmStartTime": 1714518000,
+          "bgmName": "Footsteps - Through the Great Expanses of Space and Time",
+          "gameMusicId": "music_bg_office",
+          "obtainApproach": "The Arknights Official Lore Compendium",
+          "bgmDescUnlocked": "Gift from background",
+          "unlockType": "MainBG",
+          "unlockParams": [
+            "bg_kalts_1"
+          ]
+        }
+      ,
+      
         "bgm_bg_rainbowsix": {
           "bgmId": "bgm_bg_rainbowsix",
-          "bgmSortId": 16,
+          "bgmSortId": 17,
           "bgmStartTime": 1725555600,
           "bgmName": "Prestige - Translucent",
           "gameMusicId": "music_bg_rainbowsix",
@@ -135560,7 +138140,7 @@
       
         "bgm_bg_act16mini": {
           "bgmId": "bgm_bg_act16mini",
-          "bgmSortId": 17,
+          "bgmSortId": 18,
           "bgmStartTime": 1730394000,
           "bgmName": "Flowerbed - In Vastness",
           "gameMusicId": "music_bg_act16mini",
@@ -135575,7 +138155,7 @@
       
         "bgm_bg_sanrio": {
           "bgmId": "bgm_bg_sanrio",
-          "bgmSortId": 18,
+          "bgmSortId": 19,
           "bgmStartTime": 1734714000,
           "bgmName": "Sweetness - Our Life",
           "gameMusicId": "music_bg_sanrio",
@@ -135590,7 +138170,7 @@
       
         "bgm_bg_sandboxv2_1": {
           "bgmId": "bgm_bg_sandboxv2_1",
-          "bgmSortId": 19,
+          "bgmSortId": 20,
           "bgmStartTime": 1740826800,
           "bgmName": "Vast Sands - Fine Sand",
           "gameMusicId": "music_sandbox_v2_2",
@@ -135605,7 +138185,7 @@
       
         "bgm_bg_dungeon": {
           "bgmId": "bgm_bg_dungeon",
-          "bgmSortId": 20,
+          "bgmSortId": 21,
           "bgmStartTime": 1741626000,
           "bgmName": "The City - Leaping Flames",
           "gameMusicId": "music_bg_dungeon",
@@ -135620,7 +138200,7 @@
       
         "bgm_bg_sui_1": {
           "bgmId": "bgm_bg_sui_1",
-          "bgmSortId": 21,
+          "bgmSortId": 22,
           "bgmStartTime": 1750438800,
           "bgmName": "Green Buds - Journey to Dahuang",
           "gameMusicId": "music_bg_sui",
@@ -135635,7 +138215,7 @@
       
         "bgm_bg_rogue_4": {
           "bgmId": "bgm_bg_rogue_4",
-          "bgmSortId": 22,
+          "bgmSortId": 23,
           "bgmStartTime": 1754046000,
           "bgmName": "Ideas Taken Form - Resolutely Burns the Fire of Lives",
           "gameMusicId": "music_rogue_4_1",

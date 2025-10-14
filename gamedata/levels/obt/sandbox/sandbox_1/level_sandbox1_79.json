@@ -10636,17 +10636,11 @@
         "hidden": false,
         "alias": "trap_459_xblight#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_459_xblight",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "         8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -10658,17 +10652,11 @@
         "hidden": true,
         "alias": "trap_416_gtreasure#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_416_gtreasure",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -10680,17 +10668,11 @@
         "hidden": true,
         "alias": "trap_422_streasure#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_422_streasure",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -10702,34 +10684,12 @@
         "hidden": true,
         "alias": "trap_413_hiddenstone#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_413_hiddenstone",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 148,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "area",
-            "value": 0.0,
-            "valueStr": "rect_1"
-          },
-          {
-            "key": "prob",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "branch_id",
-            "value": 0.0,
-            "valueStr": "hidden_1"
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [

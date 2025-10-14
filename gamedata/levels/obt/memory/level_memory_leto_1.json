@@ -2523,17 +2523,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_196_sunbr",
-          "level": 10,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 32,
+        "mainSkillLvl": 1,
+        "skinId": "                \b \f  \b \b         P,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -2545,17 +2539,11 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_197_poca",
-          "level": 10,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": " \f                 ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -2567,17 +2555,11 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_195_glassb",
-          "level": 10,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": " \f                 ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -2589,17 +2571,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_115_headbr",
-          "level": 10,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": "            ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2611,34 +2587,22 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_194_leto",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": "         \f   \b  \f \f         2      \r   char_194_leto  ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_285_medic2",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": -1,
+        "skinId": "         \f  \f    \b \f      2         char_285_medic2             \b \f          \b              \f   \b  \f \f         2      \r   char_194_leto  ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

@@ -1412,17 +1412,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_123_fang",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 32,
+        "mainSkillLvl": 0,
+        "skinId": "   \f                  \b \f  \b \b         ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -1434,68 +1428,44 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_124_kroos",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_120_hibisc",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_122_beagle",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_121_lava",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

@@ -19067,16 +19067,16 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "sleepImmune": {
             "m_defined": true,
-            "m_value": false
+            "m_value": true
           },
           "frozenImmune": {
             "m_defined": true,
@@ -19087,7 +19087,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
@@ -19945,16 +19945,10 @@
         "hidden": true,
         "alias": "trap_024_npcsld#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_024_npcsld",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -19967,16 +19961,10 @@
         "hidden": true,
         "alias": "trap_024_npcsld#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_024_npcsld",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -19989,16 +19977,10 @@
         "hidden": true,
         "alias": "trap_024_npcsld#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_024_npcsld",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -20011,16 +19993,10 @@
         "hidden": true,
         "alias": "trap_024_npcsld#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_024_npcsld",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -20033,17 +20009,11 @@
         "hidden": true,
         "alias": "trap_024_npcsld#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_024_npcsld",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -20055,17 +20025,11 @@
         "hidden": true,
         "alias": "trap_024_npcsld#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_024_npcsld",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

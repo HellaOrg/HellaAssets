@@ -7317,17 +7317,11 @@
         "hidden": false,
         "alias": "trap_013_blower#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_013_blower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "         $   @           \b \f  \b \b      \t   ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -7339,17 +7333,11 @@
         "hidden": false,
         "alias": "trap_013_blower#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_013_blower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -7361,17 +7349,11 @@
         "hidden": false,
         "alias": "trap_013_blower#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_013_blower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -7383,17 +7365,11 @@
         "hidden": false,
         "alias": "trap_013_blower#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_013_blower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -7402,34 +7378,22 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_219_meteo",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 20,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": "         \f   \b  \f \f                  char_219_meteo     ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_158_milu",
-          "level": 30,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

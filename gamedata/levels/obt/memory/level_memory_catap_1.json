@@ -3808,16 +3808,10 @@
         "hidden": false,
         "alias": "char_282_catap",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_282_catap",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": " \f   \b  \f \f      7   (         char_282_catap     char_282_catap     ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3825,16 +3819,10 @@
         "hidden": false,
         "alias": "char_211_adnach",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_211_adnach",
-          "level": 1,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3842,16 +3830,10 @@
         "hidden": false,
         "alias": "char_124_kroos",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_124_kroos",
-          "level": 1,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " T,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

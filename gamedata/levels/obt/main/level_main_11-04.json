@@ -4429,17 +4429,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_087_allady",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "   \b              \b \f \b  \b            trap_087_allady            $       \b        \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

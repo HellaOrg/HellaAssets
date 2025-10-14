@@ -4482,16 +4482,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_340_shwaz",
-          "level": 20,
-          "phase": "PHASE_1",
-          "favorPoint": 25,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 4,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 1,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

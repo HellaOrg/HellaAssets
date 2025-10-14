@@ -4177,34 +4177,22 @@
         "hidden": false,
         "alias": "char_4036_forcer",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4036_forcer",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": " D           \f   \b  \f \f         d         char_4036_forcer       char_4036_forcer   ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_120_hibisc",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_120_hibisc",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": " 4           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -4214,17 +4202,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_001_crate",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "   \b   \f           \f,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

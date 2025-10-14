@@ -7277,16 +7277,10 @@
         "hidden": false,
         "alias": "trap_005_sensor#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_005_sensor",
-          "level": 60,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      8   \b \f  \b \b         ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -7299,16 +7293,10 @@
         "hidden": false,
         "alias": "trap_012_mine#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_012_mine",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -7321,16 +7309,10 @@
         "hidden": false,
         "alias": "trap_012_mine#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_012_mine",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   @,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -7343,16 +7325,10 @@
         "hidden": false,
         "alias": "trap_012_mine#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_012_mine",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -7365,16 +7341,10 @@
         "hidden": false,
         "alias": "trap_012_mine#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_012_mine",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -7387,16 +7357,10 @@
         "hidden": false,
         "alias": "trap_012_mine#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_012_mine",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   D,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -7406,16 +7370,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_355_ethan",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": "  \b  \f \f         (         char_355_ethan     ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -7423,16 +7381,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_124_kroos",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": ",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -7440,16 +7392,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_211_adnach",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": ",
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

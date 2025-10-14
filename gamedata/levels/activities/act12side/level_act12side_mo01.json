@@ -29773,24 +29773,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 30.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -29801,24 +29789,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 60.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -29829,24 +29805,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 60.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -29857,24 +29821,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
+        "inst": null,
+        "skillIndex": 48,
         "mainSkillLvl": 1,
-        "skinId": null,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 60.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -29885,24 +29837,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 60.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -29913,24 +29853,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 60.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -29941,24 +29869,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#7",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 60.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -29969,24 +29885,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#8",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 60.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -29997,24 +29901,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#9",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 30.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -30025,24 +29917,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#10",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 30.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -30053,24 +29933,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#11",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 60.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -30081,24 +29949,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#12",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
+        "inst": null,
+        "skillIndex": 48,
         "mainSkillLvl": 1,
-        "skinId": null,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 60.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -30109,24 +29965,12 @@
         "hidden": true,
         "alias": "trap_042_tidectrl#13",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 30.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [
@@ -30138,16 +29982,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_046_oxygen",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "   T,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

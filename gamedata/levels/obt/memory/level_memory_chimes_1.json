@@ -1946,16 +1946,16 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "sleepImmune": {
             "m_defined": true,
-            "m_value": false
+            "m_value": true
           },
           "frozenImmune": {
             "m_defined": true,
@@ -1966,7 +1966,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
@@ -2293,34 +2293,22 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4083_chimes",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": "         \f   \b  \f \f         2         char_4083_chimes   ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_171_bldsk",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 1,
+        "skinId": "         ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

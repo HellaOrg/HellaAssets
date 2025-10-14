@@ -2440,16 +2440,10 @@
         "hidden": false,
         "alias": "trap_122_stmpq#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_122_stmpq",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      8   \b \f  \b \b         T,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2462,17 +2456,11 @@
         "hidden": false,
         "alias": "trap_122_stmpq#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_122_stmpq",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2481,51 +2469,33 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_211_adnach",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": null
-      },
-      {
-        "hidden": false,
-        "alias": null,
-        "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_250_phatom",
-          "level": 80,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": null
-      },
-      {
-        "hidden": false,
-        "alias": null,
-        "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_503_rang",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": -1,
+        "inst": null,
+        "skillIndex": 12,
         "mainSkillLvl": 0,
-        "skinId": "",
-        "tmplId": null,
+        "skinId": "\f       ",
+        "tmplId": "",
+        "overrideSkillBlackboard": null
+      },
+      {
+        "hidden": false,
+        "alias": null,
+        "uniEquipIds": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": "          \f \b            P   2         char_250_phatom           \f    \b       \b   \f           ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
+      },
+      {
+        "hidden": false,
+        "alias": null,
+        "uniEquipIds": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": -1,
+        "skinId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2535,17 +2505,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_123_stmbot",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "   \b   \f           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -2553,17 +2517,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_018_bomb",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "   \b   \f           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

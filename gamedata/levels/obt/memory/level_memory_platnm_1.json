@@ -3319,16 +3319,10 @@
         "hidden": false,
         "alias": "electric_set2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_019_electric",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      <   \b \f  \b \b         P,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3341,16 +3335,10 @@
         "hidden": false,
         "alias": "electric_set1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_019_electric",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      4   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -3360,16 +3348,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_204_platnm",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": "  \b  \f \f         (         char_204_platnm    ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3377,16 +3359,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_124_kroos",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 5,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": ",
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -3397,16 +3373,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_019_electric",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3415,16 +3385,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_009_battery",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": -1,
+        "skinId": "   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

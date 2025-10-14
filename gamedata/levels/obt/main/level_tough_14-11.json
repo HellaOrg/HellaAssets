@@ -12838,17 +12838,11 @@
         "hidden": true,
         "alias": "char_1014_nearl2#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_1014_nearl2",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 2,
+        "skinId": "     0   X           \b \f  \b \b         \f   \b  \f \f      Z   2         char_1014_nearl2       char_1014_nearl2#1                 \b        \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12860,17 +12854,11 @@
         "hidden": true,
         "alias": "char_147_shining#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_147_shining",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 2,
+        "skinId": "        D           l,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -12884,17 +12872,11 @@
         "hidden": false,
         "alias": "trap_162_lrctrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_162_lrctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "         0           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -12906,17 +12888,11 @@
         "hidden": true,
         "alias": "trap_164_lrsiege#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_164_lrsiege",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

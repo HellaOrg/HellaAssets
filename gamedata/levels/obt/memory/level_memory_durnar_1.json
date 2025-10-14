@@ -5421,16 +5421,10 @@
         "hidden": false,
         "alias": "char_260_durnar",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_260_durnar",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 1,
+        "skinId": " \f   \b  \f \f         2         char_260_durnar    char_260_durnar    ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5438,16 +5432,10 @@
         "hidden": false,
         "alias": "char_124_kroos",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_124_kroos",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5455,16 +5443,10 @@
         "hidden": false,
         "alias": "char_212_ansel",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_212_ansel",
-          "level": 1,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " <,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

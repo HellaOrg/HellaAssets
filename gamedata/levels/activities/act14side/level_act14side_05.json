@@ -2182,24 +2182,12 @@
         "hidden": true,
         "alias": "trap_050_blizzard#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_050_blizzard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 52,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 30.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -2210,24 +2198,12 @@
         "hidden": true,
         "alias": "trap_050_blizzard#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_050_blizzard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 50.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [

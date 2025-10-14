@@ -3553,24 +3553,12 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_050_blizzard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
+        "inst": null,
+        "skillIndex": 68,
         "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "duration",
-            "value": 999.0,
-            "valueStr": null
-          }
-        ]
+        "skinId": "      $   D           \b \f  \b \b               ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -3581,24 +3569,12 @@
         "hidden": false,
         "alias": "trap_137_winfire#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_137_winfire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@init_mode",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 76,
+        "mainSkillLvl": 0,
+        "skinId": "          L   l           H,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -3609,24 +3585,12 @@
         "hidden": false,
         "alias": "trap_137_winfire#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_137_winfire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@init_mode",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 68,
+        "mainSkillLvl": 0,
+        "skinId": "          D   d           ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -3637,24 +3601,12 @@
         "hidden": false,
         "alias": "trap_137_winfire#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_137_winfire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@init_mode",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 68,
+        "mainSkillLvl": 0,
+        "skinId": "          D   d           ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -3665,24 +3617,12 @@
         "hidden": false,
         "alias": "trap_137_winfire#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_137_winfire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@init_mode",
-            "value": 1.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 72,
+        "mainSkillLvl": 0,
+        "skinId": "          H   h           l,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -3693,24 +3633,12 @@
         "hidden": false,
         "alias": "trap_137_winfire#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_137_winfire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@init_mode",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 68,
+        "mainSkillLvl": 0,
+        "skinId": "          D   d           ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -3721,24 +3649,12 @@
         "hidden": false,
         "alias": "trap_137_winfire#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_137_winfire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "talent@init_mode",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 68,
+        "mainSkillLvl": 0,
+        "skinId": "          D   d           D,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [
@@ -3750,17 +3666,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_138_winstone",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "   \b   \f           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

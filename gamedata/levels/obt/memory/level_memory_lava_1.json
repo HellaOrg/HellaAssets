@@ -4761,16 +4761,10 @@
         "hidden": false,
         "alias": "trap_002_emp#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_002_emp",
-          "level": 10,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      8   \b \f  \b \b         ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4783,16 +4777,10 @@
         "hidden": false,
         "alias": "trap_002_emp#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_002_emp",
-          "level": 10,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -4802,16 +4790,10 @@
         "hidden": false,
         "alias": "char_121_lava",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_121_lava",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": " \f   \b  \f \f      7   2      \r   char_121_lava   \r   char_121_lava  ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4819,16 +4801,10 @@
         "hidden": false,
         "alias": "char_502_nblade",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_502_nblade",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": -1,
+        "skinId": " \f  \f    \b \f      2         char_502_nblade    char_502_nblade       \f     \b             8   \f   \b  \f \f      7   2      \r   char_121_lava   \r   char_121_lava  ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

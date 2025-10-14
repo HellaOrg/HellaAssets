@@ -2961,7 +2961,7 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "silenceImmune": {
@@ -2981,7 +2981,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
@@ -3730,17 +3730,11 @@
         "hidden": false,
         "alias": "trap_122_stmpq#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_122_stmpq",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "      $   @           \b \f  \b \b      \t   ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -3753,17 +3747,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_123_stmbot",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "   \b   \f           p,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

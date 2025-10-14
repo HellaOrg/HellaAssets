@@ -1822,17 +1822,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_188_helage",
-          "level": 55,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 9,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 44,
+        "mainSkillLvl": 0,
+        "skinId": "   ,           \b \f  \b \b      \t   \f   \b  \f \f      7   d         char_188_helage        $        \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -1844,17 +1838,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_102_texas",
-          "level": 25,
-          "phase": "PHASE_2",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "               ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -1866,17 +1854,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_201_moeshd",
-          "level": 25,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "               D,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -1888,17 +1870,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_202_demkni",
-          "level": 25,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": "               ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -1912,17 +1888,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_121_gractrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "   \f                 \b,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

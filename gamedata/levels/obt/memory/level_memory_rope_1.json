@@ -4598,16 +4598,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_236_rope",
-          "level": 25,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 1,
+        "skinId": "   \f \b               2      \r   char_236_rope  ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4615,16 +4609,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_128_plosis",
-          "level": 25,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": "  \b  \f \f         (         char_128_plosis             \f  \b                  \f \b               2      \r   char_236_rope  ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4632,16 +4620,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_289_gyuki",
-          "level": 25,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 1,
+        "skinId": ",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4649,16 +4631,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_106_franka",
-          "level": 25,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 1,
+        "skinId": ",
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -4669,16 +4645,10 @@
         "hidden": false,
         "alias": "trap_009_battery#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_009_battery",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": -1,
+        "skinId": "   \b   (   0,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

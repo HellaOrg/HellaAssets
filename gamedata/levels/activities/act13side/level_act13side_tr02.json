@@ -1518,16 +1518,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_148_nearl",
-          "level": 70,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": " \b \f  \b \b         ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -1540,16 +1534,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_208_melan",
-          "level": 40,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "\b",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -1562,16 +1550,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_158_milu",
-          "level": 70,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": " P,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -1584,16 +1566,10 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_122_beagle",
-          "level": 40,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "\b      ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -1608,16 +1584,10 @@
         "hidden": true,
         "alias": "trap_049_candle#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_049_candle",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -1630,16 +1600,10 @@
         "hidden": false,
         "alias": "trap_048_neonlamp#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_048_neonlamp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      4   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -1649,16 +1613,10 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_210_stward",
-          "level": 40,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "   F,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -1666,16 +1624,10 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_212_ansel",
-          "level": 40,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -1686,16 +1638,10 @@
         "hidden": true,
         "alias": "trap_049_candle#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_049_candle",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "         ,   \b \f \b  \b            trap_049_candle    trap_049_candle#2      8  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

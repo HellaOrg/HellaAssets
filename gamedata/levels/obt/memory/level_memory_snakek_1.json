@@ -1586,17 +1586,11 @@
         "hidden": false,
         "alias": "char_210_stward",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_210_stward",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 52,
+        "mainSkillLvl": 0,
+        "skinId": "    4   \\           \b   \b \b              \f \b            7   2         char_210_stward    char_210_stward                  \b \f          \f      @           \f   \b  \f \f         2         char_150_snakek    char_150_snakek    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -1608,17 +1602,11 @@
         "hidden": false,
         "alias": "char_4054_malist",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4054_malist",
-          "level": 30,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 3
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 1,
+        "skinId": "    $   P           \b \f  \b \b         f,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -1630,17 +1618,11 @@
         "hidden": false,
         "alias": "char_150_snakek",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_150_snakek",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": " @           \f   \b  \f \f         2         char_150_snakek    char_150_snakek    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

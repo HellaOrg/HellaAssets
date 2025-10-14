@@ -2583,16 +2583,10 @@
         "hidden": false,
         "alias": "char_107_liskam",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_107_liskam",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 1,
+        "skinId": " \f   \b  \f \f         2         char_107_liskam    char_107_liskam    ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2600,16 +2594,10 @@
         "hidden": false,
         "alias": "char_219_meteo",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_219_meteo",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2617,16 +2605,10 @@
         "hidden": false,
         "alias": "char_171_bldsk",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_171_bldsk",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " <,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -2637,16 +2619,10 @@
         "hidden": false,
         "alias": "trap_001_crate",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_001_crate",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": -1,
+        "skinId": "   \b   $   X,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2655,16 +2631,10 @@
         "hidden": false,
         "alias": "trap_018_bomb",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_018_bomb",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": "   \b   $   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

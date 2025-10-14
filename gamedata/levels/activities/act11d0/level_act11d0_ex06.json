@@ -3995,16 +3995,10 @@
         "hidden": false,
         "alias": "trap_014_tower#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      8   \b \f  \b \b         |,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4017,16 +4011,10 @@
         "hidden": false,
         "alias": "trap_014_tower#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4039,16 +4027,10 @@
         "hidden": false,
         "alias": "trap_014_tower#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   <,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4061,16 +4043,10 @@
         "hidden": false,
         "alias": "trap_014_tower#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "     0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4083,16 +4059,10 @@
         "hidden": false,
         "alias": "trap_014_tower#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "     0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4105,16 +4075,10 @@
         "hidden": true,
         "alias": "trap_014_tower#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4127,16 +4091,10 @@
         "hidden": true,
         "alias": "trap_014_tower#7",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4149,16 +4107,10 @@
         "hidden": true,
         "alias": "trap_014_tower#8",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

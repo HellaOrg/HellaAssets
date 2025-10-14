@@ -5367,34 +5367,12 @@
         "hidden": false,
         "alias": "trap_115_gasctrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_115_gasctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "interval",
-            "value": 0.5,
-            "valueStr": null
-          },
-          {
-            "key": "level_add",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "damage",
-            "value": 8.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 116,
+        "mainSkillLvl": 0,
+        "skinId": "         t   ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [

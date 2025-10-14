@@ -4552,17 +4552,11 @@
         "hidden": false,
         "alias": "char_2014_nian#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_2014_nian",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 1,
+        "skinId": "    $   H           \b \f  \b \b         (,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -4574,34 +4568,22 @@
         "hidden": false,
         "alias": "char_362_saga#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_362_saga",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 2,
+        "skinId": " @           \f   \b  \f \f         2      \r   char_362_saga      char_362_saga#1    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_2015_dusk",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 2,
+        "skinId": "         ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

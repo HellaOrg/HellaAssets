@@ -4428,16 +4428,16 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "sleepImmune": {
             "m_defined": true,
-            "m_value": false
+            "m_value": true
           },
           "frozenImmune": {
             "m_defined": true,
@@ -4448,7 +4448,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
@@ -4620,16 +4620,16 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "sleepImmune": {
             "m_defined": true,
-            "m_value": false
+            "m_value": true
           },
           "frozenImmune": {
             "m_defined": true,
@@ -4640,7 +4640,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
@@ -4812,16 +4812,16 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "sleepImmune": {
             "m_defined": true,
-            "m_value": false
+            "m_value": true
           },
           "frozenImmune": {
             "m_defined": true,
@@ -4832,7 +4832,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
@@ -5797,16 +5797,10 @@
         "hidden": false,
         "alias": "trap_026_inverter#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_026_inverter",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": "   \b   (   h,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

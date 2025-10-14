@@ -3391,17 +3391,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_103_ymdgct",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": -1,
+        "skinId": "                      h,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3413,17 +3407,11 @@
         "hidden": true,
         "alias": "trap_097_hstone#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_097_hstone",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

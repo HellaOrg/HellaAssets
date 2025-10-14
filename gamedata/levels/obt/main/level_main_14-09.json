@@ -9393,17 +9393,11 @@
         "hidden": false,
         "alias": "char_112_siege#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_112_siege",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 1,
+        "skinId": "  D           \b \f  \b \b      \n   n,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9415,17 +9409,11 @@
         "hidden": false,
         "alias": "char_154_morgan#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_154_morgan",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 40,
+        "mainSkillLvl": 1,
+        "skinId": "    (   L           l,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9437,17 +9425,11 @@
         "hidden": false,
         "alias": "char_157_dagda#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_157_dagda",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "       @           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9459,17 +9441,11 @@
         "hidden": false,
         "alias": "char_155_tiger#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_155_tiger",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "    @           X,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9481,17 +9457,11 @@
         "hidden": false,
         "alias": "char_222_bpipe#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_222_bpipe",
-          "level": 30,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "       @           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9503,17 +9473,11 @@
         "hidden": false,
         "alias": "char_4039_horn#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4039_horn",
-          "level": 80,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         @           `,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9525,17 +9489,11 @@
         "hidden": true,
         "alias": "char_112_siege#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_112_siege",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "        <           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9547,17 +9505,11 @@
         "hidden": true,
         "alias": "char_154_morgan#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_154_morgan",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "        @           h,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9569,17 +9521,11 @@
         "hidden": true,
         "alias": "char_157_dagda#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_157_dagda",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "        @           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9591,17 +9537,11 @@
         "hidden": true,
         "alias": "char_155_tiger#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_155_tiger",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "     @           d,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9613,17 +9553,11 @@
         "hidden": true,
         "alias": "char_112_siege#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_112_siege",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "        <           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9635,17 +9569,11 @@
         "hidden": true,
         "alias": "char_222_bpipe#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_222_bpipe",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "          @           h,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -9659,17 +9587,11 @@
         "hidden": true,
         "alias": "trap_164_lrsiege#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_164_lrsiege",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -9681,16 +9603,10 @@
         "hidden": false,
         "alias": "trap_162_lrctrl#",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_162_lrctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "   \f   (   @,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -9703,17 +9619,11 @@
         "hidden": true,
         "alias": "trap_158_lrsteam#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_158_lrsteam",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

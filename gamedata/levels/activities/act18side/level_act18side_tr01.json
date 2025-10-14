@@ -1489,17 +1489,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_208_melan",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "\f",
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -1511,17 +1505,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_209_ardign",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "\f  ",
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -1535,17 +1523,11 @@
         "hidden": false,
         "alias": "trap_062_magicstart#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_062_magicstart",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
+        "skinId": "            <            ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -1557,17 +1539,11 @@
         "hidden": false,
         "alias": "trap_063_magicturn#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_063_magicturn",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
+        "skinId": "         <           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -1579,17 +1555,11 @@
         "hidden": false,
         "alias": "trap_063_magicturn#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_063_magicturn",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
+        "skinId": "            <           \f,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -1598,51 +1568,33 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_212_ansel",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "\b   \f           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_211_adnach",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "\b   \f           b,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_210_stward",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "\b   \f           \",
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

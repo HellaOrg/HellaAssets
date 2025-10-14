@@ -3249,16 +3249,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_173_slchan",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 25,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": "    \b \f  \b \b         p,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -3273,16 +3267,10 @@
         "hidden": false,
         "alias": "trap_013_blower#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_013_blower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3295,16 +3283,10 @@
         "hidden": false,
         "alias": "trap_013_blower#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_013_blower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "         4      \b         ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -3314,16 +3296,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_277_sqrrel",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 25,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": "  \b  \f \f      2            char_277_sqrrel    ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3331,16 +3307,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_155_tiger",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 25,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 1,
+        "skinId": ",
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

@@ -2006,17 +2006,11 @@
         "hidden": false,
         "alias": "trap_001_crate#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_001_crate",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      ,           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

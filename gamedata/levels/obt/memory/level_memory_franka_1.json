@@ -2406,16 +2406,10 @@
         "hidden": false,
         "alias": "char_235_jesica",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_235_jesica",
-          "level": 50,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 10,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "  D   \b \f  \b \b         ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -2428,16 +2422,10 @@
         "hidden": false,
         "alias": "char_106_franka",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_106_franka",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 1,
+        "skinId": " &,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2445,16 +2433,10 @@
         "hidden": false,
         "alias": "char_107_liskam",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_107_liskam",
-          "level": 50,
-          "phase": "PHASE_2",
-          "favorPoint": 100,
-          "potentialRank": 5
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

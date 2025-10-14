@@ -7579,17 +7579,11 @@
         "hidden": false,
         "alias": "trap_042_tidectrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 2,
+        "skinId": "         4           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

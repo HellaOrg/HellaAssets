@@ -6112,17 +6112,11 @@
         "hidden": false,
         "alias": "trap_124_eradio#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_124_eradio",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6134,17 +6128,11 @@
         "hidden": false,
         "alias": "trap_124_eradio#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_124_eradio",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6156,16 +6144,10 @@
         "hidden": true,
         "alias": "trap_757_skzbox#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_757_skzbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -6178,24 +6160,12 @@
         "hidden": true,
         "alias": "trap_758_skzmbx#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_758_skzmbx",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 68,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "branch_id",
-            "value": 0.0,
-            "valueStr": "mbx1"
-          }
-        ]
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -6206,17 +6176,11 @@
         "hidden": true,
         "alias": "trap_759_skzwyx#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_759_skzwyx",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6228,17 +6192,11 @@
         "hidden": true,
         "alias": "trap_757_skzbox#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_757_skzbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6250,24 +6208,12 @@
         "hidden": true,
         "alias": "trap_758_skzmbx#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_758_skzmbx",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 76,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "branch_id",
-            "value": 0.0,
-            "valueStr": "mbx2"
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -6278,17 +6224,11 @@
         "hidden": true,
         "alias": "trap_759_skzwyx#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_759_skzwyx",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6300,17 +6240,11 @@
         "hidden": true,
         "alias": "trap_764_skzshp",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_764_skzshp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6322,17 +6256,11 @@
         "hidden": true,
         "alias": "trap_760_skztzs#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_760_skztzs",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

@@ -4550,17 +4550,11 @@
         "hidden": false,
         "alias": "trap_117_ltstat#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_117_ltstat",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "         $   @           d,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -4572,17 +4566,11 @@
         "hidden": false,
         "alias": "trap_117_ltstat#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_117_ltstat",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

@@ -27360,16 +27360,10 @@
         "hidden": false,
         "alias": "trap_010_frosts#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_010_frosts",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      8   \b \f  \b \b      \b   \f,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -27382,16 +27376,10 @@
         "hidden": false,
         "alias": "trap_010_frosts#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_010_frosts",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -27404,16 +27392,10 @@
         "hidden": true,
         "alias": "trap_010_frosts#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_010_frosts",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -27426,16 +27408,10 @@
         "hidden": true,
         "alias": "trap_010_frosts#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_010_frosts",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -27448,16 +27424,10 @@
         "hidden": true,
         "alias": "trap_010_frosts#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_010_frosts",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -27470,16 +27440,10 @@
         "hidden": true,
         "alias": "trap_010_frosts#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_010_frosts",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

@@ -1301,17 +1301,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_148_nearl",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 40,
+        "mainSkillLvl": 0,
+        "skinId": "  (           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -1323,17 +1317,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_423_blemsh",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "             ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -1345,68 +1333,44 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_430_fartth",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 10,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 2,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_420_flamtl",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_496_wildmn",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 1,
+        "skinId": "         d,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_431_ashlok",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "          ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

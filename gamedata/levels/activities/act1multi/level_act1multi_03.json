@@ -10279,44 +10279,12 @@
         "hidden": true,
         "alias": "trap_179_muctrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_179_muctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 184,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "ability_name",
-            "value": 0.0,
-            "valueStr": "boss"
-          },
-          {
-            "key": "hp_max",
-            "value": 100000.0,
-            "valueStr": null
-          },
-          {
-            "key": "basic",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "time_x",
-            "value": 180.0,
-            "valueStr": null
-          },
-          {
-            "key": "hp_x1",
-            "value": 1.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -10327,44 +10295,12 @@
         "hidden": true,
         "alias": "trap_179_muctrl#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_179_muctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "ability_name",
-            "value": 0.0,
-            "valueStr": "boss"
-          },
-          {
-            "key": "hp_max",
-            "value": 150000.0,
-            "valueStr": null
-          },
-          {
-            "key": "hp_x1",
-            "value": 0.5,
-            "valueStr": null
-          },
-          {
-            "key": "time_x",
-            "value": 240.0,
-            "valueStr": null
-          },
-          {
-            "key": "rest_time",
-            "value": 10.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -10375,17 +10311,11 @@
         "hidden": true,
         "alias": "trap_092_vgctrl",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_092_vgctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -10397,44 +10327,12 @@
         "hidden": true,
         "alias": "trap_007_ballis#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_007_ballis",
-          "level": 6,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "ability_name",
-            "value": 0.0,
-            "valueStr": "boss"
-          },
-          {
-            "key": "hp_max",
-            "value": 100000.0,
-            "valueStr": null
-          },
-          {
-            "key": "basic",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "time_x",
-            "value": 180.0,
-            "valueStr": null
-          },
-          {
-            "key": "hp_x1",
-            "value": 1.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -10445,44 +10343,12 @@
         "hidden": true,
         "alias": "trap_007_ballis#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_007_ballis",
-          "level": 6,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "ability_name",
-            "value": 0.0,
-            "valueStr": "boss"
-          },
-          {
-            "key": "hp_max",
-            "value": 100000.0,
-            "valueStr": null
-          },
-          {
-            "key": "basic",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "time_x",
-            "value": 180.0,
-            "valueStr": null
-          },
-          {
-            "key": "hp_x1",
-            "value": 1.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -10493,44 +10359,12 @@
         "hidden": true,
         "alias": "trap_007_ballis#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_007_ballis",
-          "level": 6,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "ability_name",
-            "value": 0.0,
-            "valueStr": "boss"
-          },
-          {
-            "key": "hp_max",
-            "value": 100000.0,
-            "valueStr": null
-          },
-          {
-            "key": "basic",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "time_x",
-            "value": 180.0,
-            "valueStr": null
-          },
-          {
-            "key": "hp_x1",
-            "value": 1.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [

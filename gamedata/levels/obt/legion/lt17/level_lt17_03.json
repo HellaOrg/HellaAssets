@@ -3581,16 +3581,16 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "sleepImmune": {
             "m_defined": true,
-            "m_value": false
+            "m_value": true
           },
           "frozenImmune": {
             "m_defined": true,
@@ -3605,7 +3605,7 @@
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           }
         },
@@ -4428,17 +4428,11 @@
         "hidden": false,
         "alias": "trap_014_tower#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "        8           P,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -4451,17 +4445,11 @@
         "hidden": true,
         "alias": "trap_069_buffcard#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_069_buffcard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -4469,16 +4457,10 @@
         "hidden": true,
         "alias": "trap_069_buffcard#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_069_buffcard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4487,16 +4469,10 @@
         "hidden": true,
         "alias": "trap_070_supplycard#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_070_supplycard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4505,16 +4481,10 @@
         "hidden": true,
         "alias": "trap_070_supplycard#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_070_supplycard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4523,16 +4493,10 @@
         "hidden": true,
         "alias": "trap_071_recyclecard#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_071_recyclecard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4541,16 +4505,10 @@
         "hidden": true,
         "alias": "trap_071_recyclecard#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_071_recyclecard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4559,16 +4517,10 @@
         "hidden": true,
         "alias": "trap_072_revivecard#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_072_revivecard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4577,16 +4529,10 @@
         "hidden": true,
         "alias": "trap_072_revivecard#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_072_revivecard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4595,16 +4541,10 @@
         "hidden": true,
         "alias": "trap_082_salecard#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_082_salecard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4613,17 +4553,11 @@
         "hidden": true,
         "alias": "trap_082_salecard#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_082_salecard",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

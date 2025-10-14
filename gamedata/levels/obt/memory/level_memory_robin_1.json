@@ -3125,17 +3125,11 @@
         "hidden": true,
         "alias": "trap_027_stone#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_027_stone",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3147,17 +3141,11 @@
         "hidden": false,
         "alias": "trap_027_stone#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_027_stone",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
+        "skinId": "         8           |,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -3166,34 +3154,22 @@
         "hidden": false,
         "alias": "char_264_f12yin",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_264_f12yin",
-          "level": 1,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 1
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": " D            \f \b               (         char_264_f12yin    char_264_f12yin    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_451_robin",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_451_robin",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 1
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": " 8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

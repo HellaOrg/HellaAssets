@@ -4918,17 +4918,11 @@
         "hidden": true,
         "alias": "trap_414_vegetation#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -4940,16 +4934,10 @@
         "hidden": true,
         "alias": "trap_414_vegetation#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4962,16 +4950,10 @@
         "hidden": true,
         "alias": "trap_414_vegetation#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4984,16 +4966,10 @@
         "hidden": true,
         "alias": "trap_414_vegetation#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5006,17 +4982,11 @@
         "hidden": true,
         "alias": "trap_414_vegetation#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -5028,16 +4998,10 @@
         "hidden": true,
         "alias": "trap_414_vegetation#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5050,16 +5014,10 @@
         "hidden": true,
         "alias": "trap_414_vegetation#7",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5072,16 +5030,10 @@
         "hidden": true,
         "alias": "trap_414_vegetation#8",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5094,16 +5046,10 @@
         "hidden": true,
         "alias": "trap_414_vegetation#9",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5116,17 +5062,11 @@
         "hidden": true,
         "alias": "trap_414_vegetation#10",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -5138,17 +5078,11 @@
         "hidden": true,
         "alias": "trap_414_vegetation#11",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -5160,17 +5094,11 @@
         "hidden": true,
         "alias": "trap_414_vegetation#12",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_414_vegetation",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

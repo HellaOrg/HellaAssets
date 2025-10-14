@@ -3113,17 +3113,11 @@
         "hidden": false,
         "alias": "trap_043_dupilr#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_043_dupilr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "      $   @           \b \f  \b \b         l,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3135,17 +3129,11 @@
         "hidden": false,
         "alias": "trap_043_dupilr#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_043_dupilr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3157,17 +3145,11 @@
         "hidden": false,
         "alias": "trap_043_dupilr#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_043_dupilr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8            ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3179,39 +3161,12 @@
         "hidden": false,
         "alias": "trap_098_mire#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_098_mire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "attack_speed",
-            "value": -0.05,
-            "valueStr": null
-          },
-          {
-            "key": "max_stack_cnt",
-            "value": 10.0,
-            "valueStr": null
-          },
-          {
-            "key": "move_speed",
-            "value": -0.05,
-            "valueStr": null
-          },
-          {
-            "key": "value",
-            "value": 3.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 160,
+        "mainSkillLvl": 0,
+        "skinId": "         ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -3222,39 +3177,12 @@
         "hidden": true,
         "alias": "trap_098_mire#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_098_mire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 156,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "attack_speed",
-            "value": -0.1,
-            "valueStr": null
-          },
-          {
-            "key": "max_stack_cnt",
-            "value": 10.0,
-            "valueStr": null
-          },
-          {
-            "key": "move_speed",
-            "value": -0.1,
-            "valueStr": null
-          },
-          {
-            "key": "value",
-            "value": 3.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [
@@ -3266,17 +3194,11 @@
         "hidden": false,
         "alias": "trap_045_dublst#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_045_dublst",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      ,           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

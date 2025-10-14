@@ -6687,16 +6687,10 @@
         "hidden": false,
         "alias": "trap_048_neonlamp#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_048_neonlamp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "   $   D   \b \f  \b \b      \t   \b \f \b  \b            trap_048_neonlamp      trap_048_neonlamp#1                $       \b        \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -6709,16 +6703,10 @@
         "hidden": false,
         "alias": "trap_048_neonlamp#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_048_neonlamp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      4   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -6731,16 +6719,10 @@
         "hidden": false,
         "alias": "trap_048_neonlamp#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_048_neonlamp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      4   0,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

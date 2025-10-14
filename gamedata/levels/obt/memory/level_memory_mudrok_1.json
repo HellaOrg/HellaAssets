@@ -2040,17 +2040,11 @@
         "hidden": false,
         "alias": "trap_048_neonlamp#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_048_neonlamp",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "      $   D           \b \f  \b \b         (,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2059,17 +2053,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_311_mudrok",
-          "level": 1,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 2,
+        "skinId": "         \f   \b  \f \f         2         char_311_mudrok    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

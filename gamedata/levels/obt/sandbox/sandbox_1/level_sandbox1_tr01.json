@@ -4273,17 +4273,11 @@
         "hidden": true,
         "alias": "char_416_zumama#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_416_zumama",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 40,
+        "mainSkillLvl": 0,
+        "skinId": "  (   L           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -4295,17 +4289,11 @@
         "hidden": true,
         "alias": "char_511_asnipe#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_511_asnipe",
-          "level": 50,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "          @           \\,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

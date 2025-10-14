@@ -2535,17 +2535,11 @@
         "hidden": false,
         "alias": "char_128_plosis",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_128_plosis",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 52,
+        "mainSkillLvl": 1,
+        "skinId": "  4   \\           \b   \b \b              \f \b               2         char_128_plosis    char_128_plosis                   \b \f          \b   \f           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -2557,17 +2551,11 @@
         "hidden": false,
         "alias": "char_240_wyvern",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_240_wyvern",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "    $   L           \b \f  \b \b      \n   j,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -2579,17 +2567,11 @@
         "hidden": false,
         "alias": "char_235_jesica",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_235_jesica",
-          "level": 60,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "     D           x,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -2601,17 +2583,11 @@
         "hidden": false,
         "alias": "char_106_franka",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_106_franka",
-          "level": 60,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "  D           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2623,17 +2599,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4105_almond",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 1,
+        "skinId": "         ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

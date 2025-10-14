@@ -2071,16 +2071,10 @@
         "hidden": false,
         "alias": "char_411_tomimi",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_411_tomimi",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 1,
+        "skinId": " \f   \b  \f \f         (         char_411_tomimi    char_411_tomimi    ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2088,16 +2082,10 @@
         "hidden": false,
         "alias": "char_187_ccheal",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_187_ccheal",
-          "level": 1,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

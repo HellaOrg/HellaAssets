@@ -5368,16 +5368,10 @@
         "hidden": false,
         "alias": "trap_020_roadblock#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_020_roadblock",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      <   \b \f  \b \b         t,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5390,16 +5384,10 @@
         "hidden": false,
         "alias": "trap_020_roadblock#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_020_roadblock",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      4   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5412,16 +5400,10 @@
         "hidden": false,
         "alias": "trap_020_roadblock#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_020_roadblock",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      4   ,,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5434,16 +5416,10 @@
         "hidden": false,
         "alias": "trap_020_roadblock#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_020_roadblock",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      4   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5456,16 +5432,10 @@
         "hidden": false,
         "alias": "trap_020_roadblock#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_020_roadblock",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      4   l,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5478,16 +5448,10 @@
         "hidden": false,
         "alias": "trap_020_roadblock#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_020_roadblock",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      4   \f,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

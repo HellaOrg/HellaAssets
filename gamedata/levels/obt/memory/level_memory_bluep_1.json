@@ -3126,17 +3126,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_500_noirc",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 100,
-          "potentialRank": 5
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": -1,
+        "skinId": "   \f      0           \b   \b \b              \b   \f           d         char_500_noirc     ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3148,17 +3142,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_120_hibisc",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 100,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "               \\,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -3170,34 +3158,22 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_129_bluep",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": "         \f   \b  \f \f         2         char_129_bluep     ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_124_kroos",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 100,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "          \f \b            7   d         char_124_kroos              \b \f          \b              \f   \b  \f \f         2         char_129_bluep     ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

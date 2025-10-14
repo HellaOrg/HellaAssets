@@ -1621,51 +1621,33 @@
         "hidden": false,
         "alias": "char_252_bibeak",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_252_bibeak",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": " @           \f   \b  \f \f         2         char_252_bibeak    char_252_bibeak    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_196_sunbr",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_196_sunbr",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": " 4           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_212_ansel",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_212_ansel",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": " 4           $,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -1675,17 +1657,11 @@
         "hidden": false,
         "alias": "trap_009_battery",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_009_battery",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 0,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": -1,
+        "skinId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

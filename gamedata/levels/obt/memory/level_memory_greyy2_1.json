@@ -2629,17 +2629,11 @@
         "hidden": false,
         "alias": "trap_038_dsbell#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_038_dsbell",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "      $   @           \b \f  \b \b         ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -2651,17 +2645,11 @@
         "hidden": false,
         "alias": "trap_038_dsbell#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_038_dsbell",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2670,51 +2658,33 @@
         "hidden": false,
         "alias": "char_449_glider",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_449_glider",
-          "level": 70,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": " @           \f   \b  \f \f      F   2         char_449_glider    char_449_glider    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_124_kroos",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_124_kroos",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 100,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": " D            \f \b            7   d         char_124_kroos     char_124_kroos           \f    \b       \f      @           \f   \b  \f \f      F   2         char_449_glider    char_449_glider    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_1027_greyy2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_1027_greyy2",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": " 8           $,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

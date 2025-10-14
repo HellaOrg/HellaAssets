@@ -3231,16 +3231,10 @@
         "hidden": false,
         "alias": "trap_042_tidectrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 2,
+        "skinId": "      0        P,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -3254,16 +3248,10 @@
         "hidden": false,
         "alias": "trap_040_canoe#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_040_canoe",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "      ,   \b \f \b  \b            trap_040_canoe     trap_040_canoe#1               $       \b        \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3272,16 +3260,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_046_oxygen",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

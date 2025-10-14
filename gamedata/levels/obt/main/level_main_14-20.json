@@ -1321,8 +1321,8 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
-            "m_value": true
+            "m_defined": false,
+            "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
@@ -1345,8 +1345,8 @@
             "m_value": true
           },
           "fearedImmune": {
-            "m_defined": false,
-            "m_value": false
+            "m_defined": true,
+            "m_value": true
           }
         },
         "applyWay": {
@@ -1522,8 +1522,8 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
-            "m_value": true
+            "m_defined": false,
+            "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
@@ -1546,8 +1546,8 @@
             "m_value": true
           },
           "fearedImmune": {
-            "m_defined": false,
-            "m_value": false
+            "m_defined": true,
+            "m_value": true
           }
         },
         "applyWay": {
@@ -2409,17 +2409,11 @@
         "hidden": false,
         "alias": "char_1035_wisdel#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_1035_wisdel",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "  ",
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2431,17 +2425,11 @@
         "hidden": true,
         "alias": "char_002_amiya#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_002_amiya",
-          "level": 80,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "  D            \f \b            P   2         char_002_amiya     char_002_amiya#1   $        \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

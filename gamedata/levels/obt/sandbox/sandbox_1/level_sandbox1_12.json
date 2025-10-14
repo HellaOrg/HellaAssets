@@ -5592,17 +5592,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_459_xblight",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "                 ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -5614,17 +5608,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_422_streasure",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "                 \\,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -5636,24 +5624,12 @@
         "hidden": true,
         "alias": "trap_437_poachr#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_437_poachr",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 84,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "alias",
-            "value": 0.0,
-            "valueStr": "trap_437_poachr#1"
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -5664,24 +5640,12 @@
         "hidden": true,
         "alias": "trap_437_poachr#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_437_poachr",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 84,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "alias",
-            "value": 0.0,
-            "valueStr": "trap_437_poachr#2"
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -5692,24 +5656,12 @@
         "hidden": true,
         "alias": "trap_437_poachr#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_437_poachr",
-          "level": 2,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 84,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "alias",
-            "value": 0.0,
-            "valueStr": "trap_437_poachr#2"
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -5720,24 +5672,12 @@
         "hidden": true,
         "alias": "trap_437_poachr#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_437_poachr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 84,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "alias",
-            "value": 0.0,
-            "valueStr": "trap_437_poachr#2"
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [

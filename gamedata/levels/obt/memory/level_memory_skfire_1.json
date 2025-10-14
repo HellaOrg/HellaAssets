@@ -3433,33 +3433,21 @@
         "hidden": false,
         "alias": "char_166_skfire",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_166_skfire",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": " @           \f   \b  \f \f         (         char_166_skfire    char_166_skfire    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_500_noirc",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_500_noirc",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": -1,
+        "skinId": "   4   \f  \f    \b \f      2         char_500_noirc     char_500_noirc             \b \f          \f      @           \f   \b  \f \f         (         char_166_skfire    char_166_skfire    ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3467,16 +3455,10 @@
         "hidden": false,
         "alias": "char_120_hibisc",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_120_hibisc",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " $,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3484,17 +3466,11 @@
         "hidden": false,
         "alias": "char_122_beagle",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_122_beagle",
-          "level": 30,
-          "phase": "PHASE_1",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 4,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "   4       ",
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

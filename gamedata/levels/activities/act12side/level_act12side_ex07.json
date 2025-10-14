@@ -7909,24 +7909,12 @@
         "hidden": false,
         "alias": "trap_042_tidectrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 64,
+        "mainSkillLvl": 2,
+        "skinId": "      @   `              ,
         "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "sea_drown[enemy].damage",
-            "value": 14000.0,
-            "valueStr": null
-          }
-        ]
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [
@@ -7938,16 +7926,10 @@
         "hidden": false,
         "alias": "trap_040_canoe#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_040_canoe",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
+        "inst": null,
+        "skillIndex": 8,
         "mainSkillLvl": 1,
-        "skinId": null,
+        "skinId": "   \b   $   d,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -7956,16 +7938,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_046_oxygen",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

@@ -2441,17 +2441,11 @@
         "hidden": false,
         "alias": "trap_005_sensor#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_005_sensor",
-          "level": 60,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 44,
+        "mainSkillLvl": 0,
+        "skinId": "      ,   H           \b \f  \b \b         \b \f \b  \b   <         trap_005_sensor    trap_005_sensor#1                  $       \b        \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

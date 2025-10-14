@@ -3980,39 +3980,12 @@
         "hidden": false,
         "alias": "trap_086_larva#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_086_larva",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "branch_id",
-            "value": 0.0,
-            "valueStr": "route1"
-          },
-          {
-            "key": "action_index",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_low",
-            "value": 100.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_high",
-            "value": 50.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
+        "skinId": "          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -4023,39 +3996,12 @@
         "hidden": false,
         "alias": "trap_086_larva#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_086_larva",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "branch_id",
-            "value": 0.0,
-            "valueStr": "route2"
-          },
-          {
-            "key": "action_index",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_low",
-            "value": 100.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_high",
-            "value": 50.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
+        "skinId": "          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -4066,39 +4012,12 @@
         "hidden": false,
         "alias": "trap_086_larva#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_086_larva",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "branch_id",
-            "value": 0.0,
-            "valueStr": "route3"
-          },
-          {
-            "key": "action_index",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_low",
-            "value": 100.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_high",
-            "value": 50.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
+        "skinId": "          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -4109,39 +4028,12 @@
         "hidden": false,
         "alias": "trap_086_larva#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_086_larva",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "branch_id",
-            "value": 0.0,
-            "valueStr": "route4"
-          },
-          {
-            "key": "action_index",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_low",
-            "value": 100.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_high",
-            "value": 50.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
+        "skinId": "          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -4152,39 +4044,12 @@
         "hidden": false,
         "alias": "trap_086_larva#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_086_larva",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "branch_id",
-            "value": 0.0,
-            "valueStr": "route5"
-          },
-          {
-            "key": "action_index",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_low",
-            "value": 100.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_high",
-            "value": 50.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
+        "skinId": "          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -4195,39 +4060,12 @@
         "hidden": false,
         "alias": "trap_086_larva#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_086_larva",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "branch_id",
-            "value": 0.0,
-            "valueStr": "route6"
-          },
-          {
-            "key": "action_index",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_low",
-            "value": 100.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_high",
-            "value": 50.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
+        "skinId": "          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -4238,39 +4076,12 @@
         "hidden": false,
         "alias": "trap_086_larva#7",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_086_larva",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "branch_id",
-            "value": 0.0,
-            "valueStr": "route7"
-          },
-          {
-            "key": "action_index",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_low",
-            "value": 100.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_high",
-            "value": 50.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
+        "skinId": "          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -4281,39 +4092,12 @@
         "hidden": false,
         "alias": "trap_086_larva#8",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_086_larva",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "branch_id",
-            "value": 0.0,
-            "valueStr": "route8"
-          },
-          {
-            "key": "action_index",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_low",
-            "value": 100.0,
-            "valueStr": null
-          },
-          {
-            "key": "polluted_damage_high",
-            "value": 50.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 192,
+        "mainSkillLvl": 0,
+        "skinId": "          ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [

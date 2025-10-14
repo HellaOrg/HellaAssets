@@ -7568,17 +7568,11 @@
         "hidden": false,
         "alias": "char_242_otter",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_242_otter",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "    $   H           \b \f  \b \b         ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -7590,16 +7584,10 @@
         "hidden": false,
         "alias": "char_248_mgllan",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_248_mgllan",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 2,
+        "skinId": " \f   \b  \f \f         (         char_248_mgllan    char_248_mgllan    ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

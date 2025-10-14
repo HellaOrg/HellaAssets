@@ -11406,17 +11406,11 @@
         "hidden": true,
         "alias": "trap_412_redtower#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_412_redtower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -11428,17 +11422,11 @@
         "hidden": true,
         "alias": "trap_412_redtower#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_412_redtower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -11450,17 +11438,11 @@
         "hidden": true,
         "alias": "trap_412_redtower#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_412_redtower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

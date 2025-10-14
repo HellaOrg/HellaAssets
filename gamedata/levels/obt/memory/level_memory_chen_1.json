@@ -2732,16 +2732,10 @@
         "hidden": false,
         "alias": "char_120_hibisc",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_120_hibisc",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 30,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": " \f   \b  \f \f      7            char_120_hibisc    char_120_hibisc    ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2749,16 +2743,10 @@
         "hidden": false,
         "alias": "char_010_chen",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_010_chen",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 2,
+        "skinId": " ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2766,16 +2754,10 @@
         "hidden": false,
         "alias": "char_171_bldsk",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_171_bldsk",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 1,
+        "skinId": " @,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

@@ -5142,17 +5142,11 @@
         "hidden": false,
         "alias": "trap_062_magicstart#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_062_magicstart",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
+        "skinId": "            <           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -5164,17 +5158,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_063_magicturn",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": -1,
+        "skinId": "   \f                  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

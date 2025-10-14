@@ -2529,16 +2529,10 @@
         "hidden": false,
         "alias": "trap_001_crate#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_001_crate",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      8   \b \f  \b \b          ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2551,16 +2545,10 @@
         "hidden": false,
         "alias": "trap_001_crate#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_001_crate",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -2570,16 +2558,10 @@
         "hidden": false,
         "alias": "char_120_hibisc",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_120_hibisc",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "      \f \b            7   2         char_120_hibisc    char_120_hibisc    ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2587,16 +2569,10 @@
         "hidden": false,
         "alias": "char_212_ansel",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_212_ansel",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2604,16 +2580,10 @@
         "hidden": false,
         "alias": "char_208_melan",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_208_melan",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " 6,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2621,16 +2591,10 @@
         "hidden": false,
         "alias": "char_286_cast3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_286_cast3",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": -1,
+        "skinId": "   <        \b   \f           2         char_286_cast3     char_286_cast3  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2638,16 +2602,10 @@
         "hidden": false,
         "alias": "char_356_broca",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_356_broca",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 1,
+        "skinId": " \f   \b  \f \f         2         char_356_broca     char_356_broca             \f  \b    ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2655,16 +2613,10 @@
         "hidden": false,
         "alias": "char_281_popka",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_281_popka",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 5
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2672,16 +2624,10 @@
         "hidden": false,
         "alias": "char_127_estell",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_127_estell",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 3
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 0,
+        "skinId": " ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2689,16 +2635,10 @@
         "hidden": false,
         "alias": "char_337_utage",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_337_utage",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 3
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 1,
+        "skinId": " b,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2706,16 +2646,10 @@
         "hidden": false,
         "alias": "char_289_gyuki",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_289_gyuki",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 3
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": 1,
+        "skinId": " ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

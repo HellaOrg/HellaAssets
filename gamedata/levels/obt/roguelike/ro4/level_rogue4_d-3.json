@@ -18444,24 +18444,12 @@
         "hidden": false,
         "alias": "trap_766_duelwal#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_766_duelwal",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "group_id",
-            "value": 1.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 64,
+        "mainSkillLvl": 0,
+        "skinId": "          @   `            ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -18472,24 +18460,12 @@
         "hidden": false,
         "alias": "trap_766_duelwal#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_766_duelwal",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "group_id",
-            "value": 1.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 64,
+        "mainSkillLvl": 0,
+        "skinId": "          @   `           t,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -18500,24 +18476,12 @@
         "hidden": false,
         "alias": "trap_766_duelwal#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_766_duelwal",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "group_id",
-            "value": 2.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 64,
+        "mainSkillLvl": 0,
+        "skinId": "          @   `           ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -18528,24 +18492,12 @@
         "hidden": false,
         "alias": "trap_766_duelwal#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_766_duelwal",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "group_id",
-            "value": 2.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 64,
+        "mainSkillLvl": 0,
+        "skinId": "          @   `           T,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -18556,24 +18508,12 @@
         "hidden": false,
         "alias": "trap_766_duelwal#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_766_duelwal",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "group_id",
-            "value": 3.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 64,
+        "mainSkillLvl": 0,
+        "skinId": "          @   `           ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -18584,24 +18524,12 @@
         "hidden": false,
         "alias": "trap_766_duelwal#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_766_duelwal",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "group_id",
-            "value": 3.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 64,
+        "mainSkillLvl": 0,
+        "skinId": "          @   `           4,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -18612,44 +18540,12 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_767_duelcdt",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
+        "inst": null,
+        "skillIndex": 228,
         "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "tile_col_begin_stage_2",
-            "value": 10.0,
-            "valueStr": null
-          },
-          {
-            "key": "tile_col_end_stage_2",
-            "value": 17.0,
-            "valueStr": null
-          },
-          {
-            "key": "is_duel_2v2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "tile_col_begin_stage_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "tile_col_end_stage_1",
-            "value": 8.0,
-            "valueStr": null
-          }
-        ]
+        "skinId": "         ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [

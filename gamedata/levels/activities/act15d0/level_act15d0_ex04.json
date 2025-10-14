@@ -4209,16 +4209,10 @@
         "hidden": false,
         "alias": "trap_025_prison#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_025_prison",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8   \b \f  \b \b         |,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4231,16 +4225,10 @@
         "hidden": false,
         "alias": "trap_025_prison#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_025_prison",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

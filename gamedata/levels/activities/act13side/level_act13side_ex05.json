@@ -2855,16 +2855,10 @@
         "hidden": false,
         "alias": "trap_049_candle#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_049_candle",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "      ,   \b \f \b  \b            trap_049_candle    trap_049_candle#1              $       \b        \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

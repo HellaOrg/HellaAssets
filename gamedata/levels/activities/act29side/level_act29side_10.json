@@ -7099,16 +7099,10 @@
         "hidden": false,
         "alias": "trap_136_portlexi#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_136_portlexi",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      4   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -7121,17 +7115,11 @@
         "hidden": false,
         "alias": "trap_136_portlexi#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_136_portlexi",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            <           l,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -7143,17 +7131,11 @@
         "hidden": false,
         "alias": "trap_134_condtr#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_134_condtr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -7165,17 +7147,11 @@
         "hidden": false,
         "alias": "trap_134_condtr#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_134_condtr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -7188,16 +7164,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_135_portlent",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "      ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

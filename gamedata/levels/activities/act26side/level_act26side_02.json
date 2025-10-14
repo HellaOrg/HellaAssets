@@ -2198,17 +2198,11 @@
         "hidden": false,
         "alias": "trap_117_ltstat#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_117_ltstat",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            8           $,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -2220,17 +2214,11 @@
         "hidden": false,
         "alias": "trap_117_ltstat#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_117_ltstat",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2243,17 +2231,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_119_rdrepair",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "   \b   \f           \b,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

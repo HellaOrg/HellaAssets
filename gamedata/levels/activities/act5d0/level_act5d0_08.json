@@ -3118,16 +3118,10 @@
         "hidden": false,
         "alias": "trap_009_battery#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_009_battery",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 8,
+        "mainSkillLvl": -1,
+        "skinId": "   \b   (   |,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

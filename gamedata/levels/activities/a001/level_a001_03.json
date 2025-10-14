@@ -5508,16 +5508,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_263_skadi",
-          "level": 30,
-          "phase": "PHASE_1",
-          "favorPoint": 15,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 6,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "  \b \f  \b \b         \f   \b  \f \f                  char_263_skadi         $       \b        \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

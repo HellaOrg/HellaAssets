@@ -6383,17 +6383,11 @@
         "hidden": true,
         "alias": "trap_411_xbiron#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_411_xbiron",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6405,17 +6399,11 @@
         "hidden": true,
         "alias": "trap_422_streasure#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_422_streasure",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6427,17 +6415,11 @@
         "hidden": true,
         "alias": "trap_422_streasure#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_422_streasure",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6449,17 +6431,11 @@
         "hidden": true,
         "alias": "trap_411_xbiron#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_411_xbiron",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6471,17 +6447,11 @@
         "hidden": true,
         "alias": "trap_411_xbiron#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_411_xbiron",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6493,17 +6463,11 @@
         "hidden": true,
         "alias": "trap_411_xbiron#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_411_xbiron",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6515,17 +6479,11 @@
         "hidden": true,
         "alias": "trap_411_xbiron#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_411_xbiron",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6537,17 +6495,11 @@
         "hidden": true,
         "alias": "trap_411_xbiron#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_411_xbiron",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6559,17 +6511,11 @@
         "hidden": true,
         "alias": "trap_411_xbiron#8",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_411_xbiron",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6581,17 +6527,11 @@
         "hidden": true,
         "alias": "trap_411_xbiron#10",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_411_xbiron",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6603,17 +6543,11 @@
         "hidden": true,
         "alias": "trap_411_xbiron#9",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_411_xbiron",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -6625,17 +6559,11 @@
         "hidden": true,
         "alias": "trap_411_xbiron#7",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_411_xbiron",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

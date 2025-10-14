@@ -1637,51 +1637,33 @@
         "hidden": false,
         "alias": "char_4107_vrdant#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4107_vrdant",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": " D           \f   \b  \f \f         2         char_4107_vrdant       char_4107_vrdant#0     ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_181_flower#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_181_flower",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": " 4           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_338_iris#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_338_iris",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": " 4           0,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

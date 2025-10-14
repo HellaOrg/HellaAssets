@@ -14087,44 +14087,12 @@
         "hidden": true,
         "alias": "trap_179_muctrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_179_muctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 232,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "ability_name",
-            "value": 0.0,
-            "valueStr": "survive"
-          },
-          {
-            "key": "time_x1",
-            "value": 120.0,
-            "valueStr": null
-          },
-          {
-            "key": "time_x2",
-            "value": 120.0,
-            "valueStr": null
-          },
-          {
-            "key": "clear_id",
-            "value": 0.0,
-            "valueStr": "trap_062_magicstart|trap_057_wpnsts"
-          },
-          {
-            "key": "basic",
-            "value": 1.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -14135,39 +14103,12 @@
         "hidden": true,
         "alias": "trap_179_muctrl#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_179_muctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 164,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "ability_name",
-            "value": 0.0,
-            "valueStr": "survive"
-          },
-          {
-            "key": "time_x1",
-            "value": 120.0,
-            "valueStr": null
-          },
-          {
-            "key": "time_x2",
-            "value": 180.0,
-            "valueStr": null
-          },
-          {
-            "key": "rest_time",
-            "value": 10.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -14178,17 +14119,11 @@
         "hidden": true,
         "alias": "trap_062_magicstart#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_062_magicstart",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -14200,17 +14135,11 @@
         "hidden": true,
         "alias": "trap_063_magicturn#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_063_magicturn",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -14222,17 +14151,11 @@
         "hidden": true,
         "alias": "trap_062_magicstart#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_062_magicstart",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -14244,79 +14167,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 500,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 0.6,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut"
-          },
-          {
-            "key": "token_group_2",
-            "value": 0.25,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_2",
-            "value": 0.0,
-            "valueStr": "trap_174_smfrut"
-          },
-          {
-            "key": "token_group_3",
-            "value": 0.15,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_3",
-            "value": 0.0,
-            "valueStr": "trap_175_frfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -14327,79 +14183,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 500,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 0.6,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut"
-          },
-          {
-            "key": "token_group_2",
-            "value": 0.25,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_2",
-            "value": 0.0,
-            "valueStr": "trap_174_smfrut"
-          },
-          {
-            "key": "token_group_3",
-            "value": 0.15,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_3",
-            "value": 0.0,
-            "valueStr": "trap_175_frfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -14410,79 +14199,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 500,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 0.6,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut"
-          },
-          {
-            "key": "token_group_2",
-            "value": 0.25,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_2",
-            "value": 0.0,
-            "valueStr": "trap_174_smfrut"
-          },
-          {
-            "key": "token_group_3",
-            "value": 0.15,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_3",
-            "value": 0.0,
-            "valueStr": "trap_175_frfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -14493,79 +14215,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 500,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 0.6,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut"
-          },
-          {
-            "key": "token_group_2",
-            "value": 0.25,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_2",
-            "value": 0.0,
-            "valueStr": "trap_174_smfrut"
-          },
-          {
-            "key": "token_group_3",
-            "value": 0.15,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_3",
-            "value": 0.0,
-            "valueStr": "trap_175_frfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -14576,79 +14231,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 500,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 0.6,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut"
-          },
-          {
-            "key": "token_group_2",
-            "value": 0.25,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_2",
-            "value": 0.0,
-            "valueStr": "trap_174_smfrut"
-          },
-          {
-            "key": "token_group_3",
-            "value": 0.15,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_3",
-            "value": 0.0,
-            "valueStr": "trap_175_frfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -14659,79 +14247,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 500,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 0.6,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut"
-          },
-          {
-            "key": "token_group_2",
-            "value": 0.25,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_2",
-            "value": 0.0,
-            "valueStr": "trap_174_smfrut"
-          },
-          {
-            "key": "token_group_3",
-            "value": 0.15,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_3",
-            "value": 0.0,
-            "valueStr": "trap_175_frfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -14742,79 +14263,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#7",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 500,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 0.6,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut"
-          },
-          {
-            "key": "token_group_2",
-            "value": 0.25,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_2",
-            "value": 0.0,
-            "valueStr": "trap_174_smfrut"
-          },
-          {
-            "key": "token_group_3",
-            "value": 0.15,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_3",
-            "value": 0.0,
-            "valueStr": "trap_175_frfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -14825,79 +14279,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#8",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 500,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 0.6,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut"
-          },
-          {
-            "key": "token_group_2",
-            "value": 0.25,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_2",
-            "value": 0.0,
-            "valueStr": "trap_174_smfrut"
-          },
-          {
-            "key": "token_group_3",
-            "value": 0.15,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_3",
-            "value": 0.0,
-            "valueStr": "trap_175_frfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -14908,59 +14295,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#9",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 356,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut|trap_173_slfrut|trap_173_slfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -14971,79 +14311,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#10",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 596,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 0.4,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut|trap_173_slfrut|trap_173_slfrut"
-          },
-          {
-            "key": "token_group_2",
-            "value": 0.25,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_2",
-            "value": 0.0,
-            "valueStr": "trap_174_smfrut|trap_174_smfrut|trap_174_smfrut"
-          },
-          {
-            "key": "token_group_3",
-            "value": 0.35,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_3",
-            "value": 0.0,
-            "valueStr": "trap_175_frfrut|trap_175_frfrut|trap_175_frfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -15054,79 +14327,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#11",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 596,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 0.4,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut|trap_173_slfrut|trap_173_slfrut"
-          },
-          {
-            "key": "token_group_2",
-            "value": 0.25,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_2",
-            "value": 0.0,
-            "valueStr": "trap_174_smfrut|trap_174_smfrut|trap_174_smfrut"
-          },
-          {
-            "key": "token_group_3",
-            "value": 0.35,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_3",
-            "value": 0.0,
-            "valueStr": "trap_175_frfrut|trap_175_frfrut|trap_175_frfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -15137,79 +14343,12 @@
         "hidden": true,
         "alias": "trap_178_trrbox#12",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_178_trrbox",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 596,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "cost_group_1",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_1",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "token_group_1",
-            "value": 0.4,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_1",
-            "value": 0.0,
-            "valueStr": "trap_173_slfrut|trap_173_slfrut|trap_173_slfrut"
-          },
-          {
-            "key": "token_group_2",
-            "value": 0.25,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_2",
-            "value": 0.0,
-            "valueStr": "trap_174_smfrut|trap_174_smfrut|trap_174_smfrut"
-          },
-          {
-            "key": "token_group_3",
-            "value": 0.35,
-            "valueStr": null
-          },
-          {
-            "key": "token_cnt_3",
-            "value": 0.0,
-            "valueStr": "trap_175_frfrut|trap_175_frfrut|trap_175_frfrut"
-          },
-          {
-            "key": "cost_group_2",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_group_3",
-            "value": 1.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_2",
-            "value": 0.0,
-            "valueStr": null
-          },
-          {
-            "key": "cost_value_3",
-            "value": 0.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -15220,17 +14359,11 @@
         "hidden": true,
         "alias": "trap_014_tower#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 3,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -15242,17 +14375,11 @@
         "hidden": true,
         "alias": "trap_014_tower#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -15264,17 +14391,11 @@
         "hidden": true,
         "alias": "trap_014_tower#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -15286,17 +14407,11 @@
         "hidden": true,
         "alias": "trap_014_tower#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -15308,17 +14423,11 @@
         "hidden": true,
         "alias": "trap_014_tower#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -15330,17 +14439,11 @@
         "hidden": true,
         "alias": "trap_014_tower#6",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -15353,17 +14456,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_173_slfrut",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": -1,
+        "skinId": "   \f           `,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -15371,17 +14468,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_174_smfrut",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": -1,
+        "skinId": "   \f           \f,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -15389,17 +14480,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_175_frfrut",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": -1,
+        "skinId": "   \f           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -15407,17 +14492,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_176_frutwn",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": -1,
+        "skinId": "   \f           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -15425,17 +14504,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_177_tentcl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": -1,
+        "skinId": "   \f           X,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

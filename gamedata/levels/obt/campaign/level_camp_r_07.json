@@ -28701,16 +28701,10 @@
         "hidden": false,
         "alias": "trap_042_tidectrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_042_tidectrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 2,
+        "skinId": "      0        ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -28723,16 +28717,10 @@
         "hidden": false,
         "alias": "trap_014_tower#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      8   \b \f  \b \b         (,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -28745,16 +28733,10 @@
         "hidden": false,
         "alias": "trap_014_tower#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_014_tower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -28768,16 +28750,10 @@
         "hidden": false,
         "alias": "trap_040_canoe#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_040_canoe",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "      ,   \b \f \b  \b            trap_040_canoe     trap_040_canoe#1               $       \b        \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

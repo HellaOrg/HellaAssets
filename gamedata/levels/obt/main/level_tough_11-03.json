@@ -3554,17 +3554,11 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4045_heidi",
-          "level": 40,
-          "phase": "PHASE_2",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
+        "inst": null,
+        "skillIndex": 32,
         "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "skinId": "                  \b \f  \b \b         >,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

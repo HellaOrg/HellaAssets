@@ -3364,29 +3364,12 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_121_gractrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "gractrl_s_ally[equal].attack_speed",
-            "value": 60.0,
-            "valueStr": null
-          },
-          {
-            "key": "gractrl_s_ally[opposite].attack_speed",
-            "value": -60.0,
-            "valueStr": null
-          }
-        ]
+        "inst": null,
+        "skillIndex": 136,
+        "mainSkillLvl": 0,
+        "skinId": "            ,
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [

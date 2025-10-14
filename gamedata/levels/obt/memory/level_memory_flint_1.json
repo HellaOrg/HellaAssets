@@ -3566,16 +3566,10 @@
         "hidden": false,
         "alias": "trap_013_blower#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_013_blower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8   \b \f  \b \b         ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3588,16 +3582,10 @@
         "hidden": false,
         "alias": "trap_013_blower#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_013_blower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3610,17 +3598,11 @@
         "hidden": false,
         "alias": "trap_013_blower#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_013_blower",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            8           4,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -3629,17 +3611,11 @@
         "hidden": false,
         "alias": "char_415_flint",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_415_flint",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": " @           \f   \b  \f \f         (         char_415_flint     char_415_flint     $        \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

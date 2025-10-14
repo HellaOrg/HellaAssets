@@ -2351,16 +2351,16 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "sleepImmune": {
             "m_defined": true,
-            "m_value": false
+            "m_value": true
           },
           "frozenImmune": {
             "m_defined": true,
@@ -2371,7 +2371,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
@@ -2849,34 +2849,22 @@
         "hidden": false,
         "alias": "char_226_hmau",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_226_hmau",
-          "level": 1,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": " @           \f   \b  \f \f         2      \r   char_226_hmau   \r   char_226_hmau  ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_225_haak",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_225_haak",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 2,
+        "skinId": " 4           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2886,17 +2874,11 @@
         "hidden": false,
         "alias": "trap_026_inverter#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_026_inverter",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      0           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

@@ -6203,17 +6203,11 @@
             "level": 3
           }
         ],
-        "inst": {
-          "characterKey": "char_4133_logos",
-          "level": 90,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 88,
+        "mainSkillLvl": 0,
+        "skinId": "  D   X         ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -6227,17 +6221,11 @@
         "hidden": false,
         "alias": "trap_162_lrctrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_162_lrctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "         0           @,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

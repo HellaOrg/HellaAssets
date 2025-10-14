@@ -3361,17 +3361,11 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_122_beagle",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 1
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "               ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3383,17 +3377,11 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_002_amiya",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 1
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": "               ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3405,17 +3393,11 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_120_hibisc",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 1
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": " \f                 ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3427,17 +3409,11 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_282_catap",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 1
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": " \f                 (,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -3451,39 +3427,12 @@
         "hidden": true,
         "alias": "trap_179_muctrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_179_muctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 156,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "ability_name",
-            "value": 0.0,
-            "valueStr": "survive"
-          },
-          {
-            "key": "time_x1",
-            "value": 30.0,
-            "valueStr": null
-          },
-          {
-            "key": "time_x2",
-            "value": 30.0,
-            "valueStr": null
-          },
-          {
-            "key": "basic",
-            "value": 1.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       },
       {
         "position": {
@@ -3494,49 +3443,12 @@
         "hidden": true,
         "alias": "trap_179_muctrl#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_179_muctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 244,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [
-          {
-            "key": "ability_name",
-            "value": 0.0,
-            "valueStr": "target"
-          },
-          {
-            "key": "time_x",
-            "value": 120.0,
-            "valueStr": null
-          },
-          {
-            "key": "kill_y1",
-            "value": 3.0,
-            "valueStr": null
-          },
-          {
-            "key": "kill_y2",
-            "value": 5.0,
-            "valueStr": null
-          },
-          {
-            "key": "enemy_key",
-            "value": 0.0,
-            "valueStr": "enemy_1030_wteeth"
-          },
-          {
-            "key": "rest_time",
-            "value": 10.0,
-            "valueStr": null
-          }
-        ]
+        "tmplId": "",
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [
@@ -3544,68 +3456,44 @@
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_124_kroos",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 0,
+        "skinId": "            \f   \b  \f \f      2   2         char_124_kroos     $       \b        \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_150_snakek",
-          "level": 60,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 1
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 24,
+        "mainSkillLvl": 1,
+        "skinId": "             \f \b            <   2         char_150_snakek              \f          \b              \f   \b  \f \f      2   2         char_124_kroos     $       \b        \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_117_myrrh",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 1
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 1,
+        "skinId": " \f           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": true,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_126_shotst",
-          "level": 50,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 1
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 1,
+        "skinId": " \f           V,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -3615,17 +3503,11 @@
         "hidden": true,
         "alias": "trap_201_muulco",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_201_muulco",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "      \f      ,           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

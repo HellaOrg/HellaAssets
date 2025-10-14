@@ -3402,17 +3402,11 @@
         "hidden": true,
         "alias": "char_173_slchan",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_173_slchan",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "       $   H           \b \f  \b \b         ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3424,17 +3418,11 @@
         "hidden": false,
         "alias": "char_174_slbell",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_174_slbell",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "    @           x,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -3446,17 +3434,11 @@
         "hidden": true,
         "alias": "char_422_aurora",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_422_aurora",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": "       @           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -3468,17 +3450,11 @@
         "hidden": false,
         "alias": "char_4013_kjera",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4013_kjera",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": " @           \f   \b  \f \f         2         char_4013_kjera    char_4013_kjera    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

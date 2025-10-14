@@ -3174,16 +3174,10 @@
         "hidden": false,
         "alias": "trap_043_dupilr#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_043_dupilr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      8   \b \f  \b \b         |,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3196,16 +3190,10 @@
         "hidden": false,
         "alias": "trap_043_dupilr#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_043_dupilr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3218,16 +3206,10 @@
         "hidden": false,
         "alias": "trap_043_dupilr#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_043_dupilr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   <,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -3240,16 +3222,10 @@
         "hidden": false,
         "alias": "trap_043_dupilr#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_043_dupilr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

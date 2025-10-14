@@ -4739,16 +4739,10 @@
         "hidden": false,
         "alias": "trap_007_ballis#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_007_ballis",
-          "level": 3,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8   \b \f  \b \b      \t   4,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4761,16 +4755,10 @@
         "hidden": false,
         "alias": "trap_007_ballis#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_007_ballis",
-          "level": 3,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4783,16 +4771,10 @@
         "hidden": false,
         "alias": "trap_007_ballis#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_007_ballis",
-          "level": 3,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      0   4,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4805,16 +4787,10 @@
         "hidden": false,
         "alias": "trap_007_ballis#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_007_ballis",
-          "level": 3,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4827,16 +4803,10 @@
         "hidden": false,
         "alias": "trap_007_ballis#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_007_ballis",
-          "level": 3,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      0   |,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -4850,16 +4820,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_006_antidr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 4,
+        "mainSkillLvl": 0,
+        "skinId": "      ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

@@ -4261,12 +4261,12 @@
             "m_value": false
           },
           "silenceImmune": {
-            "m_defined": true,
-            "m_value": true
-          },
-          "sleepImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "sleepImmune": {
+            "m_defined": true,
+            "m_value": true
           },
           "frozenImmune": {
             "m_defined": false,
@@ -5752,16 +5752,10 @@
         "hidden": false,
         "alias": "trap_027_stone#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_027_stone",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "      8   \b \f  \b \b      \b   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5774,16 +5768,10 @@
         "hidden": false,
         "alias": "trap_027_stone#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_027_stone",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5796,16 +5784,10 @@
         "hidden": false,
         "alias": "trap_027_stone#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_027_stone",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   <,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5818,16 +5800,10 @@
         "hidden": false,
         "alias": "trap_027_stone#4",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_027_stone",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -5840,16 +5816,10 @@
         "hidden": false,
         "alias": "trap_027_stone#5",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_027_stone",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

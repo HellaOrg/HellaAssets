@@ -3979,16 +3979,10 @@
         "hidden": false,
         "alias": "trap_111_wdfarm#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_111_wdfarm",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "   $   @   \b \f  \b \b         \b \f \b  \b            trap_111_wdfarm    trap_111_wdfarm#1                  $       \b        \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -4001,17 +3995,11 @@
         "hidden": false,
         "alias": "trap_111_wdfarm#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_111_wdfarm",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

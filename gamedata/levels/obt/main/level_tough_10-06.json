@@ -4923,17 +4923,11 @@
         "hidden": false,
         "alias": "trap_058_gunctrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_058_gunctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 3,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 32,
+        "mainSkillLvl": 0,
+        "skinId": "        @                \b \f \b  \b            trap_058_gunctrl       trap_058_gunctrl#1                 $       \b        \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

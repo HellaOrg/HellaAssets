@@ -3063,17 +3063,11 @@
         "hidden": false,
         "alias": "trap_081_turngear",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_081_turngear",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "      0           |,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

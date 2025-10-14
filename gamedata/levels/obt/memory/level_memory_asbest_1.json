@@ -3682,51 +3682,33 @@
         "hidden": false,
         "alias": "char_378_asbest",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_378_asbest",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": " @           \f   \b  \f \f         (         char_378_asbest    char_378_asbest    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_285_medic2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_285_medic2",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 4,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
+        "skinId": "   <       ",
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_502_nblade",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_502_nblade",
-          "level": 30,
-          "phase": "PHASE_0",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 4,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": -1,
+        "skinId": "   0       ",
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

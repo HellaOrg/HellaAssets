@@ -1966,17 +1966,11 @@
         "hidden": false,
         "alias": "char_475_akafyu",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_475_akafyu",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 1,
+        "skinId": " @           \f   \b  \f \f         2         char_475_akafyu    char_475_akafyu    ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

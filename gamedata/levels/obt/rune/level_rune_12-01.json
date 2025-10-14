@@ -10039,12 +10039,12 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "sleepImmune": {
             "m_defined": true,
@@ -10052,14 +10052,14 @@
           },
           "frozenImmune": {
             "m_defined": true,
-            "m_value": false
+            "m_value": true
           },
           "levitateImmune": {
             "m_defined": true,
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
@@ -11781,17 +11781,11 @@
         "hidden": false,
         "alias": "trap_058_gunctrl#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_058_gunctrl",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 3,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "       4           0,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

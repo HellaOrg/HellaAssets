@@ -2132,17 +2132,11 @@
         "hidden": false,
         "alias": "char_301_cutter#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_301_cutter",
-          "level": 60,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 1,
+        "skinId": "  $   H           \b \f  \b \b          ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -2156,16 +2150,10 @@
         "hidden": false,
         "alias": "trap_061_creep#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_061_creep",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "      ,        ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2178,16 +2166,10 @@
         "hidden": true,
         "alias": "trap_061_creep#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_061_creep",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2200,16 +2182,10 @@
         "hidden": true,
         "alias": "trap_061_creep#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_061_creep",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 3,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 12,
+        "mainSkillLvl": 0,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -2219,34 +2195,22 @@
         "hidden": false,
         "alias": "char_4042_lumen#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4042_lumen",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 2,
+        "skinId": " @           \f   \b  \f \f         2         char_4042_lumen    char_4042_lumen#0  ( $      \b       \f          ?  ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
         "hidden": false,
         "alias": "char_4009_irene#0",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_4009_irene",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 2,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 2,
+        "skinId": " 4           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

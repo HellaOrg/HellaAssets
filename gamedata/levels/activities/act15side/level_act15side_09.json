@@ -6712,8 +6712,8 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
-            "m_value": true
+            "m_defined": false,
+            "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
@@ -6732,8 +6732,8 @@
             "m_value": true
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
-            "m_value": false
+            "m_defined": true,
+            "m_value": true
           },
           "fearedImmune": {
             "m_defined": false,
@@ -7107,8 +7107,8 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
-            "m_value": true
+            "m_defined": false,
+            "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
@@ -7127,8 +7127,8 @@
             "m_value": true
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
-            "m_value": false
+            "m_defined": true,
+            "m_value": true
           },
           "fearedImmune": {
             "m_defined": false,
@@ -8771,16 +8771,10 @@
         "hidden": true,
         "alias": "trap_056_sfsuifire#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_056_sfsuifire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -8793,16 +8787,10 @@
         "hidden": true,
         "alias": "trap_056_sfsuifire#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_056_sfsuifire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": -1,
+        "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -8815,17 +8803,11 @@
         "hidden": true,
         "alias": "trap_056_sfsuifire#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_056_sfsuifire",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": -1,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

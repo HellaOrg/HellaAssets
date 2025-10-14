@@ -4371,8 +4371,8 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
-            "m_value": true
+            "m_defined": false,
+            "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
@@ -4391,8 +4391,8 @@
             "m_value": true
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
-            "m_value": false
+            "m_defined": true,
+            "m_value": true
           },
           "fearedImmune": {
             "m_defined": false,
@@ -4865,16 +4865,16 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "sleepImmune": {
             "m_defined": true,
-            "m_value": false
+            "m_value": true
           },
           "frozenImmune": {
             "m_defined": true,
@@ -4885,7 +4885,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
@@ -5720,17 +5720,11 @@
         "hidden": false,
         "alias": "trap_134_condtr#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_134_condtr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "        8           \b,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -5742,17 +5736,11 @@
         "hidden": false,
         "alias": "trap_136_portlexi#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_136_portlexi",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "         <           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -5764,17 +5752,11 @@
         "hidden": false,
         "alias": "trap_136_portlexi#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_136_portlexi",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "            <            ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -5787,17 +5769,11 @@
         "hidden": false,
         "alias": "trap_135_portlent#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_135_portlent",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      0           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

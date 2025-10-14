@@ -2359,16 +2359,10 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_264_f12yin",
-          "level": 80,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 1,
+        "skinId": " $   \b \f  \b \b         \f   \b  \f \f      P   2         char_264_f12yin        $       \b        \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -2383,16 +2377,10 @@
         "hidden": false,
         "alias": "trap_025_prison#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_025_prison",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       },
@@ -2405,16 +2393,10 @@
         "hidden": false,
         "alias": "trap_025_prison#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_025_prison",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": "   \f      0   ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

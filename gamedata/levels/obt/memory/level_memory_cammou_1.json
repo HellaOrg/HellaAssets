@@ -1404,17 +1404,11 @@
         "hidden": false,
         "alias": "char_208_melan",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_208_melan",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 50,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 10,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 48,
+        "mainSkillLvl": 0,
+        "skinId": "  0   T           \b \f  \b \b         \f   \b  \f \f      7   2         char_208_melan     char_208_melan                   \b \f          \f      0           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -1426,17 +1420,11 @@
         "hidden": false,
         "alias": "char_328_cammou",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_328_cammou",
-          "level": 20,
-          "phase": "PHASE_2",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 1,
-        "mainSkillLvl": 7,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": 1,
+        "skinId": " 0           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
@@ -1446,17 +1434,11 @@
         "hidden": false,
         "alias": "trap_009_battery#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_009_battery",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": -1,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 16,
+        "mainSkillLvl": -1,
+        "skinId": "   \f      0           l,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ]

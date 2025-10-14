@@ -2052,16 +2052,10 @@
         "hidden": false,
         "alias": "char_451_robin",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_451_robin",
-          "level": 70,
-          "phase": "PHASE_1",
-          "favorPoint": 38,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "    @   \b \f  \b \b         ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }
@@ -2074,16 +2068,10 @@
         "hidden": false,
         "alias": "char_123_fang",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "char_123_fang",
-          "level": 55,
-          "phase": "PHASE_1",
-          "favorPoint": 40,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 7,
-        "skinId": null,
+        "inst": null,
+        "skillIndex": 20,
+        "mainSkillLvl": 0,
+        "skinId": " \f   \b  \f \f      7   (      \r   char_123_fang   \r   char_123_fang  ( $      \b       \f          ?  ,
         "tmplId": null,
         "overrideSkillBlackboard": null
       }

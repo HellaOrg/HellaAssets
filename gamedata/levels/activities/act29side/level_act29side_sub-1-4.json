@@ -4252,16 +4252,16 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "silenceImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "sleepImmune": {
             "m_defined": true,
-            "m_value": false
+            "m_value": true
           },
           "frozenImmune": {
             "m_defined": true,
@@ -4272,7 +4272,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
@@ -5025,17 +5025,11 @@
         "hidden": false,
         "alias": "trap_134_condtr#2",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_134_condtr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "        8           \b,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -5047,17 +5041,11 @@
         "hidden": false,
         "alias": "trap_134_condtr#3",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_134_condtr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
+        "skinId": "        8           ,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -5069,17 +5057,11 @@
         "hidden": true,
         "alias": "trap_134_condtr#24",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_134_condtr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 3,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       },
       {
@@ -5091,17 +5073,11 @@
         "hidden": true,
         "alias": "trap_134_condtr#34",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_134_condtr",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 3,
+        "inst": null,
+        "skillIndex": 28,
+        "mainSkillLvl": 0,
         "skinId": "",
-        "tmplId": null,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],

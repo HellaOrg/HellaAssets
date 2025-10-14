@@ -1994,17 +1994,11 @@
         "hidden": false,
         "alias": "trap_124_eradio#1",
         "uniEquipIds": null,
-        "inst": {
-          "characterKey": "trap_124_eradio",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorPoint": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 2,
-        "skinId": "",
-        "tmplId": null,
+        "inst": null,
+        "skillIndex": 36,
+        "mainSkillLvl": 0,
+        "skinId": "        $   @           \b \f  \b \b         l,
+        "tmplId": "",
         "overrideSkillBlackboard": null
       }
     ],
