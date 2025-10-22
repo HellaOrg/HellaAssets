@@ -1,11 +1,9 @@
 import argparse
-import datetime
 import json
 import os
+import requests
 import shutil
 import subprocess
-
-import requests
 
 flatbuffer_list = [
     "activity_table",
