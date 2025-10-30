@@ -27,6 +27,32 @@
       }
     ,
     
+      "act3signvs": {
+        "id": "act3signvs",
+        "type": "CHECKIN_VS",
+        "displayType": "NONE",
+        "name": "May the Sunshine Still Sign-In Event",
+        "startTime": 1762426800,
+        "endTime": 1763290799,
+        "rewardEndTime": 1763290799,
+        "displayOnHome": false,
+        "hasStage": false,
+        "templateShopId": null,
+        "medalGroupId": null,
+        "ungroupedMedalIds": null,
+        "isReplicate": false,
+        "needFixedSync": false,
+        "trapDomainId": null,
+        "recType": "CAN_COMPLETE",
+        "isPageEntry": false,
+        "isMagnify": false,
+        "picGroup": [
+
+        ],
+        "usePicGroup": false
+      }
+    ,
+    
       "act49sign": {
         "id": "act49sign",
         "type": "CHECKIN_ONLY",
@@ -79,9 +105,35 @@
       }
     ,
     
+      "act1break": {
+        "id": "act1break",
+        "type": "VEC_BREAK_V2",
+        "displayType": "NONE",
+        "name": "Vector Breakthrough - Inorganic Matters",
+        "startTime": 1761836400,
+        "endTime": 1763636399,
+        "rewardEndTime": 1763895599,
+        "displayOnHome": true,
+        "hasStage": true,
+        "templateShopId": null,
+        "medalGroupId": "medalGroupActivityAct1break",
+        "ungroupedMedalIds": null,
+        "isReplicate": false,
+        "needFixedSync": false,
+        "trapDomainId": null,
+        "recType": "SPECIAL",
+        "isPageEntry": true,
+        "isMagnify": false,
+        "picGroup": [
+
+        ],
+        "usePicGroup": false
+      }
+    ,
+    
       "act42side": {
         "id": "act42side",
-        "type": 54,
+        "type": "TYPE_ACT42SIDE",
         "displayType": "NONE",
         "name": "The Masses' Travels",
         "startTime": 1760443200,
@@ -6007,6 +6059,15 @@
       }
     ,
     
+      "act3signvs": {
+        "actId": "act3signvs",
+        "isPopupAfterCheckin": false,
+        "showTopBarMenu": true,
+        "actTopBarColor": "6a8029",
+        "actTopBarText": "May the Sunshine Still Sign-In Event"
+      }
+    ,
+    
       "act49sign": {
         "actId": "act49sign",
         "isPopupAfterCheckin": false,
@@ -7025,6 +7086,15 @@
     
   },
   "zoneToActivity": {
+    
+      "act1break_zone1": "act1break"
+    ,
+    
+      "act1break_zone2": "act1break"
+    ,
+    
+      "act1break_zone3": "act1break"
+    ,
     
       "act42side_zone1": "act42side"
     ,
@@ -106204,6 +106274,299 @@
     },
     "CHECKIN_VS": {
       
+        "act3signvs": {
+          "checkInDict": {
+            
+              "1": {
+                "rewardList": [
+                  {
+                    "id": "ap_supply_lt_120",
+                    "count": 1,
+                    "type": "AP_SUPPLY"
+                  },
+                  {
+                    "id": "4001",
+                    "count": 30000,
+                    "type": "GOLD"
+                  }
+                ],
+                "order": 1
+              }
+            ,
+            
+              "2": {
+                "rewardList": [
+                  {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                  },
+                  {
+                    "id": "7001",
+                    "count": 5,
+                    "type": "TKT_RECRUIT"
+                  }
+                ],
+                "order": 2
+              }
+            ,
+            
+              "3": {
+                "rewardList": [
+                  {
+                    "id": "32001",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "2003",
+                    "count": 20,
+                    "type": "CARD_EXP"
+                  }
+                ],
+                "order": 3
+              }
+            ,
+            
+              "4": {
+                "rewardList": [
+                  {
+                    "id": "mod_update_token_1",
+                    "count": 10,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "ap_supply_lt_120",
+                    "count": 1,
+                    "type": "AP_SUPPLY"
+                  }
+                ],
+                "order": 4
+              }
+            ,
+            
+              "5": {
+                "rewardList": [
+                  {
+                    "id": "3301",
+                    "count": 30,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "7002",
+                    "count": 5,
+                    "type": "TKT_INST_FIN"
+                  }
+                ],
+                "order": 5
+              }
+            ,
+            
+              "6": {
+                "rewardList": [
+                  {
+                    "id": "3401",
+                    "count": 300,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "3003",
+                    "count": 20,
+                    "type": "MATERIAL"
+                  }
+                ],
+                "order": 6
+              }
+            ,
+            
+              "7": {
+                "rewardList": [
+                  {
+                    "id": "mod_unlock_token",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "3302",
+                    "count": 20,
+                    "type": "MATERIAL"
+                  }
+                ],
+                "order": 7
+              }
+            
+          },
+          "voteTasteList": [
+            {
+              "plSweetNum": 5,
+              "plSaltyNum": 0,
+              "plTaste": 1
+            },
+            {
+              "plSweetNum": 4,
+              "plSaltyNum": 0,
+              "plTaste": 1
+            },
+            {
+              "plSweetNum": 3,
+              "plSaltyNum": 0,
+              "plTaste": 1
+            },
+            {
+              "plSweetNum": 2,
+              "plSaltyNum": 0,
+              "plTaste": 1
+            },
+            {
+              "plSweetNum": 1,
+              "plSaltyNum": 0,
+              "plTaste": 1
+            },
+            {
+              "plSweetNum": 4,
+              "plSaltyNum": 1,
+              "plTaste": 2
+            },
+            {
+              "plSweetNum": 3,
+              "plSaltyNum": 1,
+              "plTaste": 2
+            },
+            {
+              "plSweetNum": 3,
+              "plSaltyNum": 2,
+              "plTaste": 2
+            },
+            {
+              "plSweetNum": 2,
+              "plSaltyNum": 1,
+              "plTaste": 2
+            },
+            {
+              "plSweetNum": 0,
+              "plSaltyNum": 5,
+              "plTaste": 3
+            },
+            {
+              "plSweetNum": 0,
+              "plSaltyNum": 4,
+              "plTaste": 3
+            },
+            {
+              "plSweetNum": 0,
+              "plSaltyNum": 3,
+              "plTaste": 3
+            },
+            {
+              "plSweetNum": 0,
+              "plSaltyNum": 2,
+              "plTaste": 3
+            },
+            {
+              "plSweetNum": 0,
+              "plSaltyNum": 1,
+              "plTaste": 3
+            },
+            {
+              "plSweetNum": 1,
+              "plSaltyNum": 4,
+              "plTaste": 4
+            },
+            {
+              "plSweetNum": 1,
+              "plSaltyNum": 3,
+              "plTaste": 4
+            },
+            {
+              "plSweetNum": 2,
+              "plSaltyNum": 3,
+              "plTaste": 4
+            },
+            {
+              "plSweetNum": 1,
+              "plSaltyNum": 2,
+              "plTaste": 4
+            },
+            {
+              "plSweetNum": 1,
+              "plSaltyNum": 1,
+              "plTaste": 5
+            },
+            {
+              "plSweetNum": 2,
+              "plSaltyNum": 2,
+              "plTaste": 5
+            }
+          ],
+          "tasteInfoDict": {
+            
+              "1": {
+                "plTaste": 1,
+                "tasteType": "SWEET",
+                "tasteText": "Sweet Defender"
+              }
+            ,
+            
+              "2": {
+                "plTaste": 2,
+                "tasteType": "SWEET",
+                "tasteText": "Sweet Dumpling Fan"
+              }
+            ,
+            
+              "3": {
+                "plTaste": 3,
+                "tasteType": "SALT",
+                "tasteText": "Salty Supporter"
+              }
+            ,
+            
+              "4": {
+                "plTaste": 4,
+                "tasteType": "SALT",
+                "tasteText": "Salty Dumpling Fan"
+              }
+            ,
+            
+              "5": {
+                "plTaste": 5,
+                "tasteType": "DRAW",
+                "tasteText": "Sweetsalt Liberal"
+              }
+            
+          },
+          "tasteRewardDict": {
+            
+              "SWEET": {
+                "tasteType": "SWEET",
+                "rewardItem": {
+                  "id": "furni_duanwu2025_01",
+                  "count": 1,
+                  "type": "FURN"
+                }
+              }
+            ,
+            
+              "SALT": {
+                "tasteType": "SALT",
+                "rewardItem": {
+                  "id": "furni_duanwu2025_02",
+                  "count": 1,
+                  "type": "FURN"
+                }
+              }
+            
+          },
+          "apSupplyOutOfDateDict": {
+            
+              "ap_supply_lt_120": 1764586799
+            
+          },
+          "versusTotalDays": 5,
+          "ruleText": "The Sweet VS Salty Showdown starts Nov 6 and ends Nov 10. During this period, Doctors can choose their preferred flavor to cheer for every day until the event concludes, and will obtain a Festival Decoration the first time they sign in. The furniture variant obtained depends on your preferred flavor (Sweetsalt Liberal Doctors will get the reward of the winning side)"
+        }
+      ,
+      
         "act2signvs": {
           "checkInDict": {
             
@@ -199943,8 +200306,2749 @@
         }
       
     },
-    "VEC_BREAK": {
-
+    "VEC_BREAK_V2": {
+      
+        "act1break": {
+          "offenseStageDict": {
+            
+              "act1break_01": {
+                "stageId": "act1break_01",
+                "level": 1,
+                "levelLayout": "vecbv2_normal_1",
+                "storyDesc": "Legends say this was a racetrack made of crystal long ago. Though utterly damaged, it still attracts a large crowd of unruly sprinters today.",
+                "particleType": "NONE",
+                "bossData": null
+              }
+            ,
+            
+              "act1break_02": {
+                "stageId": "act1break_02",
+                "level": 2,
+                "levelLayout": "vecbv2_normal_2",
+                "storyDesc": "Drunks crossing the road, low-altitude pilots hovering without permission... Why do they all seem to be picking up speed?",
+                "particleType": "NONE",
+                "bossData": null
+              }
+            ,
+            
+              "act1break_03": {
+                "stageId": "act1break_03",
+                "level": 3,
+                "levelLayout": "vecbv2_normal_3",
+                "storyDesc": "With the inconsistent rise and fall of the waves and unceasingly increasing level of danger, one ought to act as soon as possible.",
+                "particleType": "NONE",
+                "bossData": null
+              }
+            ,
+            
+              "act1break_04": {
+                "stageId": "act1break_04",
+                "level": 4,
+                "levelLayout": "vecbv2_boss_1",
+                "storyDesc": "'No one expects you to never make mistakes, but I hope you can swiftly correct any mistakes you make.'",
+                "particleType": "NONE",
+                "bossData": {
+                  "enemyId": "enemy_8010_mcnist",
+                  "name": "Mechanist, Mechanical Mind",
+                  "desc": "[Self-Defense Arts] Periodically gains a shield that protects against Physical and Arts damage, which is broken after taking a certain number of attacks\n[Concentration Algorithm] Locks onto a target and bombards it, dealing Physical damage to it and the surrounding units several times\n[Organically Linked Formula] Fights in concert with <Structural Principle>",
+                  "level": 1,
+                  "iconId": "vecbv2_offense_boss_mcnist",
+                  "levelDecoFigureId": "enemy_8010_mcnist_deco_1",
+                  "levelDecoSignId": "enemy_8010_mcnist_deco_2",
+                  "decoId": null
+                }
+              }
+            ,
+            
+              "act1break_05": {
+                "stageId": "act1break_05",
+                "level": 5,
+                "levelLayout": "vecbv2_normal_4",
+                "storyDesc": "Endless flames, restless ghosts. An eternal chase.",
+                "particleType": "NONE",
+                "bossData": null
+              }
+            ,
+            
+              "act1break_06": {
+                "stageId": "act1break_06",
+                "level": 6,
+                "levelLayout": "vecbv2_normal_5",
+                "storyDesc": "Stones from other hills can polish jade. Fire the jade twice to form a crimson glaze, but be careful—they're fragile.",
+                "particleType": "NONE",
+                "bossData": null
+              }
+            ,
+            
+              "act1break_07": {
+                "stageId": "act1break_07",
+                "level": 7,
+                "levelLayout": "vecbv2_normal_6",
+                "storyDesc": "Both stove and stock are ready, and uninvited guests have to be cleared first—but have some juice before you continue.",
+                "particleType": "NONE",
+                "bossData": null
+              }
+            ,
+            
+              "act1break_08": {
+                "stageId": "act1break_08",
+                "level": 8,
+                "levelLayout": "vecbv2_boss_2",
+                "storyDesc": "'You've faced situations more complex than this one—how? Did you break them down into smaller problems, then tackle them one by one? Have you found the key to flipping the table of this battle?'",
+                "particleType": "HARD",
+                "bossData": {
+                  "enemyId": "enemy_8010_mcnist_2",
+                  "name": "Mechanist, Mechanical Mind",
+                  "desc": "[Nirvana Program] While regenerating, locks onto the target with the highest Block and attacks them every few seconds, reducing their max Block\n[Engineering Meteor Shower] In second form, when <Structural Principle> is blocked, locks onto the blocking Operator and attacks them, lowering their Block Count",
+                  "level": 2,
+                  "iconId": "vecbv2_offense_boss_mcnist",
+                  "levelDecoFigureId": "enemy_8010_mcnist_deco_1",
+                  "levelDecoSignId": "enemy_8010_mcnist_deco_2",
+                  "decoId": null
+                }
+              }
+            ,
+            
+              "act1break_09": {
+                "stageId": "act1break_09",
+                "level": 9,
+                "levelLayout": "vecbv2_normal_7",
+                "storyDesc": "The surging tides wash away the sandcastles, and the builders begin to flood the beach with their anger.",
+                "particleType": "HARD",
+                "bossData": null
+              }
+            ,
+            
+              "act1break_10": {
+                "stageId": "act1break_10",
+                "level": 10,
+                "levelLayout": "vecbv2_normal_8",
+                "storyDesc": "It is not the sparks of fireworks hitting your body, but it still stings.",
+                "particleType": "HARD",
+                "bossData": null
+              }
+            ,
+            
+              "act1break_11": {
+                "stageId": "act1break_11",
+                "level": 11,
+                "levelLayout": "vecbv2_normal_9",
+                "storyDesc": "Volcanoes may be right beside you, but pay attention to the tide coming in too.",
+                "particleType": "HARD",
+                "bossData": null
+              }
+            ,
+            
+              "act1break_12": {
+                "stageId": "act1break_12",
+                "level": 12,
+                "levelLayout": "vecbv2_boss_3",
+                "storyDesc": "'Sometimes, the courage to persevere comes from knowing a solution already exists. But what if that was no longer a possibility? Would you keep at it still? Before you challenge me, first prove to yourself that the possibility still exists. This is not a step to be omitted.'",
+                "particleType": "HARD",
+                "bossData": {
+                  "enemyId": "enemy_8010_mcnist_3",
+                  "name": "Mechanist, Mechanical Mind",
+                  "desc": "In second form, activates [Nirvana Program] again when HP drops below 50% for the first time",
+                  "level": 3,
+                  "iconId": "vecbv2_offense_boss_mcnist",
+                  "levelDecoFigureId": "enemy_8010_mcnist_deco_1",
+                  "levelDecoSignId": "enemy_8010_mcnist_deco_2",
+                  "decoId": null
+                }
+              }
+            
+          },
+          "hardStageDict": {
+            
+              "act1break_h01": {
+                "stageId": "act1break_h01",
+                "orderType": "A",
+                "storyDesc": "Inhaling too much smoke on the battlefield is detrimental to one's health.",
+                "bossData": null
+              }
+            ,
+            
+              "act1break_h02": {
+                "stageId": "act1break_h02",
+                "orderType": "B",
+                "storyDesc": "The original plan was to have everyone drive here, but some of the simulation sources were drunk during recording, so they all came walking instead.",
+                "bossData": null
+              }
+            ,
+            
+              "act1break_h03": {
+                "stageId": "act1break_h03",
+                "orderType": "C",
+                "storyDesc": "If memories flood back into the mind, if emotions are once again hard to bear...",
+                "bossData": {
+                  "enemyId": "enemy_8007_eltrsm_3",
+                  "name": "Rosmontis, Simulated Sentry",
+                  "desc": null,
+                  "level": 3,
+                  "iconId": "vecbv2_offense_boss_eltrsm",
+                  "levelDecoFigureId": null,
+                  "levelDecoSignId": null,
+                  "decoId": "deco_eltrsm"
+                }
+              }
+            ,
+            
+              "act1break_h04": {
+                "stageId": "act1break_h04",
+                "orderType": "D",
+                "storyDesc": "'Yes, this is the end. You may try to proceed, but I can no longer make you any guarantees.'",
+                "bossData": {
+                  "enemyId": "enemy_8010_mcnist_3",
+                  "name": "Mechanist, Mechanical Mind",
+                  "desc": null,
+                  "level": 3,
+                  "iconId": "vecbv2_offense_boss_mcnist",
+                  "levelDecoFigureId": null,
+                  "levelDecoSignId": null,
+                  "decoId": "deco_mcnist"
+                }
+              }
+            
+          },
+          "defenseBasicDict": {
+            
+              "act1break_sp01": {
+                "stageId": "act1break_sp01",
+                "groupId": null,
+                "sortId": 1,
+                "startTs": 1761836400
+              }
+            ,
+            
+              "act1break_sp02": {
+                "stageId": "act1break_sp02",
+                "groupId": null,
+                "sortId": 2,
+                "startTs": 1761836400
+              }
+            ,
+            
+              "act1break_sp03": {
+                "stageId": "act1break_sp03",
+                "groupId": null,
+                "sortId": 3,
+                "startTs": 1761836400
+              }
+            ,
+            
+              "act1break_sp04": {
+                "stageId": "act1break_sp04",
+                "groupId": "spGroup01",
+                "sortId": 9,
+                "startTs": 1761836400
+              }
+            ,
+            
+              "act1break_sp05": {
+                "stageId": "act1break_sp05",
+                "groupId": "spGroup01",
+                "sortId": 10,
+                "startTs": 1761836400
+              }
+            ,
+            
+              "act1break_sp06": {
+                "stageId": "act1break_sp06",
+                "groupId": null,
+                "sortId": 4,
+                "startTs": 1762167600
+              }
+            ,
+            
+              "act1break_sp07": {
+                "stageId": "act1break_sp07",
+                "groupId": "spGroup02",
+                "sortId": 11,
+                "startTs": 1762167600
+              }
+            ,
+            
+              "act1break_sp08": {
+                "stageId": "act1break_sp08",
+                "groupId": "spGroup02",
+                "sortId": 12,
+                "startTs": 1762167600
+              }
+            ,
+            
+              "act1break_sp09": {
+                "stageId": "act1break_sp09",
+                "groupId": null,
+                "sortId": 5,
+                "startTs": 1762441200
+              }
+            ,
+            
+              "act1break_sp10": {
+                "stageId": "act1break_sp10",
+                "groupId": null,
+                "sortId": 6,
+                "startTs": 1762441200
+              }
+            ,
+            
+              "act1break_sp11": {
+                "stageId": "act1break_sp11",
+                "groupId": null,
+                "sortId": 7,
+                "startTs": 1762441200
+              }
+            ,
+            
+              "act1break_sp12": {
+                "stageId": "act1break_sp12",
+                "groupId": "spGroup03",
+                "sortId": 13,
+                "startTs": 1762441200
+              }
+            ,
+            
+              "act1break_sp13": {
+                "stageId": "act1break_sp13",
+                "groupId": "spGroup03",
+                "sortId": 14,
+                "startTs": 1762441200
+              }
+            ,
+            
+              "act1break_sp14": {
+                "stageId": "act1break_sp14",
+                "groupId": null,
+                "sortId": 8,
+                "startTs": 1762686000
+              }
+            ,
+            
+              "act1break_sp15": {
+                "stageId": "act1break_sp15",
+                "groupId": "spGroup04",
+                "sortId": 15,
+                "startTs": 1762686000
+              }
+            ,
+            
+              "act1break_sp16": {
+                "stageId": "act1break_sp16",
+                "groupId": "spGroup04",
+                "sortId": 16,
+                "startTs": 1762686000
+              }
+            
+          },
+          "defenseDetailDict": {
+            
+              "act1break_sp01": {
+                "stageId": "act1break_sp01",
+                "buffId": "act1break_rune01",
+                "defenseCharLimit": 1,
+                "bossIconId": "vec_break_defense_enemy_1"
+              }
+            ,
+            
+              "act1break_sp02": {
+                "stageId": "act1break_sp02",
+                "buffId": "act1break_rune11",
+                "defenseCharLimit": 1,
+                "bossIconId": "vec_break_defense_enemy_2"
+              }
+            ,
+            
+              "act1break_sp03": {
+                "stageId": "act1break_sp03",
+                "buffId": "act1break_rune09",
+                "defenseCharLimit": 2,
+                "bossIconId": "vec_break_defense_enemy_3"
+              }
+            ,
+            
+              "act1break_sp04": {
+                "stageId": "act1break_sp04",
+                "buffId": "act1break_rune04",
+                "defenseCharLimit": 3,
+                "bossIconId": "vec_break_defense_enemy_4"
+              }
+            ,
+            
+              "act1break_sp05": {
+                "stageId": "act1break_sp05",
+                "buffId": "act1break_rune05",
+                "defenseCharLimit": 3,
+                "bossIconId": "vec_break_defense_enemy_5"
+              }
+            ,
+            
+              "act1break_sp06": {
+                "stageId": "act1break_sp06",
+                "buffId": "act1break_rune03",
+                "defenseCharLimit": 2,
+                "bossIconId": "vec_break_defense_enemy_6"
+              }
+            ,
+            
+              "act1break_sp07": {
+                "stageId": "act1break_sp07",
+                "buffId": "act1break_rune07",
+                "defenseCharLimit": 3,
+                "bossIconId": "vec_break_defense_enemy_7"
+              }
+            ,
+            
+              "act1break_sp08": {
+                "stageId": "act1break_sp08",
+                "buffId": "act1break_rune08",
+                "defenseCharLimit": 3,
+                "bossIconId": "vec_break_defense_enemy_8"
+              }
+            ,
+            
+              "act1break_sp09": {
+                "stageId": "act1break_sp09",
+                "buffId": "act1break_rune06",
+                "defenseCharLimit": 1,
+                "bossIconId": "vec_break_defense_enemy_9"
+              }
+            ,
+            
+              "act1break_sp10": {
+                "stageId": "act1break_sp10",
+                "buffId": "act1break_rune10",
+                "defenseCharLimit": 2,
+                "bossIconId": "vec_break_defense_enemy_10"
+              }
+            ,
+            
+              "act1break_sp11": {
+                "stageId": "act1break_sp11",
+                "buffId": "act1break_rune02",
+                "defenseCharLimit": 2,
+                "bossIconId": "vec_break_defense_enemy_11"
+              }
+            ,
+            
+              "act1break_sp12": {
+                "stageId": "act1break_sp12",
+                "buffId": "act1break_rune12",
+                "defenseCharLimit": 3,
+                "bossIconId": "vec_break_defense_enemy_12"
+              }
+            ,
+            
+              "act1break_sp13": {
+                "stageId": "act1break_sp13",
+                "buffId": "act1break_rune13",
+                "defenseCharLimit": 3,
+                "bossIconId": "vec_break_defense_enemy_13"
+              }
+            ,
+            
+              "act1break_sp14": {
+                "stageId": "act1break_sp14",
+                "buffId": "act1break_rune14",
+                "defenseCharLimit": 2,
+                "bossIconId": "vec_break_defense_enemy_14"
+              }
+            ,
+            
+              "act1break_sp15": {
+                "stageId": "act1break_sp15",
+                "buffId": "act1break_rune15",
+                "defenseCharLimit": 3,
+                "bossIconId": "vec_break_defense_enemy_15"
+              }
+            ,
+            
+              "act1break_sp16": {
+                "stageId": "act1break_sp16",
+                "buffId": "act1break_rune16",
+                "defenseCharLimit": 3,
+                "bossIconId": "vec_break_defense_enemy_16"
+              }
+            
+          },
+          "zoneDict": {
+            
+              "act1break_zone1": {
+                "zoneId": "act1break_zone1",
+                "stageLockHint": null
+              }
+            ,
+            
+              "act1break_zone2": {
+                "zoneId": "act1break_zone2",
+                "stageLockHint": "Complete Kernel Breakthrough to unlock"
+              }
+            ,
+            
+              "act1break_zone3": {
+                "zoneId": "act1break_zone3",
+                "stageLockHint": "Break through stage 1 to unlock"
+              }
+            
+          },
+          "defenseGroupDict": {
+            
+              "spGroup01": {
+                "groupId": "spGroup01",
+                "sortId": 1,
+                "orderedStageList": [
+                  "act1break_sp04",
+                  "act1break_sp05"
+                ]
+              }
+            ,
+            
+              "spGroup02": {
+                "groupId": "spGroup02",
+                "sortId": 2,
+                "orderedStageList": [
+                  "act1break_sp07",
+                  "act1break_sp08"
+                ]
+              }
+            ,
+            
+              "spGroup03": {
+                "groupId": "spGroup03",
+                "sortId": 3,
+                "orderedStageList": [
+                  "act1break_sp12",
+                  "act1break_sp13"
+                ]
+              }
+            ,
+            
+              "spGroup04": {
+                "groupId": "spGroup04",
+                "sortId": 4,
+                "orderedStageList": [
+                  "act1break_sp15",
+                  "act1break_sp16"
+                ]
+              }
+            
+          },
+          "battleBuffDict": {
+            
+              "act1break_rune01": {
+                "buffId": "act1break_rune01",
+                "name": "Airlock Equipment",
+                "desc": "Gain 1 additional 'Erosion-Resistant Coating Application Device' during operation",
+                "iconId": "vec_break_v2_relic_01",
+                "runeData": {
+                  "id": "vec_break_v2_relic_01",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "Gain 1 additional 'Erosion-Resistant Coating Application Device' during operation",
+                  "runes": [
+                    {
+                      "key": "insert_token_card",
+                      "selector": {
+                        "professionMask": "TRAP",
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "token_key",
+                          "value": 0.0,
+                          "valueStr": "trap_046_oxygen"
+                        },
+                        {
+                          "key": "cnt",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune02": {
+                "buffId": "act1break_rune02",
+                "name": "Hardening Equipment",
+                "desc": "All Ground Operators have +1 Block and +30% DEF",
+                "iconId": "vec_break_v2_relic_02",
+                "runeData": {
+                  "id": "vec_break_v2_relic_02",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "All Ground Operators have +1 Block and +30% DEF",
+                  "runes": [
+                    {
+                      "key": "char_blockcnt_add",
+                      "selector": {
+                        "professionMask": 639,
+                        "buildableMask": "MELEE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "value",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ]
+                    },
+                    {
+                      "key": "char_attribute_mul",
+                      "selector": {
+                        "professionMask": 639,
+                        "buildableMask": "MELEE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "def",
+                          "value": 1.3,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune03": {
+                "buffId": "act1break_rune03",
+                "name": "Weakening Program",
+                "desc": "All enemies have -20% DEF",
+                "iconId": "vec_break_v2_relic_03",
+                "runeData": {
+                  "id": "vec_break_v2_relic_03",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "All enemies have -20% DEF",
+                  "runes": [
+                    {
+                      "key": "enemy_attribute_mul",
+                      "selector": {
+                        "professionMask": "NONE",
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "def",
+                          "value": 0.8,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune04": {
+                "buffId": "act1break_rune04",
+                "name": "Diving Equipment",
+                "desc": "All Guard and Vanguard Operators have -2 DP Cost and can be deployed on tiles currently flooded by High Tide",
+                "iconId": "vec_break_v2_relic_04",
+                "runeData": {
+                  "id": "vec_break_v2_relic_04",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "All Guard and Vanguard Operators have -2 DP Cost and can be deployed on tiles currently flooded by High Tide",
+                  "runes": [
+                    {
+                      "key": "card_buff_by_profession",
+                      "selector": {
+                        "professionMask": 513,
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "advanced_buildable_mask",
+                          "value": 4.0,
+                          "valueStr": null
+                        }
+                      ]
+                    },
+                    {
+                      "key": "char_cost_add",
+                      "selector": {
+                        "professionMask": 513,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "value",
+                          "value": -2.0,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune05": {
+                "buffId": "act1break_rune05",
+                "name": "Deep-dive Equipment",
+                "desc": "All Defender, Specialist, Guard and Vanguard Operators have -2 DP Cost and can be deployed on tiles currently flooded by High Tide (Cannot be used with normal supplies)",
+                "iconId": "vec_break_v2_relic_05",
+                "runeData": {
+                  "id": "vec_break_v2_relic_05",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "All Defender, Specialist, Guard and Vanguard Operators have -2 DP Cost and can be deployed on tiles currently flooded by High Tide (Cannot be used with normal supplies)",
+                  "runes": [
+                    {
+                      "key": "card_buff_by_profession",
+                      "selector": {
+                        "professionMask": 581,
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "advanced_buildable_mask",
+                          "value": 4.0,
+                          "valueStr": null
+                        }
+                      ]
+                    },
+                    {
+                      "key": "char_cost_add",
+                      "selector": {
+                        "professionMask": 581,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "value",
+                          "value": -2.0,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune06": {
+                "buffId": "act1break_rune06",
+                "name": "Calibration Equipment",
+                "desc": "All Ranged Operators gain +150 ATK",
+                "iconId": "vec_break_v2_relic_06",
+                "runeData": {
+                  "id": "vec_break_v2_relic_06",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "All Ranged Operators gain +150 ATK",
+                  "runes": [
+                    {
+                      "key": "char_attribute_add",
+                      "selector": {
+                        "professionMask": 639,
+                        "buildableMask": "RANGED",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "atk",
+                          "value": 150.0,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune07": {
+                "buffId": "act1break_rune07",
+                "name": "Isolation Equipment",
+                "desc": "All allied units take -50% damage from environmental effects and recover 1% Max HP every second",
+                "iconId": "vec_break_v2_relic_07",
+                "runeData": {
+                  "id": "vec_break_v2_relic_07",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "All allied units take -50% damage from environmental effects and recover 1% Max HP every second",
+                  "runes": [
+                    {
+                      "key": "env_gbuff_new",
+                      "selector": {
+                        "professionMask": "NONE",
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "key",
+                          "value": 0.0,
+                          "valueStr": "damage_resistance[env]"
+                        },
+                        {
+                          "key": "damage_resistance",
+                          "value": 0.5,
+                          "valueStr": null
+                        }
+                      ]
+                    },
+                    {
+                      "key": "env_gbuff_new",
+                      "selector": {
+                        "professionMask": "NONE",
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "key",
+                          "value": 0.0,
+                          "valueStr": "hp_recovery_per_sec_by_max_hp_ratio[add]"
+                        },
+                        {
+                          "key": "hp_recovery_per_sec_by_max_hp_ratio",
+                          "value": 0.01,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune08": {
+                "buffId": "act1break_rune08",
+                "name": "Insulation Equipment",
+                "desc": "All allied units take -90% damage from environmental effects and recover 2% Max HP every second (Cannot be used with normal supplies)",
+                "iconId": "vec_break_v2_relic_08",
+                "runeData": {
+                  "id": "vec_break_v2_relic_08",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "All allied units take -90% damage from environmental effects and recover 2% Max HP every second (Cannot be used with normal supplies)",
+                  "runes": [
+                    {
+                      "key": "env_gbuff_new",
+                      "selector": {
+                        "professionMask": "NONE",
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "key",
+                          "value": 0.0,
+                          "valueStr": "damage_resistance[env]"
+                        },
+                        {
+                          "key": "damage_resistance",
+                          "value": 0.9,
+                          "valueStr": null
+                        }
+                      ]
+                    },
+                    {
+                      "key": "env_gbuff_new",
+                      "selector": {
+                        "professionMask": "NONE",
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "key",
+                          "value": 0.0,
+                          "valueStr": "hp_recovery_per_sec_by_max_hp_ratio[add]"
+                        },
+                        {
+                          "key": "hp_recovery_per_sec_by_max_hp_ratio",
+                          "value": 0.02,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune09": {
+                "buffId": "act1break_rune09",
+                "name": "Resistance Equipment",
+                "desc": "All friendly units gain 2 layers of Shield when deployed",
+                "iconId": "vec_break_v2_relic_09",
+                "runeData": {
+                  "id": "vec_break_v2_relic_09",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "All friendly units gain 2 layers of Shield when deployed",
+                  "runes": [
+                    {
+                      "key": "env_gbuff_new",
+                      "selector": {
+                        "professionMask": 767,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "key",
+                          "value": 0.0,
+                          "valueStr": "damage_block[stack]"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "env_gbuff_new",
+                      "selector": {
+                        "professionMask": 767,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "key",
+                          "value": 0.0,
+                          "valueStr": "damage_block[stack]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune10": {
+                "buffId": "act1break_rune10",
+                "name": "Catalytic Equipment",
+                "desc": "Operators immediately obtain 10 SP when deployed",
+                "iconId": "vec_break_v2_relic_10",
+                "runeData": {
+                  "id": "vec_break_v2_relic_10",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "Operators immediately obtain 10 SP when deployed",
+                  "runes": [
+                    {
+                      "key": "env_gbuff_new",
+                      "selector": {
+                        "professionMask": 639,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "key",
+                          "value": 0.0,
+                          "valueStr": "modify_sp[born]"
+                        },
+                        {
+                          "key": "sp",
+                          "value": 10.0,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune11": {
+                "buffId": "act1break_rune11",
+                "name": "Stockpile Equipment",
+                "desc": "Starting DP +10",
+                "iconId": "vec_break_v2_relic_11",
+                "runeData": {
+                  "id": "vec_break_v2_relic_11",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "Starting DP +10",
+                  "runes": [
+                    {
+                      "key": "global_initial_cost_add",
+                      "selector": {
+                        "professionMask": "NONE",
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "value",
+                          "value": 10.0,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune12": {
+                "buffId": "act1break_rune12",
+                "name": "Stabilizing Equipment",
+                "desc": "All enemies have -10% ATK, and all Defender, Guard, Vanguard, and Specialist Operators no longer have ASPD reduction under 'Erosion'",
+                "iconId": "vec_break_v2_relic_12",
+                "runeData": {
+                  "id": "vec_break_v2_relic_12",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "All enemies have -10% ATK, and all Defender, Guard, Vanguard, and Specialist Operators no longer have ASPD reduction under 'Erosion'",
+                  "runes": [
+                    {
+                      "key": "env_gbuff_new",
+                      "selector": {
+                        "professionMask": 581,
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "key",
+                          "value": 0.0,
+                          "valueStr": "drown_attack_speed_up"
+                        },
+                        {
+                          "key": "attack_speed",
+                          "value": 0.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "pass_profession_mask_flag",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ]
+                    },
+                    {
+                      "key": "enemy_attribute_mul",
+                      "selector": {
+                        "professionMask": "NONE",
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "atk",
+                          "value": 0.9,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune13": {
+                "buffId": "act1break_rune13",
+                "name": "Flow-Control Equipment",
+                "desc": "All enemies have -20% ATK, and all Defender, Guard, Vanguard, and Specialist Operators no longer have ASPD reduction under 'Erosion' and instead gain +50 ASPD (Cannot be used with normal supplies)",
+                "iconId": "vec_break_v2_relic_13",
+                "runeData": {
+                  "id": "vec_break_v2_relic_13",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "All enemies have -20% ATK, and all Defender, Guard, Vanguard, and Specialist Operators no longer have ASPD reduction under 'Erosion' and instead gain +50 ASPD (Cannot be used with normal supplies)",
+                  "runes": [
+                    {
+                      "key": "env_gbuff_new",
+                      "selector": {
+                        "professionMask": 581,
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "key",
+                          "value": 0.0,
+                          "valueStr": "drown_attack_speed_up[add]"
+                        },
+                        {
+                          "key": "attack_speed",
+                          "value": 50.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "pass_profession_mask_flag",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ]
+                    },
+                    {
+                      "key": "enemy_attribute_mul",
+                      "selector": {
+                        "professionMask": "NONE",
+                        "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "atk",
+                          "value": 0.8,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune14": {
+                "buffId": "act1break_rune14",
+                "name": "Arts Equipment",
+                "desc": "Whenever allied units take Arts damage, gain +5% ATK (Stacks to +100%)",
+                "iconId": "vec_break_v2_relic_14",
+                "runeData": {
+                  "id": "vec_break_v2_relic_14",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "Whenever allied units take Arts damage, gain +5% ATK (Stacks to +100%)",
+                  "runes": [
+                    {
+                      "key": "env_gbuff_new",
+                      "selector": {
+                        "professionMask": 767,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "key",
+                          "value": 0.0,
+                          "valueStr": "act2vecb_add_atk_damage[magic]"
+                        },
+                        {
+                          "key": "atk",
+                          "value": 0.05,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 20.0,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune15": {
+                "buffId": "act1break_rune15",
+                "name": "Amplifying Equipment",
+                "desc": "Allied units have -3 Block, but gain +100% ATK and +100 ASPD",
+                "iconId": "vec_break_v2_relic_15",
+                "runeData": {
+                  "id": "vec_break_v2_relic_15",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "Allied units have -3 Block, but gain +100% ATK and +100 ASPD",
+                  "runes": [
+                    {
+                      "key": "char_attribute_mul",
+                      "selector": {
+                        "professionMask": 767,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "atk",
+                          "value": 2.0,
+                          "valueStr": null
+                        }
+                      ]
+                    },
+                    {
+                      "key": "char_blockcnt_add",
+                      "selector": {
+                        "professionMask": 767,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "value",
+                          "value": -3.0,
+                          "valueStr": null
+                        }
+                      ]
+                    },
+                    {
+                      "key": "char_attribute_add",
+                      "selector": {
+                        "professionMask": 767,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "attack_speed",
+                          "value": 100.0,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ,
+            
+              "act1break_rune16": {
+                "buffId": "act1break_rune16",
+                "name": "Overclocking Equipment",
+                "desc": "Allied units have -3 Block, but gain +100% ATK, +100 ASPD, and +100% Max HP (Cannot be used with normal supplies)",
+                "iconId": "vec_break_v2_relic_16",
+                "runeData": {
+                  "id": "vec_break_v2_relic_16",
+                  "points": 0.0,
+                  "mutexGroupKey": null,
+                  "description": "Allied units have -3 Block, but gain +100% ATK, +100 ASPD, and +100% Max HP (Cannot be used with normal supplies)",
+                  "runes": [
+                    {
+                      "key": "char_attribute_mul",
+                      "selector": {
+                        "professionMask": 767,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "max_hp",
+                          "value": 2.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk",
+                          "value": 2.0,
+                          "valueStr": null
+                        }
+                      ]
+                    },
+                    {
+                      "key": "char_attribute_add",
+                      "selector": {
+                        "professionMask": 767,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "attack_speed",
+                          "value": 100.0,
+                          "valueStr": null
+                        }
+                      ]
+                    },
+                    {
+                      "key": "char_blockcnt_add",
+                      "selector": {
+                        "professionMask": 767,
+                        "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
+                        "sideType": "ALL",
+                        "charIdFilter": null,
+                        "enemyIdFilter": null,
+                        "enemyIdExcludeFilter": null,
+                        "enemyLevelTypeFilter": null,
+                        "enemyActionHiddenGroupFilter": null,
+                        "skillIdFilter": null,
+                        "tileKeyFilter": null,
+                        "groupTagFilter": null,
+                        "filterTagFilter": null,
+                        "filterTagExcludeFilter": null,
+                        "subProfessionExcludeFilter": null,
+                        "mapTagFilter": null
+                      },
+                      "blackboard": [
+                        {
+                          "key": "value",
+                          "value": -3.0,
+                          "valueStr": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            
+          },
+          "milestoneList": [
+            {
+              "milestoneId": "mileStone_1",
+              "orderId": 1,
+              "tokenNum": 40,
+              "reward": {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_2",
+              "orderId": 2,
+              "tokenNum": 80,
+              "reward": {
+                "id": "30103",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_3",
+              "orderId": 3,
+              "tokenNum": 120,
+              "reward": {
+                "id": "2003",
+                "count": 10,
+                "type": "CARD_EXP"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_4",
+              "orderId": 4,
+              "tokenNum": 160,
+              "reward": {
+                "id": "31053",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_5",
+              "orderId": 5,
+              "tokenNum": 200,
+              "reward": {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_6",
+              "orderId": 6,
+              "tokenNum": 245,
+              "reward": {
+                "id": "30044",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_7",
+              "orderId": 7,
+              "tokenNum": 290,
+              "reward": {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_8",
+              "orderId": 8,
+              "tokenNum": 335,
+              "reward": {
+                "id": "30103",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_9",
+              "orderId": 9,
+              "tokenNum": 380,
+              "reward": {
+                "id": "2004",
+                "count": 5,
+                "type": "CARD_EXP"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_10",
+              "orderId": 10,
+              "tokenNum": 425,
+              "reward": {
+                "id": "30145",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_11",
+              "orderId": 11,
+              "tokenNum": 475,
+              "reward": {
+                "id": "3303",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_12",
+              "orderId": 12,
+              "tokenNum": 525,
+              "reward": {
+                "id": "31053",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_13",
+              "orderId": 13,
+              "tokenNum": 575,
+              "reward": {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_14",
+              "orderId": 14,
+              "tokenNum": 625,
+              "reward": {
+                "id": "30103",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_15",
+              "orderId": 15,
+              "tokenNum": 675,
+              "reward": {
+                "id": "2003",
+                "count": 10,
+                "type": "CARD_EXP"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_16",
+              "orderId": 16,
+              "tokenNum": 730,
+              "reward": {
+                "id": "31053",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_17",
+              "orderId": 17,
+              "tokenNum": 785,
+              "reward": {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_18",
+              "orderId": 18,
+              "tokenNum": 840,
+              "reward": {
+                "id": "31044",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_19",
+              "orderId": 19,
+              "tokenNum": 895,
+              "reward": {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_20",
+              "orderId": 20,
+              "tokenNum": 950,
+              "reward": {
+                "id": "mod_unlock_token",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_21",
+              "orderId": 21,
+              "tokenNum": 1005,
+              "reward": {
+                "id": "30103",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_22",
+              "orderId": 22,
+              "tokenNum": 1060,
+              "reward": {
+                "id": "2004",
+                "count": 5,
+                "type": "CARD_EXP"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_23",
+              "orderId": 23,
+              "tokenNum": 1115,
+              "reward": {
+                "id": "31053",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_24",
+              "orderId": 24,
+              "tokenNum": 1170,
+              "reward": {
+                "id": "3303",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_25",
+              "orderId": 25,
+              "tokenNum": 1225,
+              "reward": {
+                "id": "31074",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_26",
+              "orderId": 26,
+              "tokenNum": 1280,
+              "reward": {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_27",
+              "orderId": 27,
+              "tokenNum": 1335,
+              "reward": {
+                "id": "30103",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_28",
+              "orderId": 28,
+              "tokenNum": 1390,
+              "reward": {
+                "id": "2003",
+                "count": 10,
+                "type": "CARD_EXP"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_29",
+              "orderId": 29,
+              "tokenNum": 1445,
+              "reward": {
+                "id": "31053",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_30",
+              "orderId": 30,
+              "tokenNum": 1500,
+              "reward": {
+                "id": "char_163_hpsts@boc#10",
+                "count": 1,
+                "type": "CHAR_SKIN"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_31",
+              "orderId": 31,
+              "tokenNum": 1560,
+              "reward": {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_32",
+              "orderId": 32,
+              "tokenNum": 1620,
+              "reward": {
+                "id": "30044",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_33",
+              "orderId": 33,
+              "tokenNum": 1680,
+              "reward": {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_34",
+              "orderId": 34,
+              "tokenNum": 1740,
+              "reward": {
+                "id": "30103",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_35",
+              "orderId": 35,
+              "tokenNum": 1800,
+              "reward": {
+                "id": "2004",
+                "count": 5,
+                "type": "CARD_EXP"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_36",
+              "orderId": 36,
+              "tokenNum": 1860,
+              "reward": {
+                "id": "31053",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_37",
+              "orderId": 37,
+              "tokenNum": 1920,
+              "reward": {
+                "id": "3303",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_38",
+              "orderId": 38,
+              "tokenNum": 1980,
+              "reward": {
+                "id": "30103",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_39",
+              "orderId": 39,
+              "tokenNum": 2040,
+              "reward": {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_40",
+              "orderId": 40,
+              "tokenNum": 2100,
+              "reward": {
+                "id": "30145",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              "availTime": 1761836400
+            },
+            {
+              "milestoneId": "mileStone_41",
+              "orderId": 41,
+              "tokenNum": 2150,
+              "reward": {
+                "id": "2003",
+                "count": 10,
+                "type": "CARD_EXP"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_42",
+              "orderId": 42,
+              "tokenNum": 2200,
+              "reward": {
+                "id": "31053",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_43",
+              "orderId": 43,
+              "tokenNum": 2250,
+              "reward": {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_44",
+              "orderId": 44,
+              "tokenNum": 2300,
+              "reward": {
+                "id": "31044",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_45",
+              "orderId": 45,
+              "tokenNum": 2350,
+              "reward": {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_46",
+              "orderId": 46,
+              "tokenNum": 2405,
+              "reward": {
+                "id": "30103",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_47",
+              "orderId": 47,
+              "tokenNum": 2460,
+              "reward": {
+                "id": "2004",
+                "count": 5,
+                "type": "CARD_EXP"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_48",
+              "orderId": 48,
+              "tokenNum": 2515,
+              "reward": {
+                "id": "31053",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_49",
+              "orderId": 49,
+              "tokenNum": 2570,
+              "reward": {
+                "id": "3303",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_50",
+              "orderId": 50,
+              "tokenNum": 2625,
+              "reward": {
+                "id": "furni_vector_s1_01",
+                "count": 1,
+                "type": "FURN"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_51",
+              "orderId": 51,
+              "tokenNum": 2685,
+              "reward": {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_52",
+              "orderId": 52,
+              "tokenNum": 2745,
+              "reward": {
+                "id": "30103",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_53",
+              "orderId": 53,
+              "tokenNum": 2805,
+              "reward": {
+                "id": "2003",
+                "count": 10,
+                "type": "CARD_EXP"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_54",
+              "orderId": 54,
+              "tokenNum": 2865,
+              "reward": {
+                "id": "31074",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_55",
+              "orderId": 55,
+              "tokenNum": 2925,
+              "reward": {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_56",
+              "orderId": 56,
+              "tokenNum": 2990,
+              "reward": {
+                "id": "31053",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_57",
+              "orderId": 57,
+              "tokenNum": 3055,
+              "reward": {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_58",
+              "orderId": 58,
+              "tokenNum": 3120,
+              "reward": {
+                "id": "30103",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_59",
+              "orderId": 59,
+              "tokenNum": 3185,
+              "reward": {
+                "id": "2004",
+                "count": 5,
+                "type": "CARD_EXP"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_60",
+              "orderId": 60,
+              "tokenNum": 3250,
+              "reward": {
+                "id": "30044",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_61",
+              "orderId": 61,
+              "tokenNum": 3320,
+              "reward": {
+                "id": "3303",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_62",
+              "orderId": 62,
+              "tokenNum": 3390,
+              "reward": {
+                "id": "31053",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_63",
+              "orderId": 63,
+              "tokenNum": 3460,
+              "reward": {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_64",
+              "orderId": 64,
+              "tokenNum": 3530,
+              "reward": {
+                "id": "31044",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              "availTime": 1762441200
+            },
+            {
+              "milestoneId": "mileStone_65",
+              "orderId": 65,
+              "tokenNum": 3600,
+              "reward": {
+                "id": "2003",
+                "count": 10,
+                "type": "CARD_EXP"
+              },
+              "availTime": 1762441200
+            }
+          ],
+          "stageRewardDict": {
+            
+              "act1break_01": {
+                "stageId": "act1break_01",
+                "completeRewardCnt": 75,
+                "normalRewardCnt": 25,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_02": {
+                "stageId": "act1break_02",
+                "completeRewardCnt": 75,
+                "normalRewardCnt": 25,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_03": {
+                "stageId": "act1break_03",
+                "completeRewardCnt": 75,
+                "normalRewardCnt": 25,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_04": {
+                "stageId": "act1break_04",
+                "completeRewardCnt": 90,
+                "normalRewardCnt": 30,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_05": {
+                "stageId": "act1break_05",
+                "completeRewardCnt": 90,
+                "normalRewardCnt": 30,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_06": {
+                "stageId": "act1break_06",
+                "completeRewardCnt": 90,
+                "normalRewardCnt": 30,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_07": {
+                "stageId": "act1break_07",
+                "completeRewardCnt": 90,
+                "normalRewardCnt": 30,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_08": {
+                "stageId": "act1break_08",
+                "completeRewardCnt": 120,
+                "normalRewardCnt": 40,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_09": {
+                "stageId": "act1break_09",
+                "completeRewardCnt": 120,
+                "normalRewardCnt": 40,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_10": {
+                "stageId": "act1break_10",
+                "completeRewardCnt": 120,
+                "normalRewardCnt": 40,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_11": {
+                "stageId": "act1break_11",
+                "completeRewardCnt": 120,
+                "normalRewardCnt": 40,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_12": {
+                "stageId": "act1break_12",
+                "completeRewardCnt": 180,
+                "normalRewardCnt": 60,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_h01": {
+                "stageId": "act1break_h01",
+                "completeRewardCnt": 180,
+                "normalRewardCnt": 60,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_h02": {
+                "stageId": "act1break_h02",
+                "completeRewardCnt": 180,
+                "normalRewardCnt": 60,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_h03": {
+                "stageId": "act1break_h03",
+                "completeRewardCnt": 180,
+                "normalRewardCnt": 60,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_h04": {
+                "stageId": "act1break_h04",
+                "completeRewardCnt": 180,
+                "normalRewardCnt": 60,
+                "limitReward": null
+              }
+            ,
+            
+              "act1break_sp01": {
+                "stageId": "act1break_sp01",
+                "completeRewardCnt": 25,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1761836400,
+                  "endTs": 1762167599,
+                  "rewardCnt": 25
+                }
+              }
+            ,
+            
+              "act1break_sp02": {
+                "stageId": "act1break_sp02",
+                "completeRewardCnt": 25,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1761836400,
+                  "endTs": 1762167599,
+                  "rewardCnt": 25
+                }
+              }
+            ,
+            
+              "act1break_sp03": {
+                "stageId": "act1break_sp03",
+                "completeRewardCnt": 25,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1761836400,
+                  "endTs": 1762167599,
+                  "rewardCnt": 25
+                }
+              }
+            ,
+            
+              "act1break_sp04": {
+                "stageId": "act1break_sp04",
+                "completeRewardCnt": 25,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1761836400,
+                  "endTs": 1762167599,
+                  "rewardCnt": 25
+                }
+              }
+            ,
+            
+              "act1break_sp05": {
+                "stageId": "act1break_sp05",
+                "completeRewardCnt": 35,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1761836400,
+                  "endTs": 1762167599,
+                  "rewardCnt": 35
+                }
+              }
+            ,
+            
+              "act1break_sp06": {
+                "stageId": "act1break_sp06",
+                "completeRewardCnt": 25,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1762167600,
+                  "endTs": 1762441199,
+                  "rewardCnt": 25
+                }
+              }
+            ,
+            
+              "act1break_sp07": {
+                "stageId": "act1break_sp07",
+                "completeRewardCnt": 25,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1762167600,
+                  "endTs": 1762441199,
+                  "rewardCnt": 25
+                }
+              }
+            ,
+            
+              "act1break_sp08": {
+                "stageId": "act1break_sp08",
+                "completeRewardCnt": 35,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1762167600,
+                  "endTs": 1762441199,
+                  "rewardCnt": 35
+                }
+              }
+            ,
+            
+              "act1break_sp09": {
+                "stageId": "act1break_sp09",
+                "completeRewardCnt": 30,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1762441200,
+                  "endTs": 1762685999,
+                  "rewardCnt": 30
+                }
+              }
+            ,
+            
+              "act1break_sp10": {
+                "stageId": "act1break_sp10",
+                "completeRewardCnt": 30,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1762441200,
+                  "endTs": 1762685999,
+                  "rewardCnt": 30
+                }
+              }
+            ,
+            
+              "act1break_sp11": {
+                "stageId": "act1break_sp11",
+                "completeRewardCnt": 30,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1762441200,
+                  "endTs": 1762685999,
+                  "rewardCnt": 30
+                }
+              }
+            ,
+            
+              "act1break_sp12": {
+                "stageId": "act1break_sp12",
+                "completeRewardCnt": 30,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1762441200,
+                  "endTs": 1762685999,
+                  "rewardCnt": 30
+                }
+              }
+            ,
+            
+              "act1break_sp13": {
+                "stageId": "act1break_sp13",
+                "completeRewardCnt": 45,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1762441200,
+                  "endTs": 1762685999,
+                  "rewardCnt": 45
+                }
+              }
+            ,
+            
+              "act1break_sp14": {
+                "stageId": "act1break_sp14",
+                "completeRewardCnt": 30,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1762686000,
+                  "endTs": 1763031599,
+                  "rewardCnt": 30
+                }
+              }
+            ,
+            
+              "act1break_sp15": {
+                "stageId": "act1break_sp15",
+                "completeRewardCnt": 30,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1762686000,
+                  "endTs": 1763031599,
+                  "rewardCnt": 30
+                }
+              }
+            ,
+            
+              "act1break_sp16": {
+                "stageId": "act1break_sp16",
+                "completeRewardCnt": 45,
+                "normalRewardCnt": 0,
+                "limitReward": {
+                  "startTs": 1762686000,
+                  "endTs": 1763031599,
+                  "rewardCnt": 45
+                }
+              }
+            
+          },
+          "constData": {
+            "defenseDesc": "Can activate 4 Supplies at the same time",
+            "defenseOverviewName": null,
+            "milestoneName": "Breakthrough Milestones",
+            "milestoneItemId": "act1break_milestone_point",
+            "bossDescTitle": "Trainer strengthening",
+            "defenseUnlockRequireStageId": "act1break_sp01",
+            "offenseNavLockToastStageId": "act1break_01",
+            "offenseNavLockToastStr": "Clear current stage to unlock",
+            "offenseHardUnlockToast": "All-Out Effort unlocked",
+            "hardUnlockStageId": "act1break_h01",
+            "defenseRetreatSingleText": "Withdrawing garrisoned Operators will disable the corresponding Supply. Are you sure?",
+            "defenseRetreatMultipleText": "Withdrawing garrisoned Operators will also disable the corresponding {0} Advanced Supply. Are you sure?",
+            "defenseReplaceText": "Confirm to replace this garrison squad with a new squad?",
+            "defenseEquipBuffLimit": 4,
+            "displayMedalId": "medal_activity_act1break_01",
+            "defenseAddBuffToast": "Supply used",
+            "defenseRemoveBuffToast": "Supply turned off",
+            "defenseReplaceBuffToast": "Supply switched",
+            "defenseBuffExceedToast": "No more supplies can be selected, please adjust accordingly",
+            "defendSameGroupHint": "Garrisoned",
+            "defendOtherHint": "Special Front Garrisoned",
+            "defenseBuffLockToast": "Activate buffs in Special Front",
+            "offenseBuffSelectUnsaveHint": "There are unsaved changes on this page. Are you sure you want to exit?",
+            "defenceBattleFinishEquipText": "{0} in use",
+            "defenceBattleFinishActivateText": "{0} Activated",
+            "defenceBattleFinishSquadText": "Garrison updated",
+            "milestoneTrackId": "milestone_expand"
+          },
+          "squadBuffAvailStageList": [
+            "act1break_01",
+            "act1break_02",
+            "act1break_03",
+            "act1break_04",
+            "act1break_05",
+            "act1break_06",
+            "act1break_07",
+            "act1break_08",
+            "act1break_09",
+            "act1break_10",
+            "act1break_11",
+            "act1break_12",
+            "act1break_h01",
+            "act1break_h02",
+            "act1break_h03",
+            "act1break_h04"
+          ],
+          "scheduleBlockList": [
+            {
+              "startTs": 1761836400,
+              "endTs": 1762167599
+            },
+            {
+              "startTs": 1762167600,
+              "endTs": 1762441199
+            },
+            {
+              "startTs": 1762441200,
+              "endTs": 1762685999
+            },
+            {
+              "startTs": 1762686000,
+              "endTs": 1763031599
+            }
+          ],
+          "defenseZoneId": "act1break_zone3",
+          "offenseZoneId": "act1break_zone1",
+          "hardZoneId": "act1break_zone2",
+          "firstDefenseGroupId": "spGroup01"
+        }
+      
     },
     "TYPE_ACT36SIDE": {
       
@@ -230930,6 +234034,576 @@
           ]
         }
       
+    },
+    "TYPE_ACT42SIDE": {
+      
+        "act42side": {
+          "trustorData": {
+            
+              "char_61n3": {
+                "trustorId": "char_61n3",
+                "sortId": 1,
+                "trustorName": "Vannini",
+                "trustorIconSmall": "61n3_small",
+                "trustorIconLarge": "61n3_large",
+                "gunId": "personItem_61n3",
+                "taskList": [
+                  "mission_1_1",
+                  "mission_1_2",
+                  "mission_1_3"
+                ]
+              }
+            ,
+            
+              "char_pandm": {
+                "trustorId": "char_pandm",
+                "sortId": 2,
+                "trustorName": "Mostima & Fiammetta",
+                "trustorIconSmall": "pandm_small",
+                "trustorIconLarge": "pandm_large",
+                "gunId": "personItem_pandm",
+                "taskList": [
+                  "mission_2_1",
+                  "mission_2_2",
+                  "mission_2_3"
+                ]
+              }
+            ,
+            
+              "char_patrizion": {
+                "trustorId": "char_patrizion",
+                "sortId": 3,
+                "trustorName": "Patrizion",
+                "trustorIconSmall": "patrizion_small",
+                "trustorIconLarge": "patrizion_large",
+                "gunId": "personItem_patrizion",
+                "taskList": [
+                  "mission_3_1",
+                  "mission_3_2",
+                  "mission_3_3"
+                ]
+              }
+            ,
+            
+              "char_61n16": {
+                "trustorId": "char_61n16",
+                "sortId": 4,
+                "trustorName": "Idida",
+                "trustorIconSmall": "61n16_small",
+                "trustorIconLarge": "61n16_large",
+                "gunId": "personItem_61n16",
+                "taskList": [
+                  "mission_4_1",
+                  "mission_4_2",
+                  "mission_4_3"
+                ]
+              }
+            
+          },
+          "taskData": {
+            
+              "mission_1_1": {
+                "taskId": "mission_1_1",
+                "preposedTaskId": null,
+                "trustorId": "char_61n3",
+                "trustorName": "Vannini",
+                "sortId": 1,
+                "taskName": "Firearm Cleaning Solvent",
+                "taskContent": "[Order 231]\nClient: Vannini\nFor next year's gunsmith qualification exam, just around the corner. Need to show her how to make a gun of her own.\n\nClient comment: I hope I won't let you down for everything you've done for me, Magister.",
+                "afterTaskContent": "In the evening, you feel a bottle of firearm cleaning solvent under the table. The liquid inside has long since dried up, but there is still the faint sweet scent of vanilla. You think back...\n\nVannini was still a child at the time, and she hadn't been at the workshop for very long. The Notarial Hall sent over her mother's patron firearm. She held onto that filthy gun, still covered in bloodstains... You didn't want to think too hard about where they came from.\nSo you brought her to the workroom, explaining to her how to clean a gun. You asked her if she needed help, but she said nothing. You wanted to stay and keep her company, but then you saw her lower her head.\nYou were at a loss, thinking she wanted to be by herself for a while. With a sigh, you turned and headed back upstairs. The moment you heard glass shattering, you hurried back downstairs. The workbench was completely covered in solvent, and all Vannini did was tremble as she stood in shock at the scene of the 'accident'.\nYou wanted to say something to console her, but it was clear that no matter what you said, she'd only reply with silence. She had lost her family and was suffering. You knew this much, and tried many times to find an inroad to her heart, but you never found the right place to start.\n\nYou relive the fatigue you felt at the time, ignoring the fact that the bottle had shattered long ago.",
+                "beforeTaskItemIcon": "bottle_blank",
+                "afterTaskItemIcon": "bottle",
+                "stageId": "act42side_02",
+                "taskDesc": "Clear MT-2 with a 3-star rating",
+                "rewards": [
+                  {
+                    "id": "randomMaterial_act42side",
+                    "count": 2,
+                    "type": "VOUCHER_MGACHA"
+                  },
+                  {
+                    "id": "4001",
+                    "count": 10000,
+                    "type": "GOLD"
+                  }
+                ]
+              }
+            ,
+            
+              "mission_1_2": {
+                "taskId": "mission_1_2",
+                "preposedTaskId": "mission_1_1",
+                "trustorId": "char_61n3",
+                "trustorName": "Vannini",
+                "sortId": 2,
+                "taskName": "Series on Child Psychology",
+                "taskContent": "[Order 231]\nClient: Vannini\nAfter some discussion, we decided to reference Vannini's mother's patron firearm in the construction of this one. But we've found keeping to this standard to have major flaws. Will need to make further adjustments.\n\nClient comment: Thank you for looking after my mother's patron firearm, Magister.",
+                "afterTaskContent": "In the middle of the night, you knock a few books off the bookshelf. They open as you pick them up, and a report greets you from among the pages. You are reminded of the day you brought Vannini to doctors all across the city.\n\n[Medical Report]\nPagus Faber Central Hospital, Halo Surgery\nPatient suffers from a speech impediment, speaking with only great difficulty and with severe lexical deficiency. Patient also shows mild difficulties in reading and writing. Diagnosis is psychogenic aphasia.\nAside from medication, considering the family's particular circumstances, weekly empathy contact sessions at this hospital have been suggested.\n\nYou couldn't rely on empathy to read the girl's mind, so at the doctor's suggestion, you bought <i>Little Halo, Little Heart</i>, a series of books about Sankta child psychology. You memorized every passage in those books, but when you saw her stuttering in front of you, the grim reality set in. Every sentence of these lousy books was based on a central premise: both you and your child have big, bright halos on your heads.\nBut you don't have one—not then, not now. What a shame. Those books were useless to you.\n\nYou relive the anxiety and anger you felt at the time, ignoring the fact that you tore these books to shreds in a fit of rage long ago.",
+                "beforeTaskItemIcon": "book_blank",
+                "afterTaskItemIcon": "book",
+                "stageId": "act42side_05",
+                "taskDesc": "Clear MT-5 with a 3-star rating",
+                "rewards": [
+                  {
+                    "id": "30044",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "2004",
+                    "count": 5,
+                    "type": "CARD_EXP"
+                  }
+                ]
+              }
+            ,
+            
+              "mission_1_3": {
+                "taskId": "mission_1_3",
+                "preposedTaskId": "mission_1_2",
+                "trustorId": "char_61n3",
+                "trustorName": "Vannini",
+                "sortId": 3,
+                "taskName": "Cape",
+                "taskContent": "[Order 231]\nClient: Vannini\nGun's nearly finished. The slow firing rate issue has been addressed. Just needs a lick of paint and decoration.\n\nClient comment: I'd like you to finish the decorations on the gun, Magister. Ever since I was little, I've always thought every gift you gave me was beautiful.",
+                "afterTaskContent": "Late at night, you notice a feather cape on the sofa. You pick it up and find the label, and are reminded of a winter several years ago.\n\nMade from: 100% Paganini feathers\nDry clean only\nDo not wash at over 30 degrees\nHang-dry\nIron at low temperature\nDo not bleach\n—Laundry tag\n\nWhenever Vannini felt cold, she would bury herself in your thick feathers, only sticking her face out once she was nearly out of breath.\nEvery molting season, you would gather a big sack's worth of feathers and pick out the most beautiful and lustrous ones to make a cape. It took you a good few years to do it, since your feathers were always rather dull and drab from a lack of rest. Once she got the cape, Vannini took about half a day to express her gratitude. It was an incredibly long speech, all in all, but you couldn't have asked for better payment.\nYou held back tears as you gazed at her. You didn't speak, and she didn't either, electing instead to nervously twiddle her thumbs.\n\nYou relive the joy and happiness you felt at the time, forgetting about the time you threw your oil-stained work clothes in the filthy laundry basket labeled 'Dry clean only'. The cape was stained in iridescent oil long ago.",
+                "beforeTaskItemIcon": "cape_blank",
+                "afterTaskItemIcon": "cape",
+                "stageId": "act42side_07",
+                "taskDesc": "Clear MT-7 with a 3-star rating, and awaken at least 5 Shrine Marksman Cosplayers on Dream Tiles",
+                "rewards": [
+                  {
+                    "id": "32001",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "3302",
+                    "count": 10,
+                    "type": "MATERIAL"
+                  }
+                ]
+              }
+            ,
+            
+              "mission_2_1": {
+                "taskId": "mission_2_1",
+                "preposedTaskId": null,
+                "trustorId": "char_pandm",
+                "trustorName": "Mostima & Fiammetta",
+                "sortId": 1,
+                "taskName": "Target",
+                "taskContent": "[Order 172]\nClient: Fiammetta\nSmall firearm, easy to carry while doing fieldwork, requires a full set of attachments, right-handed.\n\nClient comment: Senior Paganini, this gun is a gift for a friend's birthday. Money isn't an issue; I just hope you can get it done before December.",
+                "afterTaskContent": "In the evening, you find a large stack of documents in the filing cabinet, hidden away for years, their pages long yellowed. You think back to all those years ago, to the first time St. Theodore's Comprehensive School invited you to make patron firearms for their students.\n\nFirst Semester Comprehensive Shooting Course Rankings, Year ■■■\n1st: Fiammetta\n2nd: Lemuen\n3rd: Mostima\n4th: Caelia\n......\nSecond Semester Comprehensive Shooting Course Rankings, Year ■■■\n1st: Lemuen\n2nd: Fiammetta\n3rd: Mostima\n4th: Caelia\n......\nFirst Semester Comprehensive Shooting Course Rankings, Year ■■■\n1st: Fiammetta\n2nd: Lemuen\n3rd: Mostima\n4th: Caelia\n......\n\nClass of ■■■ Graduates, Patron Firearm Manufacture List\n1. Lemuen\n2. Mostima\n3. Caelia\n......\nYou flipped through the files, one after the other, and blurted out to the teacher that the child named Fiammetta wasn't on the list. You were informed she was a Liberi. The regret clouding the teacher's eyes left you at a loss.\n\nYou feel frustrated, ignoring the fact that you never brought that list back to your workshop after perusing it.",
+                "beforeTaskItemIcon": "target_blank",
+                "afterTaskItemIcon": "target",
+                "stageId": "act42side_04",
+                "taskDesc": "Clear MT-4 with a 3-star rating, and deploy Sniper Operator at least 1 time",
+                "rewards": [
+                  {
+                    "id": "randomMaterial_act42side",
+                    "count": 2,
+                    "type": "VOUCHER_MGACHA"
+                  },
+                  {
+                    "id": "2003",
+                    "count": 10,
+                    "type": "CARD_EXP"
+                  }
+                ]
+              }
+            ,
+            
+              "mission_2_2": {
+                "taskId": "mission_2_2",
+                "preposedTaskId": "mission_2_1",
+                "trustorId": "char_pandm",
+                "trustorName": "Mostima & Fiammetta",
+                "sortId": 2,
+                "taskName": "Raisin Cake",
+                "taskContent": "[Order 172]\nClient: Fiammetta\nClient's friend was very satisfied after seeing the plans. The remaining details of manufacture can be left to the gunsmith's discretion.\n\nClient comment: I suppose that's how geniuses think, Senior Paganini.",
+                "afterTaskContent": "At night, you find a piece of cake in the refrigerator. After sating your hunger, you think back to how astonished you were the first time you had it.\n\nEvery time they were done with a mission, that one squad would always come to your workshop for weapon maintenance, bringing with them some of that cake you adored.\nThe Sanktas treated their patron firearms like their babies, hoping you would clean them with utmost gentleness. The Liberi, on the other hand, would always ask you questions with a straight face:\n'Can you make the grenade launcher fire further?\n'Can you improve the rifling?\n'Changing out the attachments is a pain in the ass... Anything you can do to fix it?'\nAt least, until you told her you could, but first, she had to be okay with swapping out a transmitter, since the current one was barely more than a worn-out lump of iron.\nAs straight-faced as ever, she said:\n'Then swap it already.'\nYou sighed with relief that this wasn't a patron firearm. If it were, its owner would have been going mad with worry over the damage.\nShe turned back to her friends, one of them sobbing her eyes out over having to change her gun's sights. Soon after, the corners of the Liberi's mouth turned upwards, and she said rather happily:\n'Good thing I don't have a guardian gun.'\n\nYou are enraptured by the taste, forgetting that these raisin cakes were never actually that tasty, since there were always pranksters embedding odd-tasting candy in them.",
+                "beforeTaskItemIcon": "cake_blank",
+                "afterTaskItemIcon": "cake",
+                "stageId": "act42side_06",
+                "taskDesc": "Clear MT-6 with a 3-star rating",
+                "rewards": [
+                  {
+                    "id": "31024",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "4001",
+                    "count": 10000,
+                    "type": "GOLD"
+                  }
+                ]
+              }
+            ,
+            
+              "mission_2_3": {
+                "taskId": "mission_2_3",
+                "preposedTaskId": "mission_2_2",
+                "trustorId": "char_pandm",
+                "trustorName": "Mostima & Fiammetta",
+                "sortId": 3,
+                "taskName": "Old Pocket Watch",
+                "taskContent": "[Order 172]\nClient: Fiammetta\nNull\n\nClient comment: I'm sorry, Senior Paganini. Some stuff happened recently, and my friend, she... she won't be needing that gun anymore. I'll still pay you the rest of your fee. As for the gun, can I leave it in your care for now?",
+                "afterTaskContent": "Late at night, you raise your head while in the middle of work to check the time. It's nearly midnight. You remember the last time Seniora Fiammetta came to your workshop. It was rather late at night too.\n\nShe was in a gloomy mood as she told you the owner of the 'Gun of the Year' was already far from Laterano, and that before she left, all she did was give Fiammetta a pocket watch, telling her to look after it.\nShe rubbed her forehead as she grumbled:\n'They all got over it, but I just can't... I'm always one step behind them, I get it!\n'Just like this watch... That woman went and gave me a watch that can't even keep time.'\nYou handed her a cup of wine, took the pocket watch she handed to you, and got its mechanism working again, its hands leaping back to life. You suddenly realized why Mostima left her pocket watch with her.\n'I think...' You chose your words carefully as you tried to console her.\n'Look at the watch, Seniora Fiammetta. The second and minute hands are both swift, but while the hour hand may lag behind them, at midnight the three will always reunite, and a new day will dawn.\n'These three hands, they come together to form this watch.'\nShe sighed, broke out into a smile, then left.\n\nYou continue on with your work, so busy you forgot that Fiammetta never came by that day.",
+                "beforeTaskItemIcon": "watch_blank",
+                "afterTaskItemIcon": "watch",
+                "stageId": "act42side_08",
+                "taskDesc": "Clear MT-8 with a 3-star rating, and deploy Operators on Dream Tiles at least 2 times",
+                "rewards": [
+                  {
+                    "id": "30115",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "2004",
+                    "count": 5,
+                    "type": "CARD_EXP"
+                  }
+                ]
+              }
+            ,
+            
+              "mission_3_1": {
+                "taskId": "mission_3_1",
+                "preposedTaskId": null,
+                "trustorId": "char_patrizion",
+                "trustorName": "Patrizion",
+                "sortId": 1,
+                "taskName": "Medal of Honor",
+                "taskContent": "[Order 0]\nClient: Patrizion\nLarge rotary machine gun used by gun-knights. The stuff left behind by the old masters can use a lot of improvement. I'll put my back into it. I want to give Patrizion the machine gun with the most firepower in all of Laterano when he becomes a gun-knight.\n\nClient comment: I'm truly honored to be one of your clients, my friend.\n",
+                "afterTaskContent": "In the evening, you receive a greeting from an old friend. As you think back to the little moments when you were friends, your mind is left in disarray.\n\nThe silver papal gun-knight medal, established by then-Pope Ludovico IV on February the 14th of 1029, was made to honor trainee knights who displayed especially outstanding skill, allowing them to skip the final examinations and formally join the gun-knights early. The youngest of these recipients, Patrizion, was only twenty-six years of age.\n\nAt the award ceremony, you were part of the crowd. You saw the pope himself pin the medal onto Patrizion. Your younger cousin Gia was holding your hand tightly, transmitting both her excitement and nervousness to you.\nAfter paying his respects to the pope, he scanned the crowd anxiously. You and Gia held your arms up high, shouting as much as you could. The moment he saw the two of you, he broke out into a smile.\nYou looked at him as he looked back, your heart full of pride. The two of you had a pact. If he managed to get this medal, then you'd entrust that giant gun you made recently to him. You had voiced your doubts, but in your heart, you knew there was nobody else worthy to wield your 'masterpiece' aside from that smiling, splendid little bastard.\n\nYou don't answer his message, throwing your communicator aside in irritation, completely forgetting that, at the time, it wasn't you who locked eyes with him, but Gia.",
+                "beforeTaskItemIcon": "medal_blank",
+                "afterTaskItemIcon": "medal",
+                "stageId": "act42side_03",
+                "taskDesc": "Clear MT-3 with a 3-star rating",
+                "rewards": [
+                  {
+                    "id": "randomMaterial_act42side",
+                    "count": 2,
+                    "type": "VOUCHER_MGACHA"
+                  },
+                  {
+                    "id": "3302",
+                    "count": 10,
+                    "type": "MATERIAL"
+                  }
+                ]
+              }
+            ,
+            
+              "mission_3_2": {
+                "taskId": "mission_3_2",
+                "preposedTaskId": "mission_3_1",
+                "trustorId": "char_patrizion",
+                "trustorName": "Patrizion",
+                "sortId": 2,
+                "taskName": "Grandmother's Necklace",
+                "taskContent": "[Order 0]\nClient: Patrizion\nPerhaps... the original design could be split into two parts that can be used independently.\n\nClient comment: I showed your design to my commanding officer. You'll have to thank me later, since you might be getting new work right away.\n",
+                "afterTaskContent": "At night, you receive a necklace from Columbia in the mail. It looks very familiar, and you can't help but wonder where you've seen it before.\n\n...Patri, Avia's leaving you this necklace. If you ever find the right girl one day, give it to her to wear, then bring her to my grave for me to have a look. July would be best. The jasmines will be in bloom.\n—The portion of Patrizion's grandmother's will concerning him\n\nThat day, you saw Patrizion putting that necklace around Gia's neck as she looked down bashfully.\nTheir wedding was to be in July, and you were their best man, organizing the entire wedding in the lovebirds' place. When the two of them confessed their relationship to you, at first you were angry at them for hiding it from you, but that anger quickly turned to joy. You had long hoped he would become a part of your family. After all, ever since his grandmother passed, he was the only one left in his.\n\nThe necklace comes with news of Gia's death. You endure the grief, forgetting how on that day, you weren't actually that happy. Gia had whispered to you about how her knee was always aching lately.",
+                "beforeTaskItemIcon": "bracelet_blank",
+                "afterTaskItemIcon": "bracelet",
+                "stageId": "act42side_07",
+                "taskDesc": "Clear MT-7 with a 3-star rating, and deploy Specialist Operator at least 1 time",
+                "rewards": [
+                  {
+                    "id": "30094",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "2003",
+                    "count": 10,
+                    "type": "CARD_EXP"
+                  }
+                ]
+              }
+            ,
+            
+              "mission_3_3": {
+                "taskId": "mission_3_3",
+                "preposedTaskId": "mission_3_2",
+                "trustorId": "char_patrizion",
+                "trustorName": "Patrizion",
+                "sortId": 3,
+                "taskName": "Incoming Mail",
+                "taskContent": "[Order 0]\nClient: Patrizion\nGave it a coat of bright paint, needs to match the gun-knight armor.\n\nClient comment: This is a masterpiece, my friend. I can't stop thinking about heading off on my next mission when I hold it.\n",
+                "afterTaskContent": "Late at night, you take out a letter from inside the safe. A letter Gia entrusted you with to give Patrizion. You never did. You think back.\n\n[Mission Notice]\nDate of mission: 07/21\nMission objective: Exiling an Oripathy patient from the Holy City\nExecutor: Patrizion\n\nFrom June to July, you looked for Patrizion countless times, hoping there could be some room for negotiation. Even if Gia had to stay at a convent outside the Holy City, it would be fine, but he was silent, spitting out only a single sentence after a long while:\n'The Law... cannot be violated.'\nYou gave Gia a hug before sending her off to the waiting convoy outside the Holy City. It was a raging-hot July, but her hands were ice-cold. Patrizion stood by the convoy, carrying his gun, not saying a word. He glanced incessantly at you and Gia, but he never dared to look the two of you in the face.\n\nYou put the letter and the necklace back into the safe, deleting Patrizion's number as you do so. Grief made you forget that you never had his number.",
+                "beforeTaskItemIcon": "letter_blank",
+                "afterTaskItemIcon": "letter",
+                "stageId": "act42side_09",
+                "taskDesc": "Clear MT-9 with a 3-star rating, and deploy Defender Operator at least 1 time",
+                "rewards": [
+                  {
+                    "id": "mod_unlock_token",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "4001",
+                    "count": 10000,
+                    "type": "GOLD"
+                  }
+                ]
+              }
+            ,
+            
+              "mission_4_1": {
+                "taskId": "mission_4_1",
+                "preposedTaskId": null,
+                "trustorId": "char_61n16",
+                "trustorName": "Idida",
+                "sortId": 1,
+                "taskName": "Dentist's Mirror",
+                "taskContent": "[Order 208]\nClient: Idida\nAnything is fine.\n\nClient comment: We don't have too many requests for this guardian gun, Senior Paganini. Our little Idida already has her own guardian toothbrush, after all. That should be fine, right?",
+                "afterTaskContent": "In the depths of the fridge there is always a carton of your sinful pleasure hidden away: ice cream. In the early morning, you dig out a big scoop, but just as you are about to bring it to your beak, there is a knock at the door.\n\nYou open the door to see Idida, the neighbors' young daughter, holding a thick stack of leaflets.\nWith a resigned sigh, you say: 'You know it's not even five in the morning yet, right, kid?'\nThe girl simply bats her eyelashes before letting out a sly smile: 'But you're a nocturnal Liberi, right?' You sigh and take a leaflet, the giant cautionary slogan domineering your view and reminding you to avoid harmful sugar.\nYou are reminded of the pamphlets stuffing your mailbox, inviting you to take part in neighborhood meetings every week, where discussions on how to expel dessert shops from the neighborhood—no, all of Laterano—take place. You suddenly realize why this house was so cheap. No ordinary Lateran could tolerate living next to these insane dentists who wouldn't stop talking about fluoridated toothpaste.\n'Want something to eat before you go, Idida?'\n'Thanks, but that's not going to work on me! I won't be tempted by the evil desserts in your fridge!'\n'That's not it, Idida. I just thought you still don't fully understand your enemy.'\nYou wink as you stuff a carton of ice cream into her hands.",
+                "beforeTaskItemIcon": "mouthmirror_blank",
+                "afterTaskItemIcon": "mouthmirror",
+                "stageId": "act42side_04",
+                "taskDesc": "Clear MT-4 with a 3-star rating, and deploy Operators on Dream Tiles at least 2 times",
+                "rewards": [
+                  {
+                    "id": "randomMaterial_act42side",
+                    "count": 2,
+                    "type": "VOUCHER_MGACHA"
+                  },
+                  {
+                    "id": "2004",
+                    "count": 5,
+                    "type": "CARD_EXP"
+                  }
+                ]
+              }
+            ,
+            
+              "mission_4_2": {
+                "taskId": "mission_4_2",
+                "preposedTaskId": "mission_4_1",
+                "trustorId": "char_61n16",
+                "trustorName": "Idida",
+                "sortId": 2,
+                "taskName": "Kid's Toothbrush",
+                "taskContent": "[Order 208]\nClient: Idida\nNeeds a coat of mint paint, a shade that makes people think of extra-strong toothpaste.\n\nClient comment: You've avoided going to neighborhood meetings many times now, Senior Paganini. We hope you can attend the next one and fulfill your duty as a member of this community. As you have dismantled your mailbox, this is the only way we can contact you.",
+                "afterTaskContent": "It's now midnight, and you're still enjoying your sinful ice cream without a care in the land. Suddenly, a wave of knocking hammers at your door. You open it.\n\nYou see Idida, her face covered in tears. Her mouth opens wide due to her weeping, and you notice that where her two incisors should be, there are only gaps.\n'I'm being punished, all because of your wicked ice cream! My teeth fell out!'\nYou sigh and hand her some tissues as you try to console her.\n'No, you're just at that age when you get new teeth, Idida.'\n'Teeth falling out is a punishment! The original sin of the Sankta is loving desserts!'\nNo matter what you say, she does not stop wailing. Her tears do not stop either, as if her eyes were broken faucets. It is not long before the waste basket is full of soggy tissues.\n'What's it gonna take for you to stop crying?'\n'*sniff* I don't know either... Right now, it's just my teeth falling out, but what if my halo gets cavities next? There's nothing you can do to make me feel better, just give up.'\n'I've got a new flavor of ice cream in my fridge.'\n'......'\n'Want some?'\n'...Yeah.'\n'If you have some, will you stop crying?'\nThe girl sobs as she opens the carton of ice cream. In your heart, you smirk. What Sankta could resist the allure of sweet ice cream? No one, that's who.\n'All your teeth will fall out eventually, you know.'\n'That's not going to work on me. I don't have teeth—I grind up my food with gastroliths.'",
+                "beforeTaskItemIcon": "razor_blank",
+                "afterTaskItemIcon": "razor",
+                "stageId": "act42side_08",
+                "taskDesc": "Clear MT-8 with a 3-star rating, and deploy Guard Operator at least 1 time",
+                "rewards": [
+                  {
+                    "id": "31094",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "3302",
+                    "count": 10,
+                    "type": "MATERIAL"
+                  }
+                ]
+              }
+            ,
+            
+              "mission_4_3": {
+                "taskId": "mission_4_3",
+                "preposedTaskId": "mission_4_2",
+                "trustorId": "char_61n16",
+                "trustorName": "Idida",
+                "sortId": 3,
+                "taskName": "'The Price of Sweets'",
+                "taskContent": "[Order 802]\nClient: Paganini\nTwelve cartons of sugar-free ice cream, a mix of flavors, express delivery.\n\nClient comment: Remember to avoid Vannini when you deliver it. I haven't been keeping my weight in check lately, and she's got her eye on me.",
+                "afterTaskContent": "Late at night, you open the miniature fridge under your bed, only to discover you've already eaten all your ice cream. All that is left is a lonely salad. You sigh and open it up, but then a familiar chain of knocks rap against your door.\n\nYou open the door, but rather than who you expected, it is your neighbor holding a thick stack of leaflets while inviting you to participate in next week's neighborhood meeting.\nYou take a leaflet, noting that it is no longer about how to stop desserts from entering the neighborhood, but rather a joint discussion on how to help Idida spread the good word of sugar-free ice cream across all of Laterano.\nYour neighbor proudly chats with you about the girl in question.\n'Say, thanks to my girl inventing sugar-free ice cream, Laterano will finally receive salvation.\nTo whoever gave her this revelation, may fluoridated toothpaste bless you!'\nYou give an embarrassed smile, saying you'll definitely attend if you have the time.\nAfter sending off your neighbor, you return to your desk and prepare to eat your dinner, but once more you are rudely interrupted by more knocking on your door.\nYou open the door to see Idida smiling a gap-toothed smile.\n'As the one who gave me the revelation of sugar-free ice cream, would you like to make an investment?'\n'Absolutely not, little girl.'\n'Then would you like to try some?'\nYou note that the leafy greens in the carton have no vinaigrette on them.\n'...Yeah.'",
+                "beforeTaskItemIcon": "tooth_blank",
+                "afterTaskItemIcon": "tooth",
+                "stageId": "act42side_09",
+                "taskDesc": "Clear MT-9 with a 3-star rating, and awaken at least 1 Shrine Nurturer Cosplayer on a Dream Tile",
+                "rewards": [
+                  {
+                    "id": "30135",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "2003",
+                    "count": 10,
+                    "type": "CARD_EXP"
+                  }
+                ]
+              }
+            
+          },
+          "gunData": {
+            
+              "personItem_61n3": {
+                "gunId": "personItem_61n3",
+                "gunName": "First Patron Firearm",
+                "trustorName": "Vannini",
+                "gunContent": "The first firearm Vannini made as an apprentice. Completed under the guidance of her magister Paganini, its manufacture makes it clear it was created by a novice, but its various innovations are proof enough of her talent as a gunsmith.",
+                "gunSmallIcon": "personItem_61n3",
+                "gunWhiteIcon": "gun_61n3_white",
+                "gunColorIcon": "gun_61n3"
+              }
+            ,
+            
+              "personItem_pandm": {
+                "gunId": "personItem_pandm",
+                "gunName": "Unclaimed Firearm Order (Gift Box)",
+                "trustorName": "Mostima & Fiammetta",
+                "gunContent": "Mostima's second gun, commissioned by her friend Fiammetta as a birthday gift. Very expensive, with quality to match. Unanimously praised by the gunsmiths of Via Borgos, and honored with that year's 'Gun of the Year' award.",
+                "gunSmallIcon": "personItem_pandm",
+                "gunWhiteIcon": "gun_pandm_white",
+                "gunColorIcon": "gun_pandm"
+              }
+            ,
+            
+              "personItem_patrizion": {
+                "gunId": "personItem_patrizion",
+                "gunName": "Gun-Knight's Rotary Machine Gun",
+                "trustorName": "Patrizion",
+                "gunContent": "The gun that made Paganini famous, and Patrizion's first heavy firearm after becoming a gun-knight. Artisanal machining and military standardization join together to form a masterpiece.",
+                "gunSmallIcon": "personItem_patrizion",
+                "gunWhiteIcon": "gun_patrizion_white",
+                "gunColorIcon": "gun_patrizion"
+              }
+            ,
+            
+              "personItem_61n16": {
+                "gunId": "personItem_61n16",
+                "gunName": "Sugar-Free Ice Cream",
+                "trustorName": "Idida",
+                "gunContent": "The first batch of sugar-free ice cream Idida made. Paganini at the gunsmithy is her only regular customer. Even with her door-to-door sales technique, most Laterans still see it as heresy.",
+                "gunSmallIcon": "personItem_61n16",
+                "gunWhiteIcon": "gun_61n16_white",
+                "gunColorIcon": "gun_61n16"
+              }
+            
+          },
+          "fileData": {
+            
+              "act42side_file_1": {
+                "contentId": "act42side_file_1",
+                "sortId": 1
+              }
+            ,
+            
+              "act42side_file_2": {
+                "contentId": "act42side_file_2",
+                "sortId": 2
+              }
+            ,
+            
+              "act42side_file_3": {
+                "contentId": "act42side_file_3",
+                "sortId": 3
+              }
+            ,
+            
+              "act42side_file_4": {
+                "contentId": "act42side_file_4",
+                "sortId": 4
+              }
+            ,
+            
+              "act42side_file_5": {
+                "contentId": "act42side_file_5",
+                "sortId": 5
+              }
+            
+          },
+          "dailyRewardList": [
+            {
+              "completedCnt": 0,
+              "reward": {
+                "id": "randomMaterial_act42side",
+                "count": 1,
+                "type": "VOUCHER_MGACHA"
+              }
+            },
+            {
+              "completedCnt": 1,
+              "reward": {
+                "id": "randomMaterial_act42side",
+                "count": 2,
+                "type": "VOUCHER_MGACHA"
+              }
+            },
+            {
+              "completedCnt": 3,
+              "reward": {
+                "id": "randomMaterial_act42side",
+                "count": 3,
+                "type": "VOUCHER_MGACHA"
+              }
+            },
+            {
+              "completedCnt": 6,
+              "reward": {
+                "id": "randomMaterial_act42side",
+                "count": 4,
+                "type": "VOUCHER_MGACHA"
+              }
+            },
+            {
+              "completedCnt": 9,
+              "reward": {
+                "id": "randomMaterial_act42side",
+                "count": 5,
+                "type": "VOUCHER_MGACHA"
+              }
+            },
+            {
+              "completedCnt": 12,
+              "reward": {
+                "id": "randomMaterial_act42side",
+                "count": 6,
+                "type": "VOUCHER_MGACHA"
+              }
+            }
+          ],
+          "constData": {
+            "coffeeName": "Espresso",
+            "dailyCoffee": 2,
+            "coffeeLimit": 12,
+            "coffeeContent": "The gunsmithy coffee pot will brew 2 cups of Espresso every day at 04:00. Accepting an order requires 1 Espresso. 2 Espressos are automatically obtained when you unlock the gunsmithy. When all orders are complete, the coffee pot will stop brewing.",
+            "minGunTaskDisplay": "<1",
+            "unlockStageId": "act42side_01",
+            "toastGunTaskCompleted": "'{0}' progress updated",
+            "toastGunTaskLocked": "Previous orders seem to be missing",
+            "toastStageBlock": "Stage locked",
+            "toastEntryLocked": "Unlocks after completing MT-1",
+            "toastFileLocked": "Guns are still being crafted—unable to add more workshop log entries",
+            "toastGunLocked": "Order incomplete",
+            "toastNoCoffee": "The coffee pot is completely empty\nLet's leave any work for tomorrow",
+            "toastOuterUnlock": "A Firearm Technician's Night unlocked"
+          },
+          "zoneAdditionDataMap": {
+            
+              "act42side_zone1": {
+                "zoneId": "act42side_zone1",
+                "unlockText": "Locked"
+              }
+            ,
+            
+              "act42side_zone2": {
+                "zoneId": "act42side_zone2",
+                "unlockText": "Unlocks after completing [A Glance at the Shrine]"
+              }
+            ,
+            
+              "act42side_zone3": {
+                "zoneId": "act42side_zone3",
+                "unlockText": "Unlocks after completing [A Glance at the Shrine]"
+              }
+            
+          }
+        }
+      
     }
   },
   "extraData": {
@@ -230956,6 +234630,11 @@
     
       "act4collection": [
         "act4collection_point_token"
+      ]
+    ,
+    
+      "act1break": [
+        "act1break_milestone_point"
       ]
     ,
     
@@ -236633,6 +240312,36 @@
 
       ],
       "startTs": 1760443200
+    },
+    {
+      "id": "dis_break_1",
+      "type": "ACTIVITY",
+      "funcId": "act1break",
+      "endTs": 1763636399,
+      "sortId": 115,
+      "itemId": null,
+      "timeNodes": [
+        {
+          "title": "<Vector Breakthrough #1: Inorganic Matters> is now open",
+          "ts": 1761836400
+        },
+        {
+          "title": "New stages - 'Special Front' are now open",
+          "ts": 1762167600
+        },
+        {
+          "title": "New stages - 'All-Out Effort' and 'Special Front' are now open",
+          "ts": 1762441200
+        },
+        {
+          "title": "New stages - 'Special Front' are now open",
+          "ts": 1762686000
+        }
+      ],
+      "picGroups": [
+
+      ],
+      "startTs": 1761836400
     },
     {
       "id": "dis_rogue_1_enroll_3",
@@ -267616,6 +271325,21 @@
   },
   "activityCrossDayTrackTypeDataDict": {
     
+      "act1break_milestone_expand": {
+        "type": "act1break_milestone_expand",
+        "startTs": 1762441200,
+        "expireTs": 1763895599,
+        "dataDict": {
+          
+            "milestone_expand": {
+              "updateEndTs": 1762513199,
+              "id": "milestone_expand"
+            }
+          
+        }
+      }
+    ,
+    
       "act1enemyduel_milestone_day_track_1": {
         "type": "act1enemyduel_milestone_day_track_1",
         "startTs": 1760443200,
@@ -267920,6 +271644,11 @@
     
   },
   "activityCrossDayTrackTypeMap": {
+    
+      "act1break": [
+        "act1break_milestone_expand"
+      ]
+    ,
     
       "act1enemyduel": [
         "act1enemyduel_milestone_day_track_1"
