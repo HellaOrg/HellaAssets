@@ -118,6 +118,7 @@ jobs:
 
       - name: Download assets
         id: download-assets
+        timeout-minutes: 10
         working-directory: scripts
         run: |
           source $HOME/venv/bin/activate
@@ -160,6 +161,7 @@ jobs:
 
       - name: Download APK
         if: steps.download-assets.outputs.condition == 'true'
+        timeout-minutes: 10
         working-directory: scripts
         run: |
           source $HOME/venv/bin/activate
@@ -653,7 +655,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           gh pr create --title "update: ${{ needs.update.outputs.branch-name }}" \
-          --body "Merge ${{ needs.update.outputs.branch-name }} into main\n${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+          --body "Merge ${{ needs.update.outputs.branch-name }} into main
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
           --base main \
           --head ${{ needs.update.outputs.branch-name }} \
           || :
