@@ -23903,6 +23903,41 @@
               }
             ],
             "charId": "char_400_weedy"
+          },
+          {
+            "storySetId": "story_weedy_set_2",
+            "storySetName": "The Sea Breeze on the Salt Flat",
+            "sortId": 2,
+            "storyGetTime": 1763046000,
+            "rewardItem": [
+
+            ],
+            "unlockParam": [
+              {
+                "unlockType": "AWAKE",
+                "unlockParam1": "2",
+                "unlockParam2": "60",
+                "unlockParam3": null
+              },
+              {
+                "unlockType": "FAVOR",
+                "unlockParam1": "200",
+                "unlockParam2": null,
+                "unlockParam3": null
+              }
+            ],
+            "avgList": [
+              {
+                "storyId": "story_weedy_set_2_story_1",
+                "storySetId": "story_weedy_set_2",
+                "storySort": 1,
+                "storyCanShow": true,
+                "storyIntro": "She pushes open the door of the past, and finds someone who still lingers within.",
+                "storyInfo": "info/obt/memory/story_weedy_2_1",
+                "storyTxt": "obt/memory/story_weedy_2_1"
+              }
+            ],
+            "charId": "char_400_weedy"
           }
         ]
       }
@@ -53609,7 +53644,41 @@
           }
         ],
         "handbookAvgList": [
+          {
+            "storySetId": "story_vvana_set_1",
+            "storySetName": "The Unpoetic Poet",
+            "sortId": 1,
+            "storyGetTime": 1763046000,
+            "rewardItem": [
 
+            ],
+            "unlockParam": [
+              {
+                "unlockType": "AWAKE",
+                "unlockParam1": "2",
+                "unlockParam2": "1",
+                "unlockParam3": null
+              },
+              {
+                "unlockType": "FAVOR",
+                "unlockParam1": "50",
+                "unlockParam2": null,
+                "unlockParam3": null
+              }
+            ],
+            "avgList": [
+              {
+                "storyId": "story_vvana_set_1_story_1",
+                "storySetId": "story_vvana_set_1",
+                "storySort": 1,
+                "storyCanShow": true,
+                "storyIntro": "The poet's eyes are like time: the land changes when she gazes upon it.",
+                "storyInfo": "info/obt/memory/story_vvana_1_1",
+                "storyTxt": "obt/memory/story_vvana_1_1"
+              }
+            ],
+            "charId": "char_4098_vvana"
+          }
         ]
       }
     ,
@@ -58782,7 +58851,41 @@
           }
         ],
         "handbookAvgList": [
+          {
+            "storySetId": "story_narant_set_1",
+            "storySetName": "Where Doth Treasure Lie",
+            "sortId": 1,
+            "storyGetTime": 1763046000,
+            "rewardItem": [
 
+            ],
+            "unlockParam": [
+              {
+                "unlockType": "AWAKE",
+                "unlockParam1": "2",
+                "unlockParam2": "1",
+                "unlockParam3": null
+              },
+              {
+                "unlockType": "FAVOR",
+                "unlockParam1": "50",
+                "unlockParam2": null,
+                "unlockParam3": null
+              }
+            ],
+            "avgList": [
+              {
+                "storyId": "story_narant_set_1_story_1",
+                "storySetId": "story_narant_set_1",
+                "storySort": 1,
+                "storyCanShow": true,
+                "storyIntro": "There is a Sargonian saying that true treasure chooses who finds it.",
+                "storyInfo": "info/obt/memory/story_narant_1_1",
+                "storyTxt": "obt/memory/story_narant_1_1"
+              }
+            ],
+            "charId": "char_4138_narant"
+          }
         ]
       }
     ,
@@ -64129,6 +64232,153 @@
       }
     ,
     
+      "char_4191_tippi": {
+        "charID": "char_4191_tippi",
+        "infoName": "Unknown",
+        "isLimited": false,
+        "storyTextAudio": [
+          {
+            "stories": [
+              {
+                "storyText": "[Code Name] Tippi\n[Gender] Female\n[Work Experience] 6 Years\n[Place of Birth] Columbia\n[Date of Birth] Mar 17\n[Race] Liberi\n[Height] 165cm\n[Infection Status]\nMedical tests have confirmed that no infection is present.",
+                "unLockType": "DIRECT",
+                "unLockParam": "",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Basic Info",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "[Physical Strength] Normal\n[Mobility] Standard\n[Physical Resilience] Standard\n[Tactical Acumen] Normal\n[Combat Skill] Standard\n[Originium Arts Assimilation] Normal",
+                "unLockType": "DIRECT",
+                "unLockParam": "",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Physical Exam",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "Tippi is a Wrankwood background painter. She initiated contact with Rhodes Island in hopes of facilitating a partnership wherein we would provide medical services to Wrankwood's Infected actors and film crews. She has chosen to join Rhodes Island as a specialist operator.",
+                "unLockType": "DIRECT",
+                "unLockParam": "",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Profile",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.\n\n[Cell-Originium Assimilation] 0%\nOperator Tippi shows no signs of Originium infection.\n\n[Blood Originium-Crystal Density] 0.13u/L\nOperator Tippi rarely comes into contact with Originium.",
+                "unLockType": "FAVOR",
+                "unLockParam": "25",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Clinical Analysis",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "'Tippi!' An operator glared at Tippi and interrogated her. 'You made all this, didn't you? Was all that stuff real or not?'\n'Tippi!' Another operator asked her with trembling hands and clenched teeth, 'Why would you do that? How did you even come up with that idea?'\nAnother operator punched the air silently. It took a while before he finally managed to string together a few words: 'I-I almost died of fright! I think my heart stopped!'\n'Just a second, just a second!' Tippi yelled. 'C'mon, no need to overreact! I just wanted to show you guys a horror flick I worked on!'\n\nTippi's passion for horror films is extraordinary. Not only is she an avid viewer, she has also participated in numerous productions, and often watches them with her friends. Not just to enjoy the thrills, but also to analyze and break down the scenes and techniques.\nShe explains that she has a particular love for horror films because they are the most direct and simple way of studying how to build atmosphere in cinema. From backgrounds, to music, to props, to the performance itself, any weak link turns horror into comedy. She intends to learn how to keep that entire chain intact, properly conveying the atmosphere and story of the film and truly immersing the audience in fear.\nOf course, the simpler reason is that she enjoys the feeling of screaming in terror with a group of friends as they huddle in a corner.",
+                "unLockType": "FAVOR",
+                "unLockParam": "50",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Archive File 1",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "Despite her youth, Tippi has already accumulated quite a lot of experience in Wrankwood. Before she was a background painter, she has worked in scripts, props, lighting... name a role in a film crew, and it is more likely than not that she has done it.\nAs a prop technician, she watched a director combine multiple studio plates, dreaming of making the film of the century where Higashinese ninjas leap from roof to roof atop the churches of Laterano, and Lateran guns are knocked out of their wielders' hands in the bamboo forests of Yan... The final product was indeed dream-like in its wild, disconnected incoherence. She has been a makeup artist, watching the veterans transform a Forte into a Sankta using Originium Arts. She has been a VFX artist, helping create floods and earthquakes, explosions and storms for disaster movies. Tippi says that special effects are a burgeoning industry that recruits many graduates from the universities of Leithanien every year. All of that is part of everyday life on the dozens of studio plates in Wrankwood.\nShe has moved from job to job not because she gets bored easily, but because she wants to experience every part of the movie-making process for herself. At Rhodes Island, she has made no effort to conceal the identities of her parents and grandparents, who are all famous directors. She was also pleasantly surprised to find that Jara, who is like a grandmother to her, has ties to many of our operators. However, due to her sincere love for film, she refused to follow the path her family had planned out for her, and concealed her identity when working in Wrankwood. She wanted to try things out for herself, and make the things she loves on her own terms, be they backgrounds, props, or modifications to the script. Perhaps one day she will become a director herself, and make the movies she wants to see.\nShe also wants to learn more about the dark side of Wrankwood. Perhaps certain tragedies can be avoided, if there is someone there working to make things better.",
+                "unLockType": "FAVOR",
+                "unLockParam": "100",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Archive File 2",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "The serial murders that occurred on the set of the last film Tippi worked on were all over the newspapers of Columbia for a while. The killer, Moira—who slaughtered multiple people who were involved in the death of her sister five years ago—was a good friend of Tippi's.\nTippi was angry at her friend's deception, but also earnestly reminisced about the time they spent together. She roamed across Colombia in those days, for one more chance to see Moira. However, she only saw Moira once before her sentence was carried out. The warden told Tippi that Moira was allowed to work under supervision in her last days, making many items that were useful to the prisoners, as well as props for Wrankwood.\n'We didn't approve your visits because the inmate said she didn't want visitors.\n'She finished her last prop on the day the sentence was carried out. It was a sunny day, and she didn't leave any message behind except to say that she was sorry, and that she would atone for her crimes with her death.\n'I'm afraid that's all we're allowed to disclose.'\nThat was the only thing Tippi heard from the prison. But she could imagine how Moira spent her last days. She is glad that her friend was finally free of the delusions that had plagued her, of thinking she had a sister that loved her. Moira's final days were real, and fulfilling.\nShe also thinks about the things she can do to prevent a tragedy like Laura's from happening again, and to prevent other people like Moira from being driven into a corner by scorn and belittlement. Perhaps it would have to start with her getting to know people on a deeper level, or by providing more direct help.\nShe wants to do something.",
+                "unLockType": "FAVOR",
+                "unLockParam": "150",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Archive File 3",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "From FEater's sudden retirement to Roberta's departure, it is not hard to piece together a picture of Wrankwood from the accounts of our operators who came from there. Factory-like movie production pipelines, the flimsiness of the silver screen's facade, an ever-repetitive cycle of work and publicity, the hundreds of dream-chasers who starve to death year after year, and the concealment of this darker side beneath the bright surface.\nTippi does not deny any of this. She admits that her willingness to persevere and keep trying new things at Wrankwood was made possible by her parents' and grandparents' status as famous directors, and the love and care that Jara showed her. Even though she had walked her own path and earned everything herself, it was her family ties that taught her about Wrankwood's dark side and how to deal with it. And it is because of these same ties that she is able to laugh off any scorn or abuse she encounters on the set, allowing her to focus solely on what she wants to do. If not for that, she would be one of the thousands of people huddling in tiny rented spaces and working multiple jobs trying to make ends meet in Wrankwood.\nTippi does not deny Wrankwood's status as a 'factory of dreams', either. She has met many friends in the years she has worked there. It is not unheard of for a small-town girl to work her way to stardom, a humble stagehand to be brought to tears when they see their own name at the end of the credits, or for an abandoned plate to be repurposed as a studio plate, creating temporary jobs for the unemployed to be extras and stagehands, and giving them a reprieve as they look for the next job. In recent years, Wrankwood has even implemented policies that protect the jobs of Infected actors, provided they can afford the expensive insurance fees—a first step in a long journey for Infected rights, so to speak. Many dreams have come true in Wrankwood, and many people got their first jobs here. Even Tippi's own family, people who've been through the ins and outs of Wrankwood, have their eyes light up when they run across the town's first silent picture.\nThat said, she does understand why FEater and Roberta left: the exploitation and abuse is still there, and it is happening every day. For their part, FEater and Roberta also understand why Tippi has chosen to stay: she has a dream to chase, one that still has a chance of coming true—it is, after all, Wrankwood.\nYet Tippi has also told us that she wants to establish a union, not just to work with Rhodes Island to further protect the rights of Infected cast and crew, but also to help people like Laura and Moira, people struggling at the bottom rung of Wrankwood's ladder. To create a better environment for them, so that they will not have to fall by the wayside on the path of dreams.",
+                "unLockType": "FAVOR",
+                "unLockParam": "200",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Archive File 4",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "Vroom! A shadow flies across the sky, and the operators out in the Columbian wilderness start cussing out this 'crazy bastard'.\n'What is he even here for? We always run into him on missions. He doesn't go when we ask him to, and jets upward as soon as we get close. Melee operators can't reach him, but there's no time to get a ranged operator. He doesn't do anything when he approaches, only fly around with his jetpack. Is he just trying to show off?'\n'We had someone look into him, and apparently he was someone who quit a university job to put together weird stuff like this. And he's pretty darn good at it, to tell the truth. It took so much effort to get close enough to ask whether he was interested in working together, but he turned us down without a second thought and flew away! Seems like the kinda guy who only does what he wants to, and only talks to people he wants to.'\n'Son of a gun!'\nThe squad leader curses as he instructs his operators to intercept the intruder. 'Good timing, Tippi! You can fly too, right? Go get him out of here and tell him not to get in the way of our mission again!'\n'Roger!'\nTippi takes to the air with her own flying equipment, operating it with great proficiency—in fact, her movements and techniques are almost an exact mirror of her counterpart. When they eventually intercept one another, they look at each other with questioning glances through their helmets, before suddenly embracing each other—\nTippi: 'What are you doing here, master?!'\nJetman: 'My best student! I haven't seen you for so long!'\nOperators: 'Wait, you two know each other?!'",
+                "unLockType": "AWAKE",
+                "unLockParam": "2;1",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Promotion Record",
+            "unLockorNot": true
+          }
+        ],
+        "handbookAvgList": [
+
+        ]
+      }
+    ,
+    
       "char_4198_christ": {
         "charID": "char_4198_christ",
         "infoName": "Unknown",
@@ -64258,6 +64508,187 @@
             "stories": [
               {
                 "storyText": "Bibeak has recently been asking operators with pets if their pet had escaped or gotten lost, as she has been finding small scratch marks on her door. She is usually so immersed in her design and tailor work that she does not hear sounds coming from outside the door, and would feel guilty if she failed to notice someone's stray pet trying to seek her help.\nNone of the operators reported anything unusual with their pets, but the scratch marks kept increasing by the day, until—\nShe put the bowtie on Miss.Christine's neck. Miss.Christine took a few satisfied spins in front of the mirror, made a heart shape with her twin tails, and left elegantly. The scratch marks stopped from that day forth.\nIt turns out that the scratches were not from a stray pet, but from a Miss.Christine who could not wait to see her newest attire.",
+                "unLockType": "AWAKE",
+                "unLockParam": "2;1",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Promotion Record",
+            "unLockorNot": true
+          }
+        ],
+        "handbookAvgList": [
+          {
+            "storySetId": "story_christ_set_1",
+            "storySetName": "A Long, Long Time Ago",
+            "sortId": 1,
+            "storyGetTime": 1763046000,
+            "rewardItem": [
+
+            ],
+            "unlockParam": [
+              {
+                "unlockType": "AWAKE",
+                "unlockParam1": "2",
+                "unlockParam2": "1",
+                "unlockParam3": null
+              },
+              {
+                "unlockType": "FAVOR",
+                "unlockParam1": "50",
+                "unlockParam2": null,
+                "unlockParam3": null
+              }
+            ],
+            "avgList": [
+              {
+                "storyId": "story_christ_set_1_story_1",
+                "storySetId": "story_christ_set_1",
+                "storySort": 1,
+                "storyCanShow": true,
+                "storyIntro": "The legends speak of a 'Black Cat'.",
+                "storyInfo": "info/obt/memory/story_christ_1_1",
+                "storyTxt": "obt/memory/story_christ_1_1"
+              }
+            ],
+            "charId": "char_4198_christ"
+          }
+        ]
+      }
+    ,
+    
+      "char_1042_phatm2": {
+        "charID": "char_1042_phatm2",
+        "infoName": "Unknown",
+        "isLimited": false,
+        "storyTextAudio": [
+          {
+            "stories": [
+              {
+                "storyText": "[Code Name] Phantom\n[Gender] Male\n[Combat Experience] 11 Years\n[Place of Birth] Victoria\n[Date of Birth] Jan 19\n[Race] Feline\n[Height] 185cm\n[Infection Status]\nShowed physical signs of Originium, infection confirmed by medical examination.",
+                "unLockType": "DIRECT",
+                "unLockParam": "",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Basic Info",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "[Physical Strength] Standard\n[Mobility] Outstanding\n[Physical Resilience] Standard\n[Tactical Acumen] Excellent\n[Combat Skill] Excellent\n[Originium Arts Assimilation] Outstanding",
+                "unLockType": "DIRECT",
+                "unLockParam": "",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Physical Exam",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "Previously an independent assassin employed at Rhodes Island as a specialist operator, Operator Phantom had achieved his original goal for joining us by the time he returned from his stint as a Wrankwood actor. After discussion with the Doctor, he has agreed to continue his cooperation with us, providing support for nearby Rhodes Island offices on his travels throughout Terra.",
+                "unLockType": "DIRECT",
+                "unLockParam": "",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Profile",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "Imaging tests show the indistinct outlines of internal organs, obscured by abnormal shadows. Originium granules detected in the circulatory system. The subject is confirmed to be infected with Oripathy.\n\n[Cell-Originium Assimilation] 17%\nThe Originium crystallization around Operator Phantom's neck has increased. Further progress of symptoms may result in the loss of vocal facilities. Continued monitoring is necessary.\n\n[Blood Originium-Crystal Density] 0.45u/L\nRecorded following Operator Phantom's exposure to an Originium storm in the wilderness outside Wrankwood. Medical will continue to monitor his condition to prevent it from deteriorating.\n\n'He used unstable Arts while exposed to high-concentration active Originium dust? Is he out of his mind, or is that how they shoot movies in Wrankwood?'",
+                "unLockType": "FAVOR",
+                "unLockParam": "25",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Clinical Analysis",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "After our operators stationed in Wrankwood returned to the ship, everyone learned that one of our colleagues was about to make his silver screen debut. The most common reaction amongst our operators was 'Who's Phantom?'\nAs a free-roaming assassin, Phantom's missions have taken him all across Terra, and he rarely came into contact with other operators at Rhodes Island—although the news of his film debut has finally put to rest the rumors that he is nothing more than a Rhodes Island urban legend. 'If he can be caught on camera, then he definitely exists, right? He's not a shadow, or a ghost?'\nSeveral months later, the producer Greta Stone sent us the final cut along with an NDA prior to the film's release, as a token of appreciation for the assistance we rendered to the crew. The Doctor and Closure took the opportunity to hold several viewing sessions, hoping to satisfy our operators' curiosity regarding both Wrankwood and Phantom. After the viewings, however, many operators expressed that, far from learning more about Phantom, they now find him even more of an enigma. There are many mysterious legends of Wrankwood: an action movie star who always wears an iron mask and never uses stunt doubles; a prodigy actress who retired promptly after her first film became a smashing success; a director who never shows his face but whose films regularly foreshadow changes about to occur to Terra... Astute operators have noted that Phantom seemed to tell two stories in the film, one of which was the film's plot, and the other was his own story.\n'Legends' about Phantom were all the rage for a while. Operators who have worked with him in field missions are unable to recall any information about him, and curious HR operators were unable to find any files on record. Even though Miss.Christine shares tidbits about Phantom with her followers—those operators who cling devotedly by the lady's nap spot at the windowsill, and Shalem patiently describes their past together as trainees at a theater troupe, those seeking an answer seem to enter a place between reality and fiction, and are unable to piece together a complete picture of Phantom in their minds.\nThat is, until a logistics operator excitedly announced that he had the answers to all the questions after speaking to Phantom in the corridors for an hour. The obscure operator suddenly became the center of attention. Everyone who heard the 'legends' had their own image of Phantom, and were eager to unveil his secrets. It took twenty minutes for someone to realize that something was wrong, and by that time the young operator had gone from describing his own hometown in Kazimierz to his current emotional troubles.\n'So... what's the 'answer to all the questions' that you were talking about?'\n'The meaning of my existence! The path I've walked and the path I'm going to walk! Lucian didn't say much, but I understand everything now!'\n'Enough about yourself. You didn't forget to ask what happened to HIM, did you?'\n'Of course I asked!'\n'Well, what did you find out?'\n'About Lucian—'\n'Hey, what exactly DID I ask?'",
+                "unLockType": "FAVOR",
+                "unLockParam": "50",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Archive File 1",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "As one after another curious inquirer into Phantom's past came up empty, a consensus began to form—whether he simply did not want to be pried into, or if he really did have a secret that cannot be revealed, Phantom is one of the most difficult entities on Rhodes Island to perceive and comprehend. When the Wrankwood craze had cooled, there was only a cold, eerie blackness left behind of the mysterious shadow that once floated in the limelight, one that few dare to approach.\nAs a matter of fact, opportunities to come into contact with Phantom are not as rare as many think, and such encounters do not always take place in some shadowy corner. He often initiates contact when he feels the need. A veteran medic said she once saw Phantom in Nowell's eyeglasses fitting room, and was surprised to find Nowell teaching him to polish lenses.\n'There's no problem with Lucian's vision. In fact, his night vision and dynamic visual acuity are well above average. The reason he came to find me was...' Nowell paused, seemingly unsure why exactly Phantom had come to see him. He has taught many people the art of lens-making in the past, and those with special talent are able to quickly catch up to his methods, while young people with innovative minds look for other tools to increase efficiency. Laymen who come only for the experience or on a whim quickly stop moving their hands and start observing Nowell in boredom. In that regard, Lucian acts like a pure, overly-serious apprentice. He carefully picked the right polishing materials, and was meticulous about rinsing the lens to prevent overheating of the edges. For a few moments, Nowell almost believed this mysterious stranger would inherit his lens-making responsibilities, but when Nowell told Lucian he was ready to move on to the next step, Lucian continued to admire the gleam reflected by the lens' edge, seeming unconcerned that he had already spent many hours in search of perfection. 'Few people are so focused on wasting time. Unless he already has a clear goal in mind... or an eternity to waste.'\nThey talked about little more than craftsmanship and day-to-day life, avoiding anything associated with the 'legends', but Nowell noticed that Lucian subtly steered the conversation in a different direction whenever it seemed they were about to talk about Nowell's family or his experiences in Victoria, as though he already knew everything there was to know about Nowell's most important experiences. 'I'd never seen him before the day he walked into the fitting room, but I can tell that our secrets are alike. I know the way to break my own curse. For his part, it seems he's enjoying the process of breaking it—I hope I'm wrong.'",
+                "unLockType": "FAVOR",
+                "unLockParam": "100",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Archive File 2",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "Illegal operations, serial murders, and an encounter with an Originium storm... Operator Phantom's experience at Wrankwood would put most blockbusters to shame, and he found himself in extreme danger. 'It's been a full month, and Phantom's Blood Originium-Crystal Density hasn't improved one bit. He should be completely bedridden according to the Originium Treatment Handbook, so how is he still walking around?' Phantom's previous doctor, Ansel, expressed his concerns. 'I'm not sure why he refuses to cooperate with his physical examination... Fortunately, Dr. Warfarin has taken over, and some of his medical files have been sealed. I'm sure he'll get better.'\n\n[Medical Interview Log]\nConfidentiality Level: Confidential\nSubject: Lucian\nInterviewer: Warfarin\n'...I'm sure you know better than I do what strange changes have come over me... the progress of the infection due to exposure to the Originium storm, the expansion of the crystals on my throat... but their danger has been nullified.\n'You could even call it a medical miracle, but the secrets of life and death are not my concern right now—at least, not from a scientific perspective. To get straight to the point, I've been granted more time.\n'Am I glad? No, I don't see time as a gift. There may not be an answer to what I seek for centuries, millennia, or perhaps no single answer at all—which is painful, yet fascinating. All I want to do is leave behind the theaters of man and head to another kind of stage.\n'It's better for everyone on the ship. The Doctor has sealed the reports on the Wrankwood incident, and you've increased the access level required to view my medical files... I can sense that some operators harbor doubts about me.\n'Singing a song that manipulates hearts, inheriting a set of extravagant robes along with his staff, having Miss.Christine by my side... Mysteries can be lethal.\n'I cannot guarantee that no one will be dragged into it. Drama is a human construct. It needs both a creator and a performer, and it needs an audience even more. I don't want what I do to be self-entertainment. My drama is a failure if it is nothing more than self-gratification.\n'To break free from one's pen, I must face this newly-free self, and the pen and paper that have been forced into my hands.\n'Death and destruction... The Doctor was concerned that I would once again come into contact with the aesthetics of obsession and deviation. But they are natural inspirations that I cannot avoid, nor will I attempt to circumvent them. Drama has always had multiple answers.'\n......\n'We will not speak again for the next six months.\n'I will leave this place for now, to find an answer to my drama that belongs only to me, to find a way to understand this land... Perhaps it is hysteria, or perhaps madness will bring truth and enlightenment. Do you feel the same way? Are we still part of a story?\n'Prejudice, conflict, the unsolved secrets of Terra... If the Troupe Leader is but another character, I want to know what the true author wishes to write, and what I can 'write'.'\n'Even if it is futile...\n'Even if... I will never wake up again.'",
+                "unLockType": "FAVOR",
+                "unLockParam": "150",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Archive File 3",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "At first, the items that arrived on the office desk of the Archives Department were thought to be a prank. Old gold coins, banners scorched by the fires of war, rubbings of ancient murals... They came from many different eras and places, the only commonality being a certain mark found upon them. As these unclaimed 'pranks' accumulated, people started becoming superstitious, and began doing whatever they could to avoid the night shift, until the Doctor reminded them that it was Phantom who left these mysterious tokens.\nMost common among these ancient scraps are tomes that depict the legends of Tragodia from across Terra, the earliest being centuries-old. The description of Tragodia varied widely between cultures. In some, he is the god of harvests, love and joy; in others, a deranged hedonist who created drama and the arts. More recent volumes call him the 'Deceitful Ghost'. Even expert archivists had difficulty piecing together a complete picture from these fragments, but Phantom managed to deduce what the predecessor of the Crimson Troupe was, and the identity of the Troupe Leader. It is hard to imagine how much time he spent studying the origins of the Troupe in search of an answer, or an opportunity for 'revenge'.\nThe changes that have occurred in Phantom since his return from Wrankwood indicate that it is not a hatred of being manipulated that drives him to seek the truth. Perhaps, his natural inclinations and obsessions have caused him to surpass the boundaries of right and wrong, viewing his past experiences from a brand-new angle. In order to validate some of these records, the Archives Department wanted to invite him to discuss the origins of some of these objects, but were unable to locate him on the ship. Perhaps in his eyes the curtains have already fallen, and the actor should leave the stage. Or perhaps he simply did not want to make a subjective judgment on an event that he experienced personally, causing both the tokens and the identity of Tragodia to once again become a dangerous private collection.\n\nIf you asked me how the processor of these mysterious records would view the relationship between Phantom and the legend of Tragodia—whether he has inherited an identity that cannot be explained by modern science, or whether he has yet to escape his nightmare—I would answer from a different angle.\nWhatever Phantom's present identity is, he is no longer struggling with pain. Perhaps there is a mysterious, unknown side to the words he has left unspoken, but he has been willing to share the results of his decade-long search. Perhaps he will repeat the mistakes of the past, and make radical choices for his heart's desires, but he has given us a chance to understand him, and to stop him.\nIf he has chosen to trust Rhodes Island, then we should repay that trust.\n—An Archives Department Operator",
+                "unLockType": "FAVOR",
+                "unLockParam": "200",
+                "showType": "DIRECT",
+                "showParam": "",
+                "unLockString": "",
+                "patchIdList": null
+              }
+            ],
+            "storyTitle": "Archive File 4",
+            "unLockorNot": true
+          },
+          {
+            "stories": [
+              {
+                "storyText": "[Note found at the end of a Rhodes Island corridor]\n'It is the end of the day. You finally have the time to organize the files on the Wrankwood incident and fill out promotion paperwork for a certain operator. The task leaves you somewhat troubled.\n'Out of both duty and sincere concern, you must assess the significance of Lucian's dream-like state with precise language and a predetermined conclusion.\n'You find this note at the end of a corridor as you leave your office to clear your mind.\n'You attempt to put on a calm face, but cannot prevent the hairs on your skin from standing on end. You are curious who wrote these words: the nightmares of olden days that Lucian has spoken of, a rift caused by the compression of higher dimensions... or has your life become an element in the work Lucian is conceiving? You have heard his midnight murmurs and whispered songs, but the fragments dissipate with song when you attempt to understand his thinking and the words he wrote down.\n'Some advice, 'friend'—abandon logic and reason, and forget mundane definitions. Do not expect this note from nowhere to answer all your questions about Lucian, just as I cannot explain to you in words all the interpretations of works, the creations of fictional characters, and the performances of drama, that have existed since the beginning of art...\n'You recognized me, didn't you? 'I' do not simply exist within his identity or pseudonym. This two-person play, that is as long as fate, has made me part of him. It was not my original intention, but a pleasant surprise that he has brought me. Be happy, and let yourself sink into his story.'",
                 "unLockType": "AWAKE",
                 "unLockParam": "2;1",
                 "showType": "DIRECT",
@@ -72066,6 +72497,90 @@
         ],
         "stageGetTime": 1760443200
       }
+    ,
+    
+      "char_4098_vvana": {
+        "charId": "char_4098_vvana",
+        "stageId": "mem_vvana_1",
+        "levelId": "Obt/Memory/level_memory_vvana_1",
+        "zoneId": "storyMission",
+        "code": "mem_vvana_1",
+        "name": "Lonely Candle",
+        "loadingPicId": "loading_DV_Headquarters",
+        "description": "Sometimes operators see a candlelight in the most crucial place on the battlefield, supporting layer after layer of halo at night, and pouring shadow after shadow during the day.\nNone ever imagined light and shadow could form a wall that not even wind can pass through.",
+        "unlockParam": [
+          {
+            "unlockType": "AWAKE",
+            "unlockParam1": "2",
+            "unlockParam2": "1",
+            "unlockParam3": null
+          }
+        ],
+        "rewardItem": [
+          {
+            "id": "4003",
+            "count": 200,
+            "type": "DIAMOND_SHD"
+          }
+        ],
+        "stageGetTime": 1763046000
+      }
+    ,
+    
+      "char_4138_narant": {
+        "charId": "char_4138_narant",
+        "stageId": "mem_narant_1",
+        "levelId": "Obt/Memory/level_memory_narant_1",
+        "zoneId": "storyMission",
+        "code": "mem_narant_1",
+        "name": "My Way",
+        "loadingPicId": "loading_FC_Marsh",
+        "description": "Narantuya has been in her share of predicaments. To her enemies, she is in the way, whether they are trying to get somewhere, get rich, or get up in the world. Narantuya cares little about whose path she is in; the desert is big, and there are plenty of paths. She has no interest in those that have had their ups and downs trodden flat.",
+        "unlockParam": [
+          {
+            "unlockType": "AWAKE",
+            "unlockParam1": "2",
+            "unlockParam2": "1",
+            "unlockParam3": null
+          }
+        ],
+        "rewardItem": [
+          {
+            "id": "4003",
+            "count": 200,
+            "type": "DIAMOND_SHD"
+          }
+        ],
+        "stageGetTime": 1763046000
+      }
+    ,
+    
+      "char_4079_haini": {
+        "charId": "char_4079_haini",
+        "stageId": "mem_haini_1",
+        "levelId": "Obt/Memory/level_memory_haini_1",
+        "zoneId": "storyMission",
+        "code": "mem_haini_1",
+        "name": "Dome Gazer",
+        "loadingPicId": "loading_CB_under",
+        "description": "Few ask Lucilla how she manages to accurately predict enemy movements; most could not understand all the technical jargon that comes out of her mouth, and these questions always make her overly excited and attempt to peddle some prototype device of unknown purpose. All they need to know is that she has never missed a danger sign.",
+        "unlockParam": [
+          {
+            "unlockType": "AWAKE",
+            "unlockParam1": "2",
+            "unlockParam2": "1",
+            "unlockParam3": null
+          }
+        ],
+        "rewardItem": [
+          {
+            "id": "4003",
+            "count": 200,
+            "type": "DIAMOND_SHD"
+          }
+        ],
+        "stageGetTime": 1763046000
+      }
     
   },
   "handbookStageTime": [
@@ -72660,6 +73175,14 @@
       "charSet": [
         "char_4173_nowell",
         "char_271_spikes"
+      ]
+    },
+    {
+      "timestamp": 1763046000,
+      "charSet": [
+        "char_4098_vvana",
+        "char_4138_narant",
+        "char_4079_haini"
       ]
     }
   ]

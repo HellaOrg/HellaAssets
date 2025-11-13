@@ -152420,6 +152420,604 @@
       }
     ,
     
+      "skchr_tippi_1": {
+        "skillId": "skchr_tippi_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+          {
+            "name": "Specialist's Spraying Skills",
+            "rangeId": "2-3",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 20,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_1",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.3,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Specialist's Spraying Skills",
+            "rangeId": "2-3",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 20,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_1",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.35,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Specialist's Spraying Skills",
+            "rangeId": "2-3",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 20,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_1",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Specialist's Spraying Skills",
+            "rangeId": "2-3",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 20,
+              "initSp": 3,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_1",
+            "duration": 32.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.45,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Specialist's Spraying Skills",
+            "rangeId": "2-3",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 20,
+              "initSp": 3,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_1",
+            "duration": 32.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Specialist's Spraying Skills",
+            "rangeId": "2-3",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 20,
+              "initSp": 3,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_1",
+            "duration": 32.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.55,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Specialist's Spraying Skills",
+            "rangeId": "2-3",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 20,
+              "initSp": 6,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_1",
+            "duration": 34.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.6,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Specialist's Spraying Skills",
+            "rangeId": "2-3",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 20,
+              "initSp": 7,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_1",
+            "duration": 36.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.75,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Specialist's Spraying Skills",
+            "rangeId": "2-3",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 20,
+              "initSp": 8,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_1",
+            "duration": 38.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.9,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Specialist's Spraying Skills",
+            "rangeId": "2-3",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 20,
+              "initSp": 10,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_1",
+            "duration": 40.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "skchr_tippi_2": {
+        "skillId": "skchr_tippi_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+          {
+            "name": "Emergency Scene Change",
+            "rangeId": "y-1",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>, and attacks hit <@ba.vup>3</> times in a row\n<@ba.rem>Activates after taking damage, dodging that instance of Physical or Arts damage</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 19,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_2",
+            "duration": 15.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Emergency Scene Change",
+            "rangeId": "y-1",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>, and attacks hit <@ba.vup>3</> times in a row\n<@ba.rem>Activates after taking damage, dodging that instance of Physical or Arts damage</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 18,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_2",
+            "duration": 15.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.13,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Emergency Scene Change",
+            "rangeId": "y-1",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>, and attacks hit <@ba.vup>3</> times in a row\n<@ba.rem>Activates after taking damage, dodging that instance of Physical or Arts damage</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 17,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_2",
+            "duration": 15.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.16,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Emergency Scene Change",
+            "rangeId": "y-1",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>, and attacks hit <@ba.vup>3</> times in a row\n<@ba.rem>Activates after taking damage, dodging that instance of Physical or Arts damage</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 16,
+              "initSp": 1,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_2",
+            "duration": 15.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Emergency Scene Change",
+            "rangeId": "y-1",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>, and attacks hit <@ba.vup>3</> times in a row\n<@ba.rem>Activates after taking damage, dodging that instance of Physical or Arts damage</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 15,
+              "initSp": 1,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_2",
+            "duration": 15.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.23,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Emergency Scene Change",
+            "rangeId": "y-1",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>, and attacks hit <@ba.vup>3</> times in a row\n<@ba.rem>Activates after taking damage, dodging that instance of Physical or Arts damage</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 14,
+              "initSp": 1,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_2",
+            "duration": 15.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.26,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Emergency Scene Change",
+            "rangeId": "y-1",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>, and attacks hit <@ba.vup>3</> times in a row\n<@ba.rem>Activates after taking damage, dodging that instance of Physical or Arts damage</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 13,
+              "initSp": 2,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_2",
+            "duration": 15.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.3,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Emergency Scene Change",
+            "rangeId": "y-1",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>, and attacks hit <@ba.vup>3</> times in a row\n<@ba.rem>Activates after taking damage, dodging that instance of Physical or Arts damage</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 12,
+              "initSp": 3,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_2",
+            "duration": 15.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.35,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Emergency Scene Change",
+            "rangeId": "y-1",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>, and attacks hit <@ba.vup>3</> times in a row\n<@ba.rem>Activates after taking damage, dodging that instance of Physical or Arts damage</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 11,
+              "initSp": 4,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_2",
+            "duration": 15.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Emergency Scene Change",
+            "rangeId": "y-1",
+            "description": "Immediately <$ba.liftoff>Takes Off</>, Attack Range <@ba.vup>expands</>, ATK <@ba.vup>+{atk:0%}</>, and attacks hit <@ba.vup>3</> times in a row\n<@ba.rem>Activates after taking damage, dodging that instance of Physical or Arts damage</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 10,
+              "initSp": 5,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_tippi_2",
+            "duration": 15.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@height_offset",
+                "value": 0.8,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
       "skchr_angel_1": {
         "skillId": "skchr_angel_1",
         "iconId": null,
@@ -219432,6 +220030,2361 @@
                 "value": 0.3,
                 "valueStr": null
               }
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "skchr_phatm2_1": {
+        "skillId": "skchr_phatm2_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+          {
+            "name": "Night Echoes",
+            "rangeId": null,
+            "description": "The next attack deals <@ba.vup>{atk_scale:0%}</> of ATK as Arts damage twice and <$ba.root>Binds</> the target for <@ba.vup>{unmove}</>s; target receives <@ba.vup>{ep_damage_scale}</>x more <$ba.dt.neural2>Nervous Impairment</> during the <$ba.root>Bind</>; prioritizes attacking enemies not under a burst effect",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WHEN_ATTACK",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 3,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_1",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.9,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_scale",
+                "value": 1.2,
+                "valueStr": null
+              },
+              {
+                "key": "unmove",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "times",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Night Echoes",
+            "rangeId": null,
+            "description": "The next attack deals <@ba.vup>{atk_scale:0%}</> of ATK as Arts damage twice and <$ba.root>Binds</> the target for <@ba.vup>{unmove}</>s; target receives <@ba.vup>{ep_damage_scale}</>x more <$ba.dt.neural2>Nervous Impairment</> during the <$ba.root>Bind</>; prioritizes attacking enemies not under a burst effect",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WHEN_ATTACK",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 3,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_1",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.95,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_scale",
+                "value": 1.2,
+                "valueStr": null
+              },
+              {
+                "key": "unmove",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "times",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Night Echoes",
+            "rangeId": null,
+            "description": "The next attack deals <@ba.vup>{atk_scale:0%}</> of ATK as Arts damage twice and <$ba.root>Binds</> the target for <@ba.vup>{unmove}</>s; target receives <@ba.vup>{ep_damage_scale}</>x more <$ba.dt.neural2>Nervous Impairment</> during the <$ba.root>Bind</>; prioritizes attacking enemies not under a burst effect",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WHEN_ATTACK",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 3,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_1",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_scale",
+                "value": 1.2,
+                "valueStr": null
+              },
+              {
+                "key": "unmove",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "times",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Night Echoes",
+            "rangeId": null,
+            "description": "The next attack deals <@ba.vup>{atk_scale:0%}</> of ATK as Arts damage twice and <$ba.root>Binds</> the target for <@ba.vup>{unmove}</>s; target receives <@ba.vup>{ep_damage_scale}</>x more <$ba.dt.neural2>Nervous Impairment</> during the <$ba.root>Bind</>; prioritizes attacking enemies not under a burst effect",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WHEN_ATTACK",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 3,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_1",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.05,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_scale",
+                "value": 1.3,
+                "valueStr": null
+              },
+              {
+                "key": "unmove",
+                "value": 2.0,
+                "valueStr": null
+              },
+              {
+                "key": "times",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Night Echoes",
+            "rangeId": null,
+            "description": "The next attack deals <@ba.vup>{atk_scale:0%}</> of ATK as Arts damage twice and <$ba.root>Binds</> the target for <@ba.vup>{unmove}</>s; target receives <@ba.vup>{ep_damage_scale}</>x more <$ba.dt.neural2>Nervous Impairment</> during the <$ba.root>Bind</>; prioritizes attacking enemies not under a burst effect",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WHEN_ATTACK",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 3,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_1",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.1,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_scale",
+                "value": 1.3,
+                "valueStr": null
+              },
+              {
+                "key": "unmove",
+                "value": 2.0,
+                "valueStr": null
+              },
+              {
+                "key": "times",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Night Echoes",
+            "rangeId": null,
+            "description": "The next attack deals <@ba.vup>{atk_scale:0%}</> of ATK as Arts damage twice and <$ba.root>Binds</> the target for <@ba.vup>{unmove}</>s; target receives <@ba.vup>{ep_damage_scale}</>x more <$ba.dt.neural2>Nervous Impairment</> during the <$ba.root>Bind</>; prioritizes attacking enemies not under a burst effect",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WHEN_ATTACK",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 3,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_1",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.15,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_scale",
+                "value": 1.3,
+                "valueStr": null
+              },
+              {
+                "key": "unmove",
+                "value": 2.0,
+                "valueStr": null
+              },
+              {
+                "key": "times",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Night Echoes",
+            "rangeId": null,
+            "description": "The next attack deals <@ba.vup>{atk_scale:0%}</> of ATK as Arts damage twice and <$ba.root>Binds</> the target for <@ba.vup>{unmove}</>s; target receives <@ba.vup>{ep_damage_scale}</>x more <$ba.dt.neural2>Nervous Impairment</> during the <$ba.root>Bind</>; prioritizes attacking enemies not under a burst effect",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WHEN_ATTACK",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 3,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_1",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.2,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_scale",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "unmove",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "times",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Night Echoes",
+            "rangeId": null,
+            "description": "The next attack deals <@ba.vup>{atk_scale:0%}</> of ATK as Arts damage twice and <$ba.root>Binds</> the target for <@ba.vup>{unmove}</>s; target receives <@ba.vup>{ep_damage_scale}</>x more <$ba.dt.neural2>Nervous Impairment</> during the <$ba.root>Bind</>; prioritizes attacking enemies not under a burst effect",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WHEN_ATTACK",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 3,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_1",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.3,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_scale",
+                "value": 1.6,
+                "valueStr": null
+              },
+              {
+                "key": "unmove",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "times",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Night Echoes",
+            "rangeId": null,
+            "description": "The next attack deals <@ba.vup>{atk_scale:0%}</> of ATK as Arts damage twice and <$ba.root>Binds</> the target for <@ba.vup>{unmove}</>s; target receives <@ba.vup>{ep_damage_scale}</>x more <$ba.dt.neural2>Nervous Impairment</> during the <$ba.root>Bind</>; prioritizes attacking enemies not under a burst effect",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WHEN_ATTACK",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 3,
+              "initSp": 1,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_1",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.4,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_scale",
+                "value": 1.7,
+                "valueStr": null
+              },
+              {
+                "key": "unmove",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "times",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Night Echoes",
+            "rangeId": null,
+            "description": "The next attack deals <@ba.vup>{atk_scale:0%}</> of ATK as Arts damage twice and <$ba.root>Binds</> the target for <@ba.vup>{unmove}</>s; target receives <@ba.vup>{ep_damage_scale}</>x more <$ba.dt.neural2>Nervous Impairment</> during the <$ba.root>Bind</>; prioritizes attacking enemies not under a burst effect",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WHEN_ATTACK",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 2,
+              "initSp": 2,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_1",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_scale",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "unmove",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "times",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "skchr_phatm2_2": {
+        "skillId": "skchr_phatm2_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+          {
+            "name": "Folie à Plusieurs",
+            "rangeId": null,
+            "description": "ASPD <@ba.vup>+{attack_speed}</>, and Talent 1's splash area <@ba.vup>expands</>; while skill is active, can deploy a Blood's Whisper, which <$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies who enter its range and can path to it (prioritizing elite or leader enemies) for <@ba.vup>10</>s after deployment; once the first target arrives at its position, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Unlimited duration; Blood's Whisper has an independent Redeployment Time</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 36,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.85,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 15.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@projectile_range",
+                "value": 0.0,
+                "valueStr": "x-1"
+              }
+            ]
+          },
+          {
+            "name": "Folie à Plusieurs",
+            "rangeId": null,
+            "description": "ASPD <@ba.vup>+{attack_speed}</>, and Talent 1's splash area <@ba.vup>expands</>; while skill is active, can deploy a Blood's Whisper, which <$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies who enter its range and can path to it (prioritizing elite or leader enemies) for <@ba.vup>10</>s after deployment; once the first target arrives at its position, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Unlimited duration; Blood's Whisper has an independent Redeployment Time</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 35,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.9,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 15.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@projectile_range",
+                "value": 0.0,
+                "valueStr": "x-1"
+              }
+            ]
+          },
+          {
+            "name": "Folie à Plusieurs",
+            "rangeId": null,
+            "description": "ASPD <@ba.vup>+{attack_speed}</>, and Talent 1's splash area <@ba.vup>expands</>; while skill is active, can deploy a Blood's Whisper, which <$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies who enter its range and can path to it (prioritizing elite or leader enemies) for <@ba.vup>10</>s after deployment; once the first target arrives at its position, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Unlimited duration; Blood's Whisper has an independent Redeployment Time</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 34,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.95,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 15.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@projectile_range",
+                "value": 0.0,
+                "valueStr": "x-1"
+              }
+            ]
+          },
+          {
+            "name": "Folie à Plusieurs",
+            "rangeId": null,
+            "description": "ASPD <@ba.vup>+{attack_speed}</>, and Talent 1's splash area <@ba.vup>expands</>; while skill is active, can deploy a Blood's Whisper, which <$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies who enter its range and can path to it (prioritizing elite or leader enemies) for <@ba.vup>10</>s after deployment; once the first target arrives at its position, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Unlimited duration; Blood's Whisper has an independent Redeployment Time</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 33,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 20.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@projectile_range",
+                "value": 0.0,
+                "valueStr": "x-1"
+              }
+            ]
+          },
+          {
+            "name": "Folie à Plusieurs",
+            "rangeId": null,
+            "description": "ASPD <@ba.vup>+{attack_speed}</>, and Talent 1's splash area <@ba.vup>expands</>; while skill is active, can deploy a Blood's Whisper, which <$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies who enter its range and can path to it (prioritizing elite or leader enemies) for <@ba.vup>10</>s after deployment; once the first target arrives at its position, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Unlimited duration; Blood's Whisper has an independent Redeployment Time</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 32,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.05,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 20.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@projectile_range",
+                "value": 0.0,
+                "valueStr": "x-1"
+              }
+            ]
+          },
+          {
+            "name": "Folie à Plusieurs",
+            "rangeId": null,
+            "description": "ASPD <@ba.vup>+{attack_speed}</>, and Talent 1's splash area <@ba.vup>expands</>; while skill is active, can deploy a Blood's Whisper, which <$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies who enter its range and can path to it (prioritizing elite or leader enemies) for <@ba.vup>10</>s after deployment; once the first target arrives at its position, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Unlimited duration; Blood's Whisper has an independent Redeployment Time</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 31,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.1,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 20.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@projectile_range",
+                "value": 0.0,
+                "valueStr": "x-1"
+              }
+            ]
+          },
+          {
+            "name": "Folie à Plusieurs",
+            "rangeId": null,
+            "description": "ASPD <@ba.vup>+{attack_speed}</>, and Talent 1's splash area <@ba.vup>expands</>; while skill is active, can deploy a Blood's Whisper, which <$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies who enter its range and can path to it (prioritizing elite or leader enemies) for <@ba.vup>10</>s after deployment; once the first target arrives at its position, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Unlimited duration; Blood's Whisper has an independent Redeployment Time</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 30,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.2,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 25.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@projectile_range",
+                "value": 0.0,
+                "valueStr": "x-1"
+              }
+            ]
+          },
+          {
+            "name": "Folie à Plusieurs",
+            "rangeId": null,
+            "description": "ASPD <@ba.vup>+{attack_speed}</>, and Talent 1's splash area <@ba.vup>expands</>; while skill is active, can deploy a Blood's Whisper, which <$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies who enter its range and can path to it (prioritizing elite or leader enemies) for <@ba.vup>10</>s after deployment; once the first target arrives at its position, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Unlimited duration; Blood's Whisper has an independent Redeployment Time</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 28,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.3,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@projectile_range",
+                "value": 0.0,
+                "valueStr": "x-1"
+              }
+            ]
+          },
+          {
+            "name": "Folie à Plusieurs",
+            "rangeId": null,
+            "description": "ASPD <@ba.vup>+{attack_speed}</>, and Talent 1's splash area <@ba.vup>expands</>; while skill is active, can deploy a Blood's Whisper, which <$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies who enter its range and can path to it (prioritizing elite or leader enemies) for <@ba.vup>10</>s after deployment; once the first target arrives at its position, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Unlimited duration; Blood's Whisper has an independent Redeployment Time</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 27,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.4,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@projectile_range",
+                "value": 0.0,
+                "valueStr": "x-1"
+              }
+            ]
+          },
+          {
+            "name": "Folie à Plusieurs",
+            "rangeId": null,
+            "description": "ASPD <@ba.vup>+{attack_speed}</>, and Talent 1's splash area <@ba.vup>expands</>; while skill is active, can deploy a Blood's Whisper, which <$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies who enter its range and can path to it (prioritizing elite or leader enemies) for <@ba.vup>10</>s after deployment; once the first target arrives at its position, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Unlimited duration; Blood's Whisper has an independent Redeployment Time</>",
+            "skillType": "AUTO",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 25,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.25,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 35.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "attack@projectile_range",
+                "value": 0.0,
+                "valueStr": "x-1"
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "sktok_phatm2_encdool_2": {
+        "skillId": "sktok_phatm2_encdool_2",
+        "iconId": "sktok_phatm2_encdool",
+        "hidden": false,
+        "levels": [
+          {
+            "name": "Blood's Whisper",
+            "rangeId": null,
+            "description": "<$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies which enter its range and can path to it (prioritizing elite or leader enemies) towards its position for <@ba.vup>10</>s; once the first target arrives, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Automatically retreats after 10s, and has an independent Redeployment Time</>",
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_encdool_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.85,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "ability_range_radius",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 10.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Blood's Whisper",
+            "rangeId": null,
+            "description": "<$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies which enter its range and can path to it (prioritizing elite or leader enemies) towards its position for <@ba.vup>10</>s; once the first target arrives, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Automatically retreats after 10s, and has an independent Redeployment Time</>",
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_encdool_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.9,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "ability_range_radius",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 10.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Blood's Whisper",
+            "rangeId": null,
+            "description": "<$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies which enter its range and can path to it (prioritizing elite or leader enemies) towards its position for <@ba.vup>10</>s; once the first target arrives, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Automatically retreats after 10s, and has an independent Redeployment Time</>",
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_encdool_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.95,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "ability_range_radius",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 10.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Blood's Whisper",
+            "rangeId": null,
+            "description": "<$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies which enter its range and can path to it (prioritizing elite or leader enemies) towards its position for <@ba.vup>10</>s; once the first target arrives, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Automatically retreats after 10s, and has an independent Redeployment Time</>",
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_encdool_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "ability_range_radius",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 10.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Blood's Whisper",
+            "rangeId": null,
+            "description": "<$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies which enter its range and can path to it (prioritizing elite or leader enemies) towards its position for <@ba.vup>10</>s; once the first target arrives, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Automatically retreats after 10s, and has an independent Redeployment Time</>",
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_encdool_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.05,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "ability_range_radius",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 10.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Blood's Whisper",
+            "rangeId": null,
+            "description": "<$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies which enter its range and can path to it (prioritizing elite or leader enemies) towards its position for <@ba.vup>10</>s; once the first target arrives, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Automatically retreats after 10s, and has an independent Redeployment Time</>",
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_encdool_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.1,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.15,
+                "valueStr": null
+              },
+              {
+                "key": "ability_range_radius",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 10.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Blood's Whisper",
+            "rangeId": null,
+            "description": "<$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies which enter its range and can path to it (prioritizing elite or leader enemies) towards its position for <@ba.vup>10</>s; once the first target arrives, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Automatically retreats after 10s, and has an independent Redeployment Time</>",
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_encdool_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.2,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "ability_range_radius",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 10.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Blood's Whisper",
+            "rangeId": null,
+            "description": "<$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies which enter its range and can path to it (prioritizing elite or leader enemies) towards its position for <@ba.vup>10</>s; once the first target arrives, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Automatically retreats after 10s, and has an independent Redeployment Time</>",
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_encdool_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.3,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "ability_range_radius",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 10.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Blood's Whisper",
+            "rangeId": null,
+            "description": "<$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies which enter its range and can path to it (prioritizing elite or leader enemies) towards its position for <@ba.vup>10</>s; once the first target arrives, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Automatically retreats after 10s, and has an independent Redeployment Time</>",
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_encdool_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.4,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "ability_range_radius",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 10.0,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Blood's Whisper",
+            "rangeId": null,
+            "description": "<$ba.attract>Lures</> up to <@ba.vup>{max_target}</> enemies which enter its range and can path to it (prioritizing elite or leader enemies) towards its position for <@ba.vup>10</>s; once the first target arrives, retreats and <$ba.sluggish>Slows</> all surrounding enemies for <@ba.vup>{buff_time}</>s, dealing <@ba.vup>{atk_scale:0%}</> of Tragodia's ATK as Arts damage and <@ba.vup>{ep_damage_ratio_token:0%}</> of Tragodia's ATK as <$ba.dt.neural2>Nervous Impairment</> every <@ba.vup>{interval_damage}</>s\n<@ba.rem>Automatically retreats after 10s, and has an independent Redeployment Time</>",
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_encdool_2",
+            "duration": -1.0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio_token",
+                "value": 0.25,
+                "valueStr": null
+              },
+              {
+                "key": "ability_range_radius",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "buff_time",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "sluggish",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval_damage",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 10.0,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "skchr_phatm2_3": {
+        "skillId": "skchr_phatm2_3",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+          {
+            "name": "Le Théâtre du Vide",
+            "rangeId": "y-8",
+            "description": "Attack Range expands, ATK <@ba.vup>+{atk:0%}</>, prioritizes attacking enemies not under a burst effect; enemies that have received <$ba.dt.neural2>Nervous Impairment</> from Tragodia while skill is active take <@ba.vup>{ep_damage_ratio:0%}</> of ATK as <$ba.dt.neural2>Nervous Impairment</> per second until burst effect is triggered; enemies within attack range have <@ba.vup>+{talent@ep_break_recover_speed:0%}</> to their <$ba.dt.neural2>Nervous Impairment</> cooldown recovery rate; enemies entering the burst effect of <$ba.dt.neural2>Nervous Impairment</> will generate/refresh a Cage of Chaos at their ground position",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 40,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_3",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.6,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "phatm2_s_3[token_cooldown].interval",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@ep_break_recover_speed",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Le Théâtre du Vide",
+            "rangeId": "y-8",
+            "description": "Attack Range expands, ATK <@ba.vup>+{atk:0%}</>, prioritizes attacking enemies not under a burst effect; enemies that have received <$ba.dt.neural2>Nervous Impairment</> from Tragodia while skill is active take <@ba.vup>{ep_damage_ratio:0%}</> of ATK as <$ba.dt.neural2>Nervous Impairment</> per second until burst effect is triggered; enemies within attack range have <@ba.vup>+{talent@ep_break_recover_speed:0%}</> to their <$ba.dt.neural2>Nervous Impairment</> cooldown recovery rate; enemies entering the burst effect of <$ba.dt.neural2>Nervous Impairment</> will generate/refresh a Cage of Chaos at their ground position",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 40,
+              "initSp": 3,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_3",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.65,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "phatm2_s_3[token_cooldown].interval",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@ep_break_recover_speed",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Le Théâtre du Vide",
+            "rangeId": "y-8",
+            "description": "Attack Range expands, ATK <@ba.vup>+{atk:0%}</>, prioritizes attacking enemies not under a burst effect; enemies that have received <$ba.dt.neural2>Nervous Impairment</> from Tragodia while skill is active take <@ba.vup>{ep_damage_ratio:0%}</> of ATK as <$ba.dt.neural2>Nervous Impairment</> per second until burst effect is triggered; enemies within attack range have <@ba.vup>+{talent@ep_break_recover_speed:0%}</> to their <$ba.dt.neural2>Nervous Impairment</> cooldown recovery rate; enemies entering the burst effect of <$ba.dt.neural2>Nervous Impairment</> will generate/refresh a Cage of Chaos at their ground position",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 40,
+              "initSp": 6,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_3",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.7,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "phatm2_s_3[token_cooldown].interval",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@ep_break_recover_speed",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Le Théâtre du Vide",
+            "rangeId": "y-8",
+            "description": "Attack Range expands, ATK <@ba.vup>+{atk:0%}</>, prioritizes attacking enemies not under a burst effect; enemies that have received <$ba.dt.neural2>Nervous Impairment</> from Tragodia while skill is active take <@ba.vup>{ep_damage_ratio:0%}</> of ATK as <$ba.dt.neural2>Nervous Impairment</> per second until burst effect is triggered; enemies within attack range have <@ba.vup>+{talent@ep_break_recover_speed:0%}</> to their <$ba.dt.neural2>Nervous Impairment</> cooldown recovery rate; enemies entering the burst effect of <$ba.dt.neural2>Nervous Impairment</> will generate/refresh a Cage of Chaos at their ground position",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 40,
+              "initSp": 9,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_3",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.75,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "phatm2_s_3[token_cooldown].interval",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@ep_break_recover_speed",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Le Théâtre du Vide",
+            "rangeId": "y-8",
+            "description": "Attack Range expands, ATK <@ba.vup>+{atk:0%}</>, prioritizes attacking enemies not under a burst effect; enemies that have received <$ba.dt.neural2>Nervous Impairment</> from Tragodia while skill is active take <@ba.vup>{ep_damage_ratio:0%}</> of ATK as <$ba.dt.neural2>Nervous Impairment</> per second until burst effect is triggered; enemies within attack range have <@ba.vup>+{talent@ep_break_recover_speed:0%}</> to their <$ba.dt.neural2>Nervous Impairment</> cooldown recovery rate; enemies entering the burst effect of <$ba.dt.neural2>Nervous Impairment</> will generate/refresh a Cage of Chaos at their ground position",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 40,
+              "initSp": 12,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_3",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "phatm2_s_3[token_cooldown].interval",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@ep_break_recover_speed",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Le Théâtre du Vide",
+            "rangeId": "y-8",
+            "description": "Attack Range expands, ATK <@ba.vup>+{atk:0%}</>, prioritizes attacking enemies not under a burst effect; enemies that have received <$ba.dt.neural2>Nervous Impairment</> from Tragodia while skill is active take <@ba.vup>{ep_damage_ratio:0%}</> of ATK as <$ba.dt.neural2>Nervous Impairment</> per second until burst effect is triggered; enemies within attack range have <@ba.vup>+{talent@ep_break_recover_speed:0%}</> to their <$ba.dt.neural2>Nervous Impairment</> cooldown recovery rate; enemies entering the burst effect of <$ba.dt.neural2>Nervous Impairment</> will generate/refresh a Cage of Chaos at their ground position",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 40,
+              "initSp": 15,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_3",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.85,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "phatm2_s_3[token_cooldown].interval",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@ep_break_recover_speed",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Le Théâtre du Vide",
+            "rangeId": "y-8",
+            "description": "Attack Range expands, ATK <@ba.vup>+{atk:0%}</>, prioritizes attacking enemies not under a burst effect; enemies that have received <$ba.dt.neural2>Nervous Impairment</> from Tragodia while skill is active take <@ba.vup>{ep_damage_ratio:0%}</> of ATK as <$ba.dt.neural2>Nervous Impairment</> per second until burst effect is triggered; enemies within attack range have <@ba.vup>+{talent@ep_break_recover_speed:0%}</> to their <$ba.dt.neural2>Nervous Impairment</> cooldown recovery rate; enemies entering the burst effect of <$ba.dt.neural2>Nervous Impairment</> will generate/refresh a Cage of Chaos at their ground position",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 40,
+              "initSp": 18,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_3",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 0.95,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "phatm2_s_3[token_cooldown].interval",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@ep_break_recover_speed",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Le Théâtre du Vide",
+            "rangeId": "y-8",
+            "description": "Attack Range expands, ATK <@ba.vup>+{atk:0%}</>, prioritizes attacking enemies not under a burst effect; enemies that have received <$ba.dt.neural2>Nervous Impairment</> from Tragodia while skill is active take <@ba.vup>{ep_damage_ratio:0%}</> of ATK as <$ba.dt.neural2>Nervous Impairment</> per second until burst effect is triggered; enemies within attack range have <@ba.vup>+{talent@ep_break_recover_speed:0%}</> to their <$ba.dt.neural2>Nervous Impairment</> cooldown recovery rate; enemies entering the burst effect of <$ba.dt.neural2>Nervous Impairment</> will generate/refresh a Cage of Chaos at their ground position",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 40,
+              "initSp": 22,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_3",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 1.05,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "phatm2_s_3[token_cooldown].interval",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@ep_break_recover_speed",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Le Théâtre du Vide",
+            "rangeId": "y-8",
+            "description": "Attack Range expands, ATK <@ba.vup>+{atk:0%}</>, prioritizes attacking enemies not under a burst effect; enemies that have received <$ba.dt.neural2>Nervous Impairment</> from Tragodia while skill is active take <@ba.vup>{ep_damage_ratio:0%}</> of ATK as <$ba.dt.neural2>Nervous Impairment</> per second until burst effect is triggered; enemies within attack range have <@ba.vup>+{talent@ep_break_recover_speed:0%}</> to their <$ba.dt.neural2>Nervous Impairment</> cooldown recovery rate; enemies entering the burst effect of <$ba.dt.neural2>Nervous Impairment</> will generate/refresh a Cage of Chaos at their ground position",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 40,
+              "initSp": 26,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_3",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 1.15,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "phatm2_s_3[token_cooldown].interval",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@ep_break_recover_speed",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "name": "Le Théâtre du Vide",
+            "rangeId": "y-8",
+            "description": "Attack Range expands, ATK <@ba.vup>+{atk:0%}</>, prioritizes attacking enemies not under a burst effect; enemies that have received <$ba.dt.neural2>Nervous Impairment</> from Tragodia while skill is active take <@ba.vup>{ep_damage_ratio:0%}</> of ATK as <$ba.dt.neural2>Nervous Impairment</> per second until burst effect is triggered; enemies within attack range have <@ba.vup>+{talent@ep_break_recover_speed:0%}</> to their <$ba.dt.neural2>Nervous Impairment</> cooldown recovery rate; enemies entering the burst effect of <$ba.dt.neural2>Nervous Impairment</> will generate/refresh a Cage of Chaos at their ground position",
+            "skillType": "MANUAL",
+            "durationType": "NONE",
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 40,
+              "initSp": 30,
+              "increment": 1.0
+            },
+            "prefabId": "skchr_phatm2_3",
+            "duration": 30.0,
+            "blackboard": [
+              {
+                "key": "atk",
+                "value": 1.25,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "phatm2_s_3[token_cooldown].interval",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "talent@ep_break_recover_speed",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "sktok_phatm2_mndclv_3": {
+        "skillId": "sktok_phatm2_mndclv_3",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+          {
+            "name": "Cage of Chaos",
+            "rangeId": null,
+            "description": null,
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_mndclv_3",
+            "duration": -1.0,
+            "blackboard": [
+
+            ]
+          },
+          {
+            "name": "Cage of Chaos",
+            "rangeId": null,
+            "description": null,
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_mndclv_3",
+            "duration": -1.0,
+            "blackboard": [
+
+            ]
+          },
+          {
+            "name": "Cage of Chaos",
+            "rangeId": null,
+            "description": null,
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_mndclv_3",
+            "duration": -1.0,
+            "blackboard": [
+
+            ]
+          },
+          {
+            "name": "Cage of Chaos",
+            "rangeId": null,
+            "description": null,
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_mndclv_3",
+            "duration": -1.0,
+            "blackboard": [
+
+            ]
+          },
+          {
+            "name": "Cage of Chaos",
+            "rangeId": null,
+            "description": null,
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_mndclv_3",
+            "duration": -1.0,
+            "blackboard": [
+
+            ]
+          },
+          {
+            "name": "Cage of Chaos",
+            "rangeId": null,
+            "description": null,
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_mndclv_3",
+            "duration": -1.0,
+            "blackboard": [
+
+            ]
+          },
+          {
+            "name": "Cage of Chaos",
+            "rangeId": null,
+            "description": null,
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_mndclv_3",
+            "duration": -1.0,
+            "blackboard": [
+
+            ]
+          },
+          {
+            "name": "Cage of Chaos",
+            "rangeId": null,
+            "description": null,
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_mndclv_3",
+            "duration": -1.0,
+            "blackboard": [
+
+            ]
+          },
+          {
+            "name": "Cage of Chaos",
+            "rangeId": null,
+            "description": null,
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_mndclv_3",
+            "duration": -1.0,
+            "blackboard": [
+
+            ]
+          },
+          {
+            "name": "Cage of Chaos",
+            "rangeId": null,
+            "description": null,
+            "skillType": "PASSIVE",
+            "durationType": "NONE",
+            "spData": {
+              "spType": 8,
+              "levelUpCost": null,
+              "maxChargeTime": 1,
+              "spCost": 0,
+              "initSp": 0,
+              "increment": 1.0
+            },
+            "prefabId": "sktok_phatm2_mndclv_3",
+            "duration": -1.0,
+            "blackboard": [
+
             ]
           }
         ]

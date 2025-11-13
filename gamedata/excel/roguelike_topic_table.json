@@ -3132,7 +3132,7 @@
         "char_4164_tecno": {
           "charId": "char_4164_tecno",
           "canBeFree": true,
-          "uniEquipId": null,
+          "uniEquipId": "uniequip_002_tecno",
           "recruitType": "FREE"
         }
       ,
@@ -3212,7 +3212,7 @@
         "char_450_necras": {
           "charId": "char_450_necras",
           "canBeFree": true,
-          "uniEquipId": null,
+          "uniEquipId": "uniequip_002_necras",
           "recruitType": "FREE"
         }
       ,
@@ -3285,6 +3285,22 @@
           "charId": "char_4198_christ",
           "canBeFree": true,
           "uniEquipId": null,
+          "recruitType": "FREE"
+        }
+      ,
+      
+        "char_4191_tippi": {
+          "charId": "char_4191_tippi",
+          "canBeFree": true,
+          "uniEquipId": null,
+          "recruitType": "FREE"
+        }
+      ,
+      
+        "char_1042_phatm2": {
+          "charId": "char_1042_phatm2",
+          "canBeFree": true,
+          "uniEquipId": "uniequip_002_phatm2",
           "recruitType": "FREE"
         }
       

@@ -135108,6 +135108,2103 @@
           }
         ]
       }
+    ,
+    
+      "uniequip_002_phatm2": {
+        "phases": [
+          {
+            "equipLevel": 1,
+            "parts": [
+              {
+                "resKey": "phatm2_equip_1_1_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "Elemental Injury dealt to Elite and Leader enemies increases by <@ba.kw>18%</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "ep_damage_scale",
+                          "value": 1.18,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 125.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 30.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 2,
+            "parts": [
+              {
+                "resKey": "phatm2_equip_1_2_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "Elemental Injury dealt to Elite and Leader enemies increases by <@ba.kw>18%</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "ep_damage_scale",
+                          "value": 1.18,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When deployed, all enemies on the field under the burst effect of <$ba.dt.neural2>Nervous Impairment</> have ASPD -17; when enemies within Attack Range perform normal attacks, they take 80 points of <$ba.dt.neural2>Nervous Impairment</>",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "2",
+                      "name": "Descend into Dream",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack_speed",
+                          "value": -17.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "value",
+                          "value": 80.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When deployed, all enemies on the field under the burst effect of <$ba.dt.neural2>Nervous Impairment</> have ASPD -21 <@ba.talpu>(+4)</>; when enemies within Attack Range perform normal attacks, they take 80 points of <$ba.dt.neural2>Nervous Impairment</>",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 4,
+                      "prefabKey": "2",
+                      "name": "Descend into Dream",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack_speed",
+                          "value": -21.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "value",
+                          "value": 80.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 165.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 37.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 3,
+            "parts": [
+              {
+                "resKey": "phatm2_equip_1_3_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "Elemental Injury dealt to Elite and Leader enemies increases by <@ba.kw>18%</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "ep_damage_scale",
+                          "value": 1.18,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When deployed, all enemies on the field under the burst effect of <$ba.dt.neural2>Nervous Impairment</> have ASPD -20; when enemies within Attack Range perform normal attacks, they take 90 points of <$ba.dt.neural2>Nervous Impairment</>",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "2",
+                      "name": "Descend into Dream",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack_speed",
+                          "value": -20.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "value",
+                          "value": 90.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When deployed, all enemies on the field under the burst effect of <$ba.dt.neural2>Nervous Impairment</> have ASPD -24 <@ba.talpu>(+4)</>; when enemies within Attack Range perform normal attacks, they take 90 points of <$ba.dt.neural2>Nervous Impairment</>",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 4,
+                      "prefabKey": "2",
+                      "name": "Descend into Dream",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack_speed",
+                          "value": -24.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "value",
+                          "value": 90.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 200.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 42.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          }
+        ]
+      }
+    ,
+    
+      "uniequip_002_necras": {
+        "phases": [
+          {
+            "equipLevel": 1,
+            "parts": [
+              {
+                "resKey": "necras_equip_1_1_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "atk_scale",
+                          "value": 1.15,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Deals <@ba.kw>Arts damage</>; can create <@ba.kw>Summons</> by defeating enemies, and can attack enemies blocked by their own <@ba.kw>Summons</> with an ATK increased to <@ba.kw>115%</>",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 120.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 35.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 2,
+            "parts": [
+              {
+                "resKey": "necras_equip_1_2_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "atk_scale",
+                          "value": 1.15,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Deals <@ba.kw>Arts damage</>; can create <@ba.kw>Summons</> by defeating enemies, and can attack enemies blocked by their own <@ba.kw>Summons</> with an ATK increased to <@ba.kw>115%</>",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "necras_equip_1_2_p2",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "10",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "atk_duration",
+                          "value": 10.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk",
+                          "value": 0.15,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": true
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When an enemy is defeated within Attack Range, gains ATK +15% for 10 seconds, and summons a Servant of Lamentation (max 3); if no more Servants can be summoned, upgrades a Servant instead (increases Block, and increases HP, ATK, and DEF by more)",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "#",
+                      "name": "Rekindle",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+
+                      ],
+                      "tokenKey": "token_10043_necras_skeltn",
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 160.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 45.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 3,
+            "parts": [
+              {
+                "resKey": "necras_equip_1_2_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "atk_scale",
+                          "value": 1.15,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Deals <@ba.kw>Arts damage</>; can create <@ba.kw>Summons</> by defeating enemies, and can attack enemies blocked by their own <@ba.kw>Summons</> with an ATK increased to <@ba.kw>115%</>",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "necras_equip_1_3_p2",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "10",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "atk_duration",
+                          "value": 10.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk",
+                          "value": 0.25,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": true
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": "necras_equip_1_3_p3",
+                "target": "TALENT",
+                "isToken": true,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "11",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "atk_duration",
+                          "value": 10.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk",
+                          "value": 0.25,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": true
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When an enemy is defeated within Necrass's or one of her Summon's Attack Range, gains ATK +25% for 10 seconds, and summons a Servant of Lamentation (max 3); if no more Servants can be summoned, upgrades a Servant instead (increases Block, and increases HP, ATK, and DEF by more)",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "#",
+                      "name": "Rekindle",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+
+                      ],
+                      "tokenKey": "token_10043_necras_skeltn",
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 200.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 55.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          }
+        ]
+      }
+    ,
+    
+      "uniequip_002_tecno": {
+        "phases": [
+          {
+            "equipLevel": 1,
+            "parts": [
+              {
+                "resKey": "tecno_equip_1_1_p1",
+                "target": "DISPLAY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "Attack Range <@ba.kw>expands</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "tecno_equip_1_1_p1",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": -1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "10",
+                      "name": null,
+                      "description": null,
+                      "rangeId": "3-18",
+                      "blackboard": [
+
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": true
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 25.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 5.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 2,
+            "parts": [
+              {
+                "resKey": "tecno_equip_1_2_p1",
+                "target": "DISPLAY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "Attack Range <@ba.kw>expands</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "tecno_equip_1_2_p1",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": -1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "10",
+                      "name": null,
+                      "description": null,
+                      "rangeId": "3-18",
+                      "blackboard": [
+
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": true
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "After defeating any ground enemy within range, a stronger Puppet Dancer spawns where they fall (up to 5 at a time); Puppet Dancers deal Arts damage",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "#",
+                      "name": "Freestyle Puppetry",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+
+                      ],
+                      "tokenKey": "token_10042_tecno_puppet",
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 35.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 6.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+              
+                "token_10042_tecno_puppet": [
+                  {
+                    "key": "max_hp",
+                    "value": 400.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "atk",
+                    "value": 100.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "def",
+                    "value": 50.0,
+                    "valueStr": null
+                  }
+                ]
+              
+            }
+          },
+          {
+            "equipLevel": 3,
+            "parts": [
+              {
+                "resKey": "tecno_equip_1_3_p1",
+                "target": "DISPLAY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "Attack Range <@ba.kw>expands</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "tecno_equip_1_3_p1",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": -1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "10",
+                      "name": null,
+                      "description": null,
+                      "rangeId": "3-18",
+                      "blackboard": [
+
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": true
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": "tecno_equip_1_2_p2",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "After defeating any ground enemy within range, a stronger Puppet Dancer spawns where they fall (up to 5 at a time); Puppet Dancers deal Arts damage, and Tecno's ATK +15% when a Puppet Dancer is on the field",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "11",
+                      "name": "Freestyle Puppetry",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "atk",
+                          "value": 0.15,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": "token_10042_tecno_puppet",
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 42.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 7.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+              
+                "token_10042_tecno_puppet": [
+                  {
+                    "key": "max_hp",
+                    "value": 400.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "atk",
+                    "value": 100.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "def",
+                    "value": 50.0,
+                    "valueStr": null
+                  }
+                ]
+              
+            }
+          }
+        ]
+      }
+    ,
+    
+      "uniequip_003_ascln": {
+        "phases": [
+          {
+            "equipLevel": 1,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "TRAIT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "prob",
+                          "value": 0.65,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Deals Damage to <@ba.kw>all targets</> within range\n65% chance to dodge Physical and Arts attacks and is less likely to be <@ba.kw>targeted</> by enemies",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 55.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 25.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 2,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "TRAIT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "prob",
+                          "value": 0.65,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Deals Damage to <@ba.kw>all targets</> within range\n65% chance to dodge Physical and Arts attacks and is less likely to be <@ba.kw>targeted</> by enemies",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "ascln_equip_2_2_p1",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Attacks inflict the following effect on enemies: Movement Speed reduced by 18% and take 10% of Ascalon's current ATK as Arts damage per second for 25s, stacking up to 3 times; when enemies with this effect are defeated, Ascalon recovers 5% HP",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "1",
+                      "name": "Mortal Interrogation",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "move_speed",
+                          "value": -0.18,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_ratio",
+                          "value": 0.1,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 3.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "debuff_duration",
+                          "value": 25.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "interval",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.05,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 70.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 45.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 3,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "TRAIT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "prob",
+                          "value": 0.65,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Deals Damage to <@ba.kw>all targets</> within range\n65% chance to dodge Physical and Arts attacks and is less likely to be <@ba.kw>targeted</> by enemies",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "ascln_equip_2_3_p1",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Attacks inflict the following effect on enemies: Movement Speed reduced by 18% and take 10% of Ascalon's current ATK as Arts damage per second for 25s, stacking up to 3 times; when enemies with this effect are defeated, Ascalon recovers 10% HP",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "1",
+                      "name": "Mortal Interrogation",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "move_speed",
+                          "value": -0.18,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_ratio",
+                          "value": 0.1,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 3.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "debuff_duration",
+                          "value": 25.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "interval",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.1,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 80.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 60.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          }
+        ]
+      }
+    ,
+    
+      "uniequip_003_doroth": {
+        "phases": [
+          {
+            "equipLevel": 1,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "DISPLAY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+
+                      ],
+                      "overrideDescripton": "Can use traps <@ba.kw>with a lower DP cost</> to assist in combat, but traps cannot be placed on tiles already occupied by an enemy; trap Deployment Limit increases",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Can deploy up to 8 Resonators (Can store up to 13); The first enemy that steps on a Resonator will trigger its effect. On deployment, immediately deploys 2 Resonators within Attack Range",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "1",
+                      "name": "Resonator",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack@max_cnt",
+                          "value": 2.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "cnt",
+                          "value": 8.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": "token_10025_doroth_recttp",
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Can deploy up to 10 <@ba.talpu>(+2)</> Resonators (Can store up to 13); The first enemy that steps on a Resonator will trigger its effect. On deployment, immediately deploys 2 Resonators within Attack Range",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 2,
+                      "prefabKey": "1",
+                      "name": "Resonator",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack@max_cnt",
+                          "value": 2.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "cnt",
+                          "value": 10.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": "token_10025_doroth_recttp",
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 36.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 12.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+              
+                "token_10025_doroth_recttp": [
+                  {
+                    "key": "cost",
+                    "value": -1.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "max_deploy_count",
+                    "value": 3.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "max_deck_stack_cnt",
+                    "value": 3.0,
+                    "valueStr": null
+                  }
+                ]
+              
+            }
+          },
+          {
+            "equipLevel": 2,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "DISPLAY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+
+                      ],
+                      "overrideDescripton": "Can use traps <@ba.kw>with a lower DP cost</> to assist in combat, but traps cannot be placed on tiles already occupied by an enemy; trap Deployment Limit increases",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Can deploy up to 8 Resonators (Can store up to 13); The first enemy that steps on a Resonator will trigger its effect. On deployment, immediately deploys 3 Resonators within Attack Range",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "1",
+                      "name": "Resonator",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack@max_cnt",
+                          "value": 3.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "cnt",
+                          "value": 8.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": "token_10025_doroth_recttp",
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Can deploy up to 10 <@ba.talpu>(+2)</> Resonators (Can store up to 13); The first enemy that steps on a Resonator will trigger its effect. On deployment, immediately deploys 3 Resonators within Attack Range",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 2,
+                      "prefabKey": "1",
+                      "name": "Resonator",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack@max_cnt",
+                          "value": 3.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "cnt",
+                          "value": 10.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": "token_10025_doroth_recttp",
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 50.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 22.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+              
+                "token_10025_doroth_recttp": [
+                  {
+                    "key": "cost",
+                    "value": -1.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "max_deploy_count",
+                    "value": 3.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "max_deck_stack_cnt",
+                    "value": 3.0,
+                    "valueStr": null
+                  }
+                ]
+              
+            }
+          },
+          {
+            "equipLevel": 3,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "DISPLAY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+
+                      ],
+                      "overrideDescripton": "Can use traps <@ba.kw>with a lower DP cost</> to assist in combat, but traps cannot be placed on tiles already occupied by an enemy; trap Deployment Limit increases",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Can deploy up to 8 Resonators (Can store up to 13); The first enemy that steps on a Resonator will trigger its effect; on deployment, immediately deploys 3 Resonators within Attack Range; when deploying a Resonator, there is a 50% chance of deploying an additional Resonator within Attack Range",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "1",
+                      "name": "Resonator",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack@max_cnt",
+                          "value": 3.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "cnt",
+                          "value": 8.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": "token_10025_doroth_recttp",
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Can deploy up to 10 <@ba.talpu>(+2)</> Resonators (Can store up to 13); The first enemy that steps on a Resonator will trigger its effect; on deployment, immediately deploys 3 Resonators within Attack Range; when deploying a Resonator, there is a 50% chance of deploying an additional Resonator within Attack Range",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 2,
+                      "prefabKey": "1",
+                      "name": "Resonator",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack@max_cnt",
+                          "value": 3.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "cnt",
+                          "value": 10.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": "token_10025_doroth_recttp",
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": "doroth_equip_2_3_p1",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": -1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "10",
+                      "name": null,
+                      "description": null,
+                      "rangeId": "3-3",
+                      "blackboard": [
+                        {
+                          "key": "max_cnt",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "prob",
+                          "value": 0.5,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 60.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 30.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+              
+                "token_10025_doroth_recttp": [
+                  {
+                    "key": "cost",
+                    "value": -1.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "max_deploy_count",
+                    "value": 3.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "max_deck_stack_cnt",
+                    "value": 3.0,
+                    "valueStr": null
+                  }
+                ]
+              
+            }
+          }
+        ]
+      }
+    ,
+    
+      "uniequip_003_f12yin": {
+        "phases": [
+          {
+            "equipLevel": 1,
+            "parts": [
+              {
+                "resKey": "f12yin_equip_2_1_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "prob",
+                          "value": 0.15,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Blocks 1 enemy; Has <@ba.kw>15%</> Physical Dodge",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 150.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 45.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 2,
+            "parts": [
+              {
+                "resKey": "f12yin_equip_2_2_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "prob",
+                          "value": 0.15,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Blocks 1 enemy; Has <@ba.kw>15%</> Physical Dodge",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "f12yin_equip_2_2_p2",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "DEF +14%, Physical Dodge +20%; after dodging, the next attack Frightens the target for 1s",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "10",
+                      "name": "Sturdy Constitution",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": 2,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "2",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "prob",
+                          "value": 0.2,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "def",
+                          "value": 0.14,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": "f12yin_equip_2_2_p3",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": -1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "11",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "not_combat",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 200.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 60.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 3,
+            "parts": [
+              {
+                "resKey": "f12yin_equip_2_3_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "prob",
+                          "value": 0.15,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Blocks 1 enemy; Has <@ba.kw>15%</> Physical Dodge",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "f12yin_equip_2_3_p2",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "DEF +20%, Physical Dodge +25%; after dodging, the next attack Frightens the target for 3s",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "10",
+                      "name": "Sturdy Constitution",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": 2,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "2",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "prob",
+                          "value": 0.25,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "def",
+                          "value": 0.2,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": "f12yin_equip_2_3_p3",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": -1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "11",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "not_combat",
+                          "value": 3.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 250.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 75.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          }
+        ]
+      }
     
   }
 

@@ -2117,6 +2117,18 @@
             "enemyLevelType": null,
             "enemyTag": null,
             "logAlias": "char_4193_lemuen,enemy_1364_spnaxe"
+          },
+          {
+            "description": null,
+            "sourceId": "char_264_f12yin",
+            "sourceMode": null,
+            "enemyId": null,
+            "enemyApplyWay": null,
+            "projectileName": null,
+            "abilityName": null,
+            "enemyLevelType": null,
+            "enemyTag": null,
+            "logAlias": "char_264_f12yin,killcount"
           }
         ]
       }
@@ -2253,6 +2265,30 @@
           {
             "description": null,
             "sourceId": "token_10035_wisdel_wward",
+            "sourceMode": null,
+            "enemyId": null,
+            "enemyApplyWay": null,
+            "projectileName": null,
+            "abilityName": null,
+            "enemyLevelType": null,
+            "enemyTag": null,
+            "logAlias": null
+          },
+          {
+            "description": null,
+            "sourceId": "char_4048_doroth",
+            "sourceMode": null,
+            "enemyId": null,
+            "enemyApplyWay": null,
+            "projectileName": null,
+            "abilityName": null,
+            "enemyLevelType": null,
+            "enemyTag": null,
+            "logAlias": null
+          },
+          {
+            "description": null,
+            "sourceId": "token_10025_doroth_recttp",
             "sourceMode": null,
             "enemyId": null,
             "enemyApplyWay": null,

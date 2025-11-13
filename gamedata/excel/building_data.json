@@ -15422,6 +15422,67 @@
       }
     ,
     
+      "char_1042_phatm2": {
+        "charId": "char_1042_phatm2",
+        "maxManpower": 8640000,
+        "buffChar": [
+          {
+            "buffData": [
+              {
+                "buffId": "manu_formula_spd&limit&cost[000]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              },
+              {
+                "buffId": "manu_formula_spd&limit&cost[010]",
+                "cond": {
+                  "phase": "PHASE_2",
+                  "level": 1
+                }
+              }
+            ]
+          },
+          {
+            "buffData": [
+
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "char_4191_tippi": {
+        "charId": "char_4191_tippi",
+        "maxManpower": 8640000,
+        "buffChar": [
+          {
+            "buffData": [
+              {
+                "buffId": "workshop_proc_probability[033]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              }
+            ]
+          },
+          {
+            "buffData": [
+              {
+                "buffId": "workshop_formula_cost3[500]",
+                "cond": {
+                  "phase": "PHASE_2",
+                  "level": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
       "char_4198_christ": {
         "charId": "char_4198_christ",
         "maxManpower": 8640000,
@@ -17890,6 +17951,34 @@
       }
     ,
     
+      "manu_formula_spd&limit&cost[000]": {
+        "buffId": "manu_formula_spd&limit&cost[000]",
+        "buffName": "Man in the Mirror",
+        "buffIcon": "manufacture",
+        "skillIcon": "bskill_man_exp&spd&limit&cost1",
+        "sortId": 3920,
+        "buffColor": "#ffd800",
+        "textColor": "#333333",
+        "buffCategory": "OUTPUT",
+        "roomType": "MANUFACTURE",
+        "description": "When this Operator is assigned to a Factory, <@cc.kw>Battle Record</> productivity <@cc.vup>+20%</>, and Morale consumed per hour <@cc.vup>-0.25</>"
+      }
+    ,
+    
+      "manu_formula_spd&limit&cost[010]": {
+        "buffId": "manu_formula_spd&limit&cost[010]",
+        "buffName": "Playing the Part",
+        "buffIcon": "manufacture",
+        "skillIcon": "bskill_man_exp&spd&limit&cost2",
+        "sortId": 3921,
+        "buffColor": "#ffd800",
+        "textColor": "#333333",
+        "buffCategory": "OUTPUT",
+        "roomType": "MANUFACTURE",
+        "description": "When this Operator is assigned to a Factory, <@cc.kw>Battle Record</> productivity <@cc.vup>+35%</>, and Morale consumed per hour <@cc.vup>-0.25</>"
+      }
+    ,
+    
       "manu_prod_spd&trade[000]": {
         "buffId": "manu_prod_spd&trade[000]",
         "buffName": "Renewable Energy",
@@ -19500,6 +19589,20 @@
       }
     ,
     
+      "workshop_proc_probability[033]": {
+        "buffId": "workshop_proc_probability[033]",
+        "buffName": "Wrankwood Jack-of-All-Trades",
+        "buffIcon": "workshop",
+        "skillIcon": "bskill_ws_p4",
+        "sortId": 7134,
+        "buffColor": "#e3eb00",
+        "textColor": "#333333",
+        "buffCategory": "FUNCTION",
+        "roomType": "WORKSHOP",
+        "description": "When this Operator is assigned to the Workshop to process <@cc.kw>any material</>, the production rate of byproduct increases by <@cc.vup>65%</>"
+      }
+    ,
+    
       "workshop_proc_probability[040]": {
         "buffId": "workshop_proc_probability[040]",
         "buffName": "Unknown Technology",
@@ -19637,6 +19740,20 @@
         "buffCategory": "FUNCTION",
         "roomType": "WORKSHOP",
         "description": "When this Operator is assigned to the Workshop to process <@cc.kw>any material</>, all formulas that cost <@cc.kw>4</> Morale now <@cc.vup>-1</> Morale cost"
+      }
+    ,
+    
+      "workshop_formula_cost3[500]": {
+        "buffId": "workshop_formula_cost3[500]",
+        "buffName": "Nice Day for a Shoot",
+        "buffIcon": "workshop",
+        "skillIcon": "bskill_ws_all_cost2",
+        "sortId": 7115,
+        "buffColor": "#e3eb00",
+        "textColor": "#333333",
+        "buffCategory": "FUNCTION",
+        "roomType": "WORKSHOP",
+        "description": "When this Operator is assigned to the Workshop to process <@cc.kw>any material</>, all formulas that cost <@cc.kw>2</> Morale now <@cc.vup>-1</> Morale cost"
       }
     ,
     
@@ -93993,6 +94110,726 @@
         }
       ,
       
+        "furni_videoStudio_cabinet_01": {
+          "id": "furni_videoStudio_cabinet_01",
+          "sortId": 1935,
+          "name": "Small Prop Rack",
+          "iconId": "furni_videoStudio_cabinet_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CABINET",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_1",
+          "width": 5,
+          "depth": 3,
+          "height": 6,
+          "comfort": 220,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A small rack laden with props. To keep work moving, a label stuck to the rack warns non-crew DO NOT TOUCH. Warnings, however, are for people. All Miss.Christine cares is making the part draped in soft curtain her cozy nap territory.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_trolley_01": {
+          "id": "furni_videoStudio_trolley_01",
+          "sortId": 1936,
+          "name": "Prop Trolley",
+          "iconId": "furni_videoStudio_trolley_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "DEVICE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_1",
+          "width": 2,
+          "depth": 3,
+          "height": 5,
+          "comfort": 160,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A small cart, carrying bottles of flowers and red wine for a shoot. The wine, just water and food coloring, smells intoxicating. The plastic flowers somehow entice butterflies. In Wrankwood, your imagination becomes more real than reality.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_background_01": {
+          "id": "furni_videoStudio_background_01",
+          "sortId": 1937,
+          "name": "Red Curtain Backdrop (Side)",
+          "iconId": "furni_videoStudio_background_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "PARTITION",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_1",
+          "width": 2,
+          "depth": 5,
+          "height": 8,
+          "comfort": 225,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Dark red curtains hung on an upright frame. A good backdrop can instantly transport an audience into a movie's atmosphere—it's the very reason Tippi's chosen a career as a background painter.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_ceilingLight_01": {
+          "id": "furni_videoStudio_ceilingLight_01",
+          "sortId": 1938,
+          "name": "Large Ceiling Light",
+          "iconId": "furni_videoStudio_ceilingLight_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILING",
+          "subType": "LIGHT",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_1",
+          "width": 13,
+          "depth": 5,
+          "height": 2,
+          "comfort": 215,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A massive ceiling light, adjustable for any kind of set ambience. Sunlight, starlight, and even the moons' fickle glow can be simulated. From high noon to dead of night, 'nature' is always as the director wants it in a movie.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_vase_01": {
+          "id": "furni_videoStudio_vase_01",
+          "sortId": 1939,
+          "name": "Prop Flowers",
+          "iconId": "furni_videoStudio_vase_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "PLANT",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_2",
+          "width": 2,
+          "depth": 2,
+          "height": 4,
+          "comfort": 120,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A dainty bouquet in a refined vase. 'PREP THE SHOT! I WANT A LOOK AT THOSE FLOWERS!' 'Yeah, yeah...' And so the prop master juices the poor wilting things until they're fresh again with plant revitalizing Arts.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_lighting_01": {
+          "id": "furni_videoStudio_lighting_01",
+          "sortId": 1940,
+          "name": "HMI Light & Cart",
+          "iconId": "furni_videoStudio_lighting_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "FLOORLAMP",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_2",
+          "width": 4,
+          "depth": 2,
+          "height": 6,
+          "comfort": 165,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A fully mobile metal HMI lamp plus film cart full of scripts and other junk. In the Script Auction—Wrankwood's signature event—buyers eye synopses and creative minds, and no one can say what anything's worth until the movie pops out.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_decoration_01": {
+          "id": "furni_videoStudio_decoration_01",
+          "sortId": 1941,
+          "name": "Weird Sculpture",
+          "iconId": "furni_videoStudio_decoration_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_2",
+          "width": 2,
+          "depth": 2,
+          "height": 6,
+          "comfort": 145,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A mysterious sculpture. No one on set has a clue where it's from. One person says he touched it once, and it came alive and bit him! A very important lesson here, kids: ask the statue first if it wants to be touched.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_lighting_02": {
+          "id": "furni_videoStudio_lighting_02",
+          "sortId": 1942,
+          "name": "Glitzy Floor Lamp",
+          "iconId": "furni_videoStudio_lighting_02",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "FLOORLAMP",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_2",
+          "width": 2,
+          "depth": 2,
+          "height": 7,
+          "comfort": 155,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A tasteful golden floor lamp. Props like these love to have bad contacts, so someone's usually positioned far off set waving a staff just to ensure the dang light works.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_reflectPanel_01": {
+          "id": "furni_videoStudio_reflectPanel_01",
+          "sortId": 1943,
+          "name": "Reflector Panels",
+          "iconId": "furni_videoStudio_reflectPanel_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILING",
+          "subType": "DEVICE_C",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_3",
+          "width": 3,
+          "depth": 5,
+          "height": 4,
+          "comfort": 110,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A reflector in a lighting rig. Hate constant adjustments? Despise disassembly and reassembly? Just use this one weird trick: 'Applicants with telekinetic Arts preferred'.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_sofa_01": {
+          "id": "furni_videoStudio_sofa_01",
+          "sortId": 1944,
+          "name": "Solid Wood Sofa (Side)",
+          "iconId": "furni_videoStudio_sofa_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "SOFA",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_3",
+          "width": 3,
+          "depth": 3,
+          "height": 3,
+          "comfort": 130,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A wooden seat, leather upholstery, soft and comfortable. Endemic to most movies. The crew introduces this one as one the superstar Marianne sat on in her early career. An investor from Rhine Lab hears that, smiles, and adjusts her shades.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_sofa_02": {
+          "id": "furni_videoStudio_sofa_02",
+          "sortId": 1945,
+          "name": "Solid Wood Sofa (Front)",
+          "iconId": "furni_videoStudio_sofa_02",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "SOFA",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_3",
+          "width": 3,
+          "depth": 3,
+          "height": 3,
+          "comfort": 120,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A wooden seat, leather upholstery, soft and comfortable. Tippi's devoured every old-time Wrankwood flick, and she's positive the so-richly-attested 'metal man' was no prop or virtual actor composited in, but a real actual guy!",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 2,
+          "enableRoomType": 4112,
+          "quantity": 2
+        }
+      ,
+      
+        "furni_videoStudio_background_02": {
+          "id": "furni_videoStudio_background_02",
+          "sortId": 1946,
+          "name": "Red Curtain Backdrop (Front)",
+          "iconId": "furni_videoStudio_background_02",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "PARTITION",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_3",
+          "width": 15,
+          "depth": 2,
+          "height": 8,
+          "comfort": 490,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Dark red curtains hung on an upright frame. There used to be this 'stuntman' who could blend into his surroundings with just his Arts. Invisibility on demand! He loved scaring the heebie-jeebies out of the rest of the crew during breaks.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_carpet_01": {
+          "id": "furni_videoStudio_carpet_01",
+          "sortId": 1947,
+          "name": "Multicolor Rug",
+          "iconId": "furni_videoStudio_carpet_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CARPET",
+          "subType": "NONE",
+          "location": "CARPET",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_2",
+          "width": 12,
+          "depth": 4,
+          "height": 1,
+          "comfort": 80,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A multicolor rug, grippy underfoot, soft in a fall. A retired actor—played the flying carpet in The Princess and the Carpet. Its old partner has kept honing skills and is on Doomsday set now, operating the giant flood.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_jib_01": {
+          "id": "furni_videoStudio_jib_01",
+          "sortId": 1948,
+          "name": "Camera On Jib",
+          "iconId": "furni_videoStudio_jib_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "DEVICE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_4",
+          "width": 6,
+          "depth": 3,
+          "height": 8,
+          "comfort": 290,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A big piece of shoot equipment, all-weather and all-terrain. It's the age of the VFX Artists who conjure explosions, rain, snow, lightning, thunder and more with their Originium Arts. An insane upgrade for movie realism!",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_cabinet_02": {
+          "id": "furni_videoStudio_cabinet_02",
+          "sortId": 1949,
+          "name": "Large Prop Rack",
+          "iconId": "furni_videoStudio_cabinet_02",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CABINET",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_4",
+          "width": 6,
+          "depth": 2,
+          "height": 9,
+          "comfort": 255,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "One large prop rack to hold it all, actors' painstakingly coordinated outfits included. The majority of Wrankwood costume designers are either Liberi or thickly furred—it primes you with an inimitable insight into hair and feathercare.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_camera_01": {
+          "id": "furni_videoStudio_camera_01",
+          "sortId": 1950,
+          "name": "Camera On Dolly",
+          "iconId": "furni_videoStudio_camera_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "DEVICE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_4",
+          "width": 7,
+          "depth": 4,
+          "height": 4,
+          "comfort": 275,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A big piece of shoot equipment, self-stabilizing while cameras roll. The Yanese martial arts star, 'Soundstage Dominator' FEater once shattered a whole dolly with the airblasts from her moves—she's a screen presence Tippi worships.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_monitor_01": {
+          "id": "furni_videoStudio_monitor_01",
+          "sortId": 1951,
+          "name": "Director's Monitors",
+          "iconId": "furni_videoStudio_monitor_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "DEVICE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_4",
+          "width": 4,
+          "depth": 3,
+          "height": 5,
+          "comfort": 185,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Two monitors, one big, one small, so the director can check on any screen, anytime. The big one for the full picture, the small one to spy the details. Feed after feed, painstakingly building Wrankwood's silver screen, dream after dream.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_chair_01": {
+          "id": "furni_videoStudio_chair_01",
+          "sortId": 1952,
+          "name": "Director's Chair",
+          "iconId": "furni_videoStudio_chair_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "CHAIR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_4",
+          "width": 3,
+          "depth": 3,
+          "height": 3,
+          "comfort": 130,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A director's chair, plus set-silencing megaphone. Some directors even amp the thing to ear-splitting levels with Arts. How else will your gaffer sitting sloshed in a bar three blocks down hear the 'GET READY TO SHOOT'?",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_wallpaper_01": {
+          "id": "furni_videoStudio_wallpaper_01",
+          "sortId": 1953,
+          "name": "Wrankwood Set Wallpaper",
+          "iconId": "furni_videoStudio_wallpaper_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLPAPER",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_3",
+          "width": 34,
+          "depth": 1,
+          "height": 10,
+          "comfort": 240,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Studio set wallpaper. Sometimes the whole studio becomes a set to meet a shoot's demands. Sargon's deserts, Sami's icefield shacks, Siesta's sunset beaches... One tastefully painted backdrop is all it takes to bring you anywhere.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_videoStudio_floor_01": {
+          "id": "furni_videoStudio_floor_01",
+          "sortId": 1954,
+          "name": "Wrankwood Set Flooring",
+          "iconId": "furni_videoStudio_floor_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "FLOOR",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furni_set_videoStudio",
+          "groupId": "furni_set_videoStudio_1",
+          "width": 34,
+          "depth": 10,
+          "height": 1,
+          "comfort": 240,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Studio set flooring, supremely anechoic so no crew movements pick up on mic. In rare cases, acousticians supplement a barrier of Arts to wall off all sound. Reliable sources say tons of Leithanian graduates apply for the post every year.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
         "furni_oct1st_deckChair_01": {
           "id": "furni_oct1st_deckChair_01",
           "sortId": 9998,
@@ -97917,6 +98754,42 @@
         }
       ,
       
+        "furni_POPUCOM_stack_01": {
+          "id": "furni_POPUCOM_stack_01",
+          "sortId": 10254,
+          "name": "'Rainbow Pomu'",
+          "iconId": "furni_POPUCOM_stack_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "STOOL",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 7,
+          "depth": 4,
+          "height": 7,
+          "comfort": 120,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A set of lounge cushions inspired by the colorful world of POPUCOM. Wherever you are, embark on this journey with your friends through endless colors!",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 0
+        }
+      ,
+      
         "furni_dropS001_theLittleMermaid_01": {
           "id": "furni_dropS001_theLittleMermaid_01",
           "sortId": 11001,
@@ -101395,6 +102268,42 @@
           "comfort": 75,
           "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
           "description": "Is sanctity, too, a product of the Law?",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4144,
+          "quantity": 0
+        }
+      ,
+      
+        "furni_terracommericials_FilmStudio_01": {
+          "id": "furni_terracommericials_FilmStudio_01",
+          "sortId": 11099,
+          "name": "Plaque - Spotlight",
+          "iconId": "furni_terracommericials_FilmStudio_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLDECO",
+          "subType": "PLAQUE",
+          "location": "WALL",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 4,
+          "depth": 1,
+          "height": 2,
+          "comfort": 75,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
+          "description": "In front of the screen, definitions are made, and beauty is advertised. Behind the screen, there is an endless walk, and dreams hang high above.",
           "obtainApproach": "Event Reward",
           "processedProductId": "3401",
           "processedProductCount": 0,
@@ -122265,6 +123174,172 @@
         }
       ,
       
+        "furni_set_videoStudio": {
+          "id": "furni_set_videoStudio",
+          "enableRoomType": 4112,
+          "sortId": 111,
+          "name": "Wrankwood Studio",
+          "themeType": "EVENT",
+          "desc": "A Wrankwood studio as described by Tippi. Are you waiting to find smash success? Nursing dreams of a life of milk and honey? Don't delay! Doesn't matter who you are, 'cause here in Wrankwood, you're the next big star!",
+          "quickSetup": [
+            {
+              "furnitureId": "furni_videoStudio_cabinet_01",
+              "pos0": 0,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_trolley_01",
+              "pos0": 0,
+              "pos1": 3,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_background_01",
+              "pos0": 5,
+              "pos1": 2,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_ceilingLight_01",
+              "pos0": 7,
+              "pos1": 2,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_vase_01",
+              "pos0": 7,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_lighting_01",
+              "pos0": 7,
+              "pos1": 7,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_decoration_01",
+              "pos0": 9,
+              "pos1": 2,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_lighting_02",
+              "pos0": 11,
+              "pos1": 2,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_reflectPanel_01",
+              "pos0": 22,
+              "pos1": 3,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_sofa_01",
+              "pos0": 9,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_sofa_02",
+              "pos0": 13,
+              "pos1": 2,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_sofa_02",
+              "pos0": 16,
+              "pos1": 2,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_background_02",
+              "pos0": 6,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_carpet_01",
+              "pos0": 8,
+              "pos1": 3,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_jib_01",
+              "pos0": 21,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_cabinet_02",
+              "pos0": 28,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_camera_01",
+              "pos0": 16,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_monitor_01",
+              "pos0": 24,
+              "pos1": 3,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_chair_01",
+              "pos0": 26,
+              "pos1": 6,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_wallpaper_01",
+              "pos0": 0,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_videoStudio_floor_01",
+              "pos0": 0,
+              "pos1": 10,
+              "dir": 0
+            }
+          ],
+          "groups": [
+            "furni_set_videoStudio_1",
+            "furni_set_videoStudio_2",
+            "furni_set_videoStudio_3",
+            "furni_set_videoStudio_4"
+          ],
+          "furnitures": [
+            "furni_videoStudio_cabinet_01",
+            "furni_videoStudio_trolley_01",
+            "furni_videoStudio_background_01",
+            "furni_videoStudio_ceilingLight_01",
+            "furni_videoStudio_vase_01",
+            "furni_videoStudio_lighting_01",
+            "furni_videoStudio_decoration_01",
+            "furni_videoStudio_lighting_02",
+            "furni_videoStudio_reflectPanel_01",
+            "furni_videoStudio_sofa_01",
+            "furni_videoStudio_sofa_02",
+            "furni_videoStudio_background_02",
+            "furni_videoStudio_carpet_01",
+            "furni_videoStudio_jib_01",
+            "furni_videoStudio_cabinet_02",
+            "furni_videoStudio_camera_01",
+            "furni_videoStudio_monitor_01",
+            "furni_videoStudio_chair_01",
+            "furni_videoStudio_wallpaper_01",
+            "furni_videoStudio_floor_01"
+          ]
+        }
+      ,
+      
         "furniM_set_basicRoom": {
           "id": "furniM_set_basicRoom",
           "enableRoomType": 32,
@@ -129713,6 +130788,74 @@
             "furni_gunworkshop_bench_01",
             "furni_gunworkshop_recordplayer_01",
             "furni_gunworkshop_carpet_02"
+          ]
+        }
+      ,
+      
+        "furni_set_videoStudio_1": {
+          "id": "furni_set_videoStudio_1",
+          "sortId": 1,
+          "name": "Prop Area",
+          "themeId": "furni_set_videoStudio",
+          "comfort": 230,
+          "count": 5,
+          "furniture": [
+            "furni_videoStudio_cabinet_01",
+            "furni_videoStudio_trolley_01",
+            "furni_videoStudio_background_01",
+            "furni_videoStudio_ceilingLight_01",
+            "furni_videoStudio_floor_01"
+          ]
+        }
+      ,
+      
+        "furni_set_videoStudio_2": {
+          "id": "furni_set_videoStudio_2",
+          "sortId": 2,
+          "name": "Set Area",
+          "themeId": "furni_set_videoStudio",
+          "comfort": 135,
+          "count": 5,
+          "furniture": [
+            "furni_videoStudio_vase_01",
+            "furni_videoStudio_lighting_01",
+            "furni_videoStudio_decoration_01",
+            "furni_videoStudio_lighting_02",
+            "furni_videoStudio_carpet_01"
+          ]
+        }
+      ,
+      
+        "furni_set_videoStudio_3": {
+          "id": "furni_set_videoStudio_3",
+          "sortId": 3,
+          "name": "Backdrop Area",
+          "themeId": "furni_set_videoStudio",
+          "comfort": 280,
+          "count": 5,
+          "furniture": [
+            "furni_videoStudio_reflectPanel_01",
+            "furni_videoStudio_sofa_01",
+            "furni_videoStudio_sofa_02",
+            "furni_videoStudio_background_02",
+            "furni_videoStudio_wallpaper_01"
+          ]
+        }
+      ,
+      
+        "furni_set_videoStudio_4": {
+          "id": "furni_set_videoStudio_4",
+          "sortId": 4,
+          "name": "Photography Area",
+          "themeId": "furni_set_videoStudio",
+          "comfort": 285,
+          "count": 5,
+          "furniture": [
+            "furni_videoStudio_jib_01",
+            "furni_videoStudio_cabinet_02",
+            "furni_videoStudio_camera_01",
+            "furni_videoStudio_monitor_01",
+            "furni_videoStudio_chair_01"
           ]
         }
       
