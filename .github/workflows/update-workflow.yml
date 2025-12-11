@@ -650,6 +650,11 @@ jobs:
         with:
           sparse-checkout: .github
 
+      - name: List changed files
+        run: |
+          git fetch --depth=1 origin ${{ needs.update.outputs.branch-name }}
+          git diff HEAD..FETCH_HEAD --name-only
+
       - name: Create pull request
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
