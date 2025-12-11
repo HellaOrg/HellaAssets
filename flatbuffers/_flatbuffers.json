@@ -26,6 +26,9 @@
     "character_table.fbs": {
         "commit": "3eb9eea6dd28420bf595fc9244b03fe0a1a36b65"
     },
+    "char_master_table.fbs": {
+        "commit": "64a7db4a9cdc852b06f77879f835d8db255ecf9e"
+    },
     "char_meta_table.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
     },
