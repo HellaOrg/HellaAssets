@@ -12882,7 +12882,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>Invisible</>, normally does not attack, but counters when losing Invisibility; attacks deal both Arts damage and <@eb.key>Burn damage</>"
+              "m_value": "<@eb.key>Invisible</>, normally does not attack, but counters when losing Invisibility; attacks deal both Arts damage and <@eb.key>Burn</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -13059,7 +13059,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>Invisible</>, normally does not attack, but counters when losing Invisibility; attacks deal both Arts damage and <@eb.key>Burn damage</>"
+              "m_value": "<@eb.key>Invisible</>, normally does not attack, but counters when losing Invisibility; attacks deal both Arts damage and <@eb.key>Burn</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -13236,7 +13236,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>Invisible</>, normally does not attack, but counters when losing Invisibility; continuously deals Arts damage and <@eb.key>Burn damage</> for the skill duration"
+              "m_value": "<@eb.key>Invisible</>, normally does not attack, but counters when losing Invisibility; continuously deals Arts damage and <@eb.key>Burn</> for the skill duration"
             },
             "prefabKey": {
               "m_defined": true,
@@ -13447,7 +13447,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>Invisible</>, normally does not attack, but counters when losing Invisibility; continuously deals Arts damage and <@eb.key>Burn damage</> for the skill duration"
+              "m_value": "<@eb.key>Invisible</>, normally does not attack, but counters when losing Invisibility; continuously deals Arts damage and <@eb.key>Burn</> for the skill duration"
             },
             "prefabKey": {
               "m_defined": true,
@@ -13658,7 +13658,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>Invisible</>, continuously deals Arts damage and <@eb.key>Burn damage</> for the skill duration, Attack Range increases when Invisibility is lost"
+              "m_value": "<@eb.key>Invisible</>, continuously deals Arts damage and <@eb.key>Burn</> for the skill duration, Attack Range increases when Invisibility is lost"
             },
             "prefabKey": {
               "m_defined": true,
@@ -13860,7 +13860,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>Invisible</>, continuously deals Arts damage and <@eb.key>Burn damage</> for the skill duration, Attack Range increases when Invisibility is lost"
+              "m_value": "<@eb.key>Invisible</>, continuously deals Arts damage and <@eb.key>Burn</> for the skill duration, Attack Range increases when Invisibility is lost"
             },
             "prefabKey": {
               "m_defined": true,
@@ -14446,7 +14446,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Detonates when blocked, dealing Arts damage and <@eb.key>Burn damage</> to all nearby targets"
+              "m_value": "Detonates when blocked, dealing Arts damage and <@eb.key>Burn</> to all nearby targets"
             },
             "prefabKey": {
               "m_defined": true,
@@ -14628,7 +14628,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Detonates when blocked, dealing Arts damage and <@eb.key>Burn damage</> to all nearby targets"
+              "m_value": "Detonates when blocked, dealing Arts damage and <@eb.key>Burn</> to all nearby targets"
             },
             "prefabKey": {
               "m_defined": true,
@@ -19731,7 +19731,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "While on the battlefield, <Risk-seeking Sailor> attacks also inflict <@eb.key>Corrosion Damage</>; Periodically summons 2 <Risk-seeking Sailors>; ATK increases when blocked"
+              "m_value": "While on the battlefield, <Risk-seeking Sailor> attacks also inflict <@eb.key>Corrosion</>; Periodically summons 2 <Risk-seeking Sailors>; ATK increases when blocked"
             },
             "prefabKey": {
               "m_defined": true,
@@ -19928,7 +19928,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "While on the battlefield, <Risk-surviving Sailor> attacks also inflict <@eb.key>Corrosion Damage</>; Periodically summons 2 <Risk-surviving Sailors>; ATK increases when blocked"
+              "m_value": "While on the battlefield, <Risk-surviving Sailor> attacks also inflict <@eb.key>Corrosion</>; Periodically summons 2 <Risk-surviving Sailors>; ATK increases when blocked"
             },
             "prefabKey": {
               "m_defined": true,
@@ -21885,7 +21885,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Continuously inflicts <@eb.key>Arts damage</> and <@eb.key>Burn damage</> to its surroundings; Immune to <@eb.key>Slow</>"
+              "m_value": "Continuously inflicts <@eb.key>Arts damage</> and <@eb.key>Burn</> to its surroundings; Immune to <@eb.key>Slow</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -22069,7 +22069,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Continuously inflicts <@eb.key>Arts damage</> and <@eb.key>Burn damage</> to its surroundings; Immune to <@eb.key>Slow</>"
+              "m_value": "Continuously inflicts <@eb.key>Arts damage</> and <@eb.key>Burn</> to its surroundings; Immune to <@eb.key>Slow</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -26935,7 +26935,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Burn damage</>; ATK continuously increases before its first attack, and the first attack deals heavy <@eb.key>Arts damage</> and <@eb.key>Burn damage</> to the target and surrounding units"
+              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Burn</>; ATK continuously increases before its first attack, and the first attack deals heavy <@eb.key>Arts damage</> and <@eb.key>Burn</> to the target and surrounding units"
             },
             "prefabKey": {
               "m_defined": true,
@@ -27132,7 +27132,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Burn damage</>; ATK continuously increases before its first attack, and the first attack deals heavy <@eb.key>Arts damage</> and <@eb.key>Burn damage</> to the target and surrounding units"
+              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Burn</>; ATK continuously increases before its first attack, and the first attack deals heavy <@eb.key>Arts damage</> and <@eb.key>Burn</> to the target and surrounding units"
             },
             "prefabKey": {
               "m_defined": true,
@@ -98155,7 +98155,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "A professionally trained caster. Adept at <@eb.key>AoE Ranged Arts</>. Attacks inflict additional <@eb.key>Corrosion Damage</>"
+              "m_value": "A professionally trained caster. Adept at <@eb.key>AoE Ranged Arts</>. Attacks inflict additional <@eb.key>Corrosion</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -98332,7 +98332,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "A professionally trained tidal caster. Adept at <@eb.key>AoE Ranged Arts</>. Attacks inflict additional <@eb.key>Corrosion Damage</>"
+              "m_value": "A professionally trained tidal caster. Adept at <@eb.key>AoE Ranged Arts</>. Attacks inflict additional <@eb.key>Corrosion</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -98509,7 +98509,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "A Tidal Caster on a speedboat. Attacks inflict additional <@eb.key>Corrosion Damage</>. Will continue battle after the vehicle is destroyed"
+              "m_value": "A Tidal Caster on a speedboat. Attacks inflict additional <@eb.key>Corrosion</>. Will continue battle after the vehicle is destroyed"
             },
             "prefabKey": {
               "m_defined": true,
@@ -98693,7 +98693,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "A Tidal Leader on a speedboat. Attacks inflict additional <@eb.key>Corrosion Damage</>. Will continue battle after the vehicle is destroyed"
+              "m_value": "A Tidal Leader on a speedboat. Attacks inflict additional <@eb.key>Corrosion</>. Will continue battle after the vehicle is destroyed"
             },
             "prefabKey": {
               "m_defined": true,
@@ -102888,7 +102888,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Continually deals Arts damage and <@eb.key>Burn Damage</> within the skill duration; <@eb.key>Upon death, explodes</> and deals Arts damage, knocking down nearby <@eb.key>Tattered Pillars</> and instantly defeating other <@eb.key>Dublinn Flamerazers</>"
+              "m_value": "Continually deals Arts damage and <@eb.key>Burn</> within the skill duration; <@eb.key>Upon death, explodes</> and deals Arts damage, knocking down nearby <@eb.key>Tattered Pillars</> and instantly defeating other <@eb.key>Dublinn Flamerazers</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -103113,7 +103113,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Continually deals Arts damage and <@eb.key>Burn Damage</> within the skill duration; <@eb.key>Upon death, explodes</> and deals Arts damage, knocking down nearby <@eb.key>Tattered Pillars</> and instantly defeating other <@eb.key>Dublinn Flamerazer Leaders</>"
+              "m_value": "Continually deals Arts damage and <@eb.key>Burn</> within the skill duration; <@eb.key>Upon death, explodes</> and deals Arts damage, knocking down nearby <@eb.key>Tattered Pillars</> and instantly defeating other <@eb.key>Dublinn Flamerazer Leaders</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -104146,7 +104146,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Controls <@eb.key>Purifying Flames</> that move along the ground. <@eb.key>Purifying Flames</> explode after hitting a melee Operator, dealing Arts damage and <@eb.key>Burn Damage</>. The damage dealt decreases with distance moved"
+              "m_value": "Controls <@eb.key>Purifying Flames</> that move along the ground. <@eb.key>Purifying Flames</> explode after hitting a melee Operator, dealing Arts damage and <@eb.key>Burn</>. The damage dealt decreases with distance moved"
             },
             "prefabKey": {
               "m_defined": true,
@@ -104356,7 +104356,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Controls <@eb.key>Purifying Flames</> that move along the ground. <@eb.key>Purifying Flames</> explode after hitting a melee Operator, dealing Arts damage and <@eb.key>Burn Damage</>. The damage dealt decreases with distance moved"
+              "m_value": "Controls <@eb.key>Purifying Flames</> that move along the ground. <@eb.key>Purifying Flames</> explode after hitting a melee Operator, dealing Arts damage and <@eb.key>Burn</>. The damage dealt decreases with distance moved"
             },
             "prefabKey": {
               "m_defined": true,
@@ -106372,7 +106372,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion Damage</>; After several attacks, the next attack deals increased damage."
+              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion</>; After several attacks, the next attack deals increased damage."
             },
             "prefabKey": {
               "m_defined": true,
@@ -106574,7 +106574,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion Damage</>; After several attacks, the next attack deals increased damage."
+              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion</>; After several attacks, the next attack deals increased damage."
             },
             "prefabKey": {
               "m_defined": true,
@@ -106776,7 +106776,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion Damage</>; After several attacks, the next attack deals increased damage."
+              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion</>; After several attacks, the next attack deals increased damage."
             },
             "prefabKey": {
               "m_defined": true,
@@ -107144,7 +107144,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion Damage</>; After several attacks, the next attack deals increased damage."
+              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion</>; After several attacks, the next attack deals increased damage."
             },
             "prefabKey": {
               "m_defined": true,
@@ -107346,7 +107346,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion Damage</>; After several attacks, the next attack deals increased damage."
+              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion</>; After several attacks, the next attack deals increased damage."
             },
             "prefabKey": {
               "m_defined": true,
@@ -107548,7 +107548,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion Damage</>; After several attacks, the next attack deals increased damage."
+              "m_value": "Attacks inflict a certain amount of <@eb.key>Corrosion</>; After several attacks, the next attack deals increased damage."
             },
             "prefabKey": {
               "m_defined": true,
@@ -119383,7 +119383,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "While this unit is holding Ammo, attacks inflict <$ba.dt.burning>Burn Damage</>. Ammo capacity: <@eb.key>1</>"
+              "m_value": "While this unit is holding Ammo, attacks inflict <$ba.dt.burning>Burn</>. Ammo capacity: <@eb.key>1</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -119570,7 +119570,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "While this unit is holding Ammo, attacks inflict <$ba.dt.burning>Burn Damage</>. Ammo capacity: <@eb.key>1</>"
+              "m_value": "While this unit is holding Ammo, attacks inflict <$ba.dt.burning>Burn</>. Ammo capacity: <@eb.key>1</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -120881,7 +120881,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Detonates when blocked, inflicting Arts Damage and <$ba.dt.burning>Burn Damage</> to all nearby targets. Deals a large amount of Arts Damage to nearby 'Gelato Stops'."
+              "m_value": "Detonates when blocked, inflicting Arts Damage and <$ba.dt.burning>Burn</> to all nearby targets. Deals a large amount of Arts Damage to nearby 'Gelato Stops'."
             },
             "prefabKey": {
               "m_defined": true,
@@ -121070,7 +121070,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Detonates when blocked, inflicting Arts Damage and <$ba.dt.burning>Burn Damage</> to all nearby targets. Deals a large amount of Arts Damage to nearby 'Gelato Stops'."
+              "m_value": "Detonates when blocked, inflicting Arts Damage and <$ba.dt.burning>Burn</> to all nearby targets. Deals a large amount of Arts Damage to nearby 'Gelato Stops'."
             },
             "prefabKey": {
               "m_defined": true,
@@ -123207,7 +123207,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "While in battle, reborn creations have <@eb.key>increased ATK</>, and their attacks will additionally deal <@eb.key>Necrosis damage</>."
+              "m_value": "While in battle, reborn creations have <@eb.key>increased ATK</>, and their attacks will additionally deal <@eb.key>Necrosis</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -123396,7 +123396,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "While in battle, reborn creations have <@eb.key>increased ATK</>, and their attacks will additionally deal <@eb.key>Necrosis damage</>."
+              "m_value": "While in battle, reborn creations have <@eb.key>increased ATK</>, and their attacks will additionally deal <@eb.key>Necrosis</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -123585,7 +123585,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Necrosis damage</> and jump between 4 targets with each jump dealing reduced damage. Will be reborn as a <@eb.key><Gift of the Sanguinarch></> after falling in battle for the first time."
+              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Necrosis</> and jump between 4 targets with each jump dealing reduced damage. Will be reborn as a <@eb.key><Gift of the Sanguinarch></> after falling in battle for the first time."
             },
             "prefabKey": {
               "m_defined": true,
@@ -123789,7 +123789,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Necrosis damage</> and jump between 4 targets with each jump dealing reduced damage. Will be reborn as a <@eb.key><Gift of Magnanimity></> after falling in battle for the first time."
+              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Necrosis</> and jump between 4 targets with each jump dealing reduced damage. Will be reborn as a <@eb.key><Gift of Magnanimity></> after falling in battle for the first time."
             },
             "prefabKey": {
               "m_defined": true,
@@ -125103,7 +125103,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Necrosis damage</>."
+              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Necrosis</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -125282,7 +125282,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Necrosis damage</>."
+              "m_value": "Attacks deal <@eb.key>Arts damage</> and <@eb.key>Necrosis</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -143518,7 +143518,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal additional <@eb.key>Necrosis Damage</>. Locks on to your units, dealing continuous Arts Damage, and causes <@eb.key>area Necrosis damage</> when casting is complete."
+              "m_value": "Attacks deal additional <@eb.key>Necrosis</>. Locks on to your units, dealing continuous Arts Damage, and causes <@eb.key>area Necrosis</> when casting is complete."
             },
             "prefabKey": {
               "m_defined": true,
@@ -143722,7 +143722,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal additional <@eb.key>Necrosis Damage</>. Locks on to your units, dealing continuous Arts Damage, and causes <@eb.key>area Necrosis damage</> when casting is complete."
+              "m_value": "Attacks deal additional <@eb.key>Necrosis</>. Locks on to your units, dealing continuous Arts Damage, and causes <@eb.key>area Necrosis</> when casting is complete."
             },
             "prefabKey": {
               "m_defined": true,
@@ -148057,7 +148057,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal additional <@eb.key>Burn damage</> while near burning Reeds; when defeated, turns into Embers of Resentment, and respawns after a period of time"
+              "m_value": "Attacks deal additional <@eb.key>Burn</> while near burning Reeds; when defeated, turns into Embers of Resentment, and respawns after a period of time"
             },
             "prefabKey": {
               "m_defined": true,
@@ -148258,7 +148258,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal additional <@eb.key>Burn damage</> while near burning Reeds; when defeated, turns into Embers of Fury, and respawns after a period of time"
+              "m_value": "Attacks deal additional <@eb.key>Burn</> while near burning Reeds; when defeated, turns into Embers of Fury, and respawns after a period of time"
             },
             "prefabKey": {
               "m_defined": true,
@@ -149551,7 +149551,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Deals additional <@eb.key>Burn damage</> and <@eb.key>takes less damage</> while near burning Reeds; when defeated, turns into Embers of Avarice, and respawns after a period of time"
+              "m_value": "Deals additional <@eb.key>Burn</> and <@eb.key>takes less damage</> while near burning Reeds; when defeated, turns into Embers of Avarice, and respawns after a period of time"
             },
             "prefabKey": {
               "m_defined": true,
@@ -149757,7 +149757,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Deals additional <@eb.key>Burn damage</> and <@eb.key>takes less damage</> while near burning Reeds; when defeated, turns into Embers of Arrogance, and respawn after a period of time"
+              "m_value": "Deals additional <@eb.key>Burn</> and <@eb.key>takes less damage</> while near burning Reeds; when defeated, turns into Embers of Arrogance, and respawn after a period of time"
             },
             "prefabKey": {
               "m_defined": true,
@@ -154492,7 +154492,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "A wild infected creature that sprays superheated fluids at its foes. Attacks deal Arts damage and <@eb.key>Burn Damage</>."
+              "m_value": "A wild infected creature that sprays superheated fluids at its foes. Attacks deal Arts damage and <@eb.key>Burn</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -154669,7 +154669,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "A wild infected creature that sprays superheated fluids at its foes. Attacks deal Arts damage and <@eb.key>Burn Damage</>."
+              "m_value": "A wild infected creature that sprays superheated fluids at its foes. Attacks deal Arts damage and <@eb.key>Burn</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -161059,7 +161059,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Each attack inflicts <@eb.key>Corrosion Damage</>; loses HP every second"
+              "m_value": "Each attack inflicts <@eb.key>Corrosion</>; loses HP every second"
             },
             "prefabKey": {
               "m_defined": true,
@@ -197491,7 +197491,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Targets one of your units, continuously dealing Arts and <@eb.key>Burn damage</> to the target and all Operators connected to that unit by Stabilizer Chains."
+              "m_value": "Targets one of your units, continuously dealing Arts and <@eb.key>Burn</> to the target and all Operators connected to that unit by Stabilizer Chains."
             },
             "prefabKey": {
               "m_defined": true,
@@ -197689,7 +197689,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Targets one of your units, continuously dealing Arts and <@eb.key>Burn damage</> to the target and all Operators connected to that unit by Stabilizer Chains."
+              "m_value": "Targets one of your units, continuously dealing Arts and <@eb.key>Burn</> to the target and all Operators connected to that unit by Stabilizer Chains."
             },
             "prefabKey": {
               "m_defined": true,
@@ -202710,7 +202710,7 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "((dummy text))"
+              "m_value": "Cocoon Cage Performance"
             },
             "description": {
               "m_defined": true,
@@ -255539,7 +255539,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks inflict additional <@eb.key>Corrosion Damage</>."
+              "m_value": "Attacks inflict additional <@eb.key>Corrosion</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -256081,7 +256081,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks inflict additional <@eb.key>Corrosion Damage</>. Cannot move and loses HP over time."
+              "m_value": "Attacks inflict additional <@eb.key>Corrosion</>. Cannot move and loses HP over time."
             },
             "prefabKey": {
               "m_defined": true,
@@ -256265,7 +256265,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "[Low-Altitude Hovering], attacks inflict additional <@eb.key>Corrosion Damage</>."
+              "m_value": "[Low-Altitude Hovering], attacks inflict additional <@eb.key>Corrosion</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -257082,7 +257082,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Enters a <@eb.key>coma</> when HP reaches 0. Regenerates when 'Other Half' is not in <@eb.key>coma</>, and is revived when HP is full. Attacks inflict additional <@eb.key>Corrosion Damage</>."
+              "m_value": "Enters a <@eb.key>coma</> when HP reaches 0. Regenerates when 'Other Half' is not in <@eb.key>coma</>, and is revived when HP is full. Attacks inflict additional <@eb.key>Corrosion</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -259372,7 +259372,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Ægir girl who went berserk after swallowing Seaborn cells. [Low-Altitude Hovering]. Attacks multiple times, inflicting additional <@eb.key>Corrosion Damage</>. Within its attack range, your units have <@eb.key>greatly reduced ASPD</>."
+              "m_value": "Ægir girl who went berserk after swallowing Seaborn cells. [Low-Altitude Hovering]. Attacks multiple times, inflicting additional <@eb.key>Corrosion</>. Within its attack range, your units have <@eb.key>greatly reduced ASPD</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -267313,7 +267313,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal Necrosis damage. Summons Spike of Lament upon exit."
+              "m_value": "Attacks deal Necrosis. Summons Spike of Lament upon exit."
             },
             "prefabKey": {
               "m_defined": true,
@@ -267497,7 +267497,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal Necrosis damage and hit 2 targets simultaneously. Summons Spike of Lament upon exit."
+              "m_value": "Attacks deal Necrosis and hit 2 targets simultaneously. Summons Spike of Lament upon exit."
             },
             "prefabKey": {
               "m_defined": true,
@@ -268052,7 +268052,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "The next attack deals heavy Physical damage to the target. Recovers all SP if this skill kills the target or if the target retreats. Attack deals <$ba.dt.apoptosis>Necrosis damage</>."
+              "m_value": "The next attack deals heavy Physical damage to the target. Recovers all SP if this skill kills the target or if the target retreats. Attack deals <$ba.dt.apoptosis>Necrosis</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -276508,7 +276508,7 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "((dummy text))"
+              "m_value": "A humble hero, a radiant dream. The future converges in her gaze, while the path fades beneath her steps."
             },
             "description": {
               "m_defined": true,
@@ -276949,7 +276949,7 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "((dummy text))"
+              "m_value": "A humble hero, a radiant dream. The future converges in her gaze, while the path fades beneath her steps."
             },
             "description": {
               "m_defined": true,
@@ -319645,7 +319645,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "When attacked, takes flight for a period of time and switches to a long-ranged attack that inflicts <@eb.key>Burn damage</>"
+              "m_value": "When attacked, takes flight for a period of time and switches to a long-ranged attack that inflicts <@eb.key>Burn</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -322470,7 +322470,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Deals heavy Burn Damage to nearby units every second, and recovers a huge amount of HP every second"
+              "m_value": "Deals heavy Burn to nearby units every second, and recovers a huge amount of HP every second"
             },
             "prefabKey": {
               "m_defined": true,
@@ -322682,7 +322682,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "Attacks deal Burn Damage, and recovers HP every second"
+              "m_value": "Attacks deal Burn, and recovers HP every second"
             },
             "prefabKey": {
               "m_defined": true,

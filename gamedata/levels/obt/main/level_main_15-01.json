@@ -3212,6 +3212,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -3241,6 +3245,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -4318,6 +4326,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_228_mptxs",
           "level": 1,
@@ -4341,6 +4350,7 @@
         "alias": "trap_232_mpgroub#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_232_mpgroub",
           "level": 1,
@@ -4364,6 +4374,7 @@
         "alias": "trap_232_mpgroub#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_232_mpgroub",
           "level": 1,
@@ -4387,6 +4398,7 @@
         "alias": "trap_232_mpgroub#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_232_mpgroub",
           "level": 1,
@@ -4410,6 +4422,7 @@
         "alias": "trap_232_mpgroub#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_232_mpgroub",
           "level": 1,
@@ -4433,6 +4446,7 @@
         "alias": "trap_761_skzthx#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_761_skzthx",
           "level": 1,
@@ -4456,6 +4470,7 @@
         "alias": "trap_761_skzthx#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_761_skzthx",
           "level": 1,
@@ -4479,6 +4494,7 @@
         "alias": "trap_761_skzthx#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_761_skzthx",
           "level": 1,
@@ -4502,6 +4518,7 @@
         "alias": "trap_761_skzthx#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_761_skzthx",
           "level": 1,
@@ -4526,6 +4543,7 @@
         "alias": "trap_232_mpgroub#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_232_mpgroub",
           "level": 1,

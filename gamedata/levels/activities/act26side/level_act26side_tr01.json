@@ -2347,6 +2347,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -2376,6 +2380,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -2875,6 +2883,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_002_amiya",
           "level": 40,
@@ -2898,6 +2907,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_017_huang",
           "level": 40,
@@ -2921,6 +2931,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_196_sunbr",
           "level": 40,
@@ -2946,6 +2957,7 @@
         "alias": "trap_117_ltstat#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_117_ltstat",
           "level": 1,
@@ -2969,6 +2981,7 @@
         "alias": "trap_117_ltstat#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_117_ltstat",
           "level": 1,
@@ -2992,6 +3005,7 @@
         "alias": "trap_117_ltstat#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_117_ltstat",
           "level": 1,
@@ -3016,6 +3030,7 @@
         "alias": "trap_119_rdrepair#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_119_rdrepair",
           "level": 1,

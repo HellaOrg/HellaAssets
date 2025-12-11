@@ -2304,6 +2304,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_235_jesica",
           "level": 25,
@@ -2327,6 +2328,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_123_fang",
           "level": 55,
@@ -2350,6 +2352,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_209_ardign",
           "level": 55,
@@ -2373,6 +2376,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_209_ardign",
           "level": 30,
@@ -2398,6 +2402,7 @@
         "alias": "trap_121_gractrl",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_121_gractrl",
           "level": 1,
@@ -2418,6 +2423,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_208_melan",
           "level": 55,
@@ -2436,6 +2442,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_355_ethan",
           "level": 25,
@@ -2454,6 +2461,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_108_silent",
           "level": 25,
@@ -2472,6 +2480,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_328_cammou",
           "level": 25,
@@ -2490,6 +2499,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_502_nblade",
           "level": 30,

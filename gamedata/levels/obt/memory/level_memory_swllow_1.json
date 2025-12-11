@@ -2070,6 +2070,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_235_jesica",
           "level": 60,
@@ -2095,6 +2096,7 @@
         "alias": "trap_013_blower#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_013_blower",
           "level": 1,
@@ -2115,6 +2117,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_367_swllow",
           "level": 20,
@@ -2133,6 +2136,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_240_wyvern",
           "level": 55,
@@ -2151,6 +2155,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_345_folnic",
           "level": 60,

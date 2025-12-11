@@ -17,6 +17,8 @@
         "name": "Amiya",
         "description": "Deals <@ba.kw>Arts damage</>",
         "sortIndex": 0,
+        "spTargetType": "NONE",
+        "spTargetId": null,
         "canUseGeneralPotentialItem": false,
         "canUseActivityPotentialItem": false,
         "potentialItemId": "p_char_002_amiya",
@@ -87,7 +89,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               },
               {
@@ -117,7 +120,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               }
             ],
@@ -155,7 +159,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               },
               {
@@ -185,7 +190,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               }
             ],
@@ -239,7 +245,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               },
               {
@@ -269,7 +276,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               }
             ],
@@ -662,7 +670,8 @@
               "levitateImmune": false,
               "disarmedCombatImmune": false,
               "fearedImmune": false,
-              "palsyImmune": false
+              "palsyImmune": false,
+              "attractImmune": false
             }
           },
           {
@@ -692,7 +701,8 @@
               "levitateImmune": false,
               "disarmedCombatImmune": false,
               "fearedImmune": false,
-              "palsyImmune": false
+              "palsyImmune": false,
+              "attractImmune": false
             }
           }
         ],
@@ -813,6 +823,8 @@
         "name": "Amiya",
         "description": "Attacks deal Arts damage and heal the HP of an ally within Attack Range for 50% of the damage dealt",
         "sortIndex": 0,
+        "spTargetType": "NONE",
+        "spTargetId": null,
         "canUseGeneralPotentialItem": false,
         "canUseActivityPotentialItem": false,
         "potentialItemId": "p_char_002_amiya",
@@ -903,7 +915,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               },
               {
@@ -933,7 +946,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               }
             ],
@@ -971,7 +985,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               },
               {
@@ -1001,7 +1016,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               }
             ],
@@ -1055,7 +1071,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               },
               {
@@ -1085,7 +1102,8 @@
                   "levitateImmune": false,
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
-                  "palsyImmune": false
+                  "palsyImmune": false,
+                  "attractImmune": false
                 }
               }
             ],
@@ -1478,7 +1496,8 @@
               "levitateImmune": false,
               "disarmedCombatImmune": false,
               "fearedImmune": false,
-              "palsyImmune": false
+              "palsyImmune": false,
+              "attractImmune": false
             }
           },
           {
@@ -1508,7 +1527,8 @@
               "levitateImmune": false,
               "disarmedCombatImmune": false,
               "fearedImmune": false,
-              "palsyImmune": false
+              "palsyImmune": false,
+              "attractImmune": false
             }
           }
         ],

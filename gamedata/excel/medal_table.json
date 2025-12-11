@@ -9047,7 +9047,7 @@
       "medalId": "medal_story_podego_1",
       "medalName": "'Bloom Season'",
       "medalType": "storyMedal",
-      "slotId": 324,
+      "slotId": 333,
       "preMedalIdList": [
 
       ],
@@ -14498,6 +14498,114 @@
       "isHidden": false
     },
     {
+      "medalId": "medal_story_saga_1",
+      "medalName": "'Emptiness, Completeness'",
+      "medalType": "storyMedal",
+      "slotId": 325,
+      "preMedalIdList": [
+
+      ],
+      "rarity": "T1",
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_362_saga",
+        "story_saga_set_1"
+      ],
+      "getMethod": "Unlock Saga's Operator Record 'Perhaps Not Empty'",
+      "description": "Climb beyond the three realms, and you are still in these same mountains.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1765454400,
+      "expireTimes": [
+
+      ],
+      "medalRewardGroup": [
+
+      ],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_story_ray_1",
+      "medalName": "'Fins on the Night Desert'",
+      "medalType": "storyMedal",
+      "slotId": 326,
+      "preMedalIdList": [
+
+      ],
+      "rarity": "T1",
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_4117_ray",
+        "story_ray_set_1"
+      ],
+      "getMethod": "Unlock Ray's Operator Record 'Fins on the Night Desert'",
+      "description": "Ray starts running. She catches up to the sandbeasts, like a wayward fin returning to its school.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1765454400,
+      "expireTimes": [
+
+      ],
+      "medalRewardGroup": [
+
+      ],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_story_reckpr_1",
+      "medalName": "'Need Not the Sword'",
+      "medalType": "storyMedal",
+      "slotId": 327,
+      "preMedalIdList": [
+
+      ],
+      "rarity": "T1",
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_4196_reckpr",
+        "story_reckpr_set_1"
+      ],
+      "getMethod": "Unlock Record Keeper's Operator Record 'Need Not the Sword'",
+      "description": "Water flows over stone, the wind blows over through the hills—what has ever truly blocked their path?",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1765454400,
+      "expireTimes": [
+
+      ],
+      "medalRewardGroup": [
+
+      ],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_story_tinman_1",
+      "medalName": "'Last Case'",
+      "medalType": "storyMedal",
+      "slotId": 328,
+      "preMedalIdList": [
+
+      ],
+      "rarity": "T1",
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_4151_tinman",
+        "story_tinman_set_1"
+      ],
+      "getMethod": "Unlock Tin Man's Operator Record 'Last Proposal'",
+      "description": "Only tomorrow is forever, for tomorrow always comes.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1765454400,
+      "expireTimes": [
+
+      ],
+      "medalRewardGroup": [
+
+      ],
+      "isHidden": false
+    },
+    {
       "medalId": "medal_sandbox_1_01",
       "medalName": "'Shadow of Arsalan'",
       "medalType": "rogueMedal",
@@ -16524,7 +16632,7 @@
       "medalId": "medal_activity_5bossrush_01",
       "medalName": "Closure Mini-Medal ε",
       "medalType": "activityMedal",
-      "slotId": 1,
+      "slotId": 28,
       "preMedalIdList": [
 
       ],
@@ -16555,7 +16663,7 @@
       "medalId": "medal_activity_5bossrush_02",
       "medalName": "Spectacular Trial Medal ε",
       "medalType": "activityMedal",
-      "slotId": 2,
+      "slotId": 29,
       "preMedalIdList": [
 
       ],
@@ -16587,7 +16695,7 @@
       "medalId": "medal_activity_43side_01",
       "medalName": "'Act or Die'",
       "medalType": "activityMedal",
-      "slotId": 3,
+      "slotId": 30,
       "preMedalIdList": [
         "medal_activity_43side_02",
         "medal_activity_43side_03",
@@ -16625,7 +16733,7 @@
       "medalId": "medal_activity_43side_02",
       "medalName": "'The Lady's Permission'",
       "medalType": "activityMedal",
-      "slotId": 4,
+      "slotId": 31,
       "preMedalIdList": [
 
       ],
@@ -16656,7 +16764,7 @@
       "medalId": "medal_activity_43side_03",
       "medalName": "Shadow Hide-and-Seek Medal",
       "medalType": "activityMedal",
-      "slotId": 5,
+      "slotId": 32,
       "preMedalIdList": [
 
       ],
@@ -16688,7 +16796,7 @@
       "medalId": "medal_activity_43side_04",
       "medalName": "'A Play Without End'",
       "medalType": "activityMedal",
-      "slotId": 6,
+      "slotId": 33,
       "preMedalIdList": [
 
       ],
@@ -16720,7 +16828,7 @@
       "medalId": "medal_activity_43side_05",
       "medalName": "Ensemble Coordinator Medal",
       "medalType": "activityMedal",
-      "slotId": 7,
+      "slotId": 34,
       "preMedalIdList": [
 
       ],
@@ -16751,7 +16859,7 @@
       "medalId": "medal_activity_43side_06",
       "medalName": "Stage Director Medal",
       "medalType": "activityMedal",
-      "slotId": 8,
+      "slotId": 35,
       "preMedalIdList": [
 
       ],
@@ -16783,7 +16891,7 @@
       "medalId": "medal_activity_43side_07",
       "medalName": "Dusty Memories Medal",
       "medalType": "activityMedal",
-      "slotId": 9,
+      "slotId": 36,
       "preMedalIdList": [
 
       ],
@@ -16816,7 +16924,7 @@
       "medalId": "medal_activity_43side_08",
       "medalName": "Hundred-Faced Performer Medal",
       "medalType": "activityMedal",
-      "slotId": 10,
+      "slotId": 37,
       "preMedalIdList": [
 
       ],
@@ -16848,7 +16956,7 @@
       "medalId": "medal_activity_43side_09",
       "medalName": "'Murder in a Film Studio'",
       "medalType": "activityMedal",
-      "slotId": 11,
+      "slotId": 38,
       "preMedalIdList": [
 
       ],
@@ -16881,7 +16989,7 @@
       "medalId": "medal_activity_43side_10",
       "medalName": "'Starring'",
       "medalType": "activityMedal",
-      "slotId": 12,
+      "slotId": 39,
       "preMedalIdList": [
 
       ],
@@ -16914,7 +17022,7 @@
       "medalId": "medal_activity_act1break_01",
       "medalName": "Inorganic Matters: Medal of Excellence",
       "medalType": "activityMedal",
-      "slotId": 13,
+      "slotId": 40,
       "preMedalIdList": [
         "medal_activity_act1break_02",
         "medal_activity_act1break_03",
@@ -16952,7 +17060,7 @@
       "medalId": "medal_activity_act1break_02",
       "medalName": "Inorganic Matters: Medal of Triumph",
       "medalType": "activityMedal",
-      "slotId": 14,
+      "slotId": 41,
       "preMedalIdList": [
 
       ],
@@ -16984,7 +17092,7 @@
       "medalId": "medal_activity_act1break_03",
       "medalName": "Inorganic Matters: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 15,
+      "slotId": 42,
       "preMedalIdList": [
 
       ],
@@ -17016,7 +17124,7 @@
       "medalId": "medal_activity_act1break_04",
       "medalName": "Inorganic Matters: Fortification Medal",
       "medalType": "activityMedal",
-      "slotId": 16,
+      "slotId": 43,
       "preMedalIdList": [
 
       ],
@@ -17048,7 +17156,7 @@
       "medalId": "medal_activity_act1break_05",
       "medalName": "Inorganic Matters: Strategist Medal",
       "medalType": "activityMedal",
-      "slotId": 17,
+      "slotId": 44,
       "preMedalIdList": [
 
       ],
@@ -17080,7 +17188,7 @@
       "medalId": "medal_activity_act1break_06",
       "medalName": "Inorganic Matters: Breacher Medal",
       "medalType": "activityMedal",
-      "slotId": 18,
+      "slotId": 45,
       "preMedalIdList": [
 
       ],
@@ -17112,7 +17220,7 @@
       "medalId": "medal_activity_act1break_07",
       "medalName": "Inorganic Matters: Breakthrough Medal",
       "medalType": "activityMedal",
-      "slotId": 19,
+      "slotId": 46,
       "preMedalIdList": [
 
       ],
@@ -17145,7 +17253,7 @@
       "medalId": "medal_activity_act1break_08",
       "medalName": "Inorganic Matters: Plunderer Medal",
       "medalType": "activityMedal",
-      "slotId": 20,
+      "slotId": 47,
       "preMedalIdList": [
 
       ],
@@ -17177,7 +17285,7 @@
       "medalId": "medal_activity_act1break_09",
       "medalName": "Inorganic Matters: Decorator Medal",
       "medalType": "activityMedal",
-      "slotId": 21,
+      "slotId": 48,
       "preMedalIdList": [
 
       ],
@@ -17209,7 +17317,7 @@
       "medalId": "medal_activity_act1break_10",
       "medalName": "Inorganic Matters: Sharpshooter Medal",
       "medalType": "activityMedal",
-      "slotId": 22,
+      "slotId": 49,
       "preMedalIdList": [
 
       ],
@@ -17242,7 +17350,7 @@
       "medalId": "medal_activity_42side_01",
       "medalName": "'The Masses' Travels'",
       "medalType": "activityMedal",
-      "slotId": 23,
+      "slotId": 50,
       "preMedalIdList": [
         "medal_activity_42side_02",
         "medal_activity_42side_03",
@@ -17280,7 +17388,7 @@
       "medalId": "medal_activity_42side_02",
       "medalName": "'Fiammetta's Revenge'",
       "medalType": "activityMedal",
-      "slotId": 24,
+      "slotId": 51,
       "preMedalIdList": [
 
       ],
@@ -17311,7 +17419,7 @@
       "medalId": "medal_activity_42side_03",
       "medalName": "Navigator of Pacifiers Medal",
       "medalType": "activityMedal",
-      "slotId": 25,
+      "slotId": 52,
       "preMedalIdList": [
 
       ],
@@ -17343,7 +17451,7 @@
       "medalId": "medal_activity_42side_04",
       "medalName": "'Lateran Newborn'",
       "medalType": "activityMedal",
-      "slotId": 26,
+      "slotId": 53,
       "preMedalIdList": [
 
       ],
@@ -17375,7 +17483,7 @@
       "medalId": "medal_activity_42side_05",
       "medalName": "Exemplary Babysitter's Medal",
       "medalType": "activityMedal",
-      "slotId": 27,
+      "slotId": 54,
       "preMedalIdList": [
 
       ],
@@ -17406,7 +17514,7 @@
       "medalId": "medal_activity_42side_06",
       "medalName": "Exemplary Waker-Upper's Medal",
       "medalType": "activityMedal",
-      "slotId": 28,
+      "slotId": 55,
       "preMedalIdList": [
 
       ],
@@ -17438,7 +17546,7 @@
       "medalId": "medal_activity_42side_07",
       "medalName": "Contest for the Cradle Medal",
       "medalType": "activityMedal",
-      "slotId": 29,
+      "slotId": 56,
       "preMedalIdList": [
 
       ],
@@ -17471,7 +17579,7 @@
       "medalId": "medal_activity_42side_08",
       "medalName": "The Pilgrimage's Medal",
       "medalType": "activityMedal",
-      "slotId": 30,
+      "slotId": 57,
       "preMedalIdList": [
 
       ],
@@ -17503,7 +17611,7 @@
       "medalId": "medal_activity_42side_09",
       "medalName": "'Old Friend'",
       "medalType": "activityMedal",
-      "slotId": 31,
+      "slotId": 58,
       "preMedalIdList": [
 
       ],
@@ -17535,7 +17643,7 @@
       "medalId": "medal_activity_42side_10",
       "medalName": "'Specially-Appointed Firearms Consultant'",
       "medalType": "activityMedal",
-      "slotId": 32,
+      "slotId": 59,
       "preMedalIdList": [
 
       ],
@@ -17566,7 +17674,7 @@
       "medalId": "medal_activity_act1enemyduel_01",
       "medalName": "Generosity Duel Medal",
       "medalType": "activityMedal",
-      "slotId": 33,
+      "slotId": 60,
       "preMedalIdList": [
 
       ],
@@ -17598,7 +17706,7 @@
       "medalId": "medal_activity_act1enemyduel_02",
       "medalName": "Discerning Duel Medal",
       "medalType": "activityMedal",
-      "slotId": 34,
+      "slotId": 61,
       "preMedalIdList": [
 
       ],
@@ -17630,7 +17738,7 @@
       "medalId": "medal_activity_act1multi_01",
       "medalName": "Icebreaker Vanguard Medal",
       "medalType": "activityMedal",
-      "slotId": 35,
+      "slotId": 62,
       "preMedalIdList": [
         "medal_activity_act1multi_02",
         "medal_activity_act1multi_03",
@@ -17668,7 +17776,7 @@
       "medalId": "medal_activity_act1multi_02",
       "medalName": "Icebreaker All-Rounder Medal I",
       "medalType": "activityMedal",
-      "slotId": 36,
+      "slotId": 63,
       "preMedalIdList": [
 
       ],
@@ -17700,7 +17808,7 @@
       "medalId": "medal_activity_act1multi_03",
       "medalName": "Icebreaker Rookie Medal I",
       "medalType": "activityMedal",
-      "slotId": 37,
+      "slotId": 64,
       "preMedalIdList": [
 
       ],
@@ -17733,7 +17841,7 @@
       "medalId": "medal_activity_act1multi_04",
       "medalName": "Icebreaker Adept Medal I",
       "medalType": "activityMedal",
-      "slotId": 38,
+      "slotId": 65,
       "preMedalIdList": [
 
       ],
@@ -17766,7 +17874,7 @@
       "medalId": "medal_activity_act1multi_05",
       "medalName": "Icebreaker Expert Medal I",
       "medalType": "activityMedal",
-      "slotId": 39,
+      "slotId": 66,
       "preMedalIdList": [
 
       ],
@@ -17799,7 +17907,7 @@
       "medalId": "medal_activity_act1multi_06",
       "medalName": "Icebreaker Defense Medal I",
       "medalType": "activityMedal",
-      "slotId": 40,
+      "slotId": 67,
       "preMedalIdList": [
 
       ],
@@ -17831,7 +17939,7 @@
       "medalId": "medal_activity_act1multi_07",
       "medalName": "Icebreaker Golden Ball Medal I",
       "medalType": "activityMedal",
-      "slotId": 41,
+      "slotId": 68,
       "preMedalIdList": [
 
       ],
@@ -17863,7 +17971,7 @@
       "medalId": "medal_activity_act1multi_08",
       "medalName": "Icebreaker Commemorative Medal I",
       "medalType": "activityMedal",
-      "slotId": 42,
+      "slotId": 69,
       "preMedalIdList": [
 
       ],
@@ -17894,7 +18002,7 @@
       "medalId": "medal_activity_act1multi_09",
       "medalName": "Icebreaker Fame Medal I",
       "medalType": "activityMedal",
-      "slotId": 43,
+      "slotId": 70,
       "preMedalIdList": [
 
       ],
@@ -17925,7 +18033,7 @@
       "medalId": "medal_activity_act1multi_10",
       "medalName": "Icebreaker Style Medal I",
       "medalType": "activityMedal",
-      "slotId": 44,
+      "slotId": 71,
       "preMedalIdList": [
 
       ],
@@ -17957,7 +18065,7 @@
       "medalId": "medal_activity_41side_01",
       "medalName": "'Red Dragon's Wake'",
       "medalType": "activityMedal",
-      "slotId": 45,
+      "slotId": 72,
       "preMedalIdList": [
         "medal_activity_41side_02",
         "medal_activity_41side_03",
@@ -17995,7 +18103,7 @@
       "medalId": "medal_activity_41side_02",
       "medalName": "'Through Generations'",
       "medalType": "activityMedal",
-      "slotId": 46,
+      "slotId": 73,
       "preMedalIdList": [
 
       ],
@@ -18026,7 +18134,7 @@
       "medalId": "medal_activity_41side_03",
       "medalName": "Never Forgotten Medal",
       "medalType": "activityMedal",
-      "slotId": 47,
+      "slotId": 74,
       "preMedalIdList": [
 
       ],
@@ -18058,7 +18166,7 @@
       "medalId": "medal_activity_41side_04",
       "medalName": "'Journal of an Aphasic'",
       "medalType": "activityMedal",
-      "slotId": 48,
+      "slotId": 75,
       "preMedalIdList": [
 
       ],
@@ -18090,7 +18198,7 @@
       "medalId": "medal_activity_41side_05",
       "medalName": "Fog Illuminator Medal",
       "medalType": "activityMedal",
-      "slotId": 49,
+      "slotId": 76,
       "preMedalIdList": [
 
       ],
@@ -18121,7 +18229,7 @@
       "medalId": "medal_activity_41side_06",
       "medalName": "Dark Woods Gardener Medal",
       "medalType": "activityMedal",
-      "slotId": 50,
+      "slotId": 77,
       "preMedalIdList": [
 
       ],
@@ -18153,7 +18261,7 @@
       "medalId": "medal_activity_41side_07",
       "medalName": "Seasoned Traveler Medal",
       "medalType": "activityMedal",
-      "slotId": 51,
+      "slotId": 78,
       "preMedalIdList": [
 
       ],
@@ -18185,7 +18293,7 @@
       "medalId": "medal_activity_41side_08",
       "medalName": "Burnt to Ashes Medal",
       "medalType": "activityMedal",
-      "slotId": 52,
+      "slotId": 79,
       "preMedalIdList": [
 
       ],
@@ -18217,7 +18325,7 @@
       "medalId": "medal_activity_41side_09",
       "medalName": "Clear Vision Medal",
       "medalType": "activityMedal",
-      "slotId": 53,
+      "slotId": 80,
       "preMedalIdList": [
 
       ],
@@ -18250,7 +18358,7 @@
       "medalId": "medal_activity_41side_10",
       "medalName": "'Part With the Fire'",
       "medalType": "activityMedal",
-      "slotId": 54,
+      "slotId": 81,
       "preMedalIdList": [
 
       ],
@@ -18283,7 +18391,7 @@
       "medalId": "medal_activity_3crisisv2_01",
       "medalName": "Extinguished Sins: Sinless Medal",
       "medalType": "activityMedal",
-      "slotId": 55,
+      "slotId": 82,
       "preMedalIdList": [
         "medal_activity_3crisisv2_02",
         "medal_activity_3crisisv2_03",
@@ -18321,7 +18429,7 @@
       "medalId": "medal_activity_3crisisv2_02",
       "medalName": "Extinguished Sins: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 56,
+      "slotId": 83,
       "preMedalIdList": [
 
       ],
@@ -18354,7 +18462,7 @@
       "medalId": "medal_activity_3crisisv2_03",
       "medalName": "Extinguished Sins: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 57,
+      "slotId": 84,
       "preMedalIdList": [
 
       ],
@@ -18387,7 +18495,7 @@
       "medalId": "medal_activity_3crisisv2_04",
       "medalName": "Extinguished Sins: Verification Medal",
       "medalType": "activityMedal",
-      "slotId": 58,
+      "slotId": 85,
       "preMedalIdList": [
 
       ],
@@ -18419,7 +18527,7 @@
       "medalId": "medal_activity_3crisisv2_05",
       "medalName": "Extinguished Sins: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 59,
+      "slotId": 86,
       "preMedalIdList": [
 
       ],
@@ -18451,7 +18559,7 @@
       "medalId": "medal_activity_3crisisv2_06",
       "medalName": "Extinguished Sins: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 60,
+      "slotId": 87,
       "preMedalIdList": [
 
       ],
@@ -18483,7 +18591,7 @@
       "medalId": "medal_activity_3crisisv2_07",
       "medalName": "Extinguished Sins: Trailblazer Medal II",
       "medalType": "activityMedal",
-      "slotId": 61,
+      "slotId": 88,
       "preMedalIdList": [
 
       ],
@@ -18515,7 +18623,7 @@
       "medalId": "medal_activity_3crisisv2_08",
       "medalName": "Extinguished Sins: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 62,
+      "slotId": 89,
       "preMedalIdList": [
 
       ],
@@ -18547,7 +18655,7 @@
       "medalId": "medal_activity_3crisisv2_09",
       "medalName": "Extinguished Sins: Breakthrough Medal",
       "medalType": "activityMedal",
-      "slotId": 63,
+      "slotId": 90,
       "preMedalIdList": [
 
       ],
@@ -18580,7 +18688,7 @@
       "medalId": "medal_activity_3crisisv2_10",
       "medalName": "Extinguished Sins: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 64,
+      "slotId": 91,
       "preMedalIdList": [
 
       ],
@@ -18611,7 +18719,7 @@
       "medalId": "medal_activity_40side_01",
       "medalName": "'Reunion'",
       "medalType": "activityMedal",
-      "slotId": 65,
+      "slotId": 92,
       "preMedalIdList": [
         "medal_activity_40side_02",
         "medal_activity_40side_03",
@@ -18649,7 +18757,7 @@
       "medalId": "medal_activity_40side_02",
       "medalName": "'Historian'",
       "medalType": "activityMedal",
-      "slotId": 66,
+      "slotId": 93,
       "preMedalIdList": [
 
       ],
@@ -18680,7 +18788,7 @@
       "medalId": "medal_activity_40side_03",
       "medalName": "Conversationalist Medal",
       "medalType": "activityMedal",
-      "slotId": 67,
+      "slotId": 94,
       "preMedalIdList": [
 
       ],
@@ -18712,7 +18820,7 @@
       "medalId": "medal_activity_40side_04",
       "medalName": "Elegant Gourmet Medal",
       "medalType": "activityMedal",
-      "slotId": 68,
+      "slotId": 95,
       "preMedalIdList": [
 
       ],
@@ -18744,7 +18852,7 @@
       "medalId": "medal_activity_40side_05",
       "medalName": "Food Explorer Medal",
       "medalType": "activityMedal",
-      "slotId": 69,
+      "slotId": 96,
       "preMedalIdList": [
 
       ],
@@ -18775,7 +18883,7 @@
       "medalId": "medal_activity_40side_06",
       "medalName": "Food Guardian Medal",
       "medalType": "activityMedal",
-      "slotId": 70,
+      "slotId": 97,
       "preMedalIdList": [
 
       ],
@@ -18809,7 +18917,7 @@
       "medalId": "medal_activity_40side_07",
       "medalName": "Liver of Steel Medal",
       "medalType": "activityMedal",
-      "slotId": 71,
+      "slotId": 98,
       "preMedalIdList": [
 
       ],
@@ -18843,7 +18951,7 @@
       "medalId": "medal_activity_40side_08",
       "medalName": "Baizao Sightseeing Medal",
       "medalType": "activityMedal",
-      "slotId": 72,
+      "slotId": 99,
       "preMedalIdList": [
 
       ],
@@ -18875,7 +18983,7 @@
       "medalId": "medal_activity_40side_09",
       "medalName": "'A Tune of Goodbye'",
       "medalType": "activityMedal",
-      "slotId": 73,
+      "slotId": 100,
       "preMedalIdList": [
 
       ],
@@ -18907,7 +19015,7 @@
       "medalId": "medal_activity_40side_10",
       "medalName": "Worldly Tastes Medal",
       "medalType": "activityMedal",
-      "slotId": 74,
+      "slotId": 101,
       "preMedalIdList": [
 
       ],
@@ -18939,7 +19047,7 @@
       "medalId": "medal_activity_1arcade_01",
       "medalName": "Vision of Leisure Medal",
       "medalType": "activityMedal",
-      "slotId": 75,
+      "slotId": 102,
       "preMedalIdList": [
 
       ],
@@ -18971,7 +19079,7 @@
       "medalId": "medal_activity_1arcade_02",
       "medalName": "Hall of Fun Medal",
       "medalType": "activityMedal",
-      "slotId": 76,
+      "slotId": 103,
       "preMedalIdList": [
 
       ],
@@ -19001,7 +19109,7 @@
       "medalId": "medal_activity_39side_01",
       "medalName": "'A True Pirate'",
       "medalType": "activityMedal",
-      "slotId": 77,
+      "slotId": 104,
       "preMedalIdList": [
         "medal_activity_39side_02",
         "medal_activity_39side_03",
@@ -19039,7 +19147,7 @@
       "medalId": "medal_activity_39side_02",
       "medalName": "'The Pascuala Empire'",
       "medalType": "activityMedal",
-      "slotId": 78,
+      "slotId": 105,
       "preMedalIdList": [
 
       ],
@@ -19070,7 +19178,7 @@
       "medalId": "medal_activity_39side_03",
       "medalName": "Overuse of Salt Medal",
       "medalType": "activityMedal",
-      "slotId": 79,
+      "slotId": 106,
       "preMedalIdList": [
 
       ],
@@ -19102,7 +19210,7 @@
       "medalId": "medal_activity_39side_04",
       "medalName": "'Hello, Ocean'",
       "medalType": "activityMedal",
-      "slotId": 80,
+      "slotId": 107,
       "preMedalIdList": [
 
       ],
@@ -19134,7 +19242,7 @@
       "medalId": "medal_activity_39side_05",
       "medalName": "'Living Compass'",
       "medalType": "activityMedal",
-      "slotId": 81,
+      "slotId": 108,
       "preMedalIdList": [
 
       ],
@@ -19165,7 +19273,7 @@
       "medalId": "medal_activity_39side_06",
       "medalName": "Asking for Directions Medal",
       "medalType": "activityMedal",
-      "slotId": 82,
+      "slotId": 109,
       "preMedalIdList": [
 
       ],
@@ -19199,7 +19307,7 @@
       "medalId": "medal_activity_39side_07",
       "medalName": "Mastwalker Medal",
       "medalType": "activityMedal",
-      "slotId": 83,
+      "slotId": 110,
       "preMedalIdList": [
 
       ],
@@ -19233,7 +19341,7 @@
       "medalId": "medal_activity_39side_08",
       "medalName": "Still Upright After 50 Drinks Medal",
       "medalType": "activityMedal",
-      "slotId": 84,
+      "slotId": 111,
       "preMedalIdList": [
 
       ],
@@ -19266,7 +19374,7 @@
       "medalId": "medal_activity_39side_09",
       "medalName": "The Salt Flat Conqueror Medal",
       "medalType": "activityMedal",
-      "slotId": 85,
+      "slotId": 112,
       "preMedalIdList": [
 
       ],
@@ -19298,7 +19406,7 @@
       "medalId": "medal_activity_39side_10",
       "medalName": "'Get Back in There!'",
       "medalType": "activityMedal",
-      "slotId": 86,
+      "slotId": 113,
       "preMedalIdList": [
 
       ],
@@ -19331,7 +19439,7 @@
       "medalId": "medal_activity_1vautochess_01",
       "medalName": "Stronghold Service Medal",
       "medalType": "activityMedal",
-      "slotId": 87,
+      "slotId": 114,
       "preMedalIdList": [
 
       ],
@@ -19362,7 +19470,7 @@
       "medalId": "medal_activity_1vautochess_02",
       "medalName": "Stronghold Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 88,
+      "slotId": 115,
       "preMedalIdList": [
 
       ],
@@ -19394,7 +19502,7 @@
       "medalId": "medal_activity_1vautochess_03",
       "medalName": "Stronghold Graphic Medal",
       "medalType": "activityMedal",
-      "slotId": 89,
+      "slotId": 116,
       "preMedalIdList": [
 
       ],
@@ -19426,7 +19534,7 @@
       "medalId": "medal_activity_1vautochess_04",
       "medalName": "Stronghold Elite Medal",
       "medalType": "activityMedal",
-      "slotId": 90,
+      "slotId": 117,
       "preMedalIdList": [
 
       ],
@@ -19457,7 +19565,7 @@
       "medalId": "medal_activity_1vautochess_05",
       "medalName": "Stronghold Center Medal",
       "medalType": "activityMedal",
-      "slotId": 91,
+      "slotId": 118,
       "preMedalIdList": [
 
       ],
@@ -19489,7 +19597,7 @@
       "medalId": "medal_activity_38side_01",
       "medalName": "'Malicious Carnevale'",
       "medalType": "activityMedal",
-      "slotId": 92,
+      "slotId": 119,
       "preMedalIdList": [
         "medal_activity_38side_02",
         "medal_activity_38side_03",
@@ -19527,7 +19635,7 @@
       "medalId": "medal_activity_38side_02",
       "medalName": "'Tyrant's Disaster'",
       "medalType": "activityMedal",
-      "slotId": 93,
+      "slotId": 120,
       "preMedalIdList": [
 
       ],
@@ -19558,7 +19666,7 @@
       "medalId": "medal_activity_38side_03",
       "medalName": "Marketplace Tycoon Medal",
       "medalType": "activityMedal",
-      "slotId": 94,
+      "slotId": 121,
       "preMedalIdList": [
 
       ],
@@ -19590,7 +19698,7 @@
       "medalId": "medal_activity_38side_04",
       "medalName": "End of Show Appreciation Medal",
       "medalType": "activityMedal",
-      "slotId": 95,
+      "slotId": 122,
       "preMedalIdList": [
 
       ],
@@ -19622,7 +19730,7 @@
       "medalId": "medal_activity_38side_05",
       "medalName": "Il Signore del Carnevale Medal",
       "medalType": "activityMedal",
-      "slotId": 96,
+      "slotId": 123,
       "preMedalIdList": [
 
       ],
@@ -19653,7 +19761,7 @@
       "medalId": "medal_activity_38side_06",
       "medalName": "'Carnevale Ignited'",
       "medalType": "activityMedal",
-      "slotId": 97,
+      "slotId": 124,
       "preMedalIdList": [
 
       ],
@@ -19687,7 +19795,7 @@
       "medalId": "medal_activity_38side_07",
       "medalName": "'Balloon Assassin'",
       "medalType": "activityMedal",
-      "slotId": 98,
+      "slotId": 125,
       "preMedalIdList": [
 
       ],
@@ -19720,7 +19828,7 @@
       "medalId": "medal_activity_38side_08",
       "medalName": "Parade Master Medal",
       "medalType": "activityMedal",
-      "slotId": 99,
+      "slotId": 126,
       "preMedalIdList": [
 
       ],
@@ -19752,7 +19860,7 @@
       "medalId": "medal_activity_38side_09",
       "medalName": "Dances with Wolves Medal",
       "medalType": "activityMedal",
-      "slotId": 100,
+      "slotId": 127,
       "preMedalIdList": [
 
       ],
@@ -19784,7 +19892,7 @@
       "medalId": "medal_activity_38side_10",
       "medalName": "'Specially Recruited Pyrotechnician'",
       "medalType": "activityMedal",
-      "slotId": 101,
+      "slotId": 128,
       "preMedalIdList": [
 
       ],
@@ -19975,7 +20083,7 @@
       "medalId": "medal_activity_37side_01",
       "medalName": "'Victorian Afterglow'",
       "medalType": "activityMedal",
-      "slotId": 107,
+      "slotId": 134,
       "preMedalIdList": [
         "medal_activity_37side_02",
         "medal_activity_37side_03",
@@ -20013,7 +20121,7 @@
       "medalId": "medal_activity_37side_02",
       "medalName": "'Workers' Spokesperson'",
       "medalType": "activityMedal",
-      "slotId": 108,
+      "slotId": 135,
       "preMedalIdList": [
 
       ],
@@ -20044,7 +20152,7 @@
       "medalId": "medal_activity_37side_03",
       "medalName": "Parliamentary Record Medal",
       "medalType": "activityMedal",
-      "slotId": 109,
+      "slotId": 136,
       "preMedalIdList": [
 
       ],
@@ -20076,7 +20184,7 @@
       "medalId": "medal_activity_37side_04",
       "medalName": "'To Old Friends'",
       "medalType": "activityMedal",
-      "slotId": 110,
+      "slotId": 137,
       "preMedalIdList": [
 
       ],
@@ -20108,7 +20216,7 @@
       "medalId": "medal_activity_37side_05",
       "medalName": "Parliamentary Affairs: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 111,
+      "slotId": 138,
       "preMedalIdList": [
 
       ],
@@ -20139,7 +20247,7 @@
       "medalId": "medal_activity_37side_06",
       "medalName": "Logistics Channel Reconstruction Medal",
       "medalType": "activityMedal",
-      "slotId": 112,
+      "slotId": 139,
       "preMedalIdList": [
 
       ],
@@ -20172,7 +20280,7 @@
       "medalId": "medal_activity_37side_07",
       "medalName": "Postwar Supply Support Medal",
       "medalType": "activityMedal",
-      "slotId": 113,
+      "slotId": 140,
       "preMedalIdList": [
 
       ],
@@ -20206,7 +20314,7 @@
       "medalId": "medal_activity_37side_08",
       "medalName": "'I'll Answer'",
       "medalType": "activityMedal",
-      "slotId": 114,
+      "slotId": 141,
       "preMedalIdList": [
 
       ],
@@ -20238,7 +20346,7 @@
       "medalId": "medal_activity_37side_09",
       "medalName": "'The Miracle Elected'",
       "medalType": "activityMedal",
-      "slotId": 115,
+      "slotId": 142,
       "preMedalIdList": [
 
       ],
@@ -20272,7 +20380,7 @@
       "medalId": "medal_activity_37side_10",
       "medalName": "Ruins Cleanup Medal",
       "medalType": "activityMedal",
-      "slotId": 116,
+      "slotId": 143,
       "preMedalIdList": [
 
       ],
@@ -20329,8 +20437,13 @@
       "expireTimes": [
         {
           "start": 1739444400,
-          "end": -1,
+          "end": 1767697199,
           "type": "TEMP"
+        },
+        {
+          "start": 1768906800,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [
@@ -20360,8 +20473,13 @@
       "expireTimes": [
         {
           "start": 1739444400,
-          "end": -1,
+          "end": 1767697199,
           "type": "TEMP"
+        },
+        {
+          "start": 1768906800,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [
@@ -20392,8 +20510,13 @@
       "expireTimes": [
         {
           "start": 1739444400,
-          "end": -1,
+          "end": 1767697199,
           "type": "TEMP"
+        },
+        {
+          "start": 1768906800,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [
@@ -20424,8 +20547,13 @@
       "expireTimes": [
         {
           "start": 1739444400,
-          "end": -1,
+          "end": 1767697199,
           "type": "TEMP"
+        },
+        {
+          "start": 1768906800,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [
@@ -20455,8 +20583,13 @@
       "expireTimes": [
         {
           "start": 1739444400,
-          "end": -1,
+          "end": 1767697199,
           "type": "TEMP"
+        },
+        {
+          "start": 1768906800,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [
@@ -20489,8 +20622,13 @@
       "expireTimes": [
         {
           "start": 1739444400,
-          "end": -1,
+          "end": 1767697199,
           "type": "TEMP"
+        },
+        {
+          "start": 1768906800,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [
@@ -20523,8 +20661,13 @@
       "expireTimes": [
         {
           "start": 1739444400,
-          "end": -1,
+          "end": 1767697199,
           "type": "TEMP"
+        },
+        {
+          "start": 1768906800,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [
@@ -20555,8 +20698,13 @@
       "expireTimes": [
         {
           "start": 1739444400,
-          "end": -1,
+          "end": 1767697199,
           "type": "TEMP"
+        },
+        {
+          "start": 1768906800,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [
@@ -20587,8 +20735,13 @@
       "expireTimes": [
         {
           "start": 1739444400,
-          "end": -1,
+          "end": 1767697199,
           "type": "TEMP"
+        },
+        {
+          "start": 1768906800,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [
@@ -20618,8 +20771,13 @@
       "expireTimes": [
         {
           "start": 1739444400,
-          "end": -1,
+          "end": 1767697199,
           "type": "TEMP"
+        },
+        {
+          "start": 1768906800,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [
@@ -21011,7 +21169,7 @@
       "medalId": "medal_activity_act2vmulti_01",
       "medalName": "Enthusiastic Participant Medal",
       "medalType": "activityMedal",
-      "slotId": 137,
+      "slotId": 164,
       "preMedalIdList": [
 
       ],
@@ -21043,7 +21201,7 @@
       "medalId": "medal_activity_act2vmulti_02",
       "medalName": "Robust Athlete Medal",
       "medalType": "activityMedal",
-      "slotId": 138,
+      "slotId": 165,
       "preMedalIdList": [
 
       ],
@@ -21076,7 +21234,7 @@
       "medalId": "medal_activity_act2vmulti_03",
       "medalName": "Master Athlete Medal",
       "medalType": "activityMedal",
-      "slotId": 139,
+      "slotId": 166,
       "preMedalIdList": [
 
       ],
@@ -21109,7 +21267,7 @@
       "medalId": "medal_activity_act2vmulti_04",
       "medalName": "Fervent Icebreaker Medal",
       "medalType": "activityMedal",
-      "slotId": 140,
+      "slotId": 167,
       "preMedalIdList": [
 
       ],
@@ -21140,7 +21298,7 @@
       "medalId": "medal_activity_act2vmulti_05",
       "medalName": "'Explosive Goal'",
       "medalType": "activityMedal",
-      "slotId": 141,
+      "slotId": 168,
       "preMedalIdList": [
 
       ],
@@ -21172,7 +21330,7 @@
       "medalId": "medal_activity_33side_01",
       "medalName": "'Successor'",
       "medalType": "activityMedal",
-      "slotId": 142,
+      "slotId": 169,
       "preMedalIdList": [
         "medal_activity_33side_02",
         "medal_activity_33side_03",
@@ -21210,7 +21368,7 @@
       "medalId": "medal_activity_33side_02",
       "medalName": "'Good Luck'",
       "medalType": "activityMedal",
-      "slotId": 143,
+      "slotId": 170,
       "preMedalIdList": [
 
       ],
@@ -21241,7 +21399,7 @@
       "medalId": "medal_activity_33side_03",
       "medalName": "Combat Resources Liquidation Medal",
       "medalType": "activityMedal",
-      "slotId": 144,
+      "slotId": 171,
       "preMedalIdList": [
 
       ],
@@ -21273,7 +21431,7 @@
       "medalId": "medal_activity_33side_04",
       "medalName": "'Rage and Sorrow'",
       "medalType": "activityMedal",
-      "slotId": 145,
+      "slotId": 172,
       "preMedalIdList": [
 
       ],
@@ -21305,7 +21463,7 @@
       "medalId": "medal_activity_33side_05",
       "medalName": "'Reason and Desire'",
       "medalType": "activityMedal",
-      "slotId": 146,
+      "slotId": 173,
       "preMedalIdList": [
 
       ],
@@ -21336,7 +21494,7 @@
       "medalId": "medal_activity_33side_06",
       "medalName": "'Salvation and Destruction'",
       "medalType": "activityMedal",
-      "slotId": 147,
+      "slotId": 174,
       "preMedalIdList": [
 
       ],
@@ -21370,7 +21528,7 @@
       "medalId": "medal_activity_33side_07",
       "medalName": "'Imprisonment and Freedom'",
       "medalType": "activityMedal",
-      "slotId": 148,
+      "slotId": 175,
       "preMedalIdList": [
 
       ],
@@ -21403,7 +21561,7 @@
       "medalId": "medal_activity_33side_08",
       "medalName": "Babel Elite Guardian Medal",
       "medalType": "activityMedal",
-      "slotId": 149,
+      "slotId": 176,
       "preMedalIdList": [
 
       ],
@@ -21435,7 +21593,7 @@
       "medalId": "medal_activity_33side_09",
       "medalName": "Babel Hero Medal",
       "medalType": "activityMedal",
-      "slotId": 150,
+      "slotId": 177,
       "preMedalIdList": [
 
       ],
@@ -21467,7 +21625,7 @@
       "medalId": "medal_activity_33side_10",
       "medalName": "'Name of the Evil Spirit'",
       "medalType": "activityMedal",
-      "slotId": 151,
+      "slotId": 178,
       "preMedalIdList": [
 
       ],
@@ -21500,7 +21658,7 @@
       "medalId": "medal_activity_2crisisv2_01",
       "medalName": "Underdawn: Brilliance Medal",
       "medalType": "activityMedal",
-      "slotId": 152,
+      "slotId": 179,
       "preMedalIdList": [
         "medal_activity_2crisisv2_02",
         "medal_activity_2crisisv2_03",
@@ -21538,7 +21696,7 @@
       "medalId": "medal_activity_2crisisv2_02",
       "medalName": "Underdawn: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 153,
+      "slotId": 180,
       "preMedalIdList": [
 
       ],
@@ -21571,7 +21729,7 @@
       "medalId": "medal_activity_2crisisv2_03",
       "medalName": "Underdawn: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 154,
+      "slotId": 181,
       "preMedalIdList": [
 
       ],
@@ -21604,7 +21762,7 @@
       "medalId": "medal_activity_2crisisv2_04",
       "medalName": "Underdawn: Verification Medal",
       "medalType": "activityMedal",
-      "slotId": 155,
+      "slotId": 182,
       "preMedalIdList": [
 
       ],
@@ -21636,7 +21794,7 @@
       "medalId": "medal_activity_2crisisv2_05",
       "medalName": "Underdawn: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 156,
+      "slotId": 183,
       "preMedalIdList": [
 
       ],
@@ -21668,7 +21826,7 @@
       "medalId": "medal_activity_2crisisv2_06",
       "medalName": "Underdawn: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 157,
+      "slotId": 184,
       "preMedalIdList": [
 
       ],
@@ -21700,7 +21858,7 @@
       "medalId": "medal_activity_2crisisv2_07",
       "medalName": "Underdawn: Trailblazer Medal II",
       "medalType": "activityMedal",
-      "slotId": 158,
+      "slotId": 185,
       "preMedalIdList": [
 
       ],
@@ -21732,7 +21890,7 @@
       "medalId": "medal_activity_2crisisv2_08",
       "medalName": "Underdawn: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 159,
+      "slotId": 186,
       "preMedalIdList": [
 
       ],
@@ -21764,7 +21922,7 @@
       "medalId": "medal_activity_2crisisv2_09",
       "medalName": "Underdawn: Breakthrough Medal",
       "medalType": "activityMedal",
-      "slotId": 160,
+      "slotId": 187,
       "preMedalIdList": [
 
       ],
@@ -21797,7 +21955,7 @@
       "medalId": "medal_activity_2crisisv2_10",
       "medalName": "Underdawn: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 161,
+      "slotId": 188,
       "preMedalIdList": [
 
       ],
@@ -21828,7 +21986,7 @@
       "medalId": "medal_activity_4bossrush_01",
       "medalName": "Closure Mini-Medal δ",
       "medalType": "activityMedal",
-      "slotId": 162,
+      "slotId": 189,
       "preMedalIdList": [
 
       ],
@@ -21859,7 +22017,7 @@
       "medalId": "medal_activity_4bossrush_02",
       "medalName": "Spectacular Trial Medal·δ",
       "medalType": "activityMedal",
-      "slotId": 163,
+      "slotId": 190,
       "preMedalIdList": [
 
       ],
@@ -21891,7 +22049,7 @@
       "medalId": "medal_activity_31side_01",
       "medalName": "'Reap the Consequences'",
       "medalType": "activityMedal",
-      "slotId": 164,
+      "slotId": 191,
       "preMedalIdList": [
         "medal_activity_31side_02",
         "medal_activity_31side_03",
@@ -21934,7 +22092,7 @@
       "medalId": "medal_activity_31side_02",
       "medalName": "'Fertile Fields'",
       "medalType": "activityMedal",
-      "slotId": 165,
+      "slotId": 192,
       "preMedalIdList": [
 
       ],
@@ -21970,7 +22128,7 @@
       "medalId": "medal_activity_31side_03",
       "medalName": "'Welcomed Guest'",
       "medalType": "activityMedal",
-      "slotId": 166,
+      "slotId": 193,
       "preMedalIdList": [
 
       ],
@@ -22007,7 +22165,7 @@
       "medalId": "medal_activity_31side_04",
       "medalName": "Bumper Harvest Individual Medal",
       "medalType": "activityMedal",
-      "slotId": 167,
+      "slotId": 194,
       "preMedalIdList": [
 
       ],
@@ -22044,7 +22202,7 @@
       "medalId": "medal_activity_31side_05",
       "medalName": "Problem Solver Individual Medal",
       "medalType": "activityMedal",
-      "slotId": 168,
+      "slotId": 195,
       "preMedalIdList": [
 
       ],
@@ -22080,7 +22238,7 @@
       "medalId": "medal_activity_31side_06",
       "medalName": "Crop Defender Medal",
       "medalType": "activityMedal",
-      "slotId": 169,
+      "slotId": 196,
       "preMedalIdList": [
 
       ],
@@ -22118,7 +22276,7 @@
       "medalId": "medal_activity_31side_07",
       "medalName": "Blight-Be-Gone Individual Medal",
       "medalType": "activityMedal",
-      "slotId": 170,
+      "slotId": 197,
       "preMedalIdList": [
 
       ],
@@ -22157,7 +22315,7 @@
       "medalId": "medal_activity_31side_08",
       "medalName": "'Cut the Lotus'",
       "medalType": "activityMedal",
-      "slotId": 171,
+      "slotId": 198,
       "preMedalIdList": [
 
       ],
@@ -22194,7 +22352,7 @@
       "medalId": "medal_activity_31side_09",
       "medalName": "'Stew the Ribs'",
       "medalType": "activityMedal",
-      "slotId": 172,
+      "slotId": 199,
       "preMedalIdList": [
 
       ],
@@ -22231,7 +22389,7 @@
       "medalId": "medal_activity_31side_10",
       "medalName": "Borderland Pacification Production Medal",
       "medalType": "activityMedal",
-      "slotId": 173,
+      "slotId": 200,
       "preMedalIdList": [
 
       ],
@@ -22269,7 +22427,7 @@
       "medalId": "medal_activity_30side_01",
       "medalName": "'Platform to the Final Destination'",
       "medalType": "activityMedal",
-      "slotId": 174,
+      "slotId": 201,
       "preMedalIdList": [
         "medal_activity_30side_02",
         "medal_activity_30side_03",
@@ -22312,7 +22470,7 @@
       "medalId": "medal_activity_30side_02",
       "medalName": "'Esteemed Guest From Afar'",
       "medalType": "activityMedal",
-      "slotId": 175,
+      "slotId": 202,
       "preMedalIdList": [
 
       ],
@@ -22348,7 +22506,7 @@
       "medalId": "medal_activity_30side_03",
       "medalName": "Blind Box True Love Medal",
       "medalType": "activityMedal",
-      "slotId": 176,
+      "slotId": 203,
       "preMedalIdList": [
 
       ],
@@ -22385,7 +22543,7 @@
       "medalId": "medal_activity_30side_04",
       "medalName": "'May Peace Be Everlasting'",
       "medalType": "activityMedal",
-      "slotId": 177,
+      "slotId": 204,
       "preMedalIdList": [
 
       ],
@@ -22422,7 +22580,7 @@
       "medalId": "medal_activity_30side_05",
       "medalName": "Snowrealm Vacation Medal",
       "medalType": "activityMedal",
-      "slotId": 178,
+      "slotId": 205,
       "preMedalIdList": [
 
       ],
@@ -22458,7 +22616,7 @@
       "medalId": "medal_activity_30side_06",
       "medalName": "'Return of the Burdenshadow'",
       "medalType": "activityMedal",
-      "slotId": 179,
+      "slotId": 206,
       "preMedalIdList": [
 
       ],
@@ -22496,7 +22654,7 @@
       "medalId": "medal_activity_30side_07",
       "medalName": "'Firewatcher'",
       "medalType": "activityMedal",
-      "slotId": 180,
+      "slotId": 207,
       "preMedalIdList": [
 
       ],
@@ -22535,7 +22693,7 @@
       "medalId": "medal_activity_30side_08",
       "medalName": "Monument Protector Medal",
       "medalType": "activityMedal",
-      "slotId": 181,
+      "slotId": 208,
       "preMedalIdList": [
 
       ],
@@ -22572,7 +22730,7 @@
       "medalId": "medal_activity_30side_09",
       "medalName": "Coldproof Medal",
       "medalType": "activityMedal",
-      "slotId": 182,
+      "slotId": 209,
       "preMedalIdList": [
 
       ],
@@ -22610,7 +22768,7 @@
       "medalId": "medal_activity_30side_10",
       "medalName": "Perfect Offensive Medal",
       "medalType": "activityMedal",
-      "slotId": 183,
+      "slotId": 210,
       "preMedalIdList": [
 
       ],
@@ -22648,7 +22806,7 @@
       "medalId": "medal_activity_1crisisv2_01",
       "medalName": "Pyrolysis Cleansing Medal",
       "medalType": "activityMedal",
-      "slotId": 184,
+      "slotId": 211,
       "preMedalIdList": [
         "medal_activity_1crisisv2_02",
         "medal_activity_1crisisv2_03",
@@ -22686,7 +22844,7 @@
       "medalId": "medal_activity_1crisisv2_02",
       "medalName": "Pyrolysis: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 185,
+      "slotId": 212,
       "preMedalIdList": [
 
       ],
@@ -22719,7 +22877,7 @@
       "medalId": "medal_activity_1crisisv2_03",
       "medalName": "Pyrolysis: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 186,
+      "slotId": 213,
       "preMedalIdList": [
 
       ],
@@ -22752,7 +22910,7 @@
       "medalId": "medal_activity_1crisisv2_04",
       "medalName": "Pyrolysis: Verification Medal",
       "medalType": "activityMedal",
-      "slotId": 187,
+      "slotId": 214,
       "preMedalIdList": [
 
       ],
@@ -22784,7 +22942,7 @@
       "medalId": "medal_activity_1crisisv2_05",
       "medalName": "Pyrolysis: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 188,
+      "slotId": 215,
       "preMedalIdList": [
 
       ],
@@ -22816,7 +22974,7 @@
       "medalId": "medal_activity_1crisisv2_06",
       "medalName": "Pyrolysis: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 189,
+      "slotId": 216,
       "preMedalIdList": [
 
       ],
@@ -22848,7 +23006,7 @@
       "medalId": "medal_activity_1crisisv2_07",
       "medalName": "Pyrolysis: Trailblazer Medal II",
       "medalType": "activityMedal",
-      "slotId": 190,
+      "slotId": 217,
       "preMedalIdList": [
 
       ],
@@ -22880,7 +23038,7 @@
       "medalId": "medal_activity_1crisisv2_08",
       "medalName": "Pyrolysis: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 191,
+      "slotId": 218,
       "preMedalIdList": [
 
       ],
@@ -22912,7 +23070,7 @@
       "medalId": "medal_activity_1crisisv2_09",
       "medalName": "Pyrolysis: Breakthrough Medal",
       "medalType": "activityMedal",
-      "slotId": 192,
+      "slotId": 219,
       "preMedalIdList": [
 
       ],
@@ -22945,7 +23103,7 @@
       "medalId": "medal_activity_1crisisv2_10",
       "medalName": "Pyrolysis: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 193,
+      "slotId": 220,
       "preMedalIdList": [
 
       ],
@@ -22976,7 +23134,7 @@
       "medalId": "medal_activity_29side_01",
       "medalName": "'Leithanian Autumns'",
       "medalType": "activityMedal",
-      "slotId": 194,
+      "slotId": 221,
       "preMedalIdList": [
         "medal_activity_29side_02",
         "medal_activity_29side_03",
@@ -23019,7 +23177,7 @@
       "medalId": "medal_activity_29side_02",
       "medalName": "'Oath of Penance'",
       "medalType": "activityMedal",
-      "slotId": 195,
+      "slotId": 222,
       "preMedalIdList": [
 
       ],
@@ -23055,7 +23213,7 @@
       "medalId": "medal_activity_29side_03",
       "medalName": "Concert Guest of Honor Medal",
       "medalType": "activityMedal",
-      "slotId": 196,
+      "slotId": 223,
       "preMedalIdList": [
 
       ],
@@ -23092,7 +23250,7 @@
       "medalId": "medal_activity_29side_04",
       "medalName": "'Only the Evening Glow is Forever Brilliant'",
       "medalType": "activityMedal",
-      "slotId": 197,
+      "slotId": 224,
       "preMedalIdList": [
 
       ],
@@ -23129,7 +23287,7 @@
       "medalId": "medal_activity_29side_05",
       "medalName": "'Bells of the Old Town'",
       "medalType": "activityMedal",
-      "slotId": 198,
+      "slotId": 225,
       "preMedalIdList": [
 
       ],
@@ -23165,7 +23323,7 @@
       "medalId": "medal_activity_29side_06",
       "medalName": "'Zwillingstürme Chronicles'",
       "medalType": "activityMedal",
-      "slotId": 199,
+      "slotId": 226,
       "preMedalIdList": [
 
       ],
@@ -23201,7 +23359,7 @@
       "medalId": "medal_activity_29side_07",
       "medalName": "Whimsical Variations Medal",
       "medalType": "activityMedal",
-      "slotId": 200,
+      "slotId": 227,
       "preMedalIdList": [
 
       ],
@@ -23239,7 +23397,7 @@
       "medalId": "medal_activity_29side_08",
       "medalName": "Eternal Grace Medal",
       "medalType": "activityMedal",
-      "slotId": 201,
+      "slotId": 228,
       "preMedalIdList": [
 
       ],
@@ -23276,7 +23434,7 @@
       "medalId": "medal_activity_29side_09",
       "medalName": "Austere Authority Medal",
       "medalType": "activityMedal",
-      "slotId": 202,
+      "slotId": 229,
       "preMedalIdList": [
 
       ],
@@ -23313,7 +23471,7 @@
       "medalId": "medal_activity_29side_10",
       "medalName": "'Complicated Heart's Voices'",
       "medalType": "activityMedal",
-      "slotId": 203,
+      "slotId": 230,
       "preMedalIdList": [
 
       ],
@@ -23349,7 +23507,7 @@
       "medalId": "medal_activity_42d0_01",
       "medalName": "Strife Challenger Trial Medal",
       "medalType": "activityMedal",
-      "slotId": 204,
+      "slotId": 231,
       "preMedalIdList": [
 
       ],
@@ -23380,7 +23538,7 @@
       "medalId": "medal_activity_42d0_02",
       "medalName": "Strife Breakthrough Trial Medal",
       "medalType": "activityMedal",
-      "slotId": 205,
+      "slotId": 232,
       "preMedalIdList": [
 
       ],
@@ -23411,7 +23569,7 @@
       "medalId": "medal_activity_42d0_03",
       "medalName": "Strife Collaborator Trial Medal",
       "medalType": "activityMedal",
-      "slotId": 206,
+      "slotId": 233,
       "preMedalIdList": [
 
       ],
@@ -23442,7 +23600,7 @@
       "medalId": "medal_activity_42d0_04",
       "medalName": "'Facing the Sun'",
       "medalType": "activityMedal",
-      "slotId": 207,
+      "slotId": 234,
       "preMedalIdList": [
 
       ],
@@ -23474,7 +23632,7 @@
       "medalId": "medal_activity_42d0_05",
       "medalName": "Strife Conqueror Trial Medal",
       "medalType": "activityMedal",
-      "slotId": 208,
+      "slotId": 235,
       "preMedalIdList": [
 
       ],
@@ -23505,7 +23663,7 @@
       "medalId": "medal_activity_28side_01",
       "medalName": "'After the Gunshot's Peal'",
       "medalType": "activityMedal",
-      "slotId": 209,
+      "slotId": 236,
       "preMedalIdList": [
         "medal_activity_28side_02",
         "medal_activity_28side_03",
@@ -23548,7 +23706,7 @@
       "medalId": "medal_activity_28side_02",
       "medalName": "'Eight-Sided Exquisiteness'",
       "medalType": "activityMedal",
-      "slotId": 210,
+      "slotId": 237,
       "preMedalIdList": [
 
       ],
@@ -23584,7 +23742,7 @@
       "medalId": "medal_activity_28side_03",
       "medalName": "Pioneer Housewarming Medal",
       "medalType": "activityMedal",
-      "slotId": 211,
+      "slotId": 238,
       "preMedalIdList": [
 
       ],
@@ -23621,7 +23779,7 @@
       "medalId": "medal_activity_28side_04",
       "medalName": "'A Long Goodbye'",
       "medalType": "activityMedal",
-      "slotId": 212,
+      "slotId": 239,
       "preMedalIdList": [
 
       ],
@@ -23658,7 +23816,7 @@
       "medalId": "medal_activity_28side_05",
       "medalName": "Security Service Medal",
       "medalType": "activityMedal",
-      "slotId": 213,
+      "slotId": 240,
       "preMedalIdList": [
 
       ],
@@ -23694,7 +23852,7 @@
       "medalId": "medal_activity_28side_06",
       "medalName": "Cooling Equipment Operating Medal",
       "medalType": "activityMedal",
-      "slotId": 214,
+      "slotId": 241,
       "preMedalIdList": [
 
       ],
@@ -23731,7 +23889,7 @@
       "medalId": "medal_activity_28side_07",
       "medalName": "'Insulation'",
       "medalType": "activityMedal",
-      "slotId": 215,
+      "slotId": 242,
       "preMedalIdList": [
 
       ],
@@ -23770,7 +23928,7 @@
       "medalId": "medal_activity_28side_08",
       "medalName": "'Silent Snow, Frigid Forest'",
       "medalType": "activityMedal",
-      "slotId": 216,
+      "slotId": 243,
       "preMedalIdList": [
 
       ],
@@ -23807,7 +23965,7 @@
       "medalId": "medal_activity_28side_09",
       "medalName": "'Heat Surge'",
       "medalType": "activityMedal",
-      "slotId": 217,
+      "slotId": 244,
       "preMedalIdList": [
 
       ],
@@ -23845,7 +24003,7 @@
       "medalId": "medal_activity_28side_10",
       "medalName": "'Out of the Fire'",
       "medalType": "activityMedal",
-      "slotId": 218,
+      "slotId": 245,
       "preMedalIdList": [
 
       ],
@@ -23884,7 +24042,7 @@
       "medalId": "medal_activity_27side_01",
       "medalName": "'So Long, Siesta'",
       "medalType": "activityMedal",
-      "slotId": 219,
+      "slotId": 246,
       "preMedalIdList": [
         "medal_activity_27side_02",
         "medal_activity_27side_03",
@@ -23927,7 +24085,7 @@
       "medalId": "medal_activity_27side_02",
       "medalName": "'Fashion Street Guide'",
       "medalType": "activityMedal",
-      "slotId": 220,
+      "slotId": 247,
       "preMedalIdList": [
 
       ],
@@ -23963,7 +24121,7 @@
       "medalId": "medal_activity_27side_03",
       "medalName": "Loyal Customer Medal",
       "medalType": "activityMedal",
-      "slotId": 221,
+      "slotId": 248,
       "preMedalIdList": [
 
       ],
@@ -24000,7 +24158,7 @@
       "medalId": "medal_activity_27side_04",
       "medalName": "'Dolly's Approval'",
       "medalType": "activityMedal",
-      "slotId": 222,
+      "slotId": 249,
       "preMedalIdList": [
 
       ],
@@ -24036,7 +24194,7 @@
       "medalId": "medal_activity_27side_05",
       "medalName": "Business Tycoon Medal",
       "medalType": "activityMedal",
-      "slotId": 223,
+      "slotId": 250,
       "preMedalIdList": [
 
       ],
@@ -24072,7 +24230,7 @@
       "medalId": "medal_activity_27side_06",
       "medalName": "'Dreamers in the Clouds'",
       "medalType": "activityMedal",
-      "slotId": 224,
+      "slotId": 251,
       "preMedalIdList": [
 
       ],
@@ -24109,7 +24267,7 @@
       "medalId": "medal_activity_27side_07",
       "medalName": "Hot Spring Surfing Medal",
       "medalType": "activityMedal",
-      "slotId": 225,
+      "slotId": 252,
       "preMedalIdList": [
 
       ],
@@ -24146,7 +24304,7 @@
       "medalId": "medal_activity_27side_08",
       "medalName": "Soak in Lava Medal",
       "medalType": "activityMedal",
-      "slotId": 226,
+      "slotId": 253,
       "preMedalIdList": [
 
       ],
@@ -24183,7 +24341,7 @@
       "medalId": "medal_activity_27side_09",
       "medalName": "Volcano Adventures Medal",
       "medalType": "activityMedal",
-      "slotId": 227,
+      "slotId": 254,
       "preMedalIdList": [
 
       ],
@@ -24220,7 +24378,7 @@
       "medalId": "medal_activity_27side_10",
       "medalName": "Homeseeking Wanderer Medal",
       "medalType": "activityMedal",
-      "slotId": 228,
+      "slotId": 255,
       "preMedalIdList": [
 
       ],
@@ -24257,7 +24415,7 @@
       "medalId": "medal_activity_3bossrush_01",
       "medalName": "Closure Mini-Medal·γ",
       "medalType": "activityMedal",
-      "slotId": 229,
+      "slotId": 256,
       "preMedalIdList": [
 
       ],
@@ -24288,7 +24446,7 @@
       "medalId": "medal_activity_3bossrush_02",
       "medalName": "Spectacular Trial ·γ",
       "medalType": "activityMedal",
-      "slotId": 230,
+      "slotId": 257,
       "preMedalIdList": [
 
       ],
@@ -24320,7 +24478,7 @@
       "medalId": "medal_activity_26side_01",
       "medalName": "'Paradise Lost'",
       "medalType": "activityMedal",
-      "slotId": 231,
+      "slotId": 258,
       "preMedalIdList": [
         "medal_activity_26side_02",
         "medal_activity_26side_03",
@@ -24363,7 +24521,7 @@
       "medalId": "medal_activity_26side_02",
       "medalName": "'Good Coworker'",
       "medalType": "activityMedal",
-      "slotId": 232,
+      "slotId": 259,
       "preMedalIdList": [
 
       ],
@@ -24399,7 +24557,7 @@
       "medalId": "medal_activity_26side_03",
       "medalName": "Devout Follower Medal",
       "medalType": "activityMedal",
-      "slotId": 233,
+      "slotId": 260,
       "preMedalIdList": [
 
       ],
@@ -24436,7 +24594,7 @@
       "medalId": "medal_activity_26side_04",
       "medalName": "'Day of Rest'",
       "medalType": "activityMedal",
-      "slotId": 234,
+      "slotId": 261,
       "preMedalIdList": [
 
       ],
@@ -24473,7 +24631,7 @@
       "medalId": "medal_activity_26side_05",
       "medalName": "Curia Model Worker Medal",
       "medalType": "activityMedal",
-      "slotId": 235,
+      "slotId": 262,
       "preMedalIdList": [
 
       ],
@@ -24509,7 +24667,7 @@
       "medalId": "medal_activity_26side_06",
       "medalName": "'Renovation Master'",
       "medalType": "activityMedal",
-      "slotId": 236,
+      "slotId": 263,
       "preMedalIdList": [
 
       ],
@@ -24547,7 +24705,7 @@
       "medalId": "medal_activity_26side_07",
       "medalName": "'Scenes of the Past'",
       "medalType": "activityMedal",
-      "slotId": 237,
+      "slotId": 264,
       "preMedalIdList": [
 
       ],
@@ -24585,7 +24743,7 @@
       "medalId": "medal_activity_26side_08",
       "medalName": "Ambassador of Peace Medal",
       "medalType": "activityMedal",
-      "slotId": 238,
+      "slotId": 265,
       "preMedalIdList": [
 
       ],
@@ -24622,7 +24780,7 @@
       "medalId": "medal_activity_26side_09",
       "medalName": "'Prayer'",
       "medalType": "activityMedal",
-      "slotId": 239,
+      "slotId": 266,
       "preMedalIdList": [
 
       ],
@@ -24661,7 +24819,7 @@
       "medalId": "medal_activity_26side_10",
       "medalName": "'Heart at Peace'",
       "medalType": "activityMedal",
-      "slotId": 240,
+      "slotId": 267,
       "preMedalIdList": [
 
       ],
@@ -24699,7 +24857,7 @@
       "medalId": "medal_activity_38d1_01",
       "medalName": "Pinch-Out Excellence Test Badge",
       "medalType": "activityMedal",
-      "slotId": 241,
+      "slotId": 268,
       "preMedalIdList": [
 
       ],
@@ -24731,7 +24889,7 @@
       "medalId": "medal_activity_38d1_02",
       "medalName": "Pinch-Out Holistic Test Badge",
       "medalType": "activityMedal",
-      "slotId": 242,
+      "slotId": 269,
       "preMedalIdList": [
 
       ],
@@ -24764,7 +24922,7 @@
       "medalId": "medal_activity_38d1_03",
       "medalName": "Pinch-Out Combat Attire Test Badge",
       "medalType": "activityMedal",
-      "slotId": 243,
+      "slotId": 270,
       "preMedalIdList": [
 
       ],
@@ -24796,7 +24954,7 @@
       "medalId": "medal_activity_38d1_04",
       "medalName": "Pinch-Out Frontline Test Badge",
       "medalType": "activityMedal",
-      "slotId": 244,
+      "slotId": 271,
       "preMedalIdList": [
 
       ],
@@ -24828,7 +24986,7 @@
       "medalId": "medal_activity_38d1_05",
       "medalName": "Pinch-Out Cooperative Test Badge",
       "medalType": "activityMedal",
-      "slotId": 245,
+      "slotId": 272,
       "preMedalIdList": [
 
       ],
@@ -24859,7 +25017,7 @@
       "medalId": "medal_activity_25side_01",
       "medalName": "'Goodnight, Terra'",
       "medalType": "activityMedal",
-      "slotId": 246,
+      "slotId": 273,
       "preMedalIdList": [
         "medal_activity_25side_02",
         "medal_activity_25side_03",
@@ -24902,7 +25060,7 @@
       "medalId": "medal_activity_25side_02",
       "medalName": "'From Past to Future'",
       "medalType": "activityMedal",
-      "slotId": 247,
+      "slotId": 274,
       "preMedalIdList": [
 
       ],
@@ -24938,7 +25096,7 @@
       "medalId": "medal_activity_25side_03",
       "medalName": "Project Logistics Medal",
       "medalType": "activityMedal",
-      "slotId": 248,
+      "slotId": 275,
       "preMedalIdList": [
 
       ],
@@ -24975,7 +25133,7 @@
       "medalId": "medal_activity_25side_04",
       "medalName": "'The Future.'",
       "medalType": "activityMedal",
-      "slotId": 249,
+      "slotId": 276,
       "preMedalIdList": [
 
       ],
@@ -25011,7 +25169,7 @@
       "medalId": "medal_activity_25side_05",
       "medalName": "'Top Agent'",
       "medalType": "activityMedal",
-      "slotId": 250,
+      "slotId": 277,
       "preMedalIdList": [
 
       ],
@@ -25047,7 +25205,7 @@
       "medalId": "medal_activity_25side_06",
       "medalName": "'Gravity Expert'",
       "medalType": "activityMedal",
-      "slotId": 251,
+      "slotId": 278,
       "preMedalIdList": [
 
       ],
@@ -25084,7 +25242,7 @@
       "medalId": "medal_activity_25side_07",
       "medalName": "Gravity Engineering Medal",
       "medalType": "activityMedal",
-      "slotId": 252,
+      "slotId": 279,
       "preMedalIdList": [
 
       ],
@@ -25121,7 +25279,7 @@
       "medalId": "medal_activity_25side_08",
       "medalName": "'Civil Unity'",
       "medalType": "activityMedal",
-      "slotId": 253,
+      "slotId": 280,
       "preMedalIdList": [
 
       ],
@@ -25158,7 +25316,7 @@
       "medalId": "medal_activity_25side_09",
       "medalName": "'Wings of Freedom' Medal",
       "medalType": "activityMedal",
-      "slotId": 254,
+      "slotId": 281,
       "preMedalIdList": [
 
       ],
@@ -25195,7 +25353,7 @@
       "medalId": "medal_activity_25side_10",
       "medalName": "'Convergence'",
       "medalType": "activityMedal",
-      "slotId": 255,
+      "slotId": 282,
       "preMedalIdList": [
 
       ],
@@ -25230,7 +25388,7 @@
       "medalId": "medal_activity_12rune_01",
       "medalName": "Base Point: New Beginnings Medal",
       "medalType": "activityMedal",
-      "slotId": 256,
+      "slotId": 283,
       "preMedalIdList": [
         "medal_activity_12rune_02",
         "medal_activity_12rune_03",
@@ -25268,7 +25426,7 @@
       "medalId": "medal_activity_12rune_02",
       "medalName": "Base Point: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 257,
+      "slotId": 284,
       "preMedalIdList": [
 
       ],
@@ -25301,7 +25459,7 @@
       "medalId": "medal_activity_12rune_03",
       "medalName": "Base Point: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 258,
+      "slotId": 285,
       "preMedalIdList": [
 
       ],
@@ -25334,7 +25492,7 @@
       "medalId": "medal_activity_12rune_04",
       "medalName": "Base Point: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 259,
+      "slotId": 286,
       "preMedalIdList": [
 
       ],
@@ -25366,7 +25524,7 @@
       "medalId": "medal_activity_12rune_05",
       "medalName": "Base Point: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 260,
+      "slotId": 287,
       "preMedalIdList": [
 
       ],
@@ -25398,7 +25556,7 @@
       "medalId": "medal_activity_12rune_06",
       "medalName": "Base Point: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 261,
+      "slotId": 288,
       "preMedalIdList": [
 
       ],
@@ -25430,7 +25588,7 @@
       "medalId": "medal_activity_12rune_07",
       "medalName": "Base Point: Call to Arms Medal II",
       "medalType": "activityMedal",
-      "slotId": 262,
+      "slotId": 289,
       "preMedalIdList": [
 
       ],
@@ -25462,7 +25620,7 @@
       "medalId": "medal_activity_12rune_08",
       "medalName": "Base Point: Victorious Fronts Medal",
       "medalType": "activityMedal",
-      "slotId": 263,
+      "slotId": 290,
       "preMedalIdList": [
 
       ],
@@ -25494,7 +25652,7 @@
       "medalId": "medal_activity_12rune_09",
       "medalName": "Base Point: Trainer's Medal",
       "medalType": "activityMedal",
-      "slotId": 264,
+      "slotId": 291,
       "preMedalIdList": [
 
       ],
@@ -25527,7 +25685,7 @@
       "medalId": "medal_activity_12rune_10",
       "medalName": "Base Point: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 265,
+      "slotId": 292,
       "preMedalIdList": [
 
       ],
@@ -26313,7 +26471,7 @@
       "medalId": "medal_activity_21side_01",
       "medalName": "'Mourn the Newbirth'",
       "medalType": "activityMedal",
-      "slotId": 286,
+      "slotId": 313,
       "preMedalIdList": [
         "medal_activity_21side_02",
         "medal_activity_21side_03",
@@ -26357,7 +26515,7 @@
       "medalId": "medal_activity_21side_02",
       "medalName": "'Renaissance'",
       "medalType": "activityMedal",
-      "slotId": 287,
+      "slotId": 314,
       "preMedalIdList": [
 
       ],
@@ -26392,7 +26550,7 @@
       "medalId": "medal_activity_21side_03",
       "medalName": "'The Cub Howling at the Moon'",
       "medalType": "activityMedal",
-      "slotId": 288,
+      "slotId": 315,
       "preMedalIdList": [
 
       ],
@@ -26428,7 +26586,7 @@
       "medalId": "medal_activity_21side_04",
       "medalName": "Famiglia Procurement Specialist Medal",
       "medalType": "activityMedal",
-      "slotId": 289,
+      "slotId": 316,
       "preMedalIdList": [
 
       ],
@@ -26465,7 +26623,7 @@
       "medalId": "medal_activity_21side_05",
       "medalName": "'Bon Appetit'",
       "medalType": "activityMedal",
-      "slotId": 290,
+      "slotId": 317,
       "preMedalIdList": [
 
       ],
@@ -26501,7 +26659,7 @@
       "medalId": "medal_activity_21side_06",
       "medalName": "'Surgical Treatment'",
       "medalType": "activityMedal",
-      "slotId": 291,
+      "slotId": 318,
       "preMedalIdList": [
 
       ],
@@ -26538,7 +26696,7 @@
       "medalId": "medal_activity_21side_07",
       "medalName": "'Echoes of Rain'",
       "medalType": "activityMedal",
-      "slotId": 292,
+      "slotId": 319,
       "preMedalIdList": [
 
       ],
@@ -26575,7 +26733,7 @@
       "medalId": "medal_activity_21side_08",
       "medalName": "'Primal Barrens'",
       "medalType": "activityMedal",
-      "slotId": 293,
+      "slotId": 320,
       "preMedalIdList": [
 
       ],
@@ -26612,7 +26770,7 @@
       "medalId": "medal_activity_21side_09",
       "medalName": "'Curtain Call'",
       "medalType": "activityMedal",
-      "slotId": 294,
+      "slotId": 321,
       "preMedalIdList": [
 
       ],
@@ -26649,7 +26807,7 @@
       "medalId": "medal_activity_21side_10",
       "medalName": "Famiglia Elite Medal",
       "medalType": "activityMedal",
-      "slotId": 295,
+      "slotId": 322,
       "preMedalIdList": [
 
       ],
@@ -26684,7 +26842,7 @@
       "medalId": "medal_activity_21side_11",
       "medalName": "Territorial Settlement Medal",
       "medalType": "activityMedal",
-      "slotId": 296,
+      "slotId": 323,
       "preMedalIdList": [
 
       ],
@@ -26720,7 +26878,7 @@
       "medalId": "medal_activity_1bossrush_01",
       "medalName": "Closure Mini-Medal",
       "medalType": "activityMedal",
-      "slotId": 297,
+      "slotId": 324,
       "preMedalIdList": [
 
       ],
@@ -26751,7 +26909,7 @@
       "medalId": "medal_activity_1bossrush_02",
       "medalName": "Spectacular Trial Medal",
       "medalType": "activityMedal",
-      "slotId": 298,
+      "slotId": 325,
       "preMedalIdList": [
 
       ],
@@ -26783,7 +26941,7 @@
       "medalId": "medal_activity_2bossrush_01",
       "medalName": "Closure Mini-Medal·β",
       "medalType": "activityMedal",
-      "slotId": 299,
+      "slotId": 326,
       "preMedalIdList": [
 
       ],
@@ -26814,7 +26972,7 @@
       "medalId": "medal_activity_2bossrush_02",
       "medalName": "Spectacular Trial ·β",
       "medalType": "activityMedal",
-      "slotId": 300,
+      "slotId": 327,
       "preMedalIdList": [
 
       ],
@@ -26846,7 +27004,7 @@
       "medalId": "medal_activity_20side_01",
       "medalName": "'Honorary Citizen of Zeruertza'",
       "medalType": "activityMedal",
-      "slotId": 301,
+      "slotId": 328,
       "preMedalIdList": [
         "medal_activity_20side_02",
         "medal_activity_20side_03",
@@ -26889,7 +27047,7 @@
       "medalId": "medal_activity_20side_02",
       "medalName": "'New Canvas'",
       "medalType": "activityMedal",
-      "slotId": 302,
+      "slotId": 329,
       "preMedalIdList": [
 
       ],
@@ -26925,7 +27083,7 @@
       "medalId": "medal_activity_20side_03",
       "medalName": "Stranger Things Medal",
       "medalType": "activityMedal",
-      "slotId": 303,
+      "slotId": 330,
       "preMedalIdList": [
 
       ],
@@ -26962,7 +27120,7 @@
       "medalId": "medal_activity_20side_04",
       "medalName": "Forum's New Star Medal",
       "medalType": "activityMedal",
-      "slotId": 304,
+      "slotId": 331,
       "preMedalIdList": [
 
       ],
@@ -26998,7 +27156,7 @@
       "medalId": "medal_activity_20side_05",
       "medalName": "Self-Driving Cart Attack Medal",
       "medalType": "activityMedal",
-      "slotId": 305,
+      "slotId": 332,
       "preMedalIdList": [
 
       ],
@@ -27034,7 +27192,7 @@
       "medalId": "medal_activity_20side_06",
       "medalName": "Underground Journey Medal",
       "medalType": "activityMedal",
-      "slotId": 306,
+      "slotId": 333,
       "preMedalIdList": [
 
       ],
@@ -27070,7 +27228,7 @@
       "medalId": "medal_activity_20side_07",
       "medalName": "Cultural Exchange Medal",
       "medalType": "activityMedal",
-      "slotId": 307,
+      "slotId": 334,
       "preMedalIdList": [
 
       ],
@@ -27106,7 +27264,7 @@
       "medalId": "medal_activity_20side_08",
       "medalName": "'Durin Expert'",
       "medalType": "activityMedal",
-      "slotId": 308,
+      "slotId": 335,
       "preMedalIdList": [
 
       ],
@@ -27142,7 +27300,7 @@
       "medalId": "medal_activity_20side_09",
       "medalName": "'Project Management Master'",
       "medalType": "activityMedal",
-      "slotId": 309,
+      "slotId": 336,
       "preMedalIdList": [
 
       ],
@@ -27178,7 +27336,7 @@
       "medalId": "medal_activity_20side_10",
       "medalName": "'Legendary Party-Goer'",
       "medalType": "activityMedal",
-      "slotId": 310,
+      "slotId": 337,
       "preMedalIdList": [
 
       ],
@@ -27214,7 +27372,7 @@
       "medalId": "medal_activity_11rune_01",
       "medalName": "Fake Waves: Pacification Medal",
       "medalType": "activityMedal",
-      "slotId": 311,
+      "slotId": 338,
       "preMedalIdList": [
         "medal_activity_11rune_02",
         "medal_activity_11rune_03",
@@ -27252,7 +27410,7 @@
       "medalId": "medal_activity_11rune_02",
       "medalName": "Fake Waves: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 312,
+      "slotId": 339,
       "preMedalIdList": [
 
       ],
@@ -27285,7 +27443,7 @@
       "medalId": "medal_activity_11rune_03",
       "medalName": "Fake Waves: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 313,
+      "slotId": 340,
       "preMedalIdList": [
 
       ],
@@ -27318,7 +27476,7 @@
       "medalId": "medal_activity_11rune_04",
       "medalName": "Fake Waves: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 314,
+      "slotId": 341,
       "preMedalIdList": [
 
       ],
@@ -27350,7 +27508,7 @@
       "medalId": "medal_activity_11rune_05",
       "medalName": "Fake Waves: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 315,
+      "slotId": 342,
       "preMedalIdList": [
 
       ],
@@ -27382,7 +27540,7 @@
       "medalId": "medal_activity_11rune_06",
       "medalName": "Fake Waves: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 316,
+      "slotId": 343,
       "preMedalIdList": [
 
       ],
@@ -27414,7 +27572,7 @@
       "medalId": "medal_activity_11rune_07",
       "medalName": "Fake Waves: Call to Arms Medal II",
       "medalType": "activityMedal",
-      "slotId": 317,
+      "slotId": 344,
       "preMedalIdList": [
 
       ],
@@ -27446,7 +27604,7 @@
       "medalId": "medal_activity_11rune_08",
       "medalName": "Fake Waves: Victorious Fronts Medal",
       "medalType": "activityMedal",
-      "slotId": 318,
+      "slotId": 345,
       "preMedalIdList": [
 
       ],
@@ -27478,7 +27636,7 @@
       "medalId": "medal_activity_11rune_09",
       "medalName": "Fake Waves: Trainer's Medal",
       "medalType": "activityMedal",
-      "slotId": 319,
+      "slotId": 346,
       "preMedalIdList": [
 
       ],
@@ -27511,7 +27669,7 @@
       "medalId": "medal_activity_11rune_10",
       "medalName": "Fake Waves: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 320,
+      "slotId": 347,
       "preMedalIdList": [
 
       ],
@@ -27542,7 +27700,7 @@
       "medalId": "medal_activity_10rune_01",
       "medalName": "Ashring: Settlement Medal",
       "medalType": "activityMedal",
-      "slotId": 321,
+      "slotId": 348,
       "preMedalIdList": [
         "medal_activity_10rune_02",
         "medal_activity_10rune_03",
@@ -27580,7 +27738,7 @@
       "medalId": "medal_activity_10rune_02",
       "medalName": "Ashring: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 322,
+      "slotId": 349,
       "preMedalIdList": [
 
       ],
@@ -27613,7 +27771,7 @@
       "medalId": "medal_activity_10rune_03",
       "medalName": "Ashring: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 323,
+      "slotId": 350,
       "preMedalIdList": [
 
       ],
@@ -27646,7 +27804,7 @@
       "medalId": "medal_activity_10rune_04",
       "medalName": "Ashring: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 324,
+      "slotId": 351,
       "preMedalIdList": [
 
       ],
@@ -27678,7 +27836,7 @@
       "medalId": "medal_activity_10rune_05",
       "medalName": "Ashring: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 325,
+      "slotId": 352,
       "preMedalIdList": [
 
       ],
@@ -27710,7 +27868,7 @@
       "medalId": "medal_activity_10rune_06",
       "medalName": "Ashring: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 326,
+      "slotId": 353,
       "preMedalIdList": [
 
       ],
@@ -27742,7 +27900,7 @@
       "medalId": "medal_activity_10rune_07",
       "medalName": "Ashring: Call to Arms Medal II",
       "medalType": "activityMedal",
-      "slotId": 327,
+      "slotId": 354,
       "preMedalIdList": [
 
       ],
@@ -27774,7 +27932,7 @@
       "medalId": "medal_activity_10rune_08",
       "medalName": "Ashring: Victorious Fronts Medal",
       "medalType": "activityMedal",
-      "slotId": 328,
+      "slotId": 355,
       "preMedalIdList": [
 
       ],
@@ -27806,7 +27964,7 @@
       "medalId": "medal_activity_10rune_09",
       "medalName": "Ashring: Trainer's Medal",
       "medalType": "activityMedal",
-      "slotId": 329,
+      "slotId": 356,
       "preMedalIdList": [
 
       ],
@@ -27839,7 +27997,7 @@
       "medalId": "medal_activity_10rune_10",
       "medalName": "Ashring: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 330,
+      "slotId": 357,
       "preMedalIdList": [
 
       ],
@@ -27870,7 +28028,7 @@
       "medalId": "medal_activity_19side_01",
       "medalName": "'You Have to Wake Up in the End'",
       "medalType": "activityMedal",
-      "slotId": 331,
+      "slotId": 358,
       "preMedalIdList": [
         "medal_activity_19side_02",
         "medal_activity_19side_03",
@@ -27913,7 +28071,7 @@
       "medalId": "medal_activity_19side_02",
       "medalName": "Armor Obliteration Medal",
       "medalType": "activityMedal",
-      "slotId": 332,
+      "slotId": 359,
       "preMedalIdList": [
 
       ],
@@ -27951,7 +28109,7 @@
       "medalId": "medal_activity_19side_03",
       "medalName": "'Elite Researcher'",
       "medalType": "activityMedal",
-      "slotId": 333,
+      "slotId": 360,
       "preMedalIdList": [
 
       ],
@@ -27987,7 +28145,7 @@
       "medalId": "medal_activity_19side_04",
       "medalName": "Reagent Recycler Medal",
       "medalType": "activityMedal",
-      "slotId": 334,
+      "slotId": 361,
       "preMedalIdList": [
 
       ],
@@ -28024,7 +28182,7 @@
       "medalId": "medal_activity_19side_05",
       "medalName": "Diligent Worker Medal",
       "medalType": "activityMedal",
-      "slotId": 335,
+      "slotId": 362,
       "preMedalIdList": [
 
       ],
@@ -28060,7 +28218,7 @@
       "medalId": "medal_activity_19side_06",
       "medalName": "'Unrestrainable'",
       "medalType": "activityMedal",
-      "slotId": 336,
+      "slotId": 363,
       "preMedalIdList": [
 
       ],
@@ -28097,7 +28255,7 @@
       "medalId": "medal_activity_19side_07",
       "medalName": "I Know the Danger Medal",
       "medalType": "activityMedal",
-      "slotId": 337,
+      "slotId": 364,
       "preMedalIdList": [
 
       ],
@@ -28136,7 +28294,7 @@
       "medalId": "medal_activity_19side_08",
       "medalName": "'A Fine Vision's Hard to Realize'",
       "medalType": "activityMedal",
-      "slotId": 338,
+      "slotId": 365,
       "preMedalIdList": [
 
       ],
@@ -28174,7 +28332,7 @@
       "medalId": "medal_activity_19side_09",
       "medalName": "'End of the Wilds'",
       "medalType": "activityMedal",
-      "slotId": 339,
+      "slotId": 366,
       "preMedalIdList": [
 
       ],
@@ -28211,7 +28369,7 @@
       "medalId": "medal_activity_19side_10",
       "medalName": "Journey Opener's Medal",
       "medalType": "activityMedal",
-      "slotId": 340,
+      "slotId": 367,
       "preMedalIdList": [
 
       ],
@@ -28249,7 +28407,7 @@
       "medalId": "medal_activity_18side_01",
       "medalName": "'Before Dark'",
       "medalType": "activityMedal",
-      "slotId": 341,
+      "slotId": 368,
       "preMedalIdList": [
         "medal_activity_18side_02",
         "medal_activity_18side_03",
@@ -28292,7 +28450,7 @@
       "medalId": "medal_activity_18side_02",
       "medalName": "Energy Recycling Medal",
       "medalType": "activityMedal",
-      "slotId": 342,
+      "slotId": 369,
       "preMedalIdList": [
 
       ],
@@ -28329,7 +28487,7 @@
       "medalId": "medal_activity_18side_03",
       "medalName": "'Patron of the Arts'",
       "medalType": "activityMedal",
-      "slotId": 343,
+      "slotId": 370,
       "preMedalIdList": [
 
       ],
@@ -28365,7 +28523,7 @@
       "medalId": "medal_activity_18side_04",
       "medalName": "Vyseheim Postal Medal",
       "medalType": "activityMedal",
-      "slotId": 344,
+      "slotId": 371,
       "preMedalIdList": [
 
       ],
@@ -28402,7 +28560,7 @@
       "medalId": "medal_activity_18side_05",
       "medalName": "Coffee Taster Medal",
       "medalType": "activityMedal",
-      "slotId": 345,
+      "slotId": 372,
       "preMedalIdList": [
 
       ],
@@ -28438,7 +28596,7 @@
       "medalId": "medal_activity_18side_06",
       "medalName": "'Light and Shadow'",
       "medalType": "activityMedal",
-      "slotId": 346,
+      "slotId": 373,
       "preMedalIdList": [
 
       ],
@@ -28475,7 +28633,7 @@
       "medalId": "medal_activity_18side_07",
       "medalName": "Percussion Mastery Medal",
       "medalType": "activityMedal",
-      "slotId": 347,
+      "slotId": 374,
       "preMedalIdList": [
 
       ],
@@ -28513,7 +28671,7 @@
       "medalId": "medal_activity_18side_08",
       "medalName": "Solfège Medal",
       "medalType": "activityMedal",
-      "slotId": 348,
+      "slotId": 375,
       "preMedalIdList": [
 
       ],
@@ -28552,7 +28710,7 @@
       "medalId": "medal_activity_18side_09",
       "medalName": "'Alleyway Walker'",
       "medalType": "activityMedal",
-      "slotId": 349,
+      "slotId": 376,
       "preMedalIdList": [
 
       ],
@@ -28589,7 +28747,7 @@
       "medalId": "medal_activity_18side_10",
       "medalName": "'Facing Nothingness'",
       "medalType": "activityMedal",
-      "slotId": 350,
+      "slotId": 377,
       "preMedalIdList": [
 
       ],
@@ -28627,7 +28785,7 @@
       "medalId": "medal_activity_9rune_01",
       "medalName": "Deepness Surging Floods Medal",
       "medalType": "activityMedal",
-      "slotId": 351,
+      "slotId": 378,
       "preMedalIdList": [
         "medal_activity_9rune_02",
         "medal_activity_9rune_03",
@@ -28665,7 +28823,7 @@
       "medalId": "medal_activity_9rune_02",
       "medalName": "Deepness: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 352,
+      "slotId": 379,
       "preMedalIdList": [
 
       ],
@@ -28698,7 +28856,7 @@
       "medalId": "medal_activity_9rune_03",
       "medalName": "Deepness: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 353,
+      "slotId": 380,
       "preMedalIdList": [
 
       ],
@@ -28731,7 +28889,7 @@
       "medalId": "medal_activity_9rune_04",
       "medalName": "Deepness: Operator Medal",
       "medalType": "activityMedal",
-      "slotId": 354,
+      "slotId": 381,
       "preMedalIdList": [
 
       ],
@@ -28762,7 +28920,7 @@
       "medalId": "medal_activity_9rune_05",
       "medalName": "Deepness: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 355,
+      "slotId": 382,
       "preMedalIdList": [
 
       ],
@@ -28794,7 +28952,7 @@
       "medalId": "medal_activity_9rune_06",
       "medalName": "Deepness: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 356,
+      "slotId": 383,
       "preMedalIdList": [
 
       ],
@@ -28826,7 +28984,7 @@
       "medalId": "medal_activity_9rune_07",
       "medalName": "Deepness: Call to Arms Medal II",
       "medalType": "activityMedal",
-      "slotId": 357,
+      "slotId": 384,
       "preMedalIdList": [
 
       ],
@@ -28858,7 +29016,7 @@
       "medalId": "medal_activity_9rune_08",
       "medalName": "Deepness: Victorious Fronts Medal",
       "medalType": "activityMedal",
-      "slotId": 358,
+      "slotId": 385,
       "preMedalIdList": [
 
       ],
@@ -28890,7 +29048,7 @@
       "medalId": "medal_activity_9rune_09",
       "medalName": "Deepness: Trainer's Medal",
       "medalType": "activityMedal",
-      "slotId": 359,
+      "slotId": 386,
       "preMedalIdList": [
 
       ],
@@ -28923,7 +29081,7 @@
       "medalId": "medal_activity_9rune_10",
       "medalName": "Deepness: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 360,
+      "slotId": 387,
       "preMedalIdList": [
 
       ],
@@ -28954,7 +29112,7 @@
       "medalId": "medal_activity_17side_01",
       "medalName": "'Lighthouse Sentinel'",
       "medalType": "activityMedal",
-      "slotId": 361,
+      "slotId": 388,
       "preMedalIdList": [
         "medal_activity_17side_02",
         "medal_activity_17side_03",
@@ -28997,7 +29155,7 @@
       "medalId": "medal_activity_17side_02",
       "medalName": "Technology Collection Medal",
       "medalType": "activityMedal",
-      "slotId": 362,
+      "slotId": 389,
       "preMedalIdList": [
 
       ],
@@ -29033,7 +29191,7 @@
       "medalId": "medal_activity_17side_03",
       "medalName": "'Nobody'",
       "medalType": "activityMedal",
-      "slotId": 363,
+      "slotId": 390,
       "preMedalIdList": [
 
       ],
@@ -29069,7 +29227,7 @@
       "medalId": "medal_activity_17side_04",
       "medalName": "Tavern Regular Medal",
       "medalType": "activityMedal",
-      "slotId": 364,
+      "slotId": 391,
       "preMedalIdList": [
 
       ],
@@ -29106,7 +29264,7 @@
       "medalId": "medal_activity_17side_05",
       "medalName": "Treasures of the Raging Seas Medal",
       "medalType": "activityMedal",
-      "slotId": 365,
+      "slotId": 392,
       "preMedalIdList": [
 
       ],
@@ -29142,7 +29300,7 @@
       "medalId": "medal_activity_17side_06",
       "medalName": "'A Course of No Return'",
       "medalType": "activityMedal",
-      "slotId": 366,
+      "slotId": 393,
       "preMedalIdList": [
 
       ],
@@ -29179,7 +29337,7 @@
       "medalId": "medal_activity_17side_07",
       "medalName": "Making Best Use Medal",
       "medalType": "activityMedal",
-      "slotId": 367,
+      "slotId": 394,
       "preMedalIdList": [
 
       ],
@@ -29217,7 +29375,7 @@
       "medalId": "medal_activity_17side_08",
       "medalName": "'Light of Judgment'",
       "medalType": "activityMedal",
-      "slotId": 368,
+      "slotId": 395,
       "preMedalIdList": [
 
       ],
@@ -29254,7 +29412,7 @@
       "medalId": "medal_activity_17side_09",
       "medalName": "'End of the Billowing Waves'",
       "medalType": "activityMedal",
-      "slotId": 369,
+      "slotId": 396,
       "preMedalIdList": [
 
       ],
@@ -29291,7 +29449,7 @@
       "medalId": "medal_activity_17side_10",
       "medalName": "Pursuing Your True Self Medal",
       "medalType": "activityMedal",
-      "slotId": 370,
+      "slotId": 397,
       "preMedalIdList": [
 
       ],
@@ -29329,7 +29487,7 @@
       "medalId": "medal_activity_16side_01",
       "medalName": "'The Path Astray'",
       "medalType": "activityMedal",
-      "slotId": 371,
+      "slotId": 398,
       "preMedalIdList": [
         "medal_activity_16side_02",
         "medal_activity_16side_03",
@@ -29372,7 +29530,7 @@
       "medalId": "medal_activity_16side_02",
       "medalName": "'Met on Another Way'",
       "medalType": "activityMedal",
-      "slotId": 372,
+      "slotId": 399,
       "preMedalIdList": [
 
       ],
@@ -29410,7 +29568,7 @@
       "medalId": "medal_activity_16side_03",
       "medalName": "'Best Trainee'",
       "medalType": "activityMedal",
-      "slotId": 373,
+      "slotId": 400,
       "preMedalIdList": [
 
       ],
@@ -29446,7 +29604,7 @@
       "medalId": "medal_activity_16side_04",
       "medalName": "'The Holy City's Honored Guest'",
       "medalType": "activityMedal",
-      "slotId": 374,
+      "slotId": 401,
       "preMedalIdList": [
 
       ],
@@ -29483,7 +29641,7 @@
       "medalId": "medal_activity_16side_05",
       "medalName": "'Summit of Nations'",
       "medalType": "activityMedal",
-      "slotId": 375,
+      "slotId": 402,
       "preMedalIdList": [
 
       ],
@@ -29519,7 +29677,7 @@
       "medalId": "medal_activity_16side_06",
       "medalName": "'What is Asked is Answered'",
       "medalType": "activityMedal",
-      "slotId": 376,
+      "slotId": 403,
       "preMedalIdList": [
 
       ],
@@ -29556,7 +29714,7 @@
       "medalId": "medal_activity_16side_07",
       "medalName": "'Accustomed'",
       "medalType": "activityMedal",
-      "slotId": 377,
+      "slotId": 404,
       "preMedalIdList": [
 
       ],
@@ -29595,7 +29753,7 @@
       "medalId": "medal_activity_16side_08",
       "medalName": "'The Past Lies Ahead'",
       "medalType": "activityMedal",
-      "slotId": 378,
+      "slotId": 405,
       "preMedalIdList": [
 
       ],
@@ -29633,7 +29791,7 @@
       "medalId": "medal_activity_16side_09",
       "medalName": "'The Holy City's Bells'",
       "medalType": "activityMedal",
-      "slotId": 379,
+      "slotId": 406,
       "preMedalIdList": [
 
       ],
@@ -29670,7 +29828,7 @@
       "medalId": "medal_activity_16side_10",
       "medalName": "'Law and Gelato'",
       "medalType": "activityMedal",
-      "slotId": 380,
+      "slotId": 407,
       "preMedalIdList": [
 
       ],
@@ -29708,7 +29866,7 @@
       "medalId": "medal_activity_8rune_01",
       "medalName": "Dawnseeker: Burning Torch Medal",
       "medalType": "activityMedal",
-      "slotId": 381,
+      "slotId": 408,
       "preMedalIdList": [
         "medal_activity_8rune_02",
         "medal_activity_8rune_03",
@@ -29746,7 +29904,7 @@
       "medalId": "medal_activity_8rune_02",
       "medalName": "Dawnseeker: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 382,
+      "slotId": 409,
       "preMedalIdList": [
 
       ],
@@ -29779,7 +29937,7 @@
       "medalId": "medal_activity_8rune_03",
       "medalName": "Dawnseeker: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 383,
+      "slotId": 410,
       "preMedalIdList": [
 
       ],
@@ -29812,7 +29970,7 @@
       "medalId": "medal_activity_8rune_04",
       "medalName": "Dawnseeker: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 384,
+      "slotId": 411,
       "preMedalIdList": [
 
       ],
@@ -29844,7 +30002,7 @@
       "medalId": "medal_activity_8rune_05",
       "medalName": "Dawnseeker: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 385,
+      "slotId": 412,
       "preMedalIdList": [
 
       ],
@@ -29876,7 +30034,7 @@
       "medalId": "medal_activity_8rune_06",
       "medalName": "Dawnseeker: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 386,
+      "slotId": 413,
       "preMedalIdList": [
 
       ],
@@ -29908,7 +30066,7 @@
       "medalId": "medal_activity_8rune_07",
       "medalName": "Dawnseeker: Call to Arms Medal II",
       "medalType": "activityMedal",
-      "slotId": 387,
+      "slotId": 414,
       "preMedalIdList": [
 
       ],
@@ -29940,7 +30098,7 @@
       "medalId": "medal_activity_8rune_08",
       "medalName": "Dawnseeker: Victorious Fronts Medal",
       "medalType": "activityMedal",
-      "slotId": 388,
+      "slotId": 415,
       "preMedalIdList": [
 
       ],
@@ -29972,7 +30130,7 @@
       "medalId": "medal_activity_8rune_09",
       "medalName": "Dawnseeker: Trainer's Medal",
       "medalType": "activityMedal",
-      "slotId": 389,
+      "slotId": 416,
       "preMedalIdList": [
 
       ],
@@ -30005,7 +30163,7 @@
       "medalId": "medal_activity_8rune_10",
       "medalName": "Dawnseeker: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 390,
+      "slotId": 417,
       "preMedalIdList": [
 
       ],
@@ -30036,7 +30194,7 @@
       "medalId": "medal_activity_15side_01",
       "medalName": "'The Joys of Poetry and Wine'",
       "medalType": "activityMedal",
-      "slotId": 391,
+      "slotId": 418,
       "preMedalIdList": [
         "medal_activity_15side_02",
         "medal_activity_15side_03",
@@ -30079,7 +30237,7 @@
       "medalId": "medal_activity_15side_02",
       "medalName": "'Deer Hidden in the Forest'",
       "medalType": "activityMedal",
-      "slotId": 392,
+      "slotId": 419,
       "preMedalIdList": [
 
       ],
@@ -30117,7 +30275,7 @@
       "medalId": "medal_activity_15side_03",
       "medalName": "'Refreshed in Cold Light'",
       "medalType": "activityMedal",
-      "slotId": 393,
+      "slotId": 420,
       "preMedalIdList": [
 
       ],
@@ -30153,7 +30311,7 @@
       "medalId": "medal_activity_15side_04",
       "medalName": "'A Bold Individual'",
       "medalType": "activityMedal",
-      "slotId": 394,
+      "slotId": 421,
       "preMedalIdList": [
 
       ],
@@ -30190,7 +30348,7 @@
       "medalId": "medal_activity_15side_05",
       "medalName": "'Visit the Mountains'",
       "medalType": "activityMedal",
-      "slotId": 395,
+      "slotId": 422,
       "preMedalIdList": [
 
       ],
@@ -30226,7 +30384,7 @@
       "medalId": "medal_activity_15side_06",
       "medalName": "'Serene Waters, Calm Billows'",
       "medalType": "activityMedal",
-      "slotId": 396,
+      "slotId": 423,
       "preMedalIdList": [
 
       ],
@@ -30263,7 +30421,7 @@
       "medalId": "medal_activity_15side_07",
       "medalName": "'Three Rounds of Wine'",
       "medalType": "activityMedal",
-      "slotId": 397,
+      "slotId": 424,
       "preMedalIdList": [
 
       ],
@@ -30301,7 +30459,7 @@
       "medalId": "medal_activity_15side_08",
       "medalName": "'No Rebirth Without Destruction'",
       "medalType": "activityMedal",
-      "slotId": 398,
+      "slotId": 425,
       "preMedalIdList": [
 
       ],
@@ -30339,7 +30497,7 @@
       "medalId": "medal_activity_15side_09",
       "medalName": "'Grasp the River, Seek the Sun'",
       "medalType": "activityMedal",
-      "slotId": 399,
+      "slotId": 426,
       "preMedalIdList": [
 
       ],
@@ -30376,7 +30534,7 @@
       "medalId": "medal_activity_15side_10",
       "medalName": "'Awaken From a Long Dream'",
       "medalType": "activityMedal",
-      "slotId": 400,
+      "slotId": 427,
       "preMedalIdList": [
 
       ],
@@ -30414,7 +30572,7 @@
       "medalId": "medal_activity_14side_01",
       "medalName": "'Melting Ice'",
       "medalType": "activityMedal",
-      "slotId": 401,
+      "slotId": 428,
       "preMedalIdList": [
         "medal_activity_14side_02",
         "medal_activity_14side_03",
@@ -30457,7 +30615,7 @@
       "medalId": "medal_activity_14side_02",
       "medalName": "'Blitzkrieg'",
       "medalType": "activityMedal",
-      "slotId": 402,
+      "slotId": 429,
       "preMedalIdList": [
 
       ],
@@ -30496,7 +30654,7 @@
       "medalId": "medal_activity_14side_03",
       "medalName": "'Eternal Sentinel'",
       "medalType": "activityMedal",
-      "slotId": 403,
+      "slotId": 430,
       "preMedalIdList": [
 
       ],
@@ -30532,7 +30690,7 @@
       "medalId": "medal_activity_14side_04",
       "medalName": "'Karlan's Guest of Honor'",
       "medalType": "activityMedal",
-      "slotId": 404,
+      "slotId": 431,
       "preMedalIdList": [
 
       ],
@@ -30569,7 +30727,7 @@
       "medalId": "medal_activity_14side_05",
       "medalName": "'Snow Realm Explorer'",
       "medalType": "activityMedal",
-      "slotId": 405,
+      "slotId": 432,
       "preMedalIdList": [
 
       ],
@@ -30605,7 +30763,7 @@
       "medalId": "medal_activity_14side_06",
       "medalName": "'Snow Realm Tourist'",
       "medalType": "activityMedal",
-      "slotId": 406,
+      "slotId": 433,
       "preMedalIdList": [
 
       ],
@@ -30642,7 +30800,7 @@
       "medalId": "medal_activity_14side_07",
       "medalName": "'Snow Realm Hunter'",
       "medalType": "activityMedal",
-      "slotId": 407,
+      "slotId": 434,
       "preMedalIdList": [
 
       ],
@@ -30681,7 +30839,7 @@
       "medalId": "medal_activity_14side_08",
       "medalName": "'Snow Realm Chessmaster'",
       "medalType": "activityMedal",
-      "slotId": 408,
+      "slotId": 435,
       "preMedalIdList": [
 
       ],
@@ -30718,7 +30876,7 @@
       "medalId": "medal_activity_14side_09",
       "medalName": "'Stalemate'",
       "medalType": "activityMedal",
-      "slotId": 409,
+      "slotId": 436,
       "preMedalIdList": [
 
       ],
@@ -30756,7 +30914,7 @@
       "medalId": "medal_activity_14side_10",
       "medalName": "'Tsar of Traps'",
       "medalType": "activityMedal",
-      "slotId": 410,
+      "slotId": 437,
       "preMedalIdList": [
 
       ],
@@ -31122,7 +31280,7 @@
       "medalId": "medal_activity_13side_01",
       "medalName": "'Light of Dawn'",
       "medalType": "activityMedal",
-      "slotId": 421,
+      "slotId": 448,
       "preMedalIdList": [
         "medal_activity_13side_02",
         "medal_activity_13side_03",
@@ -31166,7 +31324,7 @@
       "medalId": "medal_activity_13side_02",
       "medalName": "'Wild Mane'",
       "medalType": "activityMedal",
-      "slotId": 422,
+      "slotId": 449,
       "preMedalIdList": [
 
       ],
@@ -31202,7 +31360,7 @@
       "medalId": "medal_activity_13side_03",
       "medalName": "Business Busyness Medal",
       "medalType": "activityMedal",
-      "slotId": 423,
+      "slotId": 450,
       "preMedalIdList": [
 
       ],
@@ -31238,7 +31396,7 @@
       "medalId": "medal_activity_13side_04",
       "medalName": "Top Employee Medal",
       "medalType": "activityMedal",
-      "slotId": 424,
+      "slotId": 451,
       "preMedalIdList": [
 
       ],
@@ -31274,7 +31432,7 @@
       "medalId": "medal_activity_13side_05",
       "medalName": "Effective Communication Medal",
       "medalType": "activityMedal",
-      "slotId": 425,
+      "slotId": 452,
       "preMedalIdList": [
 
       ],
@@ -31311,7 +31469,7 @@
       "medalId": "medal_activity_13side_06",
       "medalName": "Company Discount Medal",
       "medalType": "activityMedal",
-      "slotId": 426,
+      "slotId": 453,
       "preMedalIdList": [
 
       ],
@@ -31348,7 +31506,7 @@
       "medalId": "medal_activity_13side_07",
       "medalName": "Major Championship Medal",
       "medalType": "activityMedal",
-      "slotId": 427,
+      "slotId": 454,
       "preMedalIdList": [
 
       ],
@@ -31385,7 +31543,7 @@
       "medalId": "medal_activity_13side_08",
       "medalName": "Outstanding Journalist Medal",
       "medalType": "activityMedal",
-      "slotId": 428,
+      "slotId": 455,
       "preMedalIdList": [
 
       ],
@@ -31422,7 +31580,7 @@
       "medalId": "medal_activity_13side_09",
       "medalName": "Doing the Impossible Medal",
       "medalType": "activityMedal",
-      "slotId": 429,
+      "slotId": 456,
       "preMedalIdList": [
 
       ],
@@ -31459,7 +31617,7 @@
       "medalId": "medal_activity_13side_10",
       "medalName": "Opening Day Medal",
       "medalType": "activityMedal",
-      "slotId": 430,
+      "slotId": 457,
       "preMedalIdList": [
 
       ],
@@ -31496,7 +31654,7 @@
       "medalId": "medal_activity_13side_11",
       "medalName": "Invitational Medal",
       "medalType": "activityMedal",
-      "slotId": 431,
+      "slotId": 458,
       "preMedalIdList": [
 
       ],
@@ -31533,7 +31691,7 @@
       "medalId": "medal_activity_6rune_01",
       "medalName": "Wild Scales Blindfold Medal",
       "medalType": "activityMedal",
-      "slotId": 432,
+      "slotId": 459,
       "preMedalIdList": [
         "medal_activity_6rune_02",
         "medal_activity_6rune_03",
@@ -31571,7 +31729,7 @@
       "medalId": "medal_activity_6rune_02",
       "medalName": "Wild Scales: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 433,
+      "slotId": 460,
       "preMedalIdList": [
 
       ],
@@ -31604,7 +31762,7 @@
       "medalId": "medal_activity_6rune_03",
       "medalName": "Wild Scales: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 434,
+      "slotId": 461,
       "preMedalIdList": [
 
       ],
@@ -31637,7 +31795,7 @@
       "medalId": "medal_activity_6rune_04",
       "medalName": "Wild Scales: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 435,
+      "slotId": 462,
       "preMedalIdList": [
 
       ],
@@ -31648,7 +31806,7 @@
         "char_171_bldsk@summer#7",
         "1647341999"
       ],
-      "getMethod": "During Operation Wild Scales, exchange for the outfit 'Casual Vacation HD31.'",
+      "getMethod": "During Operation Wild Scales, exchange for the outfit Holiday HD31.",
       "description": "An engraved medal comes with the outfit in Operation Wild Scales.\nTrust me! She really is just here to do first aid!",
       "advancedMedal": null,
       "originMedal": null,
@@ -31669,7 +31827,7 @@
       "medalId": "medal_activity_6rune_05",
       "medalName": "Wild Scales: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 436,
+      "slotId": 463,
       "preMedalIdList": [
 
       ],
@@ -31701,7 +31859,7 @@
       "medalId": "medal_activity_6rune_06",
       "medalName": "Wild Scales: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 437,
+      "slotId": 464,
       "preMedalIdList": [
 
       ],
@@ -31733,7 +31891,7 @@
       "medalId": "medal_activity_6rune_07",
       "medalName": "Wild Scales: Call to Arms Medal II",
       "medalType": "activityMedal",
-      "slotId": 438,
+      "slotId": 465,
       "preMedalIdList": [
 
       ],
@@ -31765,7 +31923,7 @@
       "medalId": "medal_activity_6rune_08",
       "medalName": "Wild Scales: Victorious Fronts Medal",
       "medalType": "activityMedal",
-      "slotId": 439,
+      "slotId": 466,
       "preMedalIdList": [
 
       ],
@@ -31797,7 +31955,7 @@
       "medalId": "medal_activity_6rune_09",
       "medalName": "Wild Scales: Trainer's Medal",
       "medalType": "activityMedal",
-      "slotId": 440,
+      "slotId": 467,
       "preMedalIdList": [
 
       ],
@@ -31830,7 +31988,7 @@
       "medalId": "medal_activity_6rune_10",
       "medalName": "Wild Scales: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 441,
+      "slotId": 468,
       "preMedalIdList": [
 
       ],
@@ -31861,7 +32019,7 @@
       "medalId": "medal_activity_12side_01",
       "medalName": "'Dossoles, Home of the Carnivals'",
       "medalType": "activityMedal",
-      "slotId": 442,
+      "slotId": 469,
       "preMedalIdList": [
         "medal_activity_12side_02",
         "medal_activity_12side_03",
@@ -31906,7 +32064,7 @@
       "medalId": "medal_activity_12side_02",
       "medalName": "'Captain's Honor'",
       "medalType": "activityMedal",
-      "slotId": 443,
+      "slotId": 470,
       "preMedalIdList": [
 
       ],
@@ -31942,7 +32100,7 @@
       "medalId": "medal_activity_12side_03",
       "medalName": "Competition Champion's Medal",
       "medalType": "activityMedal",
-      "slotId": 444,
+      "slotId": 471,
       "preMedalIdList": [
 
       ],
@@ -31978,7 +32136,7 @@
       "medalId": "medal_activity_12side_04",
       "medalName": "Photographer's Invitation Medal",
       "medalType": "activityMedal",
-      "slotId": 445,
+      "slotId": 472,
       "preMedalIdList": [
 
       ],
@@ -32015,7 +32173,7 @@
       "medalId": "medal_activity_12side_05",
       "medalName": "Enjoy Life Shopping Spree Medal",
       "medalType": "activityMedal",
-      "slotId": 446,
+      "slotId": 473,
       "preMedalIdList": [
 
       ],
@@ -32052,7 +32210,7 @@
       "medalId": "medal_activity_12side_06",
       "medalName": "'Star of Dossoles'",
       "medalType": "activityMedal",
-      "slotId": 447,
+      "slotId": 474,
       "preMedalIdList": [
 
       ],
@@ -32089,7 +32247,7 @@
       "medalId": "medal_activity_12side_07",
       "medalName": "So Much Trouble Medal",
       "medalType": "activityMedal",
-      "slotId": 448,
+      "slotId": 475,
       "preMedalIdList": [
 
       ],
@@ -32126,7 +32284,7 @@
       "medalId": "medal_activity_12side_08",
       "medalName": "Trouble Killer Medal",
       "medalType": "activityMedal",
-      "slotId": 449,
+      "slotId": 476,
       "preMedalIdList": [
 
       ],
@@ -32163,7 +32321,7 @@
       "medalId": "medal_activity_12side_09",
       "medalName": "'Mouse's Courage, Dragon's Might'",
       "medalType": "activityMedal",
-      "slotId": 450,
+      "slotId": 477,
       "preMedalIdList": [
 
       ],
@@ -32200,7 +32358,7 @@
       "medalId": "medal_activity_12side_10",
       "medalName": "'Holungday Cop'",
       "medalType": "activityMedal",
-      "slotId": 451,
+      "slotId": 478,
       "preMedalIdList": [
 
       ],
@@ -32237,7 +32395,7 @@
       "medalId": "medal_activity_12side_11",
       "medalName": "Collector's Medal",
       "medalType": "activityMedal",
-      "slotId": 452,
+      "slotId": 479,
       "preMedalIdList": [
 
       ],
@@ -32273,7 +32431,7 @@
       "medalId": "medal_activity_12side_12",
       "medalName": "That's a Wrap Medal",
       "medalType": "activityMedal",
-      "slotId": 453,
+      "slotId": 480,
       "preMedalIdList": [
 
       ],
@@ -32309,7 +32467,7 @@
       "medalId": "medal_activity_18d5_01",
       "medalName": "Spectrum Breakthrough Medal",
       "medalType": "activityMedal",
-      "slotId": 454,
+      "slotId": 481,
       "preMedalIdList": [
         "medal_activity_18d5_02",
         "medal_activity_18d5_03",
@@ -32347,7 +32505,7 @@
       "medalId": "medal_activity_18d5_02",
       "medalName": "Spectrum: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 455,
+      "slotId": 482,
       "preMedalIdList": [
 
       ],
@@ -32380,7 +32538,7 @@
       "medalId": "medal_activity_18d5_03",
       "medalName": "Spectrum: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 456,
+      "slotId": 483,
       "preMedalIdList": [
 
       ],
@@ -32413,7 +32571,7 @@
       "medalId": "medal_activity_18d5_04",
       "medalName": "Spectrum: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 457,
+      "slotId": 484,
       "preMedalIdList": [
 
       ],
@@ -32445,7 +32603,7 @@
       "medalId": "medal_activity_18d5_05",
       "medalName": "Spectrum: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 458,
+      "slotId": 485,
       "preMedalIdList": [
 
       ],
@@ -32477,7 +32635,7 @@
       "medalId": "medal_activity_18d5_06",
       "medalName": "Spectrum: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 459,
+      "slotId": 486,
       "preMedalIdList": [
 
       ],
@@ -32509,7 +32667,7 @@
       "medalId": "medal_activity_18d5_07",
       "medalName": "Spectrum: Call to Arms Medal II",
       "medalType": "activityMedal",
-      "slotId": 460,
+      "slotId": 487,
       "preMedalIdList": [
 
       ],
@@ -32541,7 +32699,7 @@
       "medalId": "medal_activity_18d5_08",
       "medalName": "Spectrum: Victorious Fronts Medal",
       "medalType": "activityMedal",
-      "slotId": 461,
+      "slotId": 488,
       "preMedalIdList": [
 
       ],
@@ -32573,7 +32731,7 @@
       "medalId": "medal_activity_18d5_09",
       "medalName": "Spectrum: Trainer's Medal",
       "medalType": "activityMedal",
-      "slotId": 462,
+      "slotId": 489,
       "preMedalIdList": [
 
       ],
@@ -32606,7 +32764,7 @@
       "medalId": "medal_activity_18d5_10",
       "medalName": "Spectrum: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 463,
+      "slotId": 490,
       "preMedalIdList": [
 
       ],
@@ -32637,7 +32795,7 @@
       "medalId": "medal_activity_18d3_01",
       "medalName": "'Sal Viento Amidst Waves'",
       "medalType": "activityMedal",
-      "slotId": 464,
+      "slotId": 491,
       "preMedalIdList": [
         "medal_activity_18d3_02",
         "medal_activity_18d3_03",
@@ -32680,7 +32838,7 @@
       "medalId": "medal_activity_18d3_02",
       "medalName": "First Aid Specialist Medal",
       "medalType": "activityMedal",
-      "slotId": 465,
+      "slotId": 492,
       "preMedalIdList": [
 
       ],
@@ -32718,7 +32876,7 @@
       "medalId": "medal_activity_18d3_03",
       "medalName": "'Three Hunters Are Walking on Seacoast Way'",
       "medalType": "activityMedal",
-      "slotId": 466,
+      "slotId": 493,
       "preMedalIdList": [
 
       ],
@@ -32754,7 +32912,7 @@
       "medalId": "medal_activity_18d3_04",
       "medalName": "'Record Collector'",
       "medalType": "activityMedal",
-      "slotId": 467,
+      "slotId": 494,
       "preMedalIdList": [
 
       ],
@@ -32791,7 +32949,7 @@
       "medalId": "medal_activity_18d3_05",
       "medalName": "Hunger Training Medal",
       "medalType": "activityMedal",
-      "slotId": 468,
+      "slotId": 495,
       "preMedalIdList": [
 
       ],
@@ -32827,7 +32985,7 @@
       "medalId": "medal_activity_18d3_06",
       "medalName": "Tide Watcher Commemorative Medal",
       "medalType": "activityMedal",
-      "slotId": 469,
+      "slotId": 496,
       "preMedalIdList": [
 
       ],
@@ -32864,7 +33022,7 @@
       "medalId": "medal_activity_18d3_07",
       "medalName": "'The First Contact'",
       "medalType": "activityMedal",
-      "slotId": 470,
+      "slotId": 497,
       "preMedalIdList": [
 
       ],
@@ -32902,7 +33060,7 @@
       "medalId": "medal_activity_18d3_08",
       "medalName": "'Novice Survivor'",
       "medalType": "activityMedal",
-      "slotId": 471,
+      "slotId": 498,
       "preMedalIdList": [
 
       ],
@@ -32939,7 +33097,7 @@
       "medalId": "medal_activity_18d3_09",
       "medalName": "Iron Will Medal",
       "medalType": "activityMedal",
-      "slotId": 472,
+      "slotId": 499,
       "preMedalIdList": [
 
       ],
@@ -32977,7 +33135,7 @@
       "medalId": "medal_activity_18d3_10",
       "medalName": "'Perseverance'",
       "medalType": "activityMedal",
-      "slotId": 473,
+      "slotId": 500,
       "preMedalIdList": [
 
       ],
@@ -33015,7 +33173,7 @@
       "medalId": "medal_activity_18d0_01",
       "medalName": "'A Walk in the Dust'",
       "medalType": "activityMedal",
-      "slotId": 474,
+      "slotId": 501,
       "preMedalIdList": [
         "medal_activity_18d0_02",
         "medal_activity_18d0_03",
@@ -33058,7 +33216,7 @@
       "medalId": "medal_activity_18d0_02",
       "medalName": "Consultant of the Year Medal",
       "medalType": "activityMedal",
-      "slotId": 475,
+      "slotId": 502,
       "preMedalIdList": [
 
       ],
@@ -33096,7 +33254,7 @@
       "medalId": "medal_activity_18d0_03",
       "medalName": "'Heavyrain's Coming'",
       "medalType": "activityMedal",
-      "slotId": 476,
+      "slotId": 503,
       "preMedalIdList": [
 
       ],
@@ -33132,7 +33290,7 @@
       "medalId": "medal_activity_18d0_04",
       "medalName": "Archive Organizer Medal",
       "medalType": "activityMedal",
-      "slotId": 477,
+      "slotId": 504,
       "preMedalIdList": [
 
       ],
@@ -33169,7 +33327,7 @@
       "medalId": "medal_activity_18d0_05",
       "medalName": "'Taqsim of the Land'",
       "medalType": "activityMedal",
-      "slotId": 478,
+      "slotId": 505,
       "preMedalIdList": [
 
       ],
@@ -33205,7 +33363,7 @@
       "medalId": "medal_activity_18d0_06",
       "medalName": "'Wanderer of Terra'",
       "medalType": "activityMedal",
-      "slotId": 479,
+      "slotId": 506,
       "preMedalIdList": [
 
       ],
@@ -33242,7 +33400,7 @@
       "medalId": "medal_activity_18d0_07",
       "medalName": "Deadly Air Support Medal",
       "medalType": "activityMedal",
-      "slotId": 480,
+      "slotId": 507,
       "preMedalIdList": [
 
       ],
@@ -33280,7 +33438,7 @@
       "medalId": "medal_activity_18d0_08",
       "medalName": "Endless Wandering Medal",
       "medalType": "activityMedal",
-      "slotId": 481,
+      "slotId": 508,
       "preMedalIdList": [
 
       ],
@@ -33317,7 +33475,7 @@
       "medalId": "medal_activity_18d0_09",
       "medalName": "'Drone Buffet'",
       "medalType": "activityMedal",
-      "slotId": 482,
+      "slotId": 509,
       "preMedalIdList": [
 
       ],
@@ -33355,7 +33513,7 @@
       "medalId": "medal_activity_18d0_10",
       "medalName": "'The Second Contact'",
       "medalType": "activityMedal",
-      "slotId": 483,
+      "slotId": 510,
       "preMedalIdList": [
 
       ],
@@ -33392,7 +33550,7 @@
       "medalId": "medal_activity_16d5_01",
       "medalName": "'Who is Real'",
       "medalType": "activityMedal",
-      "slotId": 484,
+      "slotId": 511,
       "preMedalIdList": [
         "medal_activity_16d5_02",
         "medal_activity_16d5_03",
@@ -33435,7 +33593,7 @@
       "medalId": "medal_activity_16d5_02",
       "medalName": "'Turner of Hui and Ming'",
       "medalType": "activityMedal",
-      "slotId": 485,
+      "slotId": 512,
       "preMedalIdList": [
 
       ],
@@ -33471,7 +33629,7 @@
       "medalId": "medal_activity_16d5_03",
       "medalName": "'First Waking'",
       "medalType": "activityMedal",
-      "slotId": 486,
+      "slotId": 513,
       "preMedalIdList": [
 
       ],
@@ -33508,7 +33666,7 @@
       "medalId": "medal_activity_16d5_04",
       "medalName": "Conservation Medal",
       "medalType": "activityMedal",
-      "slotId": 487,
+      "slotId": 514,
       "preMedalIdList": [
 
       ],
@@ -33546,7 +33704,7 @@
       "medalId": "medal_activity_16d5_05",
       "medalName": "Gold-Winner Ink Spirit Medal",
       "medalType": "activityMedal",
-      "slotId": 488,
+      "slotId": 515,
       "preMedalIdList": [
 
       ],
@@ -33584,7 +33742,7 @@
       "medalId": "medal_activity_16d5_06",
       "medalName": "Freeling Medal",
       "medalType": "activityMedal",
-      "slotId": 489,
+      "slotId": 516,
       "preMedalIdList": [
 
       ],
@@ -33620,7 +33778,7 @@
       "medalId": "medal_activity_16d5_07",
       "medalName": "'Know Yourself, Illuminate Yourself'",
       "medalType": "activityMedal",
-      "slotId": 490,
+      "slotId": 517,
       "preMedalIdList": [
 
       ],
@@ -33657,7 +33815,7 @@
       "medalId": "medal_activity_16d5_08",
       "medalName": "'Itinerant in the Painting'",
       "medalType": "activityMedal",
-      "slotId": 491,
+      "slotId": 518,
       "preMedalIdList": [
 
       ],
@@ -33693,7 +33851,7 @@
       "medalId": "medal_activity_16d5_09",
       "medalName": "Purgatory Medal",
       "medalType": "activityMedal",
-      "slotId": 492,
+      "slotId": 519,
       "preMedalIdList": [
 
       ],
@@ -33729,7 +33887,7 @@
       "medalId": "medal_activity_16d5_10",
       "medalName": "Ink and Stone Medal",
       "medalType": "activityMedal",
-      "slotId": 493,
+      "slotId": 520,
       "preMedalIdList": [
 
       ],
@@ -33766,7 +33924,7 @@
       "medalId": "medal_activity_16d0_01",
       "medalName": "Lead Seal Asunder Medal",
       "medalType": "activityMedal",
-      "slotId": 494,
+      "slotId": 521,
       "preMedalIdList": [
         "medal_activity_16d0_02",
         "medal_activity_16d0_03",
@@ -33804,7 +33962,7 @@
       "medalId": "medal_activity_16d0_02",
       "medalName": "Lead Seal: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 495,
+      "slotId": 522,
       "preMedalIdList": [
 
       ],
@@ -33837,7 +33995,7 @@
       "medalId": "medal_activity_16d0_03",
       "medalName": "Lead Seal: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 496,
+      "slotId": 523,
       "preMedalIdList": [
 
       ],
@@ -33870,7 +34028,7 @@
       "medalId": "medal_activity_16d0_04",
       "medalName": "Lead Seal: Operator Medal",
       "medalType": "activityMedal",
-      "slotId": 497,
+      "slotId": 524,
       "preMedalIdList": [
 
       ],
@@ -33901,7 +34059,7 @@
       "medalId": "medal_activity_16d0_05",
       "medalName": "Lead Seal: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 498,
+      "slotId": 525,
       "preMedalIdList": [
 
       ],
@@ -33933,7 +34091,7 @@
       "medalId": "medal_activity_16d0_06",
       "medalName": "Lead Seal: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 499,
+      "slotId": 526,
       "preMedalIdList": [
 
       ],
@@ -33965,7 +34123,7 @@
       "medalId": "medal_activity_16d0_07",
       "medalName": "Lead Seal: Call to Arms Medal II",
       "medalType": "activityMedal",
-      "slotId": 500,
+      "slotId": 527,
       "preMedalIdList": [
 
       ],
@@ -33997,7 +34155,7 @@
       "medalId": "medal_activity_16d0_08",
       "medalName": "Lead Seal: Victorious Fronts Medal",
       "medalType": "activityMedal",
-      "slotId": 501,
+      "slotId": 528,
       "preMedalIdList": [
 
       ],
@@ -34029,7 +34187,7 @@
       "medalId": "medal_activity_16d0_09",
       "medalName": "Lead Seal: Trainer's Medal",
       "medalType": "activityMedal",
-      "slotId": 502,
+      "slotId": 529,
       "preMedalIdList": [
 
       ],
@@ -34062,7 +34220,7 @@
       "medalId": "medal_activity_16d0_10",
       "medalName": "Lead Seal: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 503,
+      "slotId": 530,
       "preMedalIdList": [
 
       ],
@@ -34093,7 +34251,7 @@
       "medalId": "medal_activity_15d0_01",
       "medalName": "Books and Spoon",
       "medalType": "activityMedal",
-      "slotId": 504,
+      "slotId": 531,
       "preMedalIdList": [
         "medal_activity_15d0_02",
         "medal_activity_15d0_03",
@@ -34136,7 +34294,7 @@
       "medalId": "medal_activity_15d0_02",
       "medalName": "Outstanding Prisoner Medal",
       "medalType": "activityMedal",
-      "slotId": 505,
+      "slotId": 532,
       "preMedalIdList": [
 
       ],
@@ -34173,7 +34331,7 @@
       "medalId": "medal_activity_15d0_03",
       "medalName": "Making Amends",
       "medalType": "activityMedal",
-      "slotId": 506,
+      "slotId": 533,
       "preMedalIdList": [
 
       ],
@@ -34209,7 +34367,7 @@
       "medalId": "medal_activity_15d0_04",
       "medalName": "Prisoner of Extravagance",
       "medalType": "activityMedal",
-      "slotId": 507,
+      "slotId": 534,
       "preMedalIdList": [
 
       ],
@@ -34246,7 +34404,7 @@
       "medalId": "medal_activity_15d0_05",
       "medalName": "Mansfield Commemorative Medal",
       "medalType": "activityMedal",
-      "slotId": 508,
+      "slotId": 535,
       "preMedalIdList": [
 
       ],
@@ -34282,7 +34440,7 @@
       "medalId": "medal_activity_15d0_06",
       "medalName": "Prison Break",
       "medalType": "activityMedal",
-      "slotId": 509,
+      "slotId": 536,
       "preMedalIdList": [
 
       ],
@@ -34319,7 +34477,7 @@
       "medalId": "medal_activity_15d0_07",
       "medalName": "Prisoner of Smarts",
       "medalType": "activityMedal",
-      "slotId": 510,
+      "slotId": 537,
       "preMedalIdList": [
 
       ],
@@ -34357,7 +34515,7 @@
       "medalId": "medal_activity_15d0_08",
       "medalName": "Prisoner of Freedom",
       "medalType": "activityMedal",
-      "slotId": 511,
+      "slotId": 538,
       "preMedalIdList": [
 
       ],
@@ -34394,7 +34552,7 @@
       "medalId": "medal_activity_15d0_09",
       "medalName": "Prisoner of Might",
       "medalType": "activityMedal",
-      "slotId": 512,
+      "slotId": 539,
       "preMedalIdList": [
 
       ],
@@ -34432,7 +34590,7 @@
       "medalId": "medal_activity_15d0_10",
       "medalName": "Brains and Brawn",
       "medalType": "activityMedal",
-      "slotId": 513,
+      "slotId": 540,
       "preMedalIdList": [
 
       ],
@@ -34470,7 +34628,7 @@
       "medalId": "medal_activity_14d5_01",
       "medalName": "Everlasting Cinder Medal",
       "medalType": "activityMedal",
-      "slotId": 514,
+      "slotId": 541,
       "preMedalIdList": [
         "medal_activity_14d5_02",
         "medal_activity_14d5_03",
@@ -34508,7 +34666,7 @@
       "medalId": "medal_activity_14d5_02",
       "medalName": "Cinder: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 515,
+      "slotId": 542,
       "preMedalIdList": [
 
       ],
@@ -34541,7 +34699,7 @@
       "medalId": "medal_activity_14d5_03",
       "medalName": "Cinder: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 516,
+      "slotId": 543,
       "preMedalIdList": [
 
       ],
@@ -34574,7 +34732,7 @@
       "medalId": "medal_activity_14d5_04",
       "medalName": "Cinder: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 517,
+      "slotId": 544,
       "preMedalIdList": [
 
       ],
@@ -34606,7 +34764,7 @@
       "medalId": "medal_activity_14d5_05",
       "medalName": "Cinder: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 518,
+      "slotId": 545,
       "preMedalIdList": [
 
       ],
@@ -34638,7 +34796,7 @@
       "medalId": "medal_activity_14d5_06",
       "medalName": "Cinder: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 519,
+      "slotId": 546,
       "preMedalIdList": [
 
       ],
@@ -34670,7 +34828,7 @@
       "medalId": "medal_activity_14d5_07",
       "medalName": "Cinder: Call to Arms Medal II",
       "medalType": "activityMedal",
-      "slotId": 520,
+      "slotId": 547,
       "preMedalIdList": [
 
       ],
@@ -34702,7 +34860,7 @@
       "medalId": "medal_activity_14d5_08",
       "medalName": "Cinder: Victorious Fronts Medal",
       "medalType": "activityMedal",
-      "slotId": 521,
+      "slotId": 548,
       "preMedalIdList": [
 
       ],
@@ -34734,7 +34892,7 @@
       "medalId": "medal_activity_14d5_09",
       "medalName": "Cinder: Trainer's Medal",
       "medalType": "activityMedal",
-      "slotId": 522,
+      "slotId": 549,
       "preMedalIdList": [
 
       ],
@@ -34767,7 +34925,7 @@
       "medalId": "medal_activity_14d5_10",
       "medalName": "Cinder: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 523,
+      "slotId": 550,
       "preMedalIdList": [
 
       ],
@@ -34798,7 +34956,7 @@
       "medalId": "medal_activity_13d5_01",
       "medalName": "'Fear Neither Hardship Nor Darkness'",
       "medalType": "activityMedal",
-      "slotId": 524,
+      "slotId": 551,
       "preMedalIdList": [
         "medal_activity_13d5_02",
         "medal_activity_13d5_03",
@@ -34841,7 +34999,7 @@
       "medalId": "medal_activity_13d5_02",
       "medalName": "Arena Veteran Medal",
       "medalType": "activityMedal",
-      "slotId": 525,
+      "slotId": 552,
       "preMedalIdList": [
 
       ],
@@ -34878,7 +35036,7 @@
       "medalId": "medal_activity_13d5_03",
       "medalName": "Major Commemorative Medal",
       "medalType": "activityMedal",
-      "slotId": 526,
+      "slotId": 553,
       "preMedalIdList": [
 
       ],
@@ -34915,7 +35073,7 @@
       "medalId": "medal_activity_13d5_04",
       "medalName": "Down-and-Out Executioner's Medal",
       "medalType": "activityMedal",
-      "slotId": 527,
+      "slotId": 554,
       "preMedalIdList": [
 
       ],
@@ -34953,7 +35111,7 @@
       "medalId": "medal_activity_13d5_05",
       "medalName": "Most Valuable Knight Medal",
       "medalType": "activityMedal",
-      "slotId": 528,
+      "slotId": 555,
       "preMedalIdList": [
 
       ],
@@ -34991,7 +35149,7 @@
       "medalId": "medal_activity_13d5_06",
       "medalName": "'Legend of the Losers'",
       "medalType": "activityMedal",
-      "slotId": 529,
+      "slotId": 556,
       "preMedalIdList": [
 
       ],
@@ -35028,7 +35186,7 @@
       "medalId": "medal_activity_13d5_07",
       "medalName": "Knight Lovers' Medal",
       "medalType": "activityMedal",
-      "slotId": 530,
+      "slotId": 557,
       "preMedalIdList": [
 
       ],
@@ -35064,7 +35222,7 @@
       "medalId": "medal_activity_13d5_08",
       "medalName": "'Silence is Golden'",
       "medalType": "activityMedal",
-      "slotId": 531,
+      "slotId": 558,
       "preMedalIdList": [
 
       ],
@@ -35100,7 +35258,7 @@
       "medalId": "medal_activity_13d5_09",
       "medalName": "'The Whislash Knight'",
       "medalType": "activityMedal",
-      "slotId": 532,
+      "slotId": 559,
       "preMedalIdList": [
 
       ],
@@ -35136,7 +35294,7 @@
       "medalId": "medal_activity_13d5_10",
       "medalName": "Supreme Consumerism Medal",
       "medalType": "activityMedal",
-      "slotId": 533,
+      "slotId": 560,
       "preMedalIdList": [
 
       ],
@@ -35173,7 +35331,7 @@
       "medalId": "medal_activity_12d0_10",
       "medalName": "'Gift of the High Priest'",
       "medalType": "activityMedal",
-      "slotId": 534,
+      "slotId": 561,
       "preMedalIdList": [
         "medal_activity_12d0_01",
         "medal_activity_12d0_02",
@@ -35216,7 +35374,7 @@
       "medalId": "medal_activity_12d0_01",
       "medalName": "Mushroom Fanatic's Medal",
       "medalType": "activityMedal",
-      "slotId": 535,
+      "slotId": 562,
       "preMedalIdList": [
 
       ],
@@ -35253,7 +35411,7 @@
       "medalId": "medal_activity_12d0_02",
       "medalName": "'Tomimi's Respect'",
       "medalType": "activityMedal",
-      "slotId": 536,
+      "slotId": 563,
       "preMedalIdList": [
 
       ],
@@ -35289,7 +35447,7 @@
       "medalId": "medal_activity_12d0_03",
       "medalName": "Inam's Collection",
       "medalType": "activityMedal",
-      "slotId": 537,
+      "slotId": 564,
       "preMedalIdList": [
 
       ],
@@ -35326,7 +35484,7 @@
       "medalId": "medal_activity_12d0_04",
       "medalName": "Acahualla Memorial Medal",
       "medalType": "activityMedal",
-      "slotId": 538,
+      "slotId": 565,
       "preMedalIdList": [
 
       ],
@@ -35363,7 +35521,7 @@
       "medalId": "medal_activity_12d0_05",
       "medalName": "Tribal Warrior Medal",
       "medalType": "activityMedal",
-      "slotId": 539,
+      "slotId": 566,
       "preMedalIdList": [
 
       ],
@@ -35402,7 +35560,7 @@
       "medalId": "medal_activity_12d0_06",
       "medalName": "'Gavial's Appreciation'",
       "medalType": "activityMedal",
-      "slotId": 540,
+      "slotId": 567,
       "preMedalIdList": [
 
       ],
@@ -35439,7 +35597,7 @@
       "medalId": "medal_activity_12d0_07",
       "medalName": "'Zumama's Affirmation'",
       "medalType": "activityMedal",
-      "slotId": 541,
+      "slotId": 568,
       "preMedalIdList": [
 
       ],
@@ -35475,7 +35633,7 @@
       "medalId": "medal_activity_12d0_08",
       "medalName": "Sightseeing Medal",
       "medalType": "activityMedal",
-      "slotId": 542,
+      "slotId": 569,
       "preMedalIdList": [
 
       ],
@@ -35514,7 +35672,7 @@
       "medalId": "medal_activity_12d0_09",
       "medalName": "Berserker Medal",
       "medalType": "activityMedal",
-      "slotId": 543,
+      "slotId": 570,
       "preMedalIdList": [
 
       ],
@@ -35553,7 +35711,7 @@
       "medalId": "medal_activity_11d5_01",
       "medalName": "Unsheathed Blade Medal",
       "medalType": "activityMedal",
-      "slotId": 544,
+      "slotId": 571,
       "preMedalIdList": [
         "medal_activity_11d5_02",
         "medal_activity_11d5_03",
@@ -35591,7 +35749,7 @@
       "medalId": "medal_activity_11d5_02",
       "medalName": "Blade: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 545,
+      "slotId": 572,
       "preMedalIdList": [
 
       ],
@@ -35624,7 +35782,7 @@
       "medalId": "medal_activity_11d5_03",
       "medalName": "Blade: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 546,
+      "slotId": 573,
       "preMedalIdList": [
 
       ],
@@ -35657,7 +35815,7 @@
       "medalId": "medal_activity_11d5_04",
       "medalName": "Blade: Operator Medal",
       "medalType": "activityMedal",
-      "slotId": 547,
+      "slotId": 574,
       "preMedalIdList": [
 
       ],
@@ -35688,7 +35846,7 @@
       "medalId": "medal_activity_11d5_05",
       "medalName": "Blade: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 548,
+      "slotId": 575,
       "preMedalIdList": [
 
       ],
@@ -35720,7 +35878,7 @@
       "medalId": "medal_activity_11d5_06",
       "medalName": "Blade: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 549,
+      "slotId": 576,
       "preMedalIdList": [
 
       ],
@@ -35752,7 +35910,7 @@
       "medalId": "medal_activity_11d5_07",
       "medalName": "Blade: Call to Arms Medal II",
       "medalType": "activityMedal",
-      "slotId": 550,
+      "slotId": 577,
       "preMedalIdList": [
 
       ],
@@ -35784,7 +35942,7 @@
       "medalId": "medal_activity_11d5_08",
       "medalName": "Blade: Victorious Fronts Medal",
       "medalType": "activityMedal",
-      "slotId": 551,
+      "slotId": 578,
       "preMedalIdList": [
 
       ],
@@ -35816,7 +35974,7 @@
       "medalId": "medal_activity_11d5_09",
       "medalName": "Blade: Trainer's Medal",
       "medalType": "activityMedal",
-      "slotId": 552,
+      "slotId": 579,
       "preMedalIdList": [
 
       ],
@@ -35849,7 +36007,7 @@
       "medalId": "medal_activity_11d5_10",
       "medalName": "Blade: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 553,
+      "slotId": 580,
       "preMedalIdList": [
 
       ],
@@ -35880,7 +36038,7 @@
       "medalId": "medal_activity_11d0_01",
       "medalName": "'A Tragedy Without Drama'",
       "medalType": "activityMedal",
-      "slotId": 554,
+      "slotId": 581,
       "preMedalIdList": [
         "medal_activity_11d0_02",
         "medal_activity_11d0_03",
@@ -35924,7 +36082,7 @@
       "medalId": "medal_activity_11d0_02",
       "medalName": "'The Eighth Moon'",
       "medalType": "activityMedal",
-      "slotId": 555,
+      "slotId": 582,
       "preMedalIdList": [
 
       ],
@@ -35961,7 +36119,7 @@
       "medalId": "medal_activity_11d0_03",
       "medalName": "Rock Musician Medal",
       "medalType": "activityMedal",
-      "slotId": 556,
+      "slotId": 583,
       "preMedalIdList": [
 
       ],
@@ -35999,7 +36157,7 @@
       "medalId": "medal_activity_11d0_04",
       "medalName": "'Winterwisp's Poem'",
       "medalType": "activityMedal",
-      "slotId": 557,
+      "slotId": 584,
       "preMedalIdList": [
 
       ],
@@ -36036,7 +36194,7 @@
       "medalId": "medal_activity_11d0_05",
       "medalName": "Soloist Medal",
       "medalType": "activityMedal",
-      "slotId": 558,
+      "slotId": 585,
       "preMedalIdList": [
 
       ],
@@ -36074,7 +36232,7 @@
       "medalId": "medal_activity_11d0_06",
       "medalName": "Wolumonde Medal of Honor",
       "medalType": "activityMedal",
-      "slotId": 559,
+      "slotId": 586,
       "preMedalIdList": [
 
       ],
@@ -36111,7 +36269,7 @@
       "medalId": "medal_activity_11d0_07",
       "medalName": "Gendarmerie Offensive Medal",
       "medalType": "activityMedal",
-      "slotId": 560,
+      "slotId": 587,
       "preMedalIdList": [
 
       ],
@@ -36148,7 +36306,7 @@
       "medalId": "medal_activity_11d0_08",
       "medalName": "Folinic's Handmade Medal",
       "medalType": "activityMedal",
-      "slotId": 561,
+      "slotId": 588,
       "preMedalIdList": [
 
       ],
@@ -36184,7 +36342,7 @@
       "medalId": "medal_activity_11d0_09",
       "medalName": "Town Restoration Medal",
       "medalType": "activityMedal",
-      "slotId": 562,
+      "slotId": 589,
       "preMedalIdList": [
 
       ],
@@ -36221,7 +36379,7 @@
       "medalId": "medal_activity_11d0_10",
       "medalName": "Peacekeeper Medal",
       "medalType": "activityMedal",
-      "slotId": 563,
+      "slotId": 590,
       "preMedalIdList": [
 
       ],
@@ -36257,7 +36415,7 @@
       "medalId": "medal_activity_11d0_11",
       "medalName": "Twelve-Tone Medal",
       "medalType": "activityMedal",
-      "slotId": 564,
+      "slotId": 591,
       "preMedalIdList": [
 
       ],
@@ -36293,7 +36451,7 @@
       "medalId": "medal_activity_10d0_01",
       "medalName": "Reforged Pyrite Medal",
       "medalType": "activityMedal",
-      "slotId": 565,
+      "slotId": 592,
       "preMedalIdList": [
         "medal_activity_10d0_02",
         "medal_activity_10d0_03",
@@ -36331,7 +36489,7 @@
       "medalId": "medal_activity_10d0_02",
       "medalName": "Pyrite: Commemorative Contract Medal",
       "medalType": "activityMedal",
-      "slotId": 566,
+      "slotId": 593,
       "preMedalIdList": [
 
       ],
@@ -36364,7 +36522,7 @@
       "medalId": "medal_activity_10d0_03",
       "medalName": "Pyrite: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 567,
+      "slotId": 594,
       "preMedalIdList": [
 
       ],
@@ -36397,7 +36555,7 @@
       "medalId": "medal_activity_10d0_04",
       "medalName": "Pyrite: Combat Attire Medal",
       "medalType": "activityMedal",
-      "slotId": 568,
+      "slotId": 595,
       "preMedalIdList": [
 
       ],
@@ -36429,7 +36587,7 @@
       "medalId": "medal_activity_10d0_05",
       "medalName": "Pyrite: Trailblazer Medal",
       "medalType": "activityMedal",
-      "slotId": 569,
+      "slotId": 596,
       "preMedalIdList": [
 
       ],
@@ -36461,7 +36619,7 @@
       "medalId": "medal_activity_10d0_06",
       "medalName": "Pyrite: Call to Arms Medal",
       "medalType": "activityMedal",
-      "slotId": 570,
+      "slotId": 597,
       "preMedalIdList": [
 
       ],
@@ -36493,7 +36651,7 @@
       "medalId": "medal_activity_10d0_07",
       "medalName": "Pyrite: Call to Arms Medal II",
       "medalType": "activityMedal",
-      "slotId": 571,
+      "slotId": 598,
       "preMedalIdList": [
 
       ],
@@ -36525,7 +36683,7 @@
       "medalId": "medal_activity_10d0_08",
       "medalName": "Pyrite: Victorious Fronts Medal",
       "medalType": "activityMedal",
-      "slotId": 572,
+      "slotId": 599,
       "preMedalIdList": [
 
       ],
@@ -36557,7 +36715,7 @@
       "medalId": "medal_activity_10d0_09",
       "medalName": "Pyrite: Trainer's Medal",
       "medalType": "activityMedal",
-      "slotId": 573,
+      "slotId": 600,
       "preMedalIdList": [
 
       ],
@@ -36590,7 +36748,7 @@
       "medalId": "medal_activity_10d0_10",
       "medalName": "Pyrite: Medal of Cooperation",
       "medalType": "activityMedal",
-      "slotId": 574,
+      "slotId": 601,
       "preMedalIdList": [
 
       ],
@@ -36621,7 +36779,7 @@
       "medalId": "medal_activity_1sandbox_01",
       "medalName": "'Grail Betwixt the Rainbow'",
       "medalType": "activityMedal",
-      "slotId": 575,
+      "slotId": 602,
       "preMedalIdList": [
 
       ],
@@ -36653,7 +36811,7 @@
       "medalId": "medal_activity_1sandbox_02",
       "medalName": "'Into Oil and Smoke'",
       "medalType": "activityMedal",
-      "slotId": 576,
+      "slotId": 603,
       "preMedalIdList": [
 
       ],
@@ -36685,7 +36843,7 @@
       "medalId": "medal_activity_1sandbox_03",
       "medalName": "'Tools of Survival'",
       "medalType": "activityMedal",
-      "slotId": 577,
+      "slotId": 604,
       "preMedalIdList": [
 
       ],
@@ -36717,7 +36875,7 @@
       "medalId": "medal_activity_1sandbox_04",
       "medalName": "Sandsea Endgame Medal",
       "medalType": "activityMedal",
-      "slotId": 578,
+      "slotId": 605,
       "preMedalIdList": [
 
       ],
@@ -36746,10 +36904,68 @@
       "isHidden": false
     },
     {
+      "medalId": "medal_activity_19mini_01",
+      "medalName": "'In the Mortal Realm'",
+      "medalType": "activityMedal",
+      "slotId": 606,
+      "preMedalIdList": [
+
+      ],
+      "rarity": "T2",
+      "template": "UnlockStoryGroup",
+      "unlockParam": [
+        "act19mini"
+      ],
+      "getMethod": "Unlock all the stories in Fantasy in the Mirage",
+      "description": "Life is to be celebrated, though trials and tribulations there may be. Live life to the fullest, and you shall have no regrets. The vessel may die and decay, but the spirit lives on.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1765454400,
+      "expireTimes": [
+
+      ],
+      "medalRewardGroup": [
+
+      ],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_19mini_02",
+      "medalName": "'Plaque of Determination'",
+      "medalType": "activityMedal",
+      "slotId": 607,
+      "preMedalIdList": [
+
+      ],
+      "rarity": "T2",
+      "template": "GotItemBeforeTime",
+      "unlockParam": [
+        "1",
+        "char_325_bison@yun#7",
+        "1766314799"
+      ],
+      "getMethod": "During the Fantasy in the Mirage event, obtain the outfit Soaring Will",
+      "description": "Medal that Bison gave you after completing the workouts, in gratitude for your guidance and trust.\nThe enthusiasm of youth, honed by trial and training.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1765454400,
+      "expireTimes": [
+        {
+          "start": 1766314799,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [
+
+      ],
+      "isHidden": false
+    },
+    {
       "medalId": "medal_activity_18mini_01",
       "medalName": "'Arrive Before the End of Tomorrow'",
       "medalType": "activityMedal",
-      "slotId": 579,
+      "slotId": 608,
       "preMedalIdList": [
 
       ],
@@ -36775,7 +36991,7 @@
       "medalId": "medal_activity_18mini_02",
       "medalName": "'Romantic Balloon'",
       "medalType": "activityMedal",
-      "slotId": 580,
+      "slotId": 609,
       "preMedalIdList": [
 
       ],
@@ -36807,7 +37023,7 @@
       "medalId": "medal_activity_17mini_01",
       "medalName": "Return to the Beginning",
       "medalType": "activityMedal",
-      "slotId": 581,
+      "slotId": 610,
       "preMedalIdList": [
 
       ],
@@ -36833,7 +37049,7 @@
       "medalId": "medal_activity_17mini_02",
       "medalName": "'Water Bomb Wars!'",
       "medalType": "activityMedal",
-      "slotId": 582,
+      "slotId": 611,
       "preMedalIdList": [
 
       ],
@@ -36865,7 +37081,7 @@
       "medalId": "medal_activity_16mini_01",
       "medalName": "'Strange Sandland Odyssey'",
       "medalType": "activityMedal",
-      "slotId": 583,
+      "slotId": 612,
       "preMedalIdList": [
 
       ],
@@ -36891,7 +37107,7 @@
       "medalId": "medal_activity_16mini_02",
       "medalName": "'Truth of the Land'",
       "medalType": "activityMedal",
-      "slotId": 584,
+      "slotId": 613,
       "preMedalIdList": [
 
       ],
@@ -36923,7 +37139,7 @@
       "medalId": "medal_activity_15mini_01",
       "medalName": "'Bitter Cold of the Future'",
       "medalType": "activityMedal",
-      "slotId": 585,
+      "slotId": 614,
       "preMedalIdList": [
 
       ],
@@ -36949,7 +37165,7 @@
       "medalId": "medal_activity_15mini_02",
       "medalName": "'Summer Travel Plans'",
       "medalType": "activityMedal",
-      "slotId": 586,
+      "slotId": 615,
       "preMedalIdList": [
 
       ],
@@ -36981,7 +37197,7 @@
       "medalId": "medal_activity_14mini_01",
       "medalName": "'Beyond the Mountains'",
       "medalType": "activityMedal",
-      "slotId": 587,
+      "slotId": 616,
       "preMedalIdList": [
 
       ],
@@ -37007,7 +37223,7 @@
       "medalId": "medal_activity_14mini_02",
       "medalName": "'Depths of Knowledge'",
       "medalType": "activityMedal",
-      "slotId": 588,
+      "slotId": 617,
       "preMedalIdList": [
 
       ],
@@ -37039,7 +37255,7 @@
       "medalId": "medal_activity_12mini_01",
       "medalName": "'Lost at Crossroads'",
       "medalType": "activityMedal",
-      "slotId": 589,
+      "slotId": 618,
       "preMedalIdList": [
 
       ],
@@ -37065,7 +37281,7 @@
       "medalId": "medal_activity_12mini_02",
       "medalName": "Quiet Researcher",
       "medalType": "activityMedal",
-      "slotId": 590,
+      "slotId": 619,
       "preMedalIdList": [
 
       ],
@@ -37097,7 +37313,7 @@
       "medalId": "medal_activity_11mini_01",
       "medalName": "'A Corner of Time'",
       "medalType": "activityMedal",
-      "slotId": 591,
+      "slotId": 620,
       "preMedalIdList": [
 
       ],
@@ -37123,7 +37339,7 @@
       "medalId": "medal_activity_11mini_02",
       "medalName": "Unknown Progress Medal",
       "medalType": "activityMedal",
-      "slotId": 592,
+      "slotId": 621,
       "preMedalIdList": [
 
       ],
@@ -37155,7 +37371,7 @@
       "medalId": "medal_activity_10mini_01",
       "medalName": "'A Spark Beneath the Darkness'",
       "medalType": "activityMedal",
-      "slotId": 593,
+      "slotId": 622,
       "preMedalIdList": [
 
       ],
@@ -37181,7 +37397,7 @@
       "medalId": "medal_activity_10mini_02",
       "medalName": "Capable Police Officer",
       "medalType": "activityMedal",
-      "slotId": 594,
+      "slotId": 623,
       "preMedalIdList": [
 
       ],
@@ -37213,7 +37429,7 @@
       "medalId": "medal_activity_9mini_01",
       "medalName": "Hard Knocks Medal",
       "medalType": "activityMedal",
-      "slotId": 595,
+      "slotId": 624,
       "preMedalIdList": [
 
       ],
@@ -37239,7 +37455,7 @@
       "medalId": "medal_activity_9mini_02",
       "medalName": "'The Strange Thief's Whimsy'",
       "medalType": "activityMedal",
-      "slotId": 596,
+      "slotId": 625,
       "preMedalIdList": [
 
       ],
@@ -37271,7 +37487,7 @@
       "medalId": "medal_activity_8mini_01",
       "medalName": "'I, I Am—'",
       "medalType": "activityMedal",
-      "slotId": 597,
+      "slotId": 626,
       "preMedalIdList": [
 
       ],
@@ -37297,7 +37513,7 @@
       "medalId": "medal_activity_8mini_02",
       "medalName": "'One Mile After Another'",
       "medalType": "activityMedal",
-      "slotId": 598,
+      "slotId": 627,
       "preMedalIdList": [
 
       ],
@@ -37329,7 +37545,7 @@
       "medalId": "medal_activity_1lock_01",
       "medalName": "Twilight Frontier Challenge Medal",
       "medalType": "activityMedal",
-      "slotId": 599,
+      "slotId": 628,
       "preMedalIdList": [
 
       ],
@@ -37362,7 +37578,7 @@
       "medalId": "medal_activity_7mini_01",
       "medalName": "Silent Guardian Commemorative Medal",
       "medalType": "activityMedal",
-      "slotId": 600,
+      "slotId": 629,
       "preMedalIdList": [
 
       ],
@@ -37388,7 +37604,7 @@
       "medalId": "medal_activity_7mini_02",
       "medalName": "'Door to Fairytales'",
       "medalType": "activityMedal",
-      "slotId": 601,
+      "slotId": 630,
       "preMedalIdList": [
 
       ],
@@ -37419,7 +37635,7 @@
       "medalId": "medal_activity_15d5_01",
       "medalName": "Field Ops Records Verification Medal",
       "medalType": "activityMedal",
-      "slotId": 602,
+      "slotId": 631,
       "preMedalIdList": [
 
       ],
@@ -37449,7 +37665,7 @@
       "medalId": "medal_activity_15d5_02",
       "medalName": "Field Attire Commemorative Medal",
       "medalType": "activityMedal",
-      "slotId": 603,
+      "slotId": 632,
       "preMedalIdList": [
 
       ],
@@ -37481,7 +37697,7 @@
       "medalId": "medal_activity_13d0_01",
       "medalName": "Earthbound Breeze Medal",
       "medalType": "activityMedal",
-      "slotId": 604,
+      "slotId": 633,
       "preMedalIdList": [
 
       ],
@@ -37511,7 +37727,7 @@
       "medalId": "medal_activity_13d0_02",
       "medalName": "'A Book's Teethmarks'",
       "medalType": "activityMedal",
-      "slotId": 605,
+      "slotId": 634,
       "preMedalIdList": [
 
       ],
@@ -37542,7 +37758,7 @@
       "medalId": "medal_activity_10d5_01",
       "medalName": "Peterheim Middle School Emblem",
       "medalType": "activityMedal",
-      "slotId": 606,
+      "slotId": 635,
       "preMedalIdList": [
 
       ],
@@ -37572,7 +37788,7 @@
       "medalId": "medal_activity_10d5_02",
       "medalName": "Damaged Chernobog Badge",
       "medalType": "activityMedal",
-      "slotId": 607,
+      "slotId": 636,
       "preMedalIdList": [
 
       ],
@@ -37604,7 +37820,7 @@
       "medalId": "medal_activity_7d5_01",
       "medalName": "Afternoon Cafeteria Voucher",
       "medalType": "activityMedal",
-      "slotId": 608,
+      "slotId": 637,
       "preMedalIdList": [
 
       ],
@@ -37630,7 +37846,7 @@
       "medalId": "medal_activity_6d5_01",
       "medalName": "Nian's Seal",
       "medalType": "activityMedal",
-      "slotId": 609,
+      "slotId": 638,
       "preMedalIdList": [
 
       ],
@@ -37656,7 +37872,7 @@
       "medalId": "medal_activity_4d0_01",
       "medalName": "Intelligence Archives Verification Medal",
       "medalType": "activityMedal",
-      "slotId": 610,
+      "slotId": 639,
       "preMedalIdList": [
 
       ],
@@ -38346,7 +38562,7 @@
       "medalId": "medal_hidden_story_lolxh_1",
       "medalName": "'Sleepwalker Sailing'",
       "medalType": "hiddenMedal",
-      "slotId": 22,
+      "slotId": 23,
       "preMedalIdList": [
 
       ],
@@ -38377,7 +38593,7 @@
       "medalId": "medal_hidden_13mini_01",
       "medalName": "'Yep, I'm Taking Him Home!'",
       "medalType": "hiddenMedal",
-      "slotId": 23,
+      "slotId": 24,
       "preMedalIdList": [
 
       ],
@@ -38407,7 +38623,7 @@
       "medalId": "medal_hidden_13mini_02",
       "medalName": "'Xiaohei'",
       "medalType": "hiddenMedal",
-      "slotId": 24,
+      "slotId": 25,
       "preMedalIdList": [
 
       ],
@@ -38516,7 +38732,7 @@
       "medalId": "medal_hidden_32side_01",
       "medalName": "'Friend of Chaos'",
       "medalType": "hiddenMedal",
-      "slotId": 27,
+      "slotId": 28,
       "preMedalIdList": [
 
       ],
@@ -38552,7 +38768,7 @@
       "medalId": "medal_hidden_32side_02",
       "medalName": "'Spicy Krysztauowa'",
       "medalType": "hiddenMedal",
-      "slotId": 28,
+      "slotId": 29,
       "preMedalIdList": [
 
       ],
@@ -38589,7 +38805,7 @@
       "medalId": "medal_hidden_36side_01",
       "medalName": "Veteran Cook",
       "medalType": "hiddenMedal",
-      "slotId": 29,
+      "slotId": 30,
       "preMedalIdList": [
 
       ],
@@ -38625,7 +38841,7 @@
       "medalId": "medal_hidden_36side_02",
       "medalName": "Terran Culinary Expert",
       "medalType": "hiddenMedal",
-      "slotId": 30,
+      "slotId": 31,
       "preMedalIdList": [
 
       ],
@@ -38662,7 +38878,7 @@
       "medalId": "medal_activity_10d0_035",
       "medalName": "Pyrite: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 567,
+      "slotId": 594,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisStageScoreBeforeTime",
@@ -38693,7 +38909,7 @@
       "medalId": "medal_activity_11d0_075",
       "medalName": "Gendarmerie Offensive Medal",
       "medalType": "activityMedal",
-      "slotId": 560,
+      "slotId": 587,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithTower",
@@ -38729,7 +38945,7 @@
       "medalId": "medal_activity_11d5_035",
       "medalName": "Blade: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 546,
+      "slotId": 573,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisStageScoreBeforeTime",
@@ -38760,7 +38976,7 @@
       "medalId": "medal_activity_12d0_085",
       "medalName": "Sightseeing Medal",
       "medalType": "activityMedal",
-      "slotId": 542,
+      "slotId": 569,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithCutTree",
@@ -38797,7 +39013,7 @@
       "medalId": "medal_activity_13d5_045",
       "medalName": "Down-and-Out Executioner's Medal",
       "medalType": "activityMedal",
-      "slotId": 527,
+      "slotId": 554,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageKilled",
@@ -38834,7 +39050,7 @@
       "medalId": "medal_activity_14d5_035",
       "medalName": "Cinder: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 516,
+      "slotId": 543,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisStageScoreBeforeTime",
@@ -38865,7 +39081,7 @@
       "medalId": "medal_activity_15d0_105",
       "medalName": "Brains and Brawn",
       "medalType": "activityMedal",
-      "slotId": 513,
+      "slotId": 540,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithTrapSurvived",
@@ -38901,7 +39117,7 @@
       "medalId": "medal_activity_16d0_035",
       "medalName": "Lead Seal: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 496,
+      "slotId": 523,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisStageScoreBeforeTime",
@@ -38932,7 +39148,7 @@
       "medalId": "medal_activity_16d5_045",
       "medalName": "Conservation Medal",
       "medalType": "activityMedal",
-      "slotId": 487,
+      "slotId": 514,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithLessDeploy",
@@ -38968,7 +39184,7 @@
       "medalId": "medal_activity_18d0_105",
       "medalName": "'The Second Contact'",
       "medalType": "activityMedal",
-      "slotId": 483,
+      "slotId": 510,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithDeadInLess",
@@ -39003,7 +39219,7 @@
       "medalId": "medal_activity_18d3_105",
       "medalName": "'Perseverance'",
       "medalType": "activityMedal",
-      "slotId": 473,
+      "slotId": 500,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithActiveLess",
@@ -39039,7 +39255,7 @@
       "medalId": "medal_activity_18d5_035",
       "medalName": "Spectrum: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 456,
+      "slotId": 483,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisStageScoreBeforeTime",
@@ -39070,7 +39286,7 @@
       "medalId": "medal_activity_6rune_035",
       "medalName": "Wild Scales: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 434,
+      "slotId": 461,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisStageScoreBeforeTime",
@@ -39101,7 +39317,7 @@
       "medalId": "medal_activity_12side_105",
       "medalName": "'Holungday Cop'",
       "medalType": "activityMedal",
-      "slotId": 451,
+      "slotId": 478,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountLess",
@@ -39168,7 +39384,7 @@
       "medalId": "medal_activity_13side_055",
       "medalName": "Effective Communication Medal",
       "medalType": "activityMedal",
-      "slotId": 425,
+      "slotId": 452,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "ActivityReachPrestigeLevel",
@@ -39203,7 +39419,7 @@
       "medalId": "medal_activity_14side_105",
       "medalName": "'Tsar of Traps'",
       "medalType": "activityMedal",
-      "slotId": 410,
+      "slotId": 437,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountMore",
@@ -39239,7 +39455,7 @@
       "medalId": "medal_activity_15side_105",
       "medalName": "'Awaken From a Long Dream'",
       "medalType": "activityMedal",
-      "slotId": 400,
+      "slotId": 427,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageKilledLess",
@@ -39275,7 +39491,7 @@
       "medalId": "medal_activity_8rune_035",
       "medalName": "Dawnseeker: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 383,
+      "slotId": 410,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisStageScoreBeforeTime",
@@ -39306,7 +39522,7 @@
       "medalId": "medal_activity_16side_105",
       "medalName": "'Law and Gelato'",
       "medalType": "activityMedal",
-      "slotId": 380,
+      "slotId": 407,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithAtLeast",
@@ -39342,7 +39558,7 @@
       "medalId": "medal_activity_17side_105",
       "medalName": "Pursuing Your True Self Medal",
       "medalType": "activityMedal",
-      "slotId": 370,
+      "slotId": 397,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithTechTree",
@@ -39378,7 +39594,7 @@
       "medalId": "medal_activity_9rune_035",
       "medalName": "Deepness: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 353,
+      "slotId": 380,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisStageScoreBeforeTime",
@@ -39409,7 +39625,7 @@
       "medalId": "medal_activity_18side_105",
       "medalName": "'Facing Nothingness'",
       "medalType": "activityMedal",
-      "slotId": 350,
+      "slotId": 377,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountLess",
@@ -39445,7 +39661,7 @@
       "medalId": "medal_activity_19side_105",
       "medalName": "Journey Opener's Medal",
       "medalType": "activityMedal",
-      "slotId": 340,
+      "slotId": 367,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountLess",
@@ -39481,7 +39697,7 @@
       "medalId": "medal_activity_10rune_035",
       "medalName": "Ashring: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 323,
+      "slotId": 350,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisStageScoreBeforeTime",
@@ -39512,7 +39728,7 @@
       "medalId": "medal_activity_20side_055",
       "medalName": "Self-Driving Cart Attack Medal",
       "medalType": "activityMedal",
-      "slotId": 305,
+      "slotId": 332,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "GainCarAccessories",
@@ -39572,7 +39788,7 @@
       "medalId": "medal_activity_11rune_035",
       "medalName": "Fake Waves: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 313,
+      "slotId": 340,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisStageScoreBeforeTime",
@@ -39603,7 +39819,7 @@
       "medalId": "medal_activity_21side_105",
       "medalName": "Famiglia Elite Medal",
       "medalType": "activityMedal",
-      "slotId": 295,
+      "slotId": 322,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "ActivityFinishCharCardTask",
@@ -39708,7 +39924,7 @@
       "medalId": "medal_activity_12rune_035",
       "medalName": "Base Point: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 258,
+      "slotId": 285,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisStageScoreBeforeTime",
@@ -39739,7 +39955,7 @@
       "medalId": "medal_activity_25side_105",
       "medalName": "'Convergence'",
       "medalType": "activityMedal",
-      "slotId": 255,
+      "slotId": 282,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "Act25SideFinInvestigation",
@@ -39772,7 +39988,7 @@
       "medalId": "medal_activity_26side_105",
       "medalName": "'Heart at Peace'",
       "medalType": "activityMedal",
-      "slotId": 240,
+      "slotId": 267,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountLess",
@@ -39834,7 +40050,7 @@
       "medalId": "medal_activity_27side_105",
       "medalName": "Homeseeking Wanderer Medal",
       "medalType": "activityMedal",
-      "slotId": 228,
+      "slotId": 255,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleCountMore",
@@ -39871,7 +40087,7 @@
       "medalId": "medal_activity_28side_105",
       "medalName": "'Out of the Fire'",
       "medalType": "activityMedal",
-      "slotId": 218,
+      "slotId": 245,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleCountMore",
@@ -39908,7 +40124,7 @@
       "medalId": "medal_activity_42d0_055",
       "medalName": "Strife Conqueror Trial Medal",
       "medalType": "activityMedal",
-      "slotId": 208,
+      "slotId": 235,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "Act42D0FinishChallenge",
@@ -39937,7 +40153,7 @@
       "medalId": "medal_activity_29side_105",
       "medalName": "'Complicated Heart's Voices'",
       "medalType": "activityMedal",
-      "slotId": 203,
+      "slotId": 230,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "Act29SideSyncthesizeMelody",
@@ -39971,7 +40187,7 @@
       "medalId": "medal_activity_1crisisv2_035",
       "medalName": "Pyrolysis: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 186,
+      "slotId": 213,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisV2DimScoreTotal",
@@ -40002,7 +40218,7 @@
       "medalId": "medal_activity_30side_105",
       "medalName": "Perfect Offensive Medal",
       "medalType": "activityMedal",
-      "slotId": 183,
+      "slotId": 210,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountMax",
@@ -40038,7 +40254,7 @@
       "medalId": "medal_activity_31side_105",
       "medalName": "Borderland Pacification Production Medal",
       "medalType": "activityMedal",
-      "slotId": 173,
+      "slotId": 200,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountMore",
@@ -40099,7 +40315,7 @@
       "medalId": "medal_activity_2crisisv2_035",
       "medalName": "Underdawn: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 154,
+      "slotId": 181,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisV2DimScoreTotal",
@@ -40130,7 +40346,7 @@
       "medalId": "medal_activity_33side_105",
       "medalName": "'Name of the Evil Spirit'",
       "medalType": "activityMedal",
-      "slotId": 151,
+      "slotId": 178,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountLess",
@@ -40161,7 +40377,7 @@
       "medalId": "medal_activity_act2vmulti_035",
       "medalName": "Master Athlete Medal",
       "medalType": "activityMedal",
-      "slotId": 139,
+      "slotId": 166,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "ActMultiplayVerify2PassStageWithScore",
@@ -40270,8 +40486,13 @@
       "expireTimes": [
         {
           "start": 1739444400,
-          "end": -1,
+          "end": 1767697199,
           "type": "TEMP"
+        },
+        {
+          "start": 1768906800,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [
@@ -40313,7 +40534,7 @@
       "medalId": "medal_activity_37side_095",
       "medalName": "'The Miracle Elected'",
       "medalType": "activityMedal",
-      "slotId": 115,
+      "slotId": 142,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleCountMore",
@@ -40345,7 +40566,7 @@
       "medalId": "medal_activity_38side_105",
       "medalName": "'Specially Recruited Pyrotechnician'",
       "medalType": "activityMedal",
-      "slotId": 101,
+      "slotId": 128,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "Act38SideCompletePuzzle",
@@ -40374,7 +40595,7 @@
       "medalId": "medal_activity_1vautochess_055",
       "medalName": "Stronghold Center Medal",
       "medalType": "activityMedal",
-      "slotId": 91,
+      "slotId": 118,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "ActivityAutoChessPassGame",
@@ -40404,7 +40625,7 @@
       "medalId": "medal_activity_39side_105",
       "medalName": "'Get Back in There!'",
       "medalType": "activityMedal",
-      "slotId": 86,
+      "slotId": 113,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageKilled",
@@ -40435,7 +40656,7 @@
       "medalId": "medal_activity_40side_105",
       "medalName": "Worldly Tastes Medal",
       "medalType": "activityMedal",
-      "slotId": 74,
+      "slotId": 101,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "TotalSimpleTokenCount",
@@ -40465,7 +40686,7 @@
       "medalId": "medal_activity_3crisisv2_035",
       "medalName": "Extinguished Sins: Commemorative Contract Medal II",
       "medalType": "activityMedal",
-      "slotId": 57,
+      "slotId": 84,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisV2DimScoreTotal",
@@ -40496,7 +40717,7 @@
       "medalId": "medal_activity_act1multi_095",
       "medalName": "Icebreaker Fame Medal I",
       "medalType": "activityMedal",
-      "slotId": 43,
+      "slotId": 70,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "ActMultiV3GainTitle",
@@ -40525,7 +40746,7 @@
       "medalId": "medal_activity_41side_105",
       "medalName": "'Part With the Fire'",
       "medalType": "activityMedal",
-      "slotId": 54,
+      "slotId": 81,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountLess",
@@ -40581,7 +40802,7 @@
       "medalId": "medal_activity_42side_105",
       "medalName": "'Specially-Appointed Firearms Consultant'",
       "medalType": "activityMedal",
-      "slotId": 32,
+      "slotId": 59,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "Act42sideUnlockGunCnt",
@@ -40610,7 +40831,7 @@
       "medalId": "medal_activity_act1break_055",
       "medalName": "Inorganic Matters: Strategist Medal",
       "medalType": "activityMedal",
-      "slotId": 17,
+      "slotId": 44,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "ActVecBreakV2PassStageBeforeTime",
@@ -40641,7 +40862,7 @@
       "medalId": "medal_activity_43side_105",
       "medalName": "'Starring'",
       "medalType": "activityMedal",
-      "slotId": 12,
+      "slotId": 39,
       "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountLess",
@@ -42042,8 +42263,13 @@
             "sharedExpireTimes": [
               {
                 "start": 1739444400,
-                "end": -1,
+                "end": 1767697199,
                 "type": "TEMP"
+              },
+              {
+                "start": 1768906800,
+                "end": -1,
+                "type": "PERM"
               }
             ]
           },

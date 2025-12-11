@@ -3871,6 +3871,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_122_beagle",
           "level": 50,
@@ -3896,6 +3897,7 @@
         "alias": "trap_042_tidectrl#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_042_tidectrl",
           "level": 1,
@@ -3916,6 +3918,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_349_chiave",
           "level": 20,
@@ -3934,6 +3937,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_285_medic2",
           "level": 30,
@@ -3952,6 +3956,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4000_jnight",
           "level": 30,
@@ -3970,6 +3975,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_286_cast3",
           "level": 30,
@@ -3988,6 +3994,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_376_therex",
           "level": 30,
@@ -4006,6 +4013,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_237_gravel",
           "level": 20,

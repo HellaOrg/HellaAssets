@@ -1921,6 +1921,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -1950,6 +1954,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -2588,6 +2596,7 @@
         "alias": "char_107_liskam",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_107_liskam",
           "level": 20,
@@ -2606,6 +2615,7 @@
         "alias": "char_219_meteo",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_219_meteo",
           "level": 20,
@@ -2624,6 +2634,7 @@
         "alias": "char_171_bldsk",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_171_bldsk",
           "level": 20,
@@ -2645,6 +2656,7 @@
         "alias": "trap_001_crate",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_001_crate",
           "level": 1,
@@ -2664,6 +2676,7 @@
         "alias": "trap_018_bomb",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_018_bomb",
           "level": 1,

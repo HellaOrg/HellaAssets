@@ -6991,6 +6991,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -7020,6 +7024,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -7163,6 +7171,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -7192,6 +7204,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -8642,6 +8658,7 @@
         "alias": "trap_409_xbwood#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8665,6 +8682,7 @@
         "alias": "trap_409_xbwood#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8688,6 +8706,7 @@
         "alias": "trap_409_xbwood#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8711,6 +8730,7 @@
         "alias": "trap_409_xbwood#6",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8734,6 +8754,7 @@
         "alias": "trap_409_xbwood#9",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8757,6 +8778,7 @@
         "alias": "trap_414_vegetation#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_414_vegetation",
           "level": 1,
@@ -8780,6 +8802,7 @@
         "alias": "trap_414_vegetation#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_414_vegetation",
           "level": 1,
@@ -8803,6 +8826,7 @@
         "alias": "trap_414_vegetation#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_414_vegetation",
           "level": 1,
@@ -8826,6 +8850,7 @@
         "alias": "trap_414_vegetation#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_414_vegetation",
           "level": 1,
@@ -8849,6 +8874,7 @@
         "alias": "trap_414_vegetation#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_414_vegetation",
           "level": 1,
@@ -8872,6 +8898,7 @@
         "alias": "trap_414_vegetation#6",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_414_vegetation",
           "level": 1,
@@ -8895,6 +8922,7 @@
         "alias": "trap_414_vegetation#7",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_414_vegetation",
           "level": 1,
@@ -8918,6 +8946,7 @@
         "alias": "trap_414_vegetation#8",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_414_vegetation",
           "level": 1,
@@ -8941,6 +8970,7 @@
         "alias": "trap_414_vegetation#9",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_414_vegetation",
           "level": 1,
@@ -8964,6 +8994,7 @@
         "alias": "trap_414_vegetation#10",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_414_vegetation",
           "level": 1,
@@ -8987,6 +9018,7 @@
         "alias": "trap_414_vegetation#11",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_414_vegetation",
           "level": 1,

@@ -2552,6 +2552,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_381_bubble",
           "level": 35,
@@ -2575,6 +2576,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_366_acdrop",
           "level": 40,
@@ -2598,6 +2600,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_187_ccheal",
           "level": 40,
@@ -2623,6 +2626,7 @@
         "alias": "trap_042_tidectrl#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_042_tidectrl",
           "level": 1,
@@ -2652,6 +2656,7 @@
         "alias": "trap_042_tidectrl#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_042_tidectrl",
           "level": 1,
@@ -2678,6 +2683,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_235_jesica",
           "level": 40,
@@ -2696,6 +2702,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_122_beagle",
           "level": 40,
@@ -2714,6 +2721,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_133_mm",
           "level": 40,
@@ -2735,6 +2743,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_046_oxygen",
           "level": 1,

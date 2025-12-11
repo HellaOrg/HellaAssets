@@ -5679,6 +5679,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -5708,6 +5712,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -5851,6 +5859,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -5880,6 +5892,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -6039,6 +6055,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -6068,6 +6088,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -7901,6 +7925,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_459_xblight",
           "level": 1,
@@ -7924,6 +7949,7 @@
         "alias": "trap_409_xbwood#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -7947,6 +7973,7 @@
         "alias": "trap_409_xbwood#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -7970,6 +7997,7 @@
         "alias": "trap_409_xbwood#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -7993,6 +8021,7 @@
         "alias": "trap_409_xbwood#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8016,6 +8045,7 @@
         "alias": "trap_409_xbwood#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8039,6 +8069,7 @@
         "alias": "trap_409_xbwood#6",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8062,6 +8093,7 @@
         "alias": "trap_409_xbwood#7",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8085,6 +8117,7 @@
         "alias": "trap_409_xbwood#8",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8108,6 +8141,7 @@
         "alias": "trap_409_xbwood#9",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8131,6 +8165,7 @@
         "alias": "trap_409_xbwood#10",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8154,6 +8189,7 @@
         "alias": "trap_409_xbwood#11",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8177,6 +8213,7 @@
         "alias": "trap_409_xbwood#12",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8200,6 +8237,7 @@
         "alias": "trap_409_xbwood#13",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8223,6 +8261,7 @@
         "alias": "trap_409_xbwood#14",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8246,6 +8285,7 @@
         "alias": "trap_409_xbwood#15",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8269,6 +8309,7 @@
         "alias": "trap_409_xbwood#16",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8292,6 +8333,7 @@
         "alias": "trap_409_xbwood#17",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8315,6 +8357,7 @@
         "alias": "trap_409_xbwood#18",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8338,6 +8381,7 @@
         "alias": "trap_409_xbwood#19",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8361,6 +8405,7 @@
         "alias": "trap_409_xbwood#20",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_409_xbwood",
           "level": 1,
@@ -8384,6 +8429,7 @@
         "alias": "trap_440_xbalis#11",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8407,6 +8453,7 @@
         "alias": "trap_440_xbalis#12",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8430,6 +8477,7 @@
         "alias": "trap_440_xbalis#13",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8453,6 +8501,7 @@
         "alias": "trap_440_xbalis#14",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8476,6 +8525,7 @@
         "alias": "trap_440_xbalis#21",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8499,6 +8549,7 @@
         "alias": "trap_440_xbalis#22",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8522,6 +8573,7 @@
         "alias": "trap_440_xbalis#23",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8545,6 +8597,7 @@
         "alias": "trap_440_xbalis#24",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8568,6 +8621,7 @@
         "alias": "trap_440_xbalis#31",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8591,6 +8645,7 @@
         "alias": "trap_440_xbalis#32",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8614,6 +8669,7 @@
         "alias": "trap_440_xbalis#33",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8637,6 +8693,7 @@
         "alias": "trap_440_xbalis#34",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8660,6 +8717,7 @@
         "alias": "trap_440_xbalis#41",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8683,6 +8741,7 @@
         "alias": "trap_440_xbalis#42",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8706,6 +8765,7 @@
         "alias": "trap_440_xbalis#44",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8729,6 +8789,7 @@
         "alias": "trap_440_xbalis#43",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -8752,6 +8813,7 @@
         "alias": "trap_416_gtreasure#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_416_gtreasure",
           "level": 1,

@@ -1743,6 +1743,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_211_adnach",
           "level": 55,
@@ -1766,6 +1767,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_367_swllow",
           "level": 70,
@@ -1789,6 +1791,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_117_myrrh",
           "level": 50,
@@ -1812,6 +1815,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_196_sunbr",
           "level": 50,
@@ -1837,6 +1841,7 @@
         "alias": "trap_057_wpnsts#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_057_wpnsts",
           "level": 1,
@@ -1860,6 +1865,7 @@
         "alias": "trap_057_wpnsts#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_057_wpnsts",
           "level": 1,
@@ -1880,6 +1886,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_213_mostma",
           "level": 80,
@@ -1898,6 +1905,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_103_angel",
           "level": 80,

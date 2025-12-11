@@ -4484,6 +4484,7 @@
         "alias": "trap_230_mpcatab#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_230_mpcatab",
           "level": 1,
@@ -4507,6 +4508,7 @@
         "alias": "trap_230_mpcatab#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_230_mpcatab",
           "level": 1,
@@ -4530,6 +4532,7 @@
         "alias": "trap_230_mpcatab#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_230_mpcatab",
           "level": 1,
@@ -4553,6 +4556,7 @@
         "alias": "trap_230_mpcatab#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_230_mpcatab",
           "level": 1,
@@ -4576,6 +4580,7 @@
         "alias": "trap_230_mpcatab#6",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_230_mpcatab",
           "level": 1,
@@ -4599,6 +4604,7 @@
         "alias": "trap_230_mpcatab#7",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_230_mpcatab",
           "level": 1,
@@ -4623,6 +4629,7 @@
         "alias": "trap_230_mpcatab#8",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_230_mpcatab",
           "level": 1,

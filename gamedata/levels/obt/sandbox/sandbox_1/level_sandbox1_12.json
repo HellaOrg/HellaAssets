@@ -5593,6 +5593,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_459_xblight",
           "level": 1,
@@ -5616,6 +5617,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_422_streasure",
           "level": 1,
@@ -5639,6 +5641,7 @@
         "alias": "trap_437_poachr#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_437_poachr",
           "level": 2,
@@ -5668,6 +5671,7 @@
         "alias": "trap_437_poachr#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_437_poachr",
           "level": 2,
@@ -5697,6 +5701,7 @@
         "alias": "trap_437_poachr#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_437_poachr",
           "level": 2,
@@ -5726,6 +5731,7 @@
         "alias": "trap_437_poachr#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_437_poachr",
           "level": 1,

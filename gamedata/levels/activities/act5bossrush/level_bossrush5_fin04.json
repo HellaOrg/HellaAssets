@@ -8728,6 +8728,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -8757,6 +8761,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -8900,6 +8908,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -8929,6 +8941,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -9138,6 +9154,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -9167,6 +9187,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -9331,6 +9355,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -9360,6 +9388,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -9503,6 +9535,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -9532,6 +9568,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -9856,6 +9896,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -9885,6 +9929,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -10028,9 +10076,13 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
-            "m_value": false
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": true,
@@ -10049,14 +10101,18 @@
             "m_value": true
           },
           "disarmedCombatImmune": {
-            "m_defined": true,
-            "m_value": true
+            "m_defined": false,
+            "m_value": false
           },
           "fearedImmune": {
             "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -10225,6 +10281,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -10254,6 +10314,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -10439,9 +10503,13 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
-            "m_value": false
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": true,
@@ -10460,14 +10528,18 @@
             "m_value": true
           },
           "disarmedCombatImmune": {
-            "m_defined": true,
-            "m_value": true
+            "m_defined": false,
+            "m_value": false
           },
           "fearedImmune": {
             "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -12116,6 +12188,7 @@
         "alias": "trap_091_brctrl#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_091_brctrl",
           "level": 1,
@@ -12160,6 +12233,7 @@
         "alias": "trap_091_brctrl#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_091_brctrl",
           "level": 1,
@@ -12204,6 +12278,7 @@
         "alias": "trap_091_brctrl#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_091_brctrl",
           "level": 1,
@@ -12238,6 +12313,7 @@
         "alias": "trap_090_recodr#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_090_recodr",
           "level": 1,
@@ -12261,6 +12337,7 @@
         "alias": "trap_097_hstone#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_097_hstone",
           "level": 1,
@@ -12284,6 +12361,7 @@
         "alias": "trap_097_hstone#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_097_hstone",
           "level": 1,
@@ -12307,6 +12385,7 @@
         "alias": "trap_097_hstone#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_097_hstone",
           "level": 1,
@@ -12330,6 +12409,7 @@
         "alias": "trap_097_hstone#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_097_hstone",
           "level": 1,
@@ -12353,6 +12433,7 @@
         "alias": "trap_010_frosts#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_010_frosts",
           "level": 1,
@@ -12378,6 +12459,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_250_phatom",
           "level": 90,
@@ -12396,6 +12478,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4025_aprot2",
           "level": 80,
@@ -12419,6 +12502,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_472_pasngr",
           "level": 90,
@@ -12442,6 +12526,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_437_mizuki",
           "level": 90,
@@ -12465,6 +12550,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4042_lumen",
           "level": 90,
@@ -12488,6 +12574,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4066_highmo",
           "level": 80,
@@ -12506,6 +12593,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_2026_yu",
           "level": 90,
@@ -12524,6 +12612,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_1040_blaze2",
           "level": 90,
@@ -12547,6 +12636,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_487_bobb",
           "level": 80,

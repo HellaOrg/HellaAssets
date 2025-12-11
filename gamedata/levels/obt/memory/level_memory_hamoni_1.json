@@ -4832,6 +4832,7 @@
         "alias": "char_196_sunbr",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_196_sunbr",
           "level": 20,
@@ -4857,6 +4858,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_098_mire",
           "level": 1,
@@ -4898,6 +4900,7 @@
         "alias": "char_297_hamoni",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_297_hamoni",
           "level": 20,

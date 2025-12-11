@@ -3709,6 +3709,7 @@
         "alias": "trap_050_blizzard#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_050_blizzard",
           "level": 1,
@@ -3738,6 +3739,7 @@
         "alias": "trap_050_blizzard#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_050_blizzard",
           "level": 1,
@@ -3767,6 +3769,7 @@
         "alias": "trap_050_blizzard#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_050_blizzard",
           "level": 1,
@@ -3796,6 +3799,7 @@
         "alias": "trap_050_blizzard#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_050_blizzard",
           "level": 1,

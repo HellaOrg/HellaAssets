@@ -2220,9 +2220,9 @@
         "overrideOnEventPriority": false,
         "onEventPriority": "DEFAULT",
         "audioSignal": null,
-        "lifeTimeType": "LIMITED",
+        "lifeTimeType": "INFINITY",
         "takeSnapshotWhenExtend": false,
-        "durationKey": "ep_break_duration",
+        "durationKey": null,
         "lifeTime": 0.0,
         "triggerLifeType": "IMMEDIATELY",
         "triggerCnt": 0,
@@ -2233,11 +2233,6 @@
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
         "blackboard": [
-          {
-            "key": "duration",
-            "value": 10.0,
-            "valueStr": null
-          },
           {
             "key": "magic_resistance",
             "value": -20.0,
@@ -2291,9 +2286,9 @@
         "overrideOnEventPriority": false,
         "onEventPriority": "DEFAULT",
         "audioSignal": "ep_break_fire_audio",
-        "lifeTimeType": "LIMITED",
+        "lifeTimeType": "INFINITY",
         "takeSnapshotWhenExtend": false,
-        "durationKey": "ep_break_duration",
+        "durationKey": null,
         "lifeTime": 0.0,
         "triggerLifeType": "IMMEDIATELY",
         "triggerCnt": 0,
@@ -2304,11 +2299,6 @@
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
         "blackboard": [
-          {
-            "key": "duration",
-            "value": 10.0,
-            "valueStr": null
-          },
           {
             "key": "ep_fire_damage",
             "value": 7000.0,
@@ -2399,9 +2389,9 @@
         "overrideOnEventPriority": false,
         "onEventPriority": "DEFAULT",
         "audioSignal": null,
-        "lifeTimeType": "LIMITED",
+        "lifeTimeType": "INFINITY",
         "takeSnapshotWhenExtend": false,
-        "durationKey": "ep_break_duration",
+        "durationKey": null,
         "lifeTime": 0.0,
         "triggerLifeType": "IMMEDIATELY",
         "triggerCnt": 0,
@@ -2412,16 +2402,6 @@
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
         "blackboard": [
-          {
-            "key": "sp_loss",
-            "value": 15.0,
-            "valueStr": null
-          },
-          {
-            "key": "damage_duration",
-            "value": 15.0,
-            "valueStr": null
-          },
           {
             "key": "damage",
             "value": 100.0,
@@ -2668,6 +2648,64 @@
           },
           {
             "key": "max_atk",
+            "value": 0.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ,
+    
+      "limit_bonus[magic_resistance]": {
+        "attributes": {
+          "abnormalFlags": null,
+          "abnormalImmunes": null,
+          "abnormalAntis": null,
+          "abnormalCombos": null,
+          "abnormalComboImmunes": null,
+          "attributeModifiers": null
+        },
+        "buffKey": "limit_bonus[magic_resistance]",
+        "loadFromDB": false,
+        "isDurableBuff": false,
+        "isDamageMissable": false,
+        "isSilenceable": false,
+        "isStunnable": false,
+        "isFreezable": false,
+        "isLevitatable": false,
+        "statusResistable": "AUTOMATIC",
+        "templateKey": "limit_bonus[magic_resistance]",
+        "disableOverride": false,
+        "overrideKey": null,
+        "overrideType": "DEFAULT",
+        "maxStackCnt": 1,
+        "refreshRemainingTimeWhenStackMax": false,
+        "clearAllStackCntWhenTimeUp": false,
+        "maxValidStackCnt": -1,
+        "independentCharacterSource": false,
+        "overrideEffectKey": null,
+        "overrideOnEventPriority": false,
+        "onEventPriority": "DEFAULT",
+        "audioSignal": null,
+        "lifeTimeType": "INFINITY",
+        "takeSnapshotWhenExtend": false,
+        "durationKey": null,
+        "lifeTime": 0.0,
+        "triggerLifeType": "INFINITY",
+        "triggerCnt": 0,
+        "triggerInterval": 0.25,
+        "waitFirstTriggerInterval": true,
+        "firstTriggerInterval": -1.0,
+        "priority": -1,
+        "priorityBBKeys": null,
+        "stripBlackboardParamsWithBuffKey": false,
+        "blackboard": [
+          {
+            "key": "max_hp_ratio",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "max_magic_resistance",
             "value": 0.0,
             "valueStr": null
           }
@@ -3646,9 +3684,9 @@
         "overrideOnEventPriority": false,
         "onEventPriority": "DEFAULT",
         "audioSignal": null,
-        "lifeTimeType": "LIMITED",
+        "lifeTimeType": "INFINITY",
         "takeSnapshotWhenExtend": false,
-        "durationKey": "ep_break_duration",
+        "durationKey": null,
         "lifeTime": 0.0,
         "triggerLifeType": "IMMEDIATELY",
         "triggerCnt": 0,
@@ -3772,9 +3810,9 @@
         "overrideOnEventPriority": false,
         "onEventPriority": "DEFAULT",
         "audioSignal": null,
-        "lifeTimeType": "INFINITY",
+        "lifeTimeType": "LIMITED",
         "takeSnapshotWhenExtend": false,
-        "durationKey": null,
+        "durationKey": "ep_break_duration",
         "lifeTime": 0.0,
         "triggerLifeType": "IMMEDIATELY",
         "triggerCnt": 0,
@@ -3819,9 +3857,9 @@
         "overrideOnEventPriority": false,
         "onEventPriority": "DEFAULT",
         "audioSignal": null,
-        "lifeTimeType": "IMMEDIATELY",
+        "lifeTimeType": "LIMITED",
         "takeSnapshotWhenExtend": false,
-        "durationKey": null,
+        "durationKey": "ep_break_duration",
         "lifeTime": 0.0,
         "triggerLifeType": "IMMEDIATELY",
         "triggerCnt": 0,
@@ -3866,9 +3904,9 @@
         "overrideOnEventPriority": false,
         "onEventPriority": "DEFAULT",
         "audioSignal": null,
-        "lifeTimeType": "IMMEDIATELY",
+        "lifeTimeType": "LIMITED",
         "takeSnapshotWhenExtend": false,
-        "durationKey": null,
+        "durationKey": "ep_break_duration",
         "lifeTime": 0.0,
         "triggerLifeType": "IMMEDIATELY",
         "triggerCnt": 0,
@@ -3913,9 +3951,9 @@
         "overrideOnEventPriority": false,
         "onEventPriority": "DEFAULT",
         "audioSignal": null,
-        "lifeTimeType": "IMMEDIATELY",
+        "lifeTimeType": "LIMITED",
         "takeSnapshotWhenExtend": false,
-        "durationKey": null,
+        "durationKey": "ep_break_duration",
         "lifeTime": 0.0,
         "triggerLifeType": "IMMEDIATELY",
         "triggerCnt": 0,

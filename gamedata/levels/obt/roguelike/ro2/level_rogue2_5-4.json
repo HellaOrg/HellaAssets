@@ -9453,6 +9453,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -9482,6 +9486,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -9640,6 +9648,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -9669,6 +9681,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -10724,6 +10740,7 @@
         "alias": "trap_065_normbox#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_065_normbox",
           "level": 3,
@@ -10747,6 +10764,7 @@
         "alias": "trap_066_rarebox#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_066_rarebox",
           "level": 3,
@@ -10770,6 +10788,7 @@
         "alias": "trap_068_badbox#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_068_badbox",
           "level": 3,
@@ -10799,6 +10818,7 @@
         "alias": "trap_065_normbox#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_065_normbox",
           "level": 3,
@@ -10822,6 +10842,7 @@
         "alias": "trap_066_rarebox#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_066_rarebox",
           "level": 3,
@@ -10845,6 +10866,7 @@
         "alias": "trap_068_badbox#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_068_badbox",
           "level": 3,

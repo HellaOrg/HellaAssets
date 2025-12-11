@@ -1972,9 +1972,13 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
-            "m_value": false
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": true,
@@ -1997,10 +2001,14 @@
             "m_value": true
           },
           "fearedImmune": {
-            "m_defined": true,
-            "m_value": true
+            "m_defined": false,
+            "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -2182,9 +2190,13 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
-            "m_value": false
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": true,
@@ -2207,10 +2219,14 @@
             "m_value": true
           },
           "fearedImmune": {
-            "m_defined": true,
-            "m_value": true
+            "m_defined": false,
+            "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -2700,6 +2716,7 @@
         "alias": "trap_139_dhtl#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_139_dhtl",
           "level": 1,
@@ -2723,6 +2740,7 @@
         "alias": "trap_139_dhtl#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_139_dhtl",
           "level": 1,
@@ -2746,6 +2764,7 @@
         "alias": "trap_139_dhtl#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_139_dhtl",
           "level": 1,
@@ -2769,6 +2788,7 @@
         "alias": "trap_146_dhdcr#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_146_dhdcr",
           "level": 1,
@@ -2799,6 +2819,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_139_dhtl",
           "level": 1,

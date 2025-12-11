@@ -3754,6 +3754,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -3783,6 +3787,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -4643,6 +4651,7 @@
         "alias": "trap_008_farm#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_008_farm",
           "level": 1,
@@ -4666,6 +4675,7 @@
         "alias": "trap_008_farm#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_008_farm",
           "level": 1,
@@ -4686,6 +4696,7 @@
         "alias": "char_325_bison",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_325_bison",
           "level": 20,
@@ -4704,6 +4715,7 @@
         "alias": "char_101_sora",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_101_sora",
           "level": 70,
@@ -4722,6 +4734,7 @@
         "alias": "char_103_angel",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_103_angel",
           "level": 70,
@@ -4740,6 +4753,7 @@
         "alias": "char_201_moeshd",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_201_moeshd",
           "level": 70,
@@ -4758,6 +4772,7 @@
         "alias": "char_102_texas",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_102_texas",
           "level": 70,

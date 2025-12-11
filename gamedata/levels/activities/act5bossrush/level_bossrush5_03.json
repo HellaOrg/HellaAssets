@@ -9840,6 +9840,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -9869,6 +9873,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -10140,6 +10148,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -10169,6 +10181,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -10324,6 +10340,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -10353,6 +10373,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -13721,6 +13745,7 @@
         "alias": "trap_091_brctrl#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_091_brctrl",
           "level": 1,
@@ -13765,6 +13790,7 @@
         "alias": "trap_091_brctrl#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_091_brctrl",
           "level": 1,
@@ -13809,6 +13835,7 @@
         "alias": "trap_091_brctrl#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_091_brctrl",
           "level": 1,
@@ -13843,6 +13870,7 @@
         "alias": "trap_090_recodr#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_090_recodr",
           "level": 1,
@@ -13866,6 +13894,7 @@
         "alias": "trap_054_dancdol#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_054_dancdol",
           "level": 1,
@@ -13889,6 +13918,7 @@
         "alias": "trap_054_dancdol#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_054_dancdol",
           "level": 1,
@@ -13912,6 +13942,7 @@
         "alias": "trap_054_dancdol#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_054_dancdol",
           "level": 1,
@@ -13935,6 +13966,7 @@
         "alias": "trap_054_dancdol#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_054_dancdol",
           "level": 1,
@@ -13958,6 +13990,7 @@
         "alias": "trap_054_dancdol#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_054_dancdol",
           "level": 1,
@@ -13981,6 +14014,7 @@
         "alias": "trap_054_dancdol#6",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_054_dancdol",
           "level": 1,
@@ -14004,6 +14038,7 @@
         "alias": "trap_054_dancdol#7",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_054_dancdol",
           "level": 1,
@@ -14027,6 +14062,7 @@
         "alias": "trap_054_dancdol#8",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_054_dancdol",
           "level": 1,
@@ -14050,6 +14086,7 @@
         "alias": "trap_054_dancdol#9",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_054_dancdol",
           "level": 1,
@@ -14073,6 +14110,7 @@
         "alias": "trap_054_dancdol#10",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_054_dancdol",
           "level": 1,
@@ -14093,6 +14131,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_2026_yu",
           "level": 90,
@@ -14111,6 +14150,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_1040_blaze2",
           "level": 90,
@@ -14134,6 +14174,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_487_bobb",
           "level": 80,

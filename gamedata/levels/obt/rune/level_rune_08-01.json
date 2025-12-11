@@ -3247,6 +3247,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -3276,6 +3280,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -4073,6 +4081,7 @@
         "alias": "trap_032_mound#01",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_032_mound",
           "level": 1,
@@ -4096,6 +4105,7 @@
         "alias": "trap_032_mound#02",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_032_mound",
           "level": 1,
@@ -4119,6 +4129,7 @@
         "alias": "trap_032_mound#11",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_032_mound",
           "level": 1,
@@ -4142,6 +4153,7 @@
         "alias": "trap_032_mound#12",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_032_mound",
           "level": 1,
@@ -4165,6 +4177,7 @@
         "alias": "trap_032_mound#13",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_032_mound",
           "level": 1,
@@ -4188,6 +4201,7 @@
         "alias": "trap_032_mound#14",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_032_mound",
           "level": 1,
@@ -4211,6 +4225,7 @@
         "alias": "trap_032_mound#21",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_032_mound",
           "level": 1,
@@ -4234,6 +4249,7 @@
         "alias": "trap_032_mound#22",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_032_mound",
           "level": 1,
@@ -4257,6 +4273,7 @@
         "alias": "trap_032_mound#23",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_032_mound",
           "level": 1,
@@ -4280,6 +4297,7 @@
         "alias": "trap_036_storm#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_036_storm",
           "level": 1,
@@ -4303,6 +4321,7 @@
         "alias": "trap_036_storm#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_036_storm",
           "level": 1,
@@ -4326,6 +4345,7 @@
         "alias": "trap_036_storm#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_036_storm",
           "level": 1,

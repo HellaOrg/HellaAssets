@@ -2534,6 +2534,7 @@
         "alias": "trap_057_wpnsts#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_057_wpnsts",
           "level": 1,
@@ -2557,6 +2558,7 @@
         "alias": "trap_057_wpnsts#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_057_wpnsts",
           "level": 1,
@@ -2580,6 +2582,7 @@
         "alias": "trap_057_wpnsts#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_057_wpnsts",
           "level": 1,

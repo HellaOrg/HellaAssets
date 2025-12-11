@@ -1896,6 +1896,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_143_ghost",
           "level": 20,
@@ -1919,6 +1920,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4131_odda",
           "level": 30,
@@ -1944,6 +1946,7 @@
         "alias": "trap_010_frosts#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_010_frosts",
           "level": 1,
@@ -1964,6 +1967,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4173_nowell",
           "level": 20,
@@ -1982,6 +1986,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_367_swllow",
           "level": 50,

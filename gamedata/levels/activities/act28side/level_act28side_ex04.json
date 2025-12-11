@@ -3393,6 +3393,7 @@
         "alias": "trap_124_eradio#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_124_eradio",
           "level": 1,
@@ -3416,6 +3417,7 @@
         "alias": "trap_124_eradio#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_124_eradio",
           "level": 1,
@@ -3439,6 +3441,7 @@
         "alias": "trap_124_eradio#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_124_eradio",
           "level": 1,
@@ -3462,6 +3465,7 @@
         "alias": "trap_124_eradio#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_124_eradio",
           "level": 1,
@@ -3485,6 +3489,7 @@
         "alias": "trap_124_eradio#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_124_eradio",
           "level": 1,
@@ -3508,6 +3513,7 @@
         "alias": "trap_124_eradio#6",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_124_eradio",
           "level": 1,

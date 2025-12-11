@@ -3481,6 +3481,7 @@
         "alias": "char_4062_totter",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4062_totter",
           "level": 20,
@@ -3504,6 +3505,7 @@
         "alias": "char_155_tiger",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_155_tiger",
           "level": 20,
@@ -3527,6 +3529,7 @@
         "alias": "char_154_morgan",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_154_morgan",
           "level": 20,
@@ -3550,6 +3553,7 @@
         "alias": "char_112_siege",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_112_siege",
           "level": 25,
@@ -3573,6 +3577,7 @@
         "alias": "char_157_dagda",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_157_dagda",
           "level": 20,
@@ -3594,6 +3599,7 @@
         "alias": "trap_087_allady",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_087_allady",
           "level": 1,
