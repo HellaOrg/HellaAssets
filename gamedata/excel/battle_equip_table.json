@@ -78227,7 +78227,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis damage</>",
+                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis</>",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -78310,7 +78310,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis damage</>",
+                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis</>",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -78371,7 +78371,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "If there are no other enemies near the target, attacks deal an additional 24% ATK as Arts damage; if the target is under the burst effect from <$ba.dt.apoptosis2>Necrosis damage</>, the attack deals an additional 20% ATK as Elemental Damage",
+                      "upgradeDescription": "If there are no other enemies near the target, attacks deal an additional 24% ATK as Arts damage; if the target is under the burst effect from <$ba.dt.apoptosis2>Necrosis</>, the attack deals an additional 20% ATK as Elemental Damage",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -78409,7 +78409,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "If there are no other enemies near the target, attacks deal an additional 26% <@ba.talpu>(+2%)</> ATK as Arts damage; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis damage</>, the attack deals an additional 20% ATK as Elemental Damage",
+                      "upgradeDescription": "If there are no other enemies near the target, attacks deal an additional 26% <@ba.talpu>(+2%)</> ATK as Arts damage; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis</>, the attack deals an additional 20% ATK as Elemental Damage",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -78482,7 +78482,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis damage</>",
+                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis</>",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -78543,7 +78543,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "If there are no other enemies near the target, attacks deal an additional 30% ATK as Arts damage; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis damage</>, the attack deals an additional 30% ATK as Elemental Damage",
+                      "upgradeDescription": "If there are no other enemies near the target, attacks deal an additional 30% ATK as Arts damage; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis</>, the attack deals an additional 30% ATK as Elemental Damage",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -78581,7 +78581,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "If there are no other enemies near the target, attacks deal an additional 32% <@ba.talpu>(+2%)</> ATK as Arts damage; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis damage</>, the attack deals an additional 30% ATK as Elemental Damage",
+                      "upgradeDescription": "If there are no other enemies near the target, attacks deal an additional 32% <@ba.talpu>(+2%)</> ATK as Arts damage; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis</>, the attack deals an additional 30% ATK as Elemental Damage",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -93161,7 +93161,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "Can summon a Flowing Shape to assist in combat. Flowing Shapes can partially copy an undeployed Operator's attributes (Max HP, ATK, DEF, RES, Block Count, Attack Interval, Attack Range, Damage Type, ability of obtaining a special trait depending on whether in melee or ranged form), gains 5 SP immediately after deployment, and will respawn 25 seconds after being defeated.",
+                      "upgradeDescription": "Can summon a Flowing Shape to assist in combat. Flowing Shapes can partially copy an undeployed Operator's attributes (Max HP, ATK, DEF, RES, Block Count, Attack Interval, Attack Range, Damage Type, ability of obtaining a special trait depending on whether in melee or ranged form), gains 5 SP immediately after first deployment, and will respawn 25 seconds after being defeated.",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -93367,7 +93367,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "Can summon a Flowing Shape to assist in combat. Flowing Shapes can copy all of an undeployed Operator's attributes (Max HP, ATK, DEF, RES, Block Count, Attack Interval, Attack Range, Damage Type, ability of obtaining a special trait depending on whether in melee or ranged form), gains 5 SP immediately after deployment, and will respawn 25 seconds after being defeated.",
+                      "upgradeDescription": "Can summon a Flowing Shape to assist in combat. Flowing Shapes can copy all of an undeployed Operator's attributes (Max HP, ATK, DEF, RES, Block Count, Attack Interval, Attack Range, Damage Type, ability of obtaining a special trait depending on whether in melee or ranged form), gains 5 SP immediately after first deployment, and will respawn 25 seconds after being defeated.",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -95231,7 +95231,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "The first attack against each enemy has ATK increased to 115% and Levitates the target for 2.5s.",
+                      "upgradeDescription": "The first attack against each enemy has ATK increased to 115% and <$ba.levitate>Levitates</> the target for 2.5s",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -95259,7 +95259,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "The first attack against each enemy has ATK increased to 120% <@ba.talpu>(+5%)</> and Levitates the target for 2.5s.",
+                      "upgradeDescription": "The first attack against each enemy has ATK increased to 120% <@ba.talpu>(+5%)</> and <$ba.levitate>Levitates</> the target for 2.5s",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -95361,7 +95361,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "The first attack against each enemy has ATK increased to 120% and Levitates the target for 2.5s.",
+                      "upgradeDescription": "The first attack against each enemy has ATK increased to 120% and <$ba.levitate>Levitates</> the target for 2.5s",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -95389,7 +95389,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "The first attack against each enemy has ATK increased to 125% <@ba.talpu>(+5%)</> and Levitates the target for 2.5s.",
+                      "upgradeDescription": "The first attack against each enemy has ATK increased to 125% <@ba.talpu>(+5%)</> and <$ba.levitate>Levitates</> the target for 2.5s",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -95830,7 +95830,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis damage</>",
+                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis</>",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -95913,7 +95913,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis damage</>",
+                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis</>",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -95974,7 +95974,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "When attacking a target, there is a 50% chance to deal 60% ATK as Arts damage to a random target in attack range and <$ba.sluggish>Slow</> it for 0.8s. If the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis Damage</>, also deals Elemental Damage equal to 40% ATK.",
+                      "upgradeDescription": "When attacking a target, there is a 50% chance to deal 60% ATK as Arts damage to a random target in attack range and <$ba.sluggish>Slow</> it for 0.8s. If the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis</>, also deals Elemental Damage equal to 40% ATK.",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -96012,7 +96012,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "When attacking a target, there is a 50% chance to deal 65% <@ba.talpu>(+5%)</> ATK as Arts damage to a random target in attack range and <$ba.sluggish>Slow</> it for 0.8s. If the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis Damage</>, also deals Elemental Damage equal to 40% ATK.",
+                      "upgradeDescription": "When attacking a target, there is a 50% chance to deal 65% <@ba.talpu>(+5%)</> ATK as Arts damage to a random target in attack range and <$ba.sluggish>Slow</> it for 0.8s. If the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis</>, also deals Elemental Damage equal to 40% ATK.",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -96085,7 +96085,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis damage</>",
+                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.apoptosis2>Necrosis</>",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -96146,7 +96146,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "When attacking a target, there is a 60% chance to deal 60% ATK as Arts damage to a random target in attack range and <$ba.sluggish>Slow</> it for 0.8s. If the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis Damage</>, also deals Elemental Damage equal to 60% ATK.",
+                      "upgradeDescription": "When attacking a target, there is a 60% chance to deal 60% ATK as Arts damage to a random target in attack range and <$ba.sluggish>Slow</> it for 0.8s. If the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis</>, also deals Elemental Damage equal to 60% ATK.",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -96184,7 +96184,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "When attacking a target, there is a 60% chance to deal 65% <@ba.talpu>(+5%)</> ATK as Arts damage to a random target in attack range and <$ba.sluggish>Slow</> it for 0.8s. If the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis Damage</>, also deals Elemental Damage equal to 60% ATK.",
+                      "upgradeDescription": "When attacking a target, there is a 60% chance to deal 65% <@ba.talpu>(+5%)</> ATK as Arts damage to a random target in attack range and <$ba.sluggish>Slow</> it for 0.8s. If the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis</>, also deals Elemental Damage equal to 60% ATK.",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -101713,7 +101713,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.burning2>Burn damage</>",
+                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.burning2>Burn</>",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -101764,7 +101764,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.burning2>Burn damage</>",
+                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.burning2>Burn</>",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -101793,7 +101793,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "RES of enemies within range -40%; if target is under the burst effect of <$ba.dt.burning2>Burn damage</>, attacks will deal an additional 40% ATK as Elemental Damage",
+                      "upgradeDescription": "RES of enemies within range -40%; if target is under the burst effect of <$ba.dt.burning2>Burn</>, attacks will deal an additional 40% ATK as Elemental Damage",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -101816,7 +101816,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "RES of enemies within range -44% <@ba.talpu>(+4%)</>; if target is under the burst effect of <$ba.dt.burning2>Burn damage</>, attacks will deal an additional 40% ATK as Elemental Damage",
+                      "upgradeDescription": "RES of enemies within range -44% <@ba.talpu>(+4%)</>; if target is under the burst effect of <$ba.dt.burning2>Burn</>, attacks will deal an additional 40% ATK as Elemental Damage",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -101910,7 +101910,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.burning2>Burn damage</>",
+                      "additionalDescription": "When dealing Arts damage, deals an additional <@ba.vup>8%</> as <$ba.dt.burning2>Burn</>",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -101939,7 +101939,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "RES of enemies within range -40%; if target is under the burst effect of <$ba.dt.burning2>Burn damage</>, attacks will deal an additional 50% ATK as Elemental Damage",
+                      "upgradeDescription": "RES of enemies within range -40%; if target is under the burst effect of <$ba.dt.burning2>Burn</>, attacks will deal an additional 50% ATK as Elemental Damage",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -101962,7 +101962,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "RES of enemies within range -44% <@ba.talpu>(+4%)</>; if target is under the burst effect of <$ba.dt.burning2>Burn damage</>, attacks will deal an additional 50% ATK as Elemental Damage",
+                      "upgradeDescription": "RES of enemies within range -44% <@ba.talpu>(+4%)</>; if target is under the burst effect of <$ba.dt.burning2>Burn</>, attacks will deal an additional 50% ATK as Elemental Damage",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -114331,7 +114331,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "Enemies within attack range take 28% more <$ba.dt.apoptosis2>Necrosis damage</>; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis damage</>, they receive 3% <$ba.elementfragile>Elemental Fragility</>",
+                      "upgradeDescription": "Enemies within attack range take 28% more <$ba.dt.apoptosis2>Necrosis</>; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis</>, they receive 3% <$ba.elementfragile>Elemental Fragility</>",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -114359,7 +114359,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "Enemies within attack range take 30% <@ba.talpu>(+2%)</> more <$ba.dt.apoptosis2>Necrosis damage</>; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis damage</>, they receive 3% <$ba.elementfragile>Elemental Fragility</>",
+                      "upgradeDescription": "Enemies within attack range take 30% <@ba.talpu>(+2%)</> more <$ba.dt.apoptosis2>Necrosis</>; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis</>, they receive 3% <$ba.elementfragile>Elemental Fragility</>",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -114451,7 +114451,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "Enemies within attack range take 33% more <$ba.dt.apoptosis2>Necrosis damage</>; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis damage</>, they receive 5% <$ba.elementfragile>Elemental Fragility</>",
+                      "upgradeDescription": "Enemies within attack range take 33% more <$ba.dt.apoptosis2>Necrosis</>; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis</>, they receive 5% <$ba.elementfragile>Elemental Fragility</>",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -114479,7 +114479,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "Enemies within attack range take 35% <@ba.talpu>(+2%)</> more <$ba.dt.apoptosis2>Necrosis damage</>; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis damage</>, they receive 5% <$ba.elementfragile>Elemental Fragility</>",
+                      "upgradeDescription": "Enemies within attack range take 35% <@ba.talpu>(+2%)</> more <$ba.dt.apoptosis2>Necrosis</>; if the target is under the burst effect of <$ba.dt.apoptosis2>Necrosis</>, they receive 5% <$ba.elementfragile>Elemental Fragility</>",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -114628,7 +114628,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "ATK +9%, ASPD +6; attacks will <$ba.sluggish>Slow</> any target under the burst effect of <$ba.dt.apoptosis2>Necrosis damage</> for 0.8s",
+                      "upgradeDescription": "ATK +9%, ASPD +6; attacks will <$ba.sluggish>Slow</> any target under the burst effect of <$ba.dt.apoptosis2>Necrosis</> for 0.8s",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -114661,7 +114661,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "ATK +10% <@ba.talpu>(+1%)</>, ASPD +7 <@ba.talpu>(+1)</>; attacks will <$ba.sluggish>Slow</> any target under the burst effect of <$ba.dt.apoptosis2>Necrosis damage</> for 0.8s",
+                      "upgradeDescription": "ATK +10% <@ba.talpu>(+1%)</>, ASPD +7 <@ba.talpu>(+1)</>; attacks will <$ba.sluggish>Slow</> any target under the burst effect of <$ba.dt.apoptosis2>Necrosis</> for 0.8s",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -114758,7 +114758,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "ATK +11%, ASPD +6; attacks will <$ba.sluggish>Slow</> any target under the burst effect of <$ba.dt.apoptosis2>Necrosis damage</> for 1.2s",
+                      "upgradeDescription": "ATK +11%, ASPD +6; attacks will <$ba.sluggish>Slow</> any target under the burst effect of <$ba.dt.apoptosis2>Necrosis</> for 1.2s",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -114791,7 +114791,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "ATK +12% <@ba.talpu>(+1%)</>, ASPD +7 <@ba.talpu>(+1)</>; attacks will <$ba.sluggish>Slow</> any target under the burst effect of <$ba.dt.apoptosis2>Necrosis damage</> for 1.2s",
+                      "upgradeDescription": "ATK +12% <@ba.talpu>(+1%)</>, ASPD +7 <@ba.talpu>(+1)</>; attacks will <$ba.sluggish>Slow</> any target under the burst effect of <$ba.dt.apoptosis2>Necrosis</> for 1.2s",
                       "talentIndex": 1,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -114945,7 +114945,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "The first attack against an enemy deals 17% ATK as <$ba.dt.burning2>Burn damage</> every second for 5s",
+                      "upgradeDescription": "The first attack against an enemy deals 17% ATK as <$ba.dt.burning2>Burn</> every second for 5s",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -114973,7 +114973,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "The first attack against an enemy deals 19% <@ba.talpu>(+2%)</> ATK as <$ba.dt.burning2>Burn damage</> every second for 5s",
+                      "upgradeDescription": "The first attack against an enemy deals 19% <@ba.talpu>(+2%)</> ATK as <$ba.dt.burning2>Burn</> every second for 5s",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -115065,7 +115065,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "The first attack against an enemy deals 18% ATK as <$ba.dt.burning2>Burn damage</> every second for 5s",
+                      "upgradeDescription": "The first attack against an enemy deals 18% ATK as <$ba.dt.burning2>Burn</> every second for 5s",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -115093,7 +115093,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "The first attack against an enemy deals 20% <@ba.talpu>(+2%)</> ATK as <$ba.dt.burning2>Burn damage</> every second for 5s",
+                      "upgradeDescription": "The first attack against an enemy deals 20% <@ba.talpu>(+2%)</> ATK as <$ba.dt.burning2>Burn</> every second for 5s",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -119187,7 +119187,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "Attacks against a target under the burst effect of <$ba.dt.burning2>Burn damage</> deal an additional <@ba.kw>{ep_damage_ratio:0%}</> ATK as Elemental Damage",
+                      "additionalDescription": "Attacks against a target under the burst effect of <$ba.dt.burning2>Burn</> deal an additional <@ba.kw>{ep_damage_ratio:0%}</> ATK as Elemental Damage",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -119238,7 +119238,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "Attacks against a target under the burst effect of <$ba.dt.burning2>Burn damage</> deal an additional <@ba.kw>{ep_damage_ratio:0%}</> ATK as Elemental Damage",
+                      "additionalDescription": "Attacks against a target under the burst effect of <$ba.dt.burning2>Burn</> deal an additional <@ba.kw>{ep_damage_ratio:0%}</> ATK as Elemental Damage",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -119267,7 +119267,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "Deals +8% Arts damage and takes -8% Physical and Arts damage, and attacks deal an additional 5% damage as <$ba.dt.burning2>Burn damage</>; double effect if there is an elite or leader enemy within attack range",
+                      "upgradeDescription": "Deals +8% Arts damage and takes -8% Physical and Arts damage, and attacks deal an additional 5% damage as <$ba.dt.burning2>Burn</>; double effect if there is an elite or leader enemy within attack range",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -119305,7 +119305,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "Deals +9% <@ba.talpu>(+1%)</> Arts damage and takes -9% <@ba.talpu>(-1%)</> Physical and Arts damage, and attacks deal an additional 5% damage as <$ba.dt.burning2>Burn damage</>; double effect if there is an elite or leader enemy within attack range",
+                      "upgradeDescription": "Deals +9% <@ba.talpu>(+1%)</> Arts damage and takes -9% <@ba.talpu>(-1%)</> Physical and Arts damage, and attacks deal an additional 5% damage as <$ba.dt.burning2>Burn</>; double effect if there is an elite or leader enemy within attack range",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -119378,7 +119378,7 @@
                 "overrideTraitDataBundle": {
                   "candidates": [
                     {
-                      "additionalDescription": "Attacks against a target under the burst effect of <$ba.dt.burning2>Burn damage</> deal an additional <@ba.kw>{ep_damage_ratio:0%}</> ATK as Elemental Damage",
+                      "additionalDescription": "Attacks against a target under the burst effect of <$ba.dt.burning2>Burn</> deal an additional <@ba.kw>{ep_damage_ratio:0%}</> ATK as Elemental Damage",
                       "unlockCondition": {
                         "phase": "PHASE_2",
                         "level": 60
@@ -119407,7 +119407,7 @@
                   "candidates": [
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "Deals +8% Arts damage and takes -8% Physical and Arts damage, and attacks deal an additional 9% damage as <$ba.dt.burning2>Burn damage</>; double effect if there is an elite or leader enemy within attack range",
+                      "upgradeDescription": "Deals +8% Arts damage and takes -8% Physical and Arts damage, and attacks deal an additional 9% damage as <$ba.dt.burning2>Burn</>; double effect if there is an elite or leader enemy within attack range",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -119445,7 +119445,7 @@
                     },
                     {
                       "displayRangeId": false,
-                      "upgradeDescription": "Deals +9% <@ba.talpu>(+1%)</> Arts damage and takes -9% <@ba.talpu>(-1%)</> Physical and Arts damage, and attacks deal an additional 9% damage as <$ba.dt.burning2>Burn damage</>; double effect if there is an elite or leader enemy within attack range",
+                      "upgradeDescription": "Deals +9% <@ba.talpu>(+1%)</> Arts damage and takes -9% <@ba.talpu>(-1%)</> Physical and Arts damage, and attacks deal an additional 9% damage as <$ba.dt.burning2>Burn</>; double effect if there is an elite or leader enemy within attack range",
                       "talentIndex": 0,
                       "unlockCondition": {
                         "phase": "PHASE_2",
@@ -137196,6 +137196,1914 @@
               {
                 "key": "atk",
                 "value": 75.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          }
+        ]
+      }
+    ,
+    
+      "uniequip_003_typhon": {
+        "phases": [
+          {
+            "equipLevel": 1,
+            "parts": [
+              {
+                "resKey": "typhon_equip_2_1_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "The further away the enemy, the higher the damage dealt (up to an increase of <@ba.kw>{damage_scale:0%}</>)",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "max_dist",
+                          "value": 4.5,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "min_dist",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "damage_scale",
+                          "value": 0.12,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 70.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 5.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 2,
+            "parts": [
+              {
+                "resKey": "typhon_equip_2_2_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "The further away the enemy, the higher the damage dealt (up to an increase of <@ba.kw>{damage_scale:0%}</>)",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "max_dist",
+                          "value": 4.5,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "min_dist",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "damage_scale",
+                          "value": 0.12,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "typhon_equip_2_2_p2",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When damaging an enemy for the first and second time while a skill is active, ATK increases to 200% and <$ba.sluggish>Slows</> targets for 3s",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "2",
+                      "name": "Heavy as the Swamp's Mire",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 2.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale",
+                          "value": 2.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "sluggish",
+                          "value": 3.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When damaging an enemy for the first and second time while a skill is active, ATK increases to 210% <@ba.talpu>(+10%)</> and <$ba.sluggish>Slows</> targets for 3s",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 4,
+                      "prefabKey": "2",
+                      "name": "Heavy as the Swamp's Mire",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 2.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale",
+                          "value": 2.1,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "sluggish",
+                          "value": 3.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 84.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 6.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 3,
+            "parts": [
+              {
+                "resKey": "typhon_equip_2_3_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "The further away the enemy, the higher the damage dealt (up to an increase of <@ba.kw>{damage_scale:0%}</>)",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "max_dist",
+                          "value": 4.5,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "min_dist",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "damage_scale",
+                          "value": 0.12,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "typhon_equip_2_3_p2",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When damaging an enemy for the first and second time while a skill is active, ATK increases to 220% and <$ba.sluggish>Slows</> targets for 3s",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "2",
+                      "name": "Heavy as the Swamp's Mire",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 2.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale",
+                          "value": 2.2,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "sluggish",
+                          "value": 3.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When damaging an enemy for the first and second time while a skill is active, ATK increases to 230% <@ba.talpu>(+10%)</> and <$ba.sluggish>Slows</> targets for 3s",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 4,
+                      "prefabKey": "2",
+                      "name": "Heavy as the Swamp's Mire",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 2.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale",
+                          "value": 2.3,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "sluggish",
+                          "value": 3.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 94.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 7.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          }
+        ]
+      }
+    ,
+    
+      "uniequip_003_gdglow": {
+        "phases": [
+          {
+            "equipLevel": 1,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "TRAIT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "init_atk_scale",
+                          "value": 0.2,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "delta_atk_scale",
+                          "value": 0.15,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_atk_scale",
+                          "value": 1.2,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 7.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Attack with <@ba.kw>Drones</> to deal <@ba.kw>Arts damage</>\nDrone deals more damage when it attacks the same enemy again (deals up to 120% of Operator's ATK as damage)",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 5.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 2,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "TRAIT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "init_atk_scale",
+                          "value": 0.2,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "delta_atk_scale",
+                          "value": 0.15,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_atk_scale",
+                          "value": 1.2,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 7.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Attack with <@ba.kw>Drones</> to deal <@ba.kw>Arts damage</>\nDrone deals more damage when it attacks the same enemy again (deals up to 120% of Operator's ATK as damage)",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Self and Drones' attacks ignore 18 RES",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "2",
+                      "name": "Precise Redirection",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "magic_resist_penetrate_fixed",
+                          "value": 18.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Self and Drones' attacks ignore 21 <@ba.talpu>(+3)</> RES",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 5,
+                      "prefabKey": "2",
+                      "name": "Precise Redirection",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "magic_resist_penetrate_fixed",
+                          "value": 21.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 40.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 6.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 3,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "TRAIT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": null,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "init_atk_scale",
+                          "value": 0.2,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "delta_atk_scale",
+                          "value": 0.15,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_atk_scale",
+                          "value": 1.2,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 7.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": "Attack with <@ba.kw>Drones</> to deal <@ba.kw>Arts damage</>\nDrone deals more damage when it attacks the same enemy again (deals up to 120% of Operator's ATK as damage)",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Self and Drones' attacks ignore 20 RES",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "2",
+                      "name": "Precise Redirection",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "magic_resist_penetrate_fixed",
+                          "value": 20.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Self and Drones' attacks ignore 23 <@ba.talpu>(+3)</> RES",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 5,
+                      "prefabKey": "2",
+                      "name": "Precise Redirection",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "magic_resist_penetrate_fixed",
+                          "value": 23.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "atk",
+                "value": 45.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 7.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          }
+        ]
+      }
+    ,
+    
+      "uniequip_003_gvial2": {
+        "phases": [
+          {
+            "equipLevel": 1,
+            "parts": [
+              {
+                "resKey": "gvial2_equip_2_1_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "While above 50% HP, reduces the amount of Physical damage taken by <@ba.kw>{damage_resistance:0%}</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.5,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "damage_resistance",
+                          "value": 0.2,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 155.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 21.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 50.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 2,
+            "parts": [
+              {
+                "resKey": "gvial2_equip_2_2_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "While above 50% HP, reduces the amount of Physical damage taken by <@ba.kw>{damage_resistance:0%}</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.5,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "damage_resistance",
+                          "value": 0.2,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Enemies blocked by this unit receive 5% <$ba.physicfragile>Physical Fragility</>; increases this unit's healing received by 25%, increased to 50% when under half HP",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "2",
+                      "name": "Medical Background",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "heal_scale_1",
+                          "value": 1.25,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "heal_scale_2",
+                          "value": 1.5,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.5,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Enemies blocked by this unit receive 5% <$ba.physicfragile>Physical Fragility</>; increases this unit's healing received by 30% <@ba.talpu>(+5%)</>, increased to 55% <@ba.talpu>(+5%)</> when under half HP",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 4,
+                      "prefabKey": "2",
+                      "name": "Medical Background",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "heal_scale_1",
+                          "value": 1.3,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "heal_scale_2",
+                          "value": 1.55,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.5,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": "gvial2_equip_2_2_p2",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "20",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "damage_scale",
+                          "value": 1.05,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 180.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 26.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 63.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 3,
+            "parts": [
+              {
+                "resKey": "gvial2_equip_2_3_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "While above 50% HP, reduces the amount of Physical damage taken by <@ba.kw>{damage_resistance:0%}</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.5,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "damage_resistance",
+                          "value": 0.2,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Enemies blocked by this unit receive 10% <$ba.physicfragile>Physical Fragility</>; increases this unit's healing received by 30%, increased to 60% when under half HP",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "2",
+                      "name": "Medical Background",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "heal_scale_1",
+                          "value": 1.3,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "heal_scale_2",
+                          "value": 1.6,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.5,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Enemies blocked by this unit receive 10% <$ba.physicfragile>Physical Fragility</>; increases this unit's healing received by 35% <@ba.talpu>(+5%)</>, increased to 65% <@ba.talpu>(+5%)</> when under half HP",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 4,
+                      "prefabKey": "2",
+                      "name": "Medical Background",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "heal_scale_1",
+                          "value": 1.35,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "heal_scale_2",
+                          "value": 1.65,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.5,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": "gvial2_equip_2_3_p2",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": 1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "20",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "damage_scale",
+                          "value": 1.1,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 200.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 29.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 71.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          }
+        ]
+      }
+    ,
+    
+      "uniequip_002_reckpr": {
+        "phases": [
+          {
+            "equipLevel": 1,
+            "parts": [
+              {
+                "resKey": "reckpr_equip_1_1_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "When healing allied units with less than 50% HP, increases heal amount by <@ba.kw>15%</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "heal_scale",
+                          "value": 1.15,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.5,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 70.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 4.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 2,
+            "parts": [
+              {
+                "resKey": "reckpr_equip_1_2_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "When healing allied units with less than 50% HP, increases heal amount by <@ba.kw>15%</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "heal_scale",
+                          "value": 1.15,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.5,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When Operators within Attack Range activate a skill, Record Keeper recovers 1 SP and gains ASPD +20 for 8s",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "1",
+                      "name": "Accumulated Knowledge",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack_speed",
+                          "value": 20.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "duration",
+                          "value": 8.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "prob",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "sp",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When Operators within Attack Range activate a skill, Record Keeper recovers 1 SP and gains ASPD +20 for 10 <@ba.talpu>(+2)</>s",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 4,
+                      "prefabKey": "1",
+                      "name": "Accumulated Knowledge",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack_speed",
+                          "value": 20.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "duration",
+                          "value": 10.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "prob",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "sp",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 100.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 5.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 3,
+            "parts": [
+              {
+                "resKey": "reckpr_equip_1_3_p1",
+                "target": "TRAIT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "When healing allied units with less than 50% HP, increases heal amount by <@ba.kw>15%</>",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+                        {
+                          "key": "heal_scale",
+                          "value": 1.15,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "hp_ratio",
+                          "value": 0.5,
+                          "valueStr": null
+                        }
+                      ],
+                      "overrideDescripton": null,
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When Operators within Attack Range activate a skill, Record Keeper recovers 1 SP and gains ASPD +23 for 8s",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "1",
+                      "name": "Accumulated Knowledge",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack_speed",
+                          "value": 23.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "duration",
+                          "value": 8.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "prob",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "sp",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "When Operators within Attack Range activate a skill, Record Keeper recovers 1 SP and gains ASPD +23 for 10 <@ba.talpu>(+2)</>s",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 50
+                      },
+                      "requiredPotentialRank": 4,
+                      "prefabKey": "1",
+                      "name": "Accumulated Knowledge",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "attack_speed",
+                          "value": 23.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "duration",
+                          "value": 10.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "max_stack_cnt",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "prob",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "sp",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 120.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 6.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          }
+        ]
+      }
+    ,
+    
+      "uniequip_002_leizi2": {
+        "phases": [
+          {
+            "equipLevel": 1,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "DISPLAY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "Directly gains <@ba.kw>+100%</> charge after deployment",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+
+                      ],
+                      "overrideDescripton": "Normally does not attack and has 0 Block; when skill is inactive, ATK gradually increases up to <@ba.kw>+200%</> over <@ba.kw>40</> seconds; ATK is reset when the skill ends",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": "leizi2_equip_1_1_p1",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": -1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "10_root",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "init_atk",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": true
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 225.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 26.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 27.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 2,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "DISPLAY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "Directly gains <@ba.kw>+100%</> charge after deployment",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+
+                      ],
+                      "overrideDescripton": "Normally does not attack and has 0 Block; when skill is inactive, ATK gradually increases up to <@ba.kw>+200%</> over <@ba.kw>40</> seconds; ATK is reset when the skill ends",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Tiles within Attack Range have a 10% chance every second of being struck by lightning, dealing 100% of Leizi the Thunderbringer's ATK as Arts damage; <$ba.liftoff>Takes Off</> when this unit's skill is not active; while skill is active, ATK increases to 111%",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "1",
+                      "name": "Clarity of Judgment",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "interval",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale_t",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale[skill_up]",
+                          "value": 1.11,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "times",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Tiles within Attack Range have a 10% chance every second of being struck by lightning, dealing 100% of Leizi the Thunderbringer's ATK as Arts damage; <$ba.liftoff>Takes Off</> when this unit's skill is not active; while skill is active, ATK increases to 115% <@ba.talpu>(+4%)</>",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 4,
+                      "prefabKey": "1",
+                      "name": "Clarity of Judgment",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "interval",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale_t",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale[skill_up]",
+                          "value": 1.15,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "times",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": "leizi2_equip_1_2_p1",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": -1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "10_root",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "init_atk",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": true
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 270.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 35.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 31.0,
+                "valueStr": null
+              }
+            ],
+            "tokenAttributeBlackboard": {
+
+            }
+          },
+          {
+            "equipLevel": 3,
+            "parts": [
+              {
+                "resKey": null,
+                "target": "DISPLAY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": null
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": [
+                    {
+                      "additionalDescription": "Directly gains <@ba.kw>+100%</> charge after deployment",
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "blackboard": [
+
+                      ],
+                      "overrideDescripton": "Normally does not attack and has 0 Block; when skill is inactive, ATK gradually increases up to <@ba.kw>+200%</> over <@ba.kw>40</> seconds; ATK is reset when the skill ends",
+                      "prefabKey": null,
+                      "rangeId": null
+                    }
+                  ]
+                }
+              },
+              {
+                "resKey": null,
+                "target": "TALENT_DATA_ONLY",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Tiles within Attack Range have a 10% chance every second of being struck by lightning, dealing 100% of Leizi the Thunderbringer's ATK as Arts damage; <$ba.liftoff>Takes Off</> when this unit's skill is not active; while skill is active, ATK increases to 113%",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "1",
+                      "name": "Clarity of Judgment",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "interval",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale_t",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale[skill_up]",
+                          "value": 1.13,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "times",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    },
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "Tiles within Attack Range have a 10% chance every second of being struck by lightning, dealing 100% of Leizi the Thunderbringer's ATK as Arts damage; <$ba.liftoff>Takes Off</> when this unit's skill is not active; while skill is active, ATK increases to 117% <@ba.talpu>(+4%)</>",
+                      "talentIndex": 0,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 4,
+                      "prefabKey": "1",
+                      "name": "Clarity of Judgment",
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "interval",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale_t",
+                          "value": 1.0,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "atk_scale[skill_up]",
+                          "value": 1.17,
+                          "valueStr": null
+                        },
+                        {
+                          "key": "times",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": false
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              },
+              {
+                "resKey": "leizi2_equip_1_3_p1",
+                "target": "TALENT",
+                "isToken": false,
+                "validInGameTag": null,
+                "addOrOverrideTalentDataBundle": {
+                  "candidates": [
+                    {
+                      "displayRangeId": false,
+                      "upgradeDescription": "",
+                      "talentIndex": -1,
+                      "unlockCondition": {
+                        "phase": "PHASE_2",
+                        "level": 60
+                      },
+                      "requiredPotentialRank": 0,
+                      "prefabKey": "10_root",
+                      "name": null,
+                      "description": null,
+                      "rangeId": null,
+                      "blackboard": [
+                        {
+                          "key": "init_atk",
+                          "value": 1.0,
+                          "valueStr": null
+                        }
+                      ],
+                      "tokenKey": null,
+                      "isHideTalent": true
+                    }
+                  ]
+                },
+                "overrideTraitDataBundle": {
+                  "candidates": null
+                }
+              }
+            ],
+            "attributeBlackboard": [
+              {
+                "key": "max_hp",
+                "value": 360.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 42.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 36.0,
                 "valueStr": null
               }
             ],

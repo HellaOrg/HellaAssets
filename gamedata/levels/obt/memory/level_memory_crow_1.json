@@ -3602,6 +3602,7 @@
         "alias": "char_486_takila",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_486_takila",
           "level": 20,
@@ -3625,6 +3626,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4091_ulika",
           "level": 30,
@@ -3650,6 +3652,7 @@
         "alias": "trap_042_tidectrl",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_042_tidectrl",
           "level": 1,
@@ -3689,6 +3692,7 @@
         "alias": "trap_040_canoe#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_040_canoe",
           "level": 1,
@@ -3709,6 +3713,7 @@
         "alias": "char_421_crow",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_421_crow",
           "level": 20,

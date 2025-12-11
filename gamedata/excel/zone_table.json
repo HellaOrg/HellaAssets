@@ -1281,6 +1281,26 @@
       }
     ,
     
+      "act19mini_zone1": {
+        "zoneID": "act19mini_zone1",
+        "zoneIndex": 0,
+        "type": "ACTIVITY",
+        "zoneNameFirst": null,
+        "zoneNameSecond": "Enter City",
+        "zoneNameTitleCurrent": null,
+        "zoneNameTitleUnCurrent": null,
+        "zoneNameTitleEx": null,
+        "zoneNameThird": null,
+        "lockedText": null,
+        "antiSpoilerId": null,
+        "canPreview": false,
+        "hasAdditionalPanel": false,
+        "sixStarMilestoneGroupId": null,
+        "bindMainlineZoneId": null,
+        "bindMainlineRetroZoneId": null
+      }
+    ,
+    
       "act5bossrush_zone1": {
         "zoneID": "act5bossrush_zone1",
         "zoneIndex": 0,
@@ -7626,6 +7646,12 @@
     
   },
   "zoneValidInfo": {
+    
+      "act19mini_zone1": {
+        "startTs": 1765454400,
+        "endTs": 1766055599
+      }
+    ,
     
       "act5bossrush_zone1": {
         "startTs": 1763650800,

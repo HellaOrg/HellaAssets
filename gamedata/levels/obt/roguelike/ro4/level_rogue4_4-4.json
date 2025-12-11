@@ -3573,7 +3573,7 @@
         },
         "description": {
           "m_defined": true,
-          "m_value": "While in battle, reborn creations have <@eb.key>increased ATK</>, and their attacks will additionally deal <@eb.key>Necrosis damage</>."
+          "m_value": "While in battle, reborn creations have <@eb.key>increased ATK</>, and their attacks will additionally deal <@eb.key>Necrosis</>."
         },
         "prefabKey": {
           "m_defined": true,
@@ -3660,8 +3660,12 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
             "m_value": false
           },
           "silenceImmune": {
@@ -3681,7 +3685,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "fearedImmune": {
@@ -3689,6 +3693,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -3860,6 +3868,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -3889,6 +3901,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -4038,8 +4054,12 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
             "m_value": false
           },
           "silenceImmune": {
@@ -4059,7 +4079,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "fearedImmune": {
@@ -4067,6 +4087,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -4244,8 +4268,12 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
             "m_value": false
           },
           "silenceImmune": {
@@ -4265,7 +4293,7 @@
             "m_value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "fearedImmune": {
@@ -4273,6 +4301,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -5310,6 +5342,7 @@
         "alias": "trap_097_hstone#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_097_hstone",
           "level": 1,
@@ -5333,6 +5366,7 @@
         "alias": "trap_097_hstone#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_097_hstone",
           "level": 1,
@@ -5356,6 +5390,7 @@
         "alias": "trap_097_hstone#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_097_hstone",
           "level": 1,
@@ -5379,6 +5414,7 @@
         "alias": "trap_097_hstone#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_097_hstone",
           "level": 1,
@@ -5402,6 +5438,7 @@
         "alias": "trap_097_hstone#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_097_hstone",
           "level": 1,
@@ -5425,6 +5462,7 @@
         "alias": "trap_097_hstone#6",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_097_hstone",
           "level": 1,
@@ -5448,6 +5486,7 @@
         "alias": "trap_757_skzbox#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_757_skzbox",
           "level": 3,
@@ -5471,6 +5510,7 @@
         "alias": "trap_758_skzmbx#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_758_skzmbx",
           "level": 3,
@@ -5500,6 +5540,7 @@
         "alias": "trap_759_skzwyx#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_759_skzwyx",
           "level": 3,
@@ -5523,6 +5564,7 @@
         "alias": "trap_757_skzbox#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_757_skzbox",
           "level": 3,
@@ -5546,6 +5588,7 @@
         "alias": "trap_758_skzmbx#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_758_skzmbx",
           "level": 3,
@@ -5575,6 +5618,7 @@
         "alias": "trap_759_skzwyx#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_759_skzwyx",
           "level": 3,
@@ -5598,6 +5642,7 @@
         "alias": "trap_764_skzshp",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_764_skzshp",
           "level": 1,
@@ -5621,6 +5666,7 @@
         "alias": "trap_760_skztzs#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_760_skztzs",
           "level": 1,

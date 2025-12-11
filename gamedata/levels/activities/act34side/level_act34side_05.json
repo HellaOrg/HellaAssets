@@ -1767,6 +1767,7 @@
         "alias": "trap_156_dsshell#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_156_dsshell",
           "level": 1,
@@ -1790,6 +1791,7 @@
         "alias": "trap_156_dsshell#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_156_dsshell",
           "level": 1,
@@ -1813,6 +1815,7 @@
         "alias": "trap_156_dsshell#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_156_dsshell",
           "level": 1,

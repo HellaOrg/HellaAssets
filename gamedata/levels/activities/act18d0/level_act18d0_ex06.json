@@ -3583,6 +3583,7 @@
         "alias": "trap_037_airsup#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_037_airsup",
           "level": 1,
@@ -3606,6 +3607,7 @@
         "alias": "trap_037_airsup#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_037_airsup",
           "level": 1,
@@ -3630,6 +3632,7 @@
         "alias": "trap_001_crate",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_001_crate",
           "level": 0,

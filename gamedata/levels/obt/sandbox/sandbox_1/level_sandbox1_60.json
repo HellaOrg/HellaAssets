@@ -4841,6 +4841,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -4870,6 +4874,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -5013,6 +5021,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -5042,6 +5054,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -5185,6 +5201,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -5214,6 +5234,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -6362,6 +6386,7 @@
         "alias": "trap_461_xbhydr#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_461_xbhydr",
           "level": 1,
@@ -6385,6 +6410,7 @@
         "alias": "trap_410_xbstone#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_410_xbstone",
           "level": 1,
@@ -6408,6 +6434,7 @@
         "alias": "trap_410_xbstone#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_410_xbstone",
           "level": 1,
@@ -6431,6 +6458,7 @@
         "alias": "trap_410_xbstone#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_410_xbstone",
           "level": 1,
@@ -6454,6 +6482,7 @@
         "alias": "trap_410_xbstone#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_410_xbstone",
           "level": 1,
@@ -6477,6 +6506,7 @@
         "alias": "trap_410_xbstone#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_410_xbstone",
           "level": 1,
@@ -6500,6 +6530,7 @@
         "alias": "trap_410_xbstone#6",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_410_xbstone",
           "level": 1,
@@ -6523,6 +6554,7 @@
         "alias": "trap_410_xbstone#7",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_410_xbstone",
           "level": 1,
@@ -6546,6 +6578,7 @@
         "alias": "trap_410_xbstone#8",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_410_xbstone",
           "level": 1,
@@ -6569,6 +6602,7 @@
         "alias": "trap_410_xbstone#9",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_410_xbstone",
           "level": 1,
@@ -6592,6 +6626,7 @@
         "alias": "trap_440_xbalis#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -6615,6 +6650,7 @@
         "alias": "trap_440_xbalis#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_440_xbalis",
           "level": 2,
@@ -6638,6 +6674,7 @@
         "alias": "trap_459_xblight#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_459_xblight",
           "level": 2,
@@ -6661,6 +6698,7 @@
         "alias": "trap_459_xblight#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_459_xblight",
           "level": 2,
@@ -6684,6 +6722,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_479_xbbillb",
           "level": 1,

@@ -15511,6 +15511,66 @@
           }
         ]
       }
+    ,
+    
+      "char_4196_reckpr": {
+        "charId": "char_4196_reckpr",
+        "maxManpower": 8640000,
+        "buffChar": [
+          {
+            "buffData": [
+              {
+                "buffId": "train_spd&profession3[184]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              }
+            ]
+          },
+          {
+            "buffData": [
+              {
+                "buffId": "train_spd[002]",
+                "cond": {
+                  "phase": "PHASE_2",
+                  "level": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
+      "char_1043_leizi2": {
+        "charId": "char_1043_leizi2",
+        "maxManpower": 8640000,
+        "buffChar": [
+          {
+            "buffData": [
+              {
+                "buffId": "power_rec_spd[007]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              }
+            ]
+          },
+          {
+            "buffData": [
+              {
+                "buffId": "workshop_formula_probability[021]",
+                "cond": {
+                  "phase": "PHASE_2",
+                  "level": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
     
   },
   "buffs": {
@@ -16767,6 +16827,20 @@
         "buffIcon": "power",
         "skillIcon": "bskill_pow_spd1",
         "sortId": 2007,
+        "buffColor": "#8fc31f",
+        "textColor": "#ffffff",
+        "buffCategory": "OUTPUT",
+        "roomType": "POWER",
+        "description": "When this Operator is assigned to a Power Plant, increases the drone recovery rate by <@cc.vup>+10%</>"
+      }
+    ,
+    
+      "power_rec_spd[007]": {
+        "buffId": "power_rec_spd[007]",
+        "buffName": "Lei Fa Specialist",
+        "buffIcon": "power",
+        "skillIcon": "bskill_pow_spd1",
+        "sortId": 2008,
         "buffColor": "#8fc31f",
         "textColor": "#ffffff",
         "buffCategory": "OUTPUT",
@@ -20107,6 +20181,20 @@
       }
     ,
     
+      "workshop_formula_probability[021]": {
+        "buffId": "workshop_formula_probability[021]",
+        "buffName": "Disciplined Study",
+        "buffIcon": "workshop",
+        "skillIcon": "bskill_ws_skill3",
+        "sortId": 7304,
+        "buffColor": "#e3eb00",
+        "textColor": "#333333",
+        "buffCategory": "FUNCTION",
+        "roomType": "WORKSHOP",
+        "description": "When this Operator is assigned to the Workshop to process <@cc.kw>Skill Summaries</>, the production rate of byproduct increases by <@cc.vup>80%</>"
+      }
+    ,
+    
       "workshop_formula_probability[030]": {
         "buffId": "workshop_formula_probability[030]",
         "buffName": "Adaptability",
@@ -20729,6 +20817,20 @@
         "buffIcon": "training",
         "skillIcon": "bskill_train_all",
         "sortId": 9912,
+        "buffColor": "#7d0022",
+        "textColor": "#ffffff",
+        "buffCategory": "FUNCTION",
+        "roomType": "TRAINING",
+        "description": "When this Operator is assigned to be the Trainer in the Training Room, Operators' Specialization training speed <@cc.vup>+25%</>"
+      }
+    ,
+    
+      "train_spd[002]": {
+        "buffId": "train_spd[002]",
+        "buffName": "Master of Everything α",
+        "buffIcon": "training",
+        "skillIcon": "bskill_train_all",
+        "sortId": 9913,
         "buffColor": "#7d0022",
         "textColor": "#ffffff",
         "buffCategory": "FUNCTION",
@@ -21700,6 +21802,20 @@
         "buffCategory": "FUNCTION",
         "roomType": "TRAINING",
         "description": "When this Operator is assigned to be the Trainer in the Training Room, <@cc.kw>Medic</> Operators' Specialization training speed <@cc.vup>+30%</>; if the trainee's Job Branch is <@cc.kw>Chain Medic</>, training speed will be further increased by <@cc.vup>+45%</>"
+      }
+    ,
+    
+      "train_spd&profession3[184]": {
+        "buffId": "train_spd&profession3[184]",
+        "buffName": "Medic Expert α",
+        "buffIcon": "training",
+        "skillIcon": "bskill_train_medic1",
+        "sortId": 9597,
+        "buffColor": "#7d0022",
+        "textColor": "#ffffff",
+        "buffCategory": "FUNCTION",
+        "roomType": "TRAINING",
+        "description": "When this Operator is assigned to be the Trainer in the Training Room, <@cc.kw>Medic</> Operators' Specialization training speed <@cc.vup>+30%</>"
       }
     ,
     
@@ -22805,7 +22921,7 @@
         "textColor": "#ffffff",
         "buffCategory": "RECOVERY",
         "roomType": "DORMITORY",
-        "description": "When this Operator is assigned to a Dormitory, restores <@cc.vup>+0.55</> Morale per hour to one other Operators assigned to that Dormitory whose Morale is not full (Only the strongest effect of this type takes place); if the target is a <$cc.g.sm><@cc.kw>Sami</></> Operator, further increases Morale restored by <@cc.vup>+0.45</>"
+        "description": "When this Operator is assigned to a Dormitory, restores <@cc.vup>+0.55</> Morale per hour to another Operator assigned to that Dormitory whose Morale is not full (Only the strongest effect of this type takes place); if the target is a <$cc.g.sm><@cc.kw>Sami</></> Operator, further increases Morale restored by <@cc.vup>+0.45</>"
       }
     ,
     
@@ -22819,7 +22935,7 @@
         "textColor": "#ffffff",
         "buffCategory": "RECOVERY",
         "roomType": "DORMITORY",
-        "description": "When this Operator is assigned to a Dormitory, restores <@cc.vup>+0.55</> Morale per hour to all other Operators assigned to that Dormitory whose Morale is not full (Only the strongest effect of this type takes place); if the target is a <$cc.g.laterano><@cc.kw>Laterano</></> Operator, further increases Morale restored by <@cc.vup>+0.45</>"
+        "description": "When this Operator is assigned to a Dormitory, restores <@cc.vup>+0.55</> Morale per hour to another Operator assigned to that Dormitory whose Morale is not full (Only the strongest effect of this type takes place); if the target is a <$cc.g.laterano><@cc.kw>Laterano</></> Operator, further increases Morale restored by <@cc.vup>+0.45</>"
       }
     ,
     
@@ -94830,6 +94946,726 @@
         }
       ,
       
+        "furni_yanPrivateSchool_ceilingShelf_01": {
+          "id": "furni_yanPrivateSchool_ceilingShelf_01",
+          "sortId": 1955,
+          "name": "Ebony Tasseled Cabinet",
+          "iconId": "furni_yanPrivateSchool_ceilingShelf_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILING",
+          "subType": "ORTHER_C",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_1",
+          "width": 1,
+          "depth": 3,
+          "height": 4,
+          "comfort": 75,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Ebony cabinet from Southern Yan. The student Sui'er used to trade knitting for wooden combs from a merchant, but the new merchant who came after a flood didn't sell them. Since then, the tassels under the cabinet have been hard to untangle.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_bookShelf_01": {
+          "id": "furni_yanPrivateSchool_bookShelf_01",
+          "sortId": 1956,
+          "name": "Terraced Bookshelf",
+          "iconId": "furni_yanPrivateSchool_bookShelf_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CABINET",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_1",
+          "width": 2,
+          "depth": 6,
+          "height": 7,
+          "comfort": 310,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Yanese bookshelf. Mr. Pu once told the naughty Ah Ping that 'a full bottle makes no sound', but Ah Ping instead drank ink till half-full, climbed a shelf, and shook to its classmates' delight. Mr. Pu made it stay up there as punishment.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_jadeBamboo_01": {
+          "id": "furni_yanPrivateSchool_jadeBamboo_01",
+          "sortId": 1957,
+          "name": "'Straightness'",
+          "iconId": "furni_yanPrivateSchool_jadeBamboo_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "ART_D",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_1",
+          "width": 2,
+          "depth": 1,
+          "height": 3,
+          "comfort": 120,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Bamboo decoration heavily cut on top. One rainy day, a student came to close the windows, only to see a bandit burning schoolbooks for warmth. Despite the brandished blade, the student recalled the books' lessons and approached, back straight.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_chair_01": {
+          "id": "furni_yanPrivateSchool_chair_01",
+          "sortId": 1958,
+          "name": "Upholstered Seat",
+          "iconId": "furni_yanPrivateSchool_chair_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "CHAIR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_1",
+          "width": 4,
+          "depth": 2,
+          "height": 3,
+          "comfort": 175,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Soft chair for bad backs. Mr. Pu's voice went hoarse apologizing to every household for the troubles his students caused. But that night, he found some written apologies on his desk, and a cup of chrysanthemum tea by the chair.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_tallShelf_01": {
+          "id": "furni_yanPrivateSchool_tallShelf_01",
+          "sortId": 1959,
+          "name": "Wooden Textured Rack",
+          "iconId": "furni_yanPrivateSchool_tallShelf_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CABINET",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_2",
+          "width": 2,
+          "depth": 5,
+          "height": 10,
+          "comfort": 340,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Display rack made from various woods. Calligraphy works and paintings... does imitating humans really help them become human? The teacher does not know the answer; all he does is hang the scrolls with the students' names on it up high.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_willowCeiling_01": {
+          "id": "furni_yanPrivateSchool_willowCeiling_01",
+          "sortId": 1960,
+          "name": "Faux Willow Suspension",
+          "iconId": "furni_yanPrivateSchool_willowCeiling_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILING",
+          "subType": "ORTHER_C",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_3",
+          "width": 8,
+          "depth": 2,
+          "height": 5,
+          "comfort": 195,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Sandalwood and jade ceiling with willow branch design, a gift for Mr. Pu from a friend back home. A timid student once broke a few jade leaves, and hid it by hanging off the branches as coins. The teacher never noticed, even years later.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_foldingScreen_01": {
+          "id": "furni_yanPrivateSchool_foldingScreen_01",
+          "sortId": 1961,
+          "name": "Folding Screen",
+          "iconId": "furni_yanPrivateSchool_foldingScreen_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "PARTITION",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_2",
+          "width": 5,
+          "depth": 2,
+          "height": 5,
+          "comfort": 250,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Folding screen that lets light through with no silhouette. There used to be bead curtain. In the moonlight, the shadows of the flowers would brush it gently. When the flowers wilted, and the beads scattered, the teacher put them in a chain.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_table_01": {
+          "id": "furni_yanPrivateSchool_table_01",
+          "sortId": 1962,
+          "name": "Portable Tea Table",
+          "iconId": "furni_yanPrivateSchool_table_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_3",
+          "width": 7,
+          "depth": 2,
+          "height": 2,
+          "comfort": 225,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Elaborate tea table that can store a tea set. When the sun is bright, the students and the teacher take it out under a tree by the pond to enjoy the breeze. Mischievous students sometimes hide inside, spooking those who try to carry it.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_flowerTable_01": {
+          "id": "furni_yanPrivateSchool_flowerTable_01",
+          "sortId": 1963,
+          "name": "Gray Stone Desk",
+          "iconId": "furni_yanPrivateSchool_flowerTable_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_3",
+          "width": 8,
+          "depth": 3,
+          "height": 5,
+          "comfort": 400,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Old, dignified desk. Ink has seeped deep into its stone. Keeping watch over the collection on behalf of the teacher is no easy task. The items are often former classmates, and any changes will be recorded, but the place is usually quiet.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_carpet_01": {
+          "id": "furni_yanPrivateSchool_carpet_01",
+          "sortId": 1964,
+          "name": "'Respect for Paper'",
+          "iconId": "furni_yanPrivateSchool_carpet_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CARPET",
+          "subType": "NONE",
+          "location": "CARPET",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_3",
+          "width": 7,
+          "depth": 5,
+          "height": 1,
+          "comfort": 85,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Rug embroidered with paper. The School has clear rules about treasuring paper. The students here understand that getting along with humans requires understanding their rules, and humans have written their rules on paper.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_flowerReel_01": {
+          "id": "furni_yanPrivateSchool_flowerReel_01",
+          "sortId": 1965,
+          "name": "Porcelain Queen of the Night Decor",
+          "iconId": "furni_yanPrivateSchool_flowerReel_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLDECO",
+          "subType": "ART_WD",
+          "location": "WALL",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_2",
+          "width": 3,
+          "depth": 2,
+          "height": 3,
+          "comfort": 100,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A glazed ornament made from the same kiln as the one on the desk. The cracks on its surface were repaired by lacquer. Mr. Pu says a new soul may be born even after its geist has died, so students come here late at night to check on it.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_lantern_01": {
+          "id": "furni_yanPrivateSchool_lantern_01",
+          "sortId": 1966,
+          "name": "'Midnight Blue'",
+          "iconId": "furni_yanPrivateSchool_lantern_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_4",
+          "width": 2,
+          "depth": 2,
+          "height": 3,
+          "comfort": 70,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Lantern made from blue oil paper, using an efficient lighting module for safety. The lantern casts a shadow of the base, but Leizi insists that the one in the School casts no shadow, which gives Logistics headaches.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_booksHeap_01": {
+          "id": "furni_yanPrivateSchool_booksHeap_01",
+          "sortId": 1967,
+          "name": "'Words of Greatness'",
+          "iconId": "furni_yanPrivateSchool_booksHeap_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "ART_D",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_4",
+          "width": 3,
+          "depth": 3,
+          "height": 5,
+          "comfort": 220,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Pile of random books. Seems loose, but surprisingly steady. Ah Du loves collecting quotes from all of history, while Mr. Pu hopes it would learn to leave some blank. It doesn't listen. And more pages are added regularly.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_bookTable_01": {
+          "id": "furni_yanPrivateSchool_bookTable_01",
+          "sortId": 1968,
+          "name": "Reading Desk",
+          "iconId": "furni_yanPrivateSchool_bookTable_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_4",
+          "width": 4,
+          "depth": 5,
+          "height": 3,
+          "comfort": 275,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Solid desk and comfy chair. A good place to do some reading. One of the books in the School became a geist, but started complaining in its first class. Why does it have to read books when it has been a book its entire existence?",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_writingTable_01": {
+          "id": "furni_yanPrivateSchool_writingTable_01",
+          "sortId": 1969,
+          "name": "Writing Desk",
+          "iconId": "furni_yanPrivateSchool_writingTable_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_4",
+          "width": 4,
+          "depth": 5,
+          "height": 2,
+          "comfort": 240,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Solid desk and comfy chair. A good place to do some reading. One of the inkstones in the School became a geist, but got scolded in its first class. Why, when it has been sleeping on the table its entire existence?",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_curtain_01": {
+          "id": "furni_yanPrivateSchool_curtain_01",
+          "sortId": 1970,
+          "name": "Colorful Silken Drapes",
+          "iconId": "furni_yanPrivateSchool_curtain_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILING",
+          "subType": "CURTAIN_C",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_4",
+          "width": 5,
+          "depth": 1,
+          "height": 3,
+          "comfort": 95,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Colorful woven curtain. As soon as it was installed, some complained that they were getting damp from lack of sunlight, and others that it blocked the moon at night. And so it was installed on the ceiling, where it will not block anything.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_deadTree_01": {
+          "id": "furni_yanPrivateSchool_deadTree_01",
+          "sortId": 1971,
+          "name": "Candle Sideboard",
+          "iconId": "furni_yanPrivateSchool_deadTree_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CABINET",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_3",
+          "width": 4,
+          "depth": 2,
+          "height": 7,
+          "comfort": 235,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A jade sideboard with a root sculpture and candlestands installed upon it. Little Zhu gave Mr. Pu a spook when it spoke as it was lit. The candle looks out the window; it has all night to experience being alive before it burns out.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_books_01": {
+          "id": "furni_yanPrivateSchool_books_01",
+          "sortId": 1972,
+          "name": "'Leisure'",
+          "iconId": "furni_yanPrivateSchool_books_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "ART_D",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_4",
+          "width": 3,
+          "depth": 3,
+          "height": 3,
+          "comfort": 180,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "A porcelain pot filled with scrolls and handbound books, giving it an aura of learning. Spare blank scrolls and the most popular storybooks are hidden in an inconspicuous corner by the students.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_wallpaper_01": {
+          "id": "furni_yanPrivateSchool_wallpaper_01",
+          "sortId": 1973,
+          "name": "'Landscapes Beyond Mist'",
+          "iconId": "furni_yanPrivateSchool_wallpaper_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLPAPER",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "WALL",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_2",
+          "width": 34,
+          "depth": 1,
+          "height": 10,
+          "comfort": 240,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Panoramic display of a Yanese town, mounts and rivers seen in the distance. No student has truly escaped, but they feel no regret. A geist simply gains a few cracks when it dies; perhaps the mounts will make it complete again, years later.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
+        "furni_yanPrivateSchool_floor_01": {
+          "id": "furni_yanPrivateSchool_floor_01",
+          "sortId": 1974,
+          "name": "'Hall of Wind and Dew'",
+          "iconId": "furni_yanPrivateSchool_floor_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "FLOOR",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "FLOOR",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furni_set_yanPrivateSchool",
+          "groupId": "furni_set_yanPrivateSchool_1",
+          "width": 34,
+          "depth": 10,
+          "height": 1,
+          "comfort": 240,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Floor tiles made of lake mud. Naturally warm, even when stood upon with bare feet. Not even Mr. Pu remembers when the School opened, but he will continue to help any geist that wants to blend into the world of human.",
+          "obtainApproach": "Purchased from the Limited Furniture Store",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 1
+        }
+      ,
+      
         "furni_oct1st_deckChair_01": {
           "id": "furni_oct1st_deckChair_01",
           "sortId": 9998,
@@ -98037,7 +98873,7 @@
         "furni_sanrio_cinnamoroll_01": {
           "id": "furni_sanrio_cinnamoroll_01",
           "sortId": 10219,
-          "name": "Cinnamon Ring",
+          "name": "Flying Cinnamon Ring",
           "iconId": "furni_sanrio_cinnamoroll_01",
           "interactType": "NONE",
           "musicId": "",
@@ -98073,7 +98909,7 @@
         "furni_sanrio_melody_01": {
           "id": "furni_sanrio_melody_01",
           "sortId": 10220,
-          "name": "Melody Sofa",
+          "name": "Pastoral Sofa",
           "iconId": "furni_sanrio_melody_01",
           "interactType": "NONE",
           "musicId": "",
@@ -98775,7 +99611,7 @@
           "height": 7,
           "comfort": 120,
           "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
-          "description": "A set of lounge cushions inspired by the colorful world of POPUCOM. Wherever you are, embark on this journey with your friends through endless colors!",
+          "description": "A set of lounge cushions inspired by the colorful world of POPUCOM.\nWherever you are, embark on this journey with your friends through endless colors!",
           "obtainApproach": "Event Reward",
           "processedProductId": "3401",
           "processedProductCount": 0,
@@ -102304,6 +103140,42 @@
           "comfort": 75,
           "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
           "description": "In front of the screen, definitions are made, and beauty is advertised. Behind the screen, there is an endless walk, and dreams hang high above.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4144,
+          "quantity": 0
+        }
+      ,
+      
+        "furni_terracommericials_SuisGarden_01": {
+          "id": "furni_terracommericials_SuisGarden_01",
+          "sortId": 11100,
+          "name": "Plaque 'Lone Lotus'",
+          "iconId": "furni_terracommericials_SuisGarden_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLDECO",
+          "subType": "PLAQUE",
+          "location": "WALL",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 4,
+          "depth": 1,
+          "height": 2,
+          "comfort": 75,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
+          "description": "Sui's boundless consciousness fills your eyes, but you see no flowers bloom into the fullest.",
           "obtainApproach": "Event Reward",
           "processedProductId": "3401",
           "processedProductCount": 0,
@@ -106192,6 +107064,42 @@
           "comfort": 300,
           "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
           "description": "A witchcraft construct in the shape of a door. Though it still emits an otherworldly glow, it lacks the great power from the legends: the power to transport people into the future.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4144,
+          "quantity": 0
+        }
+      ,
+      
+        "furni_act57d6_docCake_01": {
+          "id": "furni_act57d6_docCake_01",
+          "sortId": 20008,
+          "name": "Doctor's Cake (1101)",
+          "iconId": "furni_act57d6_docCake_01",
+          "interactType": "ANIMATOR",
+          "musicId": "",
+          "type": "INTERACT",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 6,
+          "depth": 3,
+          "height": 5,
+          "comfort": 300,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
+          "description": "Your birthday cake from year 1101, topped with strawberry and chocolate cream and decorated with fresh berries and cookies. Even Kal'tsit, usually so deliberate with her words, didn't hesitate to say 'Happy birthday' the moment she saw you.",
           "obtainApproach": "Event Reward",
           "processedProductId": "3401",
           "processedProductCount": 0,
@@ -123340,6 +124248,166 @@
         }
       ,
       
+        "furni_set_yanPrivateSchool": {
+          "id": "furni_set_yanPrivateSchool",
+          "enableRoomType": 4112,
+          "sortId": 112,
+          "name": "Blue Country Study",
+          "themeType": "EVENT",
+          "desc": "The School's collection room recreated according to Leizi's description. Few on the outside know of the events that transpired in this small Yanese town, but some still remember and record them.",
+          "quickSetup": [
+            {
+              "furnitureId": "furni_yanPrivateSchool_ceilingShelf_01",
+              "pos0": 2,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_bookShelf_01",
+              "pos0": 0,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_jadeBamboo_01",
+              "pos0": 6,
+              "pos1": 7,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_chair_01",
+              "pos0": 2,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_tallShelf_01",
+              "pos0": 8,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_willowCeiling_01",
+              "pos0": 13,
+              "pos1": 6,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_foldingScreen_01",
+              "pos0": 9,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_table_01",
+              "pos0": 12,
+              "pos1": 6,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_flowerTable_01",
+              "pos0": 13,
+              "pos1": 3,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_carpet_01",
+              "pos0": 16,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_flowerReel_01",
+              "pos0": 24,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_lantern_01",
+              "pos0": 28,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_booksHeap_01",
+              "pos0": 27,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_bookTable_01",
+              "pos0": 21,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_writingTable_01",
+              "pos0": 25,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_curtain_01",
+              "pos0": 24,
+              "pos1": 8,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_deadTree_01",
+              "pos0": 30,
+              "pos1": 1,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_books_01",
+              "pos0": 31,
+              "pos1": 3,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_wallpaper_01",
+              "pos0": 0,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furni_yanPrivateSchool_floor_01",
+              "pos0": 0,
+              "pos1": 10,
+              "dir": 0
+            }
+          ],
+          "groups": [
+            "furni_set_yanPrivateSchool_1",
+            "furni_set_yanPrivateSchool_2",
+            "furni_set_yanPrivateSchool_3",
+            "furni_set_yanPrivateSchool_4"
+          ],
+          "furnitures": [
+            "furni_yanPrivateSchool_ceilingShelf_01",
+            "furni_yanPrivateSchool_bookShelf_01",
+            "furni_yanPrivateSchool_jadeBamboo_01",
+            "furni_yanPrivateSchool_chair_01",
+            "furni_yanPrivateSchool_tallShelf_01",
+            "furni_yanPrivateSchool_willowCeiling_01",
+            "furni_yanPrivateSchool_foldingScreen_01",
+            "furni_yanPrivateSchool_table_01",
+            "furni_yanPrivateSchool_flowerTable_01",
+            "furni_yanPrivateSchool_carpet_01",
+            "furni_yanPrivateSchool_flowerReel_01",
+            "furni_yanPrivateSchool_lantern_01",
+            "furni_yanPrivateSchool_booksHeap_01",
+            "furni_yanPrivateSchool_bookTable_01",
+            "furni_yanPrivateSchool_writingTable_01",
+            "furni_yanPrivateSchool_curtain_01",
+            "furni_yanPrivateSchool_deadTree_01",
+            "furni_yanPrivateSchool_books_01",
+            "furni_yanPrivateSchool_wallpaper_01",
+            "furni_yanPrivateSchool_floor_01"
+          ]
+        }
+      ,
+      
         "furniM_set_basicRoom": {
           "id": "furniM_set_basicRoom",
           "enableRoomType": 32,
@@ -130858,6 +131926,74 @@
             "furni_videoStudio_chair_01"
           ]
         }
+      ,
+      
+        "furni_set_yanPrivateSchool_1": {
+          "id": "furni_set_yanPrivateSchool_1",
+          "sortId": 1,
+          "name": "'Ask Not Scrolls and Paintings'",
+          "themeId": "furni_set_yanPrivateSchool",
+          "comfort": 205,
+          "count": 5,
+          "furniture": [
+            "furni_yanPrivateSchool_ceilingShelf_01",
+            "furni_yanPrivateSchool_bookShelf_01",
+            "furni_yanPrivateSchool_jadeBamboo_01",
+            "furni_yanPrivateSchool_chair_01",
+            "furni_yanPrivateSchool_floor_01"
+          ]
+        }
+      ,
+      
+        "furni_set_yanPrivateSchool_2": {
+          "id": "furni_set_yanPrivateSchool_2",
+          "sortId": 2,
+          "name": "'Dry Not the Inkstone'",
+          "themeId": "furni_set_yanPrivateSchool",
+          "comfort": 210,
+          "count": 4,
+          "furniture": [
+            "furni_yanPrivateSchool_tallShelf_01",
+            "furni_yanPrivateSchool_foldingScreen_01",
+            "furni_yanPrivateSchool_flowerReel_01",
+            "furni_yanPrivateSchool_wallpaper_01"
+          ]
+        }
+      ,
+      
+        "furni_set_yanPrivateSchool_3": {
+          "id": "furni_set_yanPrivateSchool_3",
+          "sortId": 3,
+          "name": "'Stop Not Pen and Paper'",
+          "themeId": "furni_set_yanPrivateSchool",
+          "comfort": 260,
+          "count": 5,
+          "furniture": [
+            "furni_yanPrivateSchool_willowCeiling_01",
+            "furni_yanPrivateSchool_table_01",
+            "furni_yanPrivateSchool_flowerTable_01",
+            "furni_yanPrivateSchool_carpet_01",
+            "furni_yanPrivateSchool_deadTree_01"
+          ]
+        }
+      ,
+      
+        "furni_set_yanPrivateSchool_4": {
+          "id": "furni_set_yanPrivateSchool_4",
+          "sortId": 4,
+          "name": "'Speak Not Guqin and Chess'",
+          "themeId": "furni_set_yanPrivateSchool",
+          "comfort": 255,
+          "count": 6,
+          "furniture": [
+            "furni_yanPrivateSchool_lantern_01",
+            "furni_yanPrivateSchool_booksHeap_01",
+            "furni_yanPrivateSchool_bookTable_01",
+            "furni_yanPrivateSchool_writingTable_01",
+            "furni_yanPrivateSchool_curtain_01",
+            "furni_yanPrivateSchool_books_01"
+          ]
+        }
       
     },
     "types": {
@@ -130879,28 +132015,28 @@
         "WALLPAPER": {
           "type": "WALLPAPER",
           "name": "Wallpaper",
-          "enableRoomType": 4112
+          "enableRoomType": 4144
         }
       ,
       
         "FLOOR": {
           "type": "FLOOR",
           "name": "Floor",
-          "enableRoomType": 4112
+          "enableRoomType": 4144
         }
       ,
       
         "CEILING": {
           "type": "CEILING",
           "name": "Ceiling",
-          "enableRoomType": 4112
+          "enableRoomType": 4144
         }
       ,
       
         "CARPET": {
           "type": "CARPET",
           "name": "Carpet",
-          "enableRoomType": 4112
+          "enableRoomType": 4144
         }
       ,
       
@@ -130988,7 +132124,7 @@
           "type": "SEATING",
           "sortId": 1,
           "countLimit": -1,
-          "enableRoomType": 4112
+          "enableRoomType": 4144
         }
       ,
       
@@ -131028,7 +132164,7 @@
           "type": "SEATING",
           "sortId": 5,
           "countLimit": -1,
-          "enableRoomType": 4112
+          "enableRoomType": 4144
         }
       ,
       
@@ -131038,7 +132174,7 @@
           "type": "SEATING",
           "sortId": 6,
           "countLimit": -1,
-          "enableRoomType": 4112
+          "enableRoomType": 4144
         }
       ,
       
@@ -131208,7 +132344,7 @@
           "type": "DECORATION",
           "sortId": 7,
           "countLimit": -1,
-          "enableRoomType": 4112
+          "enableRoomType": 4144
         }
       ,
       
@@ -131768,6 +132904,9 @@
           },
           {
             "skinId": "char_4100_caper@summer#18"
+          },
+          {
+            "skinId": "char_4080_lin@summer#19"
           }
         ]
       

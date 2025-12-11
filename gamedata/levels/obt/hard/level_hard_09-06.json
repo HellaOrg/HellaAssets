@@ -5324,6 +5324,7 @@
         "alias": "trap_043_dupilr#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_043_dupilr",
           "level": 1,
@@ -5347,6 +5348,7 @@
         "alias": "trap_043_dupilr#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_043_dupilr",
           "level": 1,
@@ -5370,6 +5372,7 @@
         "alias": "trap_043_dupilr#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_043_dupilr",
           "level": 1,
@@ -5393,6 +5396,7 @@
         "alias": "trap_043_dupilr#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_043_dupilr",
           "level": 1,

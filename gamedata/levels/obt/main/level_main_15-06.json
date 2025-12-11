@@ -4817,6 +4817,7 @@
         "alias": "trap_229_mpcata#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_229_mpcata",
           "level": 1,
@@ -4840,6 +4841,7 @@
         "alias": "trap_229_mpcata#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_229_mpcata",
           "level": 1,
@@ -4863,6 +4865,7 @@
         "alias": "trap_229_mpcata#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_229_mpcata",
           "level": 1,
@@ -4887,6 +4890,7 @@
         "alias": "trap_229_mpcata#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_229_mpcata",
           "level": 1,

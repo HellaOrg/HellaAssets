@@ -16481,6 +16481,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -16510,6 +16514,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -21184,6 +21192,7 @@
         "alias": "trap_025_prison#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_025_prison",
           "level": 1,
@@ -21207,6 +21216,7 @@
         "alias": "trap_025_prison#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_025_prison",
           "level": 1,
@@ -21230,6 +21240,7 @@
         "alias": "trap_025_prison#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_025_prison",
           "level": 1,
@@ -21253,6 +21264,7 @@
         "alias": "trap_025_prison#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_025_prison",
           "level": 1,
@@ -21276,6 +21288,7 @@
         "alias": "trap_025_prison#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_025_prison",
           "level": 1,
@@ -21299,6 +21312,7 @@
         "alias": "trap_025_prison#6",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_025_prison",
           "level": 1,

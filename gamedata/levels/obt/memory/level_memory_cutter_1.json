@@ -3810,6 +3810,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -3839,6 +3843,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -4548,6 +4556,7 @@
         "alias": "trap_008_farm#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_008_farm",
           "level": 1,
@@ -4571,6 +4580,7 @@
         "alias": "trap_008_farm#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_008_farm",
           "level": 1,
@@ -4591,6 +4601,7 @@
         "alias": "char_301_cutter",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_301_cutter",
           "level": 25,
@@ -4609,6 +4620,7 @@
         "alias": "char_187_ccheal",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_187_ccheal",
           "level": 20,
@@ -4627,6 +4639,7 @@
         "alias": "char_237_gravel",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_237_gravel",
           "level": 20,
@@ -4645,6 +4658,7 @@
         "alias": "char_117_myrrh",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_117_myrrh",
           "level": 20,

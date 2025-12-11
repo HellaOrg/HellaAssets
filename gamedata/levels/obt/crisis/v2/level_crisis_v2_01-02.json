@@ -3890,6 +3890,7 @@
         "alias": "trap_024_npcsld#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_024_npcsld",
           "level": 30,
@@ -3913,6 +3914,7 @@
         "alias": "trap_024_npcsld#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_024_npcsld",
           "level": 30,
@@ -3936,6 +3938,7 @@
         "alias": "trap_024_npcsld#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_024_npcsld",
           "level": 30,
@@ -3959,6 +3962,7 @@
         "alias": "trap_024_npcsld#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_024_npcsld",
           "level": 30,
@@ -3982,6 +3986,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_103_ymdgct",
           "level": 1,

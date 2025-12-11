@@ -7569,6 +7569,7 @@
         "alias": "char_242_otter",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_242_otter",
           "level": 20,
@@ -7592,6 +7593,7 @@
         "alias": "char_248_mgllan",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_248_mgllan",
           "level": 20,

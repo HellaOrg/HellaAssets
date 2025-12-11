@@ -2339,6 +2339,7 @@
         "alias": "trap_010_frosts",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_010_frosts",
           "level": 1,
@@ -2359,6 +2360,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_436_whispr",
           "level": 20,
@@ -2377,6 +2379,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_500_noirc",
           "level": 30,
@@ -2395,6 +2398,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_501_durin",
           "level": 30,
@@ -2413,6 +2417,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_502_nblade",
           "level": 30,
@@ -2431,6 +2436,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_124_kroos",
           "level": 40,
@@ -2449,6 +2455,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_278_orchid",
           "level": 40,

@@ -3434,6 +3434,7 @@
         "alias": "char_166_skfire",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_166_skfire",
           "level": 20,
@@ -3452,6 +3453,7 @@
         "alias": "char_500_noirc",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_500_noirc",
           "level": 30,
@@ -3470,6 +3472,7 @@
         "alias": "char_120_hibisc",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_120_hibisc",
           "level": 55,
@@ -3488,6 +3491,7 @@
         "alias": "char_122_beagle",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_122_beagle",
           "level": 30,

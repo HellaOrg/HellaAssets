@@ -1027,6 +1027,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_050_blizzard",
           "level": 1,
@@ -1056,6 +1057,7 @@
         "alias": "trap_137_winfire#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_137_winfire",
           "level": 1,
@@ -1085,6 +1087,7 @@
         "alias": "trap_137_winfire#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_137_winfire",
           "level": 1,

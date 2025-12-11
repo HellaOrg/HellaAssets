@@ -1,6 +1,35 @@
 {
   "basicInfo": {
     
+      "act19mini": {
+        "id": "act19mini",
+        "type": "MINISTORY",
+        "displayType": "MINISTORY",
+        "name": "Fantasy in the Mirage",
+        "startTime": 1765454400,
+        "endTime": 1766055599,
+        "rewardEndTime": 1766314799,
+        "displayOnHome": true,
+        "hasStage": true,
+        "templateShopId": "shop_act19mini",
+        "medalGroupId": null,
+        "ungroupedMedalIds": [
+          "medal_activity_19mini_01",
+          "medal_activity_19mini_02"
+        ],
+        "isReplicate": false,
+        "needFixedSync": false,
+        "trapDomainId": null,
+        "recType": "SPECIAL",
+        "isPageEntry": false,
+        "isMagnify": false,
+        "picGroup": [
+
+        ],
+        "usePicGroup": false
+      }
+    ,
+    
       "act5bossrush": {
         "id": "act5bossrush",
         "type": "BOSS_RUSH",
@@ -7167,6 +7196,9 @@
     
   },
   "zoneToActivity": {
+    
+      "act19mini_zone1": "act19mini"
+    ,
     
       "act5bossrush_zone1": "act5bossrush"
     ,
@@ -163926,7 +163958,7 @@
         "act3switch": {
           "constData": {
             "activityTime": "Event period: Dec 20 10:00 - Jan 3 03:59",
-            "activityRule": "Unlock rewards once views on all platforms reach certain milestones\nReach 500,000 total views to unlock furniture: Melody Sofa\nReach 2,000,000 total views to unlock furniture: Cinnamon Ring"
+            "activityRule": "Unlock rewards once views on all platforms reach certain milestones\nReach 500,000 total views to unlock furniture: Pastoral Sofa\nReach 2,000,000 total views to unlock furniture: Flying Cinnamon Ring"
           },
           "rewards": {
             
@@ -164058,6 +164090,51 @@
       
     },
     "MINISTORY": {
+      
+        "act19mini": {
+          "tokenItemId": "act19mini_token_sweetie",
+          "zoneDescList": {
+            
+              "act19mini_zone1": {
+                "zoneId": "act19mini_zone1",
+                "unlockText": "Clear Main Theme 1-10 to unlock"
+              }
+            
+          },
+          "favorUpList": {
+
+          },
+          "extraDropZoneList": [
+            "main_0",
+            "main_1",
+            "main_2",
+            "main_3",
+            "main_4",
+            "main_5",
+            "main_6",
+            "main_7",
+            "main_8",
+            "main_9",
+            "main_10",
+            "main_11",
+            "main_12",
+            "main_13",
+            "main_14",
+            "act2mainss_zone1",
+            "weekly_1",
+            "weekly_2",
+            "weekly_3",
+            "weekly_4",
+            "weekly_5",
+            "weekly_6",
+            "weekly_7",
+            "weekly_8",
+            "weekly_9",
+            "weekly_10",
+            "act19mini_zone1"
+          ]
+        }
+      ,
       
         "act18mini": {
           "tokenItemId": "act18mini_token_petals",
@@ -167193,14 +167270,14 @@
                   "char_487_bobb"
                 ],
                 "teamBuffName": "Enkindle",
-                "teamBuffDes": "Friendly Units' Burn damage and Elemental damage effects are increased by 35%",
+                "teamBuffDes": "Friendly Units' Burn and Elemental damage effects are increased by 35%",
                 "teamBuffId": "act5bossrush_team03",
                 "maxCharNum": 10,
                 "runeData": {
                   "id": "act5bossrush_team03",
                   "points": 0.0,
                   "mutexGroupKey": null,
-                  "description": "Friendly Units' Burn damage and Elemental damage effects are increased by 35%",
+                  "description": "Friendly Units' Burn and Elemental damage effects are increased by 35%",
                   "runes": [
                     {
                       "key": "env_gbuff_new",
@@ -239927,9 +240004,9 @@
             "modeStandId": "multiStandMatch",
             "multiPreposedModeId": "soloOperation",
             "entryMusicName": "Duel Channel - Monster Siren Records - MSR/N2V",
-            "modeCondLockText": "Unlocks after experiencing {0}",
-            "modeTimeLockText": "Unlocks in {0}",
-            "titlePicRotateTime": 3.0
+            "modeCondLockText": "Grassville Program",
+            "modeTimeLockText": "Unlocks after experiencing {0}",
+            "titlePicRotateTime": 0.0
           },
           "constToastData": {
             "createRoomAliveFailed": "Failed to create room, please check your network and try again",
@@ -240182,7 +240259,7 @@
                 "sortId": 2,
                 "taskName": "Series on Child Psychology",
                 "taskContent": "[Order 231]\nClient: Vannini\nAfter some discussion, we decided to reference Vannini's mother's patron firearm in the construction of this one. But we've found keeping to this standard to have major flaws. Will need to make further adjustments.\n\nClient comment: Thank you for looking after my mother's patron firearm, Magister.",
-                "afterTaskContent": "In the middle of the night, you knock a few books off the bookshelf. They open as you pick them up, and a report greets you from among the pages. You are reminded of the day you brought Vannini to doctors all across the city.\n\n[Medical Report]\nPagus Faber Central Hospital, Halo Surgery\nPatient suffers from a speech impediment, speaking with only great difficulty and with severe lexical deficiency. Patient also shows mild difficulties in reading and writing. Diagnosis is psychogenic aphasia.\nAside from medication, considering the family's particular circumstances, weekly empathy contact sessions at this hospital have been suggested.\n\nYou couldn't rely on empathy to read the girl's mind, so at the doctor's suggestion, you bought <i>Little Halo, Little Heart</i>, a series of books about Sankta child psychology. You memorized every passage in those books, but when you saw her stuttering in front of you, the grim reality set in. Every sentence of these lousy books was based on a central premise: both you and your child have big, bright halos on your heads.\nBut you don't have one—not then, not now. What a shame. Those books were useless to you.\n\nYou relive the anxiety and anger you felt at the time, ignoring the fact that you tore these books to shreds in a fit of rage long ago.",
+                "afterTaskContent": "In the middle of the night, you knock a few books off the bookshelf. They open as you pick them up, and a report greets you from among the pages. You are reminded of the day you brought Vannini to doctors all across the city.\n\n[Medical Report]\nPagus Faber Central Hospital, Halo Surgery\nPatient suffers from a speech impediment, speaking with only great difficulty and with severe lexical deficiency. Patient also shows mild difficulties in reading and writing. Diagnosis is psychogenic aphasia.\nAside from medication, considering the family's particular circumstances, weekly empathy contact sessions at this hospital have been suggested.\n\nYou couldn't rely on empathy to read the girl's mind, so at the doctor's suggestion, you bought Little Halo, Little Heart, a series of books about Sankta child psychology. You memorized every passage in those books, but when you saw her stuttering in front of you, the grim reality set in. Every sentence of these lousy books was based on a central premise: both you and your child have big, bright halos on your heads.\nBut you don't have one—not then, not now. What a shame. Those books were useless to you.\n\nYou relive the anxiety and anger you felt at the time, ignoring the fact that you tore these books to shreds in a fit of rage long ago.",
                 "beforeTaskItemIcon": "book_blank",
                 "afterTaskItemIcon": "book",
                 "stageId": "act42side_05",
@@ -240671,6 +240748,11 @@
     }
   },
   "activityItems": {
+    
+      "act19mini": [
+        "act19mini_token_sweetie"
+      ]
+    ,
     
       "act5bossrush": [
         "act5bossrush_milestone_point",
@@ -241664,6 +241746,12 @@
       "act11d0": [
         1603886400,
         1605092399
+      ]
+    ,
+    
+      "act19mini": [
+        1765454400,
+        1766055599
       ]
     ,
     
@@ -246494,6 +246582,24 @@
 
       ],
       "startTs": 1763650800
+    },
+    {
+      "id": "dis_mini_19",
+      "type": "ACTIVITY",
+      "funcId": "act19mini",
+      "endTs": 1766055599,
+      "sortId": 119,
+      "itemId": "act19mini_token_sweetie",
+      "timeNodes": [
+        {
+          "title": "<Fantasy in the Mirage> is now open",
+          "ts": 1765454400
+        }
+      ],
+      "picGroups": [
+
+      ],
+      "startTs": 1765454400
     }
   ],
   "actFunData": {
@@ -272769,8 +272875,8 @@
           "animalId": "firework_animal_1",
           "sortId": 3,
           "animalName": "Goat (not used now)",
-          "animalBuffDesc1": "Attacks deal <color value=#ffecb1>50%</color> ATK as <color value=#ffecb1>Burn damage</color>.",
-          "animalBuffDesc2": "Attacks deal <color value=#f05b6d>50%</color> ATK as <color value=#f05b6d>Burn damage</color>.",
+          "animalBuffDesc1": "Attacks deal <color value=#ffecb1>50%</color> ATK as <color value=#ffecb1>Burn</color>.",
+          "animalBuffDesc2": "Attacks deal <color value=#f05b6d>50%</color> ATK as <color value=#f05b6d>Burn</color>.",
           "unlockLevel": "act38side_04",
           "type": "RED",
           "noneOutlineUnselectIconId": [

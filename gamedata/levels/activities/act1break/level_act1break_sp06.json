@@ -1185,6 +1185,7 @@
         "alias": "trap_086_larva#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_086_larva",
           "level": 1,

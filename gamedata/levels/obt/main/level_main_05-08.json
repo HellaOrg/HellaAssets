@@ -6857,6 +6857,7 @@
         "alias": "trap_007_ballis#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_007_ballis",
           "level": 6,
@@ -6880,6 +6881,7 @@
         "alias": "trap_007_ballis#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_007_ballis",
           "level": 6,
@@ -6903,6 +6905,7 @@
         "alias": "trap_007_ballis#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_007_ballis",
           "level": 6,
