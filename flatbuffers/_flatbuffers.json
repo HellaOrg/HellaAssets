@@ -143,6 +143,9 @@
     "skin_table.fbs": {
         "commit": "3eb9eea6dd28420bf595fc9244b03fe0a1a36b65"
     },
+    "special_operator_table.fbs": {
+        "commit": "3cc62e82842f8b54c4fd20973e8be9ed3dd1732a"
+    },
     "stage_table.fbs": {
         "commit": "3cd83986000ba0bd4a88d78a636558cb7505684a"
     },
