@@ -26,6 +26,9 @@
     "character_table.fbs": {
         "commit": "3eb9eea6dd28420bf595fc9244b03fe0a1a36b65"
     },
+    "char_master_table.fbs": {
+        "commit": "64a7db4a9cdc852b06f77879f835d8db255ecf9e"
+    },
     "char_meta_table.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
     },
@@ -139,6 +142,9 @@
     },
     "skin_table.fbs": {
         "commit": "3eb9eea6dd28420bf595fc9244b03fe0a1a36b65"
+    },
+    "special_operator_table.fbs": {
+        "commit": "3cc62e82842f8b54c4fd20973e8be9ed3dd1732a"
     },
     "stage_table.fbs": {
         "commit": "3cd83986000ba0bd4a88d78a636558cb7505684a"
