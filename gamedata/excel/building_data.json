@@ -15513,6 +15513,36 @@
       }
     ,
     
+      "char_4195_radian": {
+        "charId": "char_4195_radian",
+        "maxManpower": 8640000,
+        "buffChar": [
+          {
+            "buffData": [
+              {
+                "buffId": "control_mp_cost[013]",
+                "cond": {
+                  "phase": "PHASE_0",
+                  "level": 1
+                }
+              }
+            ]
+          },
+          {
+            "buffData": [
+              {
+                "buffId": "control_dorm_rec_tag[001]",
+                "cond": {
+                  "phase": "PHASE_2",
+                  "level": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ,
+    
       "char_4196_reckpr": {
         "charId": "char_4196_reckpr",
         "maxManpower": 8640000,
@@ -16065,6 +16095,20 @@
       }
     ,
     
+      "control_mp_cost[013]": {
+        "buffId": "control_mp_cost[013]",
+        "buffName": "Drip-Fed Care",
+        "buffIcon": "control",
+        "skillIcon": "bskill_ctrl_cost",
+        "sortId": 1113,
+        "buffColor": "#005752",
+        "textColor": "#ffffff",
+        "buffCategory": "FUNCTION",
+        "roomType": "CONTROL",
+        "description": "When this Operator is assigned to the Control Center, increases Morale of all Operators in the Control Center by <@cc.vup>+0.05</> per hour."
+      }
+    ,
+    
       "control_mp_cost_double[000]": {
         "buffId": "control_mp_cost_double[000]",
         "buffName": "King's Legacy",
@@ -16468,6 +16512,20 @@
         "buffCategory": "FUNCTION",
         "roomType": "CONTROL",
         "description": "When this Operator is assigned to the Control Center, all Operators in Dormitories recover <@cc.vup>+0.05</> Morale per hour (strongest effect of the same type applies)"
+      }
+    ,
+    
+      "control_dorm_rec_tag[001]": {
+        "buffId": "control_dorm_rec_tag[001]",
+        "buffName": "Quiet Affection",
+        "buffIcon": "control",
+        "skillIcon": "bskill_ctrl_d_r_tag",
+        "sortId": 1401,
+        "buffColor": "#005752",
+        "textColor": "#ffffff",
+        "buffCategory": "FUNCTION",
+        "roomType": "CONTROL",
+        "description": "When this Operator is assigned to the Control Center, all <$cc.g.elite><@cc.kw>Elite Operators</></> in Dormitories recover <@cc.vup>+0.1</> Morale per hour (strongest effect of the same type applies)"
       }
     ,
     
@@ -99554,6 +99612,78 @@
         }
       ,
       
+        "furni_act63d4_festivalStall_01": {
+          "id": "furni_act63d4_festivalStall_01",
+          "sortId": 10240,
+          "name": "Festival Game Stall",
+          "iconId": "furni_act63d4_festivalStall_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "INSTRUMENT_D",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 6,
+          "depth": 4,
+          "height": 6,
+          "comfort": 120,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Stall with a festival angling game, with all sorts of prizes on display. Sweetness, warmth, and excited laughs. The things most worth remembering at a festival can all be found here.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 0
+        }
+      ,
+      
+        "furni_act63d4_windChimes_01": {
+          "id": "furni_act63d4_windChimes_01",
+          "sortId": 10241,
+          "name": "Festival Wind Chime Stand",
+          "iconId": "furni_act63d4_windChimes_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "STORAGE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 3,
+          "depth": 2,
+          "height": 7,
+          "comfort": 120,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory",
+          "description": "Wooden wind chimes decorated with wisterias, with a storage box for festival uchiwa. Even once the fireworks are over, people can stay here and listen to the night breeze jingle the bells.",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4112,
+          "quantity": 0
+        }
+      ,
+      
         "furni_animation_projector_03": {
           "id": "furni_animation_projector_03",
           "sortId": 10249,
@@ -106787,6 +106917,654 @@
           "isOnly": 1,
           "enableRoomType": 32,
           "quantity": 0
+        }
+      ,
+      
+        "furniM_taiko_ropeChandelier_01": {
+          "id": "furniM_taiko_ropeChandelier_01",
+          "sortId": 80117,
+          "name": "Shrine Chandelier",
+          "iconId": "furniM_taiko_ropeChandelier_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_3",
+          "width": 3,
+          "depth": 3,
+          "height": 5,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A light made by weaving fluorescent tubes into shimenawa ropes, with a lampshade in the shape of a shrine roof. 'Where have the Suzudons gone, don?'",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_tableSet_01": {
+          "id": "furniM_taiko_tableSet_01",
+          "sortId": 80118,
+          "name": "Taiko Festival Desk",
+          "iconId": "furniM_taiko_tableSet_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_3",
+          "width": 6,
+          "depth": 5,
+          "height": 5,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "An all-in-one table design serving lighting, decoration, storage, and other features, where you can also find curious little trinkets. Mizuki seems like a taiko festival pro, so why not ask him to teach you all about it?",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_taikoShelve_01": {
+          "id": "furniM_taiko_taikoShelve_01",
+          "sortId": 80119,
+          "name": "Big Taiko Display Cabinet",
+          "iconId": "furniM_taiko_taikoShelve_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CABINET",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_3",
+          "width": 5,
+          "depth": 3,
+          "height": 9,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A wooden cabinet displaying a large taiko drum with matching drumsticks stored below. 'Did it grow so big from eating more than me, don?'",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_bambooCarpet_01": {
+          "id": "furniM_taiko_bambooCarpet_01",
+          "sortId": 80120,
+          "name": "Cooling Bamboo Carpet",
+          "iconId": "furniM_taiko_bambooCarpet_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CARPET",
+          "subType": "NONE",
+          "location": "CARPET",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_3",
+          "width": 5,
+          "depth": 5,
+          "height": 1,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A very cozy carpet weaved from bamboo strips. Cool to the touch, just like the cool Katsu-chan.",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_musicPlayer_01": {
+          "id": "furniM_taiko_musicPlayer_01",
+          "sortId": 90121,
+          "name": "Don-don-ka-ka Drum Set",
+          "iconId": "furniM_taiko_musicPlayer_01",
+          "interactType": "FUNCTION",
+          "musicId": "",
+          "type": "FUNCTION",
+          "subType": "MUSIC",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_4",
+          "width": 4,
+          "depth": 4,
+          "height": 6,
+          "comfort": 0,
+          "usage": "[Functional Furniture - Record Player] Can be used to decorate the Reception Room",
+          "description": "A taiko drum themed music player with Don-chan and Katsu-chan stamps on it. When Kirara's challenging 10-star songs, you can also often find Utage here jamming out to new tunes.",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_leftSeat_01": {
+          "id": "furniM_taiko_leftSeat_01",
+          "sortId": 80122,
+          "name": "Sky-Blue Low Chair (Left)",
+          "iconId": "furniM_taiko_leftSeat_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "CHAIR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_1",
+          "width": 3,
+          "depth": 3,
+          "height": 3,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "The cushion on this exquisite wooden chair shares the same striking azure as Katsu-chan's face. Plum, bamboo, or pine?",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_largeLight_01": {
+          "id": "furniM_taiko_largeLight_01",
+          "sortId": 80123,
+          "name": "Retro Ceiling Light",
+          "iconId": "furniM_taiko_largeLight_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_1",
+          "width": 13,
+          "depth": 11,
+          "height": 3,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A retro-style light encased in bamboo. 'It's so much brighter than the festival lanterns, da-don!'",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_bench_01": {
+          "id": "furniM_taiko_bench_01",
+          "sortId": 80124,
+          "name": "Giga Don Bench",
+          "iconId": "furniM_taiko_bench_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "BENCH",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_1",
+          "width": 8,
+          "depth": 3,
+          "height": 3,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "An olden-style bench with a Don-chan pattern on the backrest, adorned with simple but comfy cushions. Sometimes, you can find Tsukinogi resting here, and she'll listen to your troubles if you have any.",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_teapoy_01": {
+          "id": "furniM_taiko_teapoy_01",
+          "sortId": 80125,
+          "name": "Lacquered Tea Table",
+          "iconId": "furniM_taiko_teapoy_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_1",
+          "width": 8,
+          "depth": 3,
+          "height": 3,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "An exquisitely crafted tea table made of solid wood. You can even store loads of stuff below. Taikoyaki! Meatballs! Yakisoba! And Kakigori too!",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_bambooSideTable_01": {
+          "id": "furniM_taiko_bambooSideTable_01",
+          "sortId": 80126,
+          "name": "Bamboo Side Table",
+          "iconId": "furniM_taiko_bambooSideTable_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "STORAGE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_4",
+          "width": 4,
+          "depth": 2,
+          "height": 6,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A wooden side table decorated with bamboo branches. 'From Choujin to Tatsujin!' A note with handwriting clearly recognizable as Kirara's can be seen hanging from a branch.",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_rightSeat_01": {
+          "id": "furniM_taiko_rightSeat_01",
+          "sortId": 80127,
+          "name": "Sky-Blue Low Chair (Right)",
+          "iconId": "furniM_taiko_rightSeat_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "CHAIR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_1",
+          "width": 3,
+          "depth": 3,
+          "height": 3,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "The cushion on this exquisite wooden chair shares the same striking azure as Katsu-chan's face. GOOD, OK, or BAD?",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_messageBoard_01": {
+          "id": "furniM_taiko_messageBoard_01",
+          "sortId": 90128,
+          "name": "Festival Message Board",
+          "iconId": "furniM_taiko_messageBoard_01",
+          "interactType": "FUNCTION",
+          "musicId": "",
+          "type": "FUNCTION",
+          "subType": "VISITOR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_2",
+          "width": 7,
+          "depth": 3,
+          "height": 8,
+          "comfort": 0,
+          "usage": "[Functional Furniture - Pinboard] Can be used to decorate the Reception Room",
+          "description": "A board you can leave messages on with colorful sticky notes, with an adorable Don-chan carving. Truly the most popular drum in town.",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_tatami_01": {
+          "id": "furniM_taiko_tatami_01",
+          "sortId": 80129,
+          "name": "Low Table Tatami",
+          "iconId": "furniM_taiko_tatami_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "ORTHER_S",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_2",
+          "width": 7,
+          "depth": 6,
+          "height": 3,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A retro-style low table tatami mat where you can take a break that even comes with a Don-chan lamp. Put a Daruma-san here too!",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_taikoTable_01": {
+          "id": "furniM_taiko_taikoTable_01",
+          "sortId": 80130,
+          "name": "Big Taiko Stand",
+          "iconId": "furniM_taiko_taikoTable_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "DEVICE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_2",
+          "width": 2,
+          "depth": 4,
+          "height": 6,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A square wooden stand with a big taiko drum, with drumsticks stored underneath. They say the drum's face changes according to the number of times you hit its edge, but what exactly determines when it'll change?",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_bambooLight_01": {
+          "id": "furniM_taiko_bambooLight_01",
+          "sortId": 80131,
+          "name": "Bamboo Tube Hanging Lamp",
+          "iconId": "furniM_taiko_bambooLight_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_2",
+          "width": 6,
+          "depth": 3,
+          "height": 5,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A hanging lamp specially crafted in the shape of a bamboo tube. The light tubes are woven in with traditional orange string. 'The city has such strange lamps, da-don!'",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_lanternStands_01": {
+          "id": "furniM_taiko_lanternStands_01",
+          "sortId": 80132,
+          "name": "Don-chan Shelf",
+          "iconId": "furniM_taiko_lanternStands_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "STORAGE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_2",
+          "width": 2,
+          "depth": 2,
+          "height": 6,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "This shelf adorned with Don-chan is perfect for storing festival trinkets: fans, drumsticks, summer clothes, goldfin balloons, and big fin flags. A set of beautifully carved kokeshi dolls complete a warm festive vibe.",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_wallpaper_01": {
+          "id": "furniM_taiko_wallpaper_01",
+          "sortId": 80133,
+          "name": "'Fireworks outside the Shoji screen'",
+          "iconId": "furniM_taiko_wallpaper_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLPAPER",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "WALL",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_4",
+          "width": 46,
+          "depth": 1,
+          "height": 16,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A wallpaper with shoji screen patterns, with a huge fireworks display in the middle. 'Wish You All a Full Combo!!'",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_taiko_floor_01": {
+          "id": "furniM_taiko_floor_01",
+          "sortId": 80134,
+          "name": "Taiko Festival Tatami",
+          "iconId": "furniM_taiko_floor_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "FLOOR",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "FLOOR",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furniM_set_taiko",
+          "groupId": "furniM_set_taiko_4",
+          "width": 46,
+          "depth": 16,
+          "height": 1,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A mat woven with traditional techniques. Please take off your shoes first. 'If you accidentally get it dirty, we can clean it up together, don!'",
+          "obtainApproach": "Taiko Festival Playroom",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
         }
       ,
       
@@ -124531,6 +125309,152 @@
             "furniM_basicRoom_musicplayer_01"
           ]
         }
+      ,
+      
+        "furniM_set_taiko": {
+          "id": "furniM_set_taiko",
+          "enableRoomType": 32,
+          "sortId": 1002,
+          "name": "'Festival Taiko Drums'",
+          "themeType": "LINKAGE",
+          "desc": "A room decorated in a taiko rhythm festival theme. It doesn't matter if you have a good sense of rhythm or otherwise, just step inside, and you'll naturally go along with the beat for some drum 'n' fun.",
+          "quickSetup": [
+            {
+              "furnitureId": "furniM_taiko_ropeChandelier_01",
+              "pos0": 5,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_tableSet_01",
+              "pos0": 0,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_taikoShelve_01",
+              "pos0": 6,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_bambooCarpet_01",
+              "pos0": 6,
+              "pos1": 1,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_musicPlayer_01",
+              "pos0": 11,
+              "pos1": 8,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_leftSeat_01",
+              "pos0": 16,
+              "pos1": 9,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_largeLight_01",
+              "pos0": 16,
+              "pos1": 1,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_bench_01",
+              "pos0": 19,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_teapoy_01",
+              "pos0": 19,
+              "pos1": 9,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_bambooSideTable_01",
+              "pos0": 29,
+              "pos1": 1,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_rightSeat_01",
+              "pos0": 27,
+              "pos1": 9,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_messageBoard_01",
+              "pos0": 33,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_tatami_01",
+              "pos0": 36,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_taikoTable_01",
+              "pos0": 44,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_bambooLight_01",
+              "pos0": 38,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_lanternStands_01",
+              "pos0": 44,
+              "pos1": 9,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_wallpaper_01",
+              "pos0": 0,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_taiko_floor_01",
+              "pos0": 0,
+              "pos1": 10,
+              "dir": 0
+            }
+          ],
+          "groups": [
+            "furniM_set_taiko_1",
+            "furniM_set_taiko_2",
+            "furniM_set_taiko_3",
+            "furniM_set_taiko_4"
+          ],
+          "furnitures": [
+            "furniM_taiko_ropeChandelier_01",
+            "furniM_taiko_tableSet_01",
+            "furniM_taiko_taikoShelve_01",
+            "furniM_taiko_bambooCarpet_01",
+            "furniM_taiko_musicPlayer_01",
+            "furniM_taiko_leftSeat_01",
+            "furniM_taiko_largeLight_01",
+            "furniM_taiko_bench_01",
+            "furniM_taiko_teapoy_01",
+            "furniM_taiko_bambooSideTable_01",
+            "furniM_taiko_rightSeat_01",
+            "furniM_taiko_messageBoard_01",
+            "furniM_taiko_tatami_01",
+            "furniM_taiko_taikoTable_01",
+            "furniM_taiko_bambooLight_01",
+            "furniM_taiko_lanternStands_01",
+            "furniM_taiko_wallpaper_01",
+            "furniM_taiko_floor_01"
+          ]
+        }
       
     },
     "groups": {
@@ -131992,6 +132916,72 @@
             "furni_yanPrivateSchool_writingTable_01",
             "furni_yanPrivateSchool_curtain_01",
             "furni_yanPrivateSchool_books_01"
+          ]
+        }
+      ,
+      
+        "furniM_set_taiko_1": {
+          "id": "furniM_set_taiko_1",
+          "sortId": 1,
+          "name": "Don Don Friend Club",
+          "themeId": "furniM_set_taiko",
+          "comfort": 0,
+          "count": 5,
+          "furniture": [
+            "furniM_taiko_leftSeat_01",
+            "furniM_taiko_largeLight_01",
+            "furniM_taiko_bench_01",
+            "furniM_taiko_teapoy_01",
+            "furniM_taiko_rightSeat_01"
+          ]
+        }
+      ,
+      
+        "furniM_set_taiko_2": {
+          "id": "furniM_set_taiko_2",
+          "sortId": 2,
+          "name": "Ka Ka Hangout Spot",
+          "themeId": "furniM_set_taiko",
+          "comfort": 0,
+          "count": 5,
+          "furniture": [
+            "furniM_taiko_messageBoard_01",
+            "furniM_taiko_tatami_01",
+            "furniM_taiko_taikoTable_01",
+            "furniM_taiko_bambooLight_01",
+            "furniM_taiko_lanternStands_01"
+          ]
+        }
+      ,
+      
+        "furniM_set_taiko_3": {
+          "id": "furniM_set_taiko_3",
+          "sortId": 3,
+          "name": "Pon Pon Fun Hall",
+          "themeId": "furniM_set_taiko",
+          "comfort": 0,
+          "count": 4,
+          "furniture": [
+            "furniM_taiko_ropeChandelier_01",
+            "furniM_taiko_tableSet_01",
+            "furniM_taiko_taikoShelve_01",
+            "furniM_taiko_bambooCarpet_01"
+          ]
+        }
+      ,
+      
+        "furniM_set_taiko_4": {
+          "id": "furniM_set_taiko_4",
+          "sortId": 4,
+          "name": "Ton Ton Playroom",
+          "themeId": "furniM_set_taiko",
+          "comfort": 0,
+          "count": 4,
+          "furniture": [
+            "furniM_taiko_musicPlayer_01",
+            "furniM_taiko_bambooSideTable_01",
+            "furniM_taiko_wallpaper_01",
+            "furniM_taiko_floor_01"
           ]
         }
       
