@@ -282465,765 +282465,6 @@
       }
     ,
     
-      "char_4195_radian_CN_001": {
-        "charWordId": "char_4195_radian_CN_001",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_001",
-        "voiceText": "Doctor, let's try a simple test. How many of the snacks I put on the coffee table did you sneak off with?",
-        "voiceTitle": "Appointed as Assistant",
-        "voiceIndex": 1,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "HOME_PLACE",
-        "voiceAsset": "char_4195_radian/CN_001"
-      }
-    ,
-    
-      "char_4195_radian_CN_002": {
-        "charWordId": "char_4195_radian_CN_002",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_002",
-        "voiceText": "Don't worry, Doctor. It's true I pay no attention to my surroundings when I'm deep in thought, but Dendie and Axie will keep me from bumping into anything or anyone. Who're they, you ask? Why, my mechanical arms here. There's a lot they can do.",
-        "voiceTitle": "Talk 1",
-        "voiceIndex": 2,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "HOME_SHOW",
-        "voiceAsset": "char_4195_radian/CN_002"
-      }
-    ,
-    
-      "char_4195_radian_CN_003": {
-        "charWordId": "char_4195_radian_CN_003",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_003",
-        "voiceText": "The kids have given me a lot of nicknames, like 'Squinty' or 'Four-Armed Braintalker'. It's fine, and even normal I'd say. Kids their age just hate being seen through. Though, hehe. If they're unhappy about it, they could simply practice and try to trick me.",
-        "voiceTitle": "Talk 2",
-        "voiceIndex": 3,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "HOME_SHOW",
-        "voiceAsset": "char_4195_radian/CN_003"
-      }
-    ,
-    
-      "char_4195_radian_CN_004": {
-        "charWordId": "char_4195_radian_CN_004",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_004",
-        "voiceText": "My Arts are all about perceiving and manipulating electrical signals. That lets me understand the people around me better, though it also makes me oversensitive to details. For example, your right trapezius muscle has been discharging an abnormal signal, so I think you should adjust your sitting posture, Doctor.",
-        "voiceTitle": "Talk 3",
-        "voiceIndex": 4,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "HOME_SHOW",
-        "voiceAsset": "char_4195_radian/CN_004"
-      }
-    ,
-    
-      "char_4195_radian_CN_005": {
-        "charWordId": "char_4195_radian_CN_005",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_005",
-        "voiceText": "Doctor, I'm glad to see your face in my classroom. The Infected of Ursus walk the razor's edge, but—correct, there are many ways to deal with those who employ violence to conceal weakness. It seems you know quite a bit, so don't we conduct a pop quiz right now?",
-        "voiceTitle": "Talk after Promotion 1",
-        "voiceIndex": 5,
-        "voiceType": "ONLY_TEXT",
-        "unlockType": "AWAKE",
-        "unlockParam": [
-          {
-            "valueStr": null,
-            "valueInt": 1
-          },
-          {
-            "valueStr": null,
-            "valueInt": 1
-          }
-        ],
-        "lockDescription": null,
-        "placeType": "HOME_SHOW",
-        "voiceAsset": "char_4195_radian/CN_005"
-      }
-    ,
-    
-      "char_4195_radian_CN_006": {
-        "charWordId": "char_4195_radian_CN_006",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_006",
-        "voiceText": "Do non-Sarkaz races also have the cultural concept of the soul? A complex question. Though, the signals I see in human bodies are not just the pulsing rhythm of life, but also emotions in bloom engraved within. Sometimes they are just blazingly bright, like the flames of a soul.",
-        "voiceTitle": "Talk after Promotion 2",
-        "voiceIndex": 6,
-        "voiceType": "ONLY_TEXT",
-        "unlockType": "AWAKE",
-        "unlockParam": [
-          {
-            "valueStr": null,
-            "valueInt": 2
-          },
-          {
-            "valueStr": null,
-            "valueInt": 1
-          }
-        ],
-        "lockDescription": null,
-        "placeType": "HOME_SHOW",
-        "voiceAsset": "char_4195_radian/CN_006"
-      }
-    ,
-    
-      "char_4195_radian_CN_007": {
-        "charWordId": "char_4195_radian_CN_007",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_007",
-        "voiceText": "Doctor, I'm glad to see your body's signals indicate you've had a stable lifestyle lately. That wasn't sarcasm, you don't have to confess your negligence. Physical health aside, I think it's good to keep a steady rhythm, like the readings on a medical instrument—a quiet waveform means approaching death, while a noisy one says disease is on the way.",
-        "voiceTitle": "Talk after Trust Increase 1",
-        "voiceIndex": 7,
-        "voiceType": "ONLY_TEXT",
-        "unlockType": "FAVOR",
-        "unlockParam": [
-          {
-            "valueStr": null,
-            "valueInt": 40
-          }
-        ],
-        "lockDescription": null,
-        "placeType": "HOME_SHOW",
-        "voiceAsset": "char_4195_radian/CN_007"
-      }
-    ,
-    
-      "char_4195_radian_CN_008": {
-        "charWordId": "char_4195_radian_CN_008",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_008",
-        "voiceText": "There was a time when Rosmontis's body was like two lost fowlbeasts shrieking in fright. I'd hold her until she fell asleep, and they would 'peck' at me. I'm glad she can sleep on her own now, though I admit it leaves me a little lonely.",
-        "voiceTitle": "Talk after Trust Increase 2",
-        "voiceIndex": 8,
-        "voiceType": "ONLY_TEXT",
-        "unlockType": "FAVOR",
-        "unlockParam": [
-          {
-            "valueStr": null,
-            "valueInt": 100
-          }
-        ],
-        "lockDescription": null,
-        "placeType": "HOME_SHOW",
-        "voiceAsset": "char_4195_radian/CN_008"
-      }
-    ,
-    
-      "char_4195_radian_CN_009": {
-        "charWordId": "char_4195_radian_CN_009",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_009",
-        "voiceText": "Are you tired, Doctor? Alright, since you've worked so hard today, come, hold my hand. Feel your nerves pulse, think of them as a gentle tune. Now, let's softly sway to the warm beat—until all your exhaustion fades away.",
-        "voiceTitle": "Talk after Trust Increase 3",
-        "voiceIndex": 9,
-        "voiceType": "ONLY_TEXT",
-        "unlockType": "FAVOR",
-        "unlockParam": [
-          {
-            "valueStr": null,
-            "valueInt": 200
-          }
-        ],
-        "lockDescription": null,
-        "placeType": "HOME_SHOW",
-        "voiceAsset": "char_4195_radian/CN_009"
-      }
-    ,
-    
-      "char_4195_radian_CN_010": {
-        "charWordId": "char_4195_radian_CN_010",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_010",
-        "voiceText": "Comms terminal set to silent. Don't worry, you won't miss any important news with me here.",
-        "voiceTitle": "Idle",
-        "voiceIndex": 10,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "HOME_WAIT",
-        "voiceAsset": "char_4195_radian/CN_010"
-      }
-    ,
-    
-      "char_4195_radian_CN_011": {
-        "charWordId": "char_4195_radian_CN_011",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_011",
-        "voiceText": "According to Amiya's instruction, I take orders directly from you now, Doctor. I handle communications and intelligence. But of course, feel free to come to me with any life issues.",
-        "voiceTitle": "Onboard",
-        "voiceIndex": 11,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "GACHA",
-        "voiceAsset": "char_4195_radian/CN_011"
-      }
-    ,
-    
-      "char_4195_radian_CN_012": {
-        "charWordId": "char_4195_radian_CN_012",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_012",
-        "voiceText": "It's obvious which side will win, considering our overwhelming information supremacy.",
-        "voiceTitle": "Watching Battle Record",
-        "voiceIndex": 12,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "LEVEL_UP",
-        "voiceAsset": "char_4195_radian/CN_012"
-      }
-    ,
-    
-      "char_4195_radian_CN_013": {
-        "charWordId": "char_4195_radian_CN_013",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_013",
-        "voiceText": "I get the most gratification as a communications intelligence officer when my information is used to its full potential. So keep at it, Doctor!",
-        "voiceTitle": "Promotion 1",
-        "voiceIndex": 13,
-        "voiceType": "ONLY_TEXT",
-        "unlockType": "AWAKE",
-        "unlockParam": [
-          {
-            "valueStr": null,
-            "valueInt": 1
-          },
-          {
-            "valueStr": null,
-            "valueInt": 1
-          }
-        ],
-        "lockDescription": null,
-        "placeType": "EVOLVE_ONE",
-        "voiceAsset": "char_4195_radian/CN_013"
-      }
-    ,
-    
-      "char_4195_radian_CN_014": {
-        "charWordId": "char_4195_radian_CN_014",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_014",
-        "voiceText": "Doctor, Blaze, and the rest of you—just come out. It's cute you thought you could spring a surprise on me. Still hiding? A round of hide-and-seek, hmm? You're all so in touch with your inner children. Alright then. Let's start with the Doctor—",
-        "voiceTitle": "Promotion 2",
-        "voiceIndex": 14,
-        "voiceType": "ONLY_TEXT",
-        "unlockType": "AWAKE",
-        "unlockParam": [
-          {
-            "valueStr": null,
-            "valueInt": 2
-          },
-          {
-            "valueStr": null,
-            "valueInt": 1
-          }
-        ],
-        "lockDescription": null,
-        "placeType": "EVOLVE_TWO",
-        "voiceAsset": "char_4195_radian/CN_014"
-      }
-    ,
-    
-      "char_4195_radian_CN_017": {
-        "charWordId": "char_4195_radian_CN_017",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_017",
-        "voiceText": "Carry on with your war room business, I'll propose suggestions as needed.",
-        "voiceTitle": "Added to Squad",
-        "voiceIndex": 17,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "SQUAD",
-        "voiceAsset": "char_4195_radian/CN_017"
-      }
-    ,
-    
-      "char_4195_radian_CN_018": {
-        "charWordId": "char_4195_radian_CN_018",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_018",
-        "voiceText": "Trust me, I'll always manage to locate you, no matter what sort of danger you may find yourselves in.",
-        "voiceTitle": "Appointed as Squad Leader",
-        "voiceIndex": 18,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "SQUAD_FIRST",
-        "voiceAsset": "char_4195_radian/CN_018"
-      }
-    ,
-    
-      "char_4195_radian_CN_019": {
-        "charWordId": "char_4195_radian_CN_019",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_019",
-        "voiceText": "All packed and ready? Let's go then.",
-        "voiceTitle": "Depart",
-        "voiceIndex": 19,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BATTLE_START",
-        "voiceAsset": "char_4195_radian/CN_019"
-      }
-    ,
-    
-      "char_4195_radian_CN_020": {
-        "charWordId": "char_4195_radian_CN_020",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_020",
-        "voiceText": "Enemy signal detected. All units, prepare for battle.",
-        "voiceTitle": "Begin Operation",
-        "voiceIndex": 20,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BATTLE_FACE_ENEMY",
-        "voiceAsset": "char_4195_radian/CN_020"
-      }
-    ,
-    
-      "char_4195_radian_CN_021": {
-        "charWordId": "char_4195_radian_CN_021",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_021",
-        "voiceText": "Doctor, what kind of message do you want me to transmit?",
-        "voiceTitle": "Selecting Operator 1",
-        "voiceIndex": 21,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BATTLE_SELECT",
-        "voiceAsset": "char_4195_radian/CN_021"
-      }
-    ,
-    
-      "char_4195_radian_CN_022": {
-        "charWordId": "char_4195_radian_CN_022",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_022",
-        "voiceText": "I've intercepted some fascinating intel, Doctor.",
-        "voiceTitle": "Selecting Operator 2",
-        "voiceIndex": 22,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BATTLE_SELECT",
-        "voiceAsset": "char_4195_radian/CN_022"
-      }
-    ,
-    
-      "char_4195_radian_CN_023": {
-        "charWordId": "char_4195_radian_CN_023",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_023",
-        "voiceText": "Relax, their comms will be paralyzed as long as I'm here.",
-        "voiceTitle": "Deployment 1",
-        "voiceIndex": 23,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BATTLE_PLACE",
-        "voiceAsset": "char_4195_radian/CN_023"
-      }
-    ,
-    
-      "char_4195_radian_CN_024": {
-        "charWordId": "char_4195_radian_CN_024",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_024",
-        "voiceText": "Verified all allied units in position. Everything's fine, don't worry.",
-        "voiceTitle": "Deployment 2",
-        "voiceIndex": 24,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BATTLE_PLACE",
-        "voiceAsset": "char_4195_radian/CN_024"
-      }
-    ,
-    
-      "char_4195_radian_CN_025": {
-        "charWordId": "char_4195_radian_CN_025",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_025",
-        "voiceText": "Sorry, this isn't the way out, but a trap I set for you.",
-        "voiceTitle": "In Battle 1",
-        "voiceIndex": 25,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BATTLE_SKILL_1",
-        "voiceAsset": "char_4195_radian/CN_025"
-      }
-    ,
-    
-      "char_4195_radian_CN_026": {
-        "charWordId": "char_4195_radian_CN_026",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_026",
-        "voiceText": "Enjoy a little solo sojourn to the information silo.",
-        "voiceTitle": "In Battle 2",
-        "voiceIndex": 26,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BATTLE_SKILL_2",
-        "voiceAsset": "char_4195_radian/CN_026"
-      }
-    ,
-    
-      "char_4195_radian_CN_027": {
-        "charWordId": "char_4195_radian_CN_027",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_027",
-        "voiceText": "I'll jam their signals while the rest of you move.",
-        "voiceTitle": "In Battle 3",
-        "voiceIndex": 27,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BATTLE_SKILL_3",
-        "voiceAsset": "char_4195_radian/CN_027"
-      }
-    ,
-    
-      "char_4195_radian_CN_028": {
-        "charWordId": "char_4195_radian_CN_028",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_028",
-        "voiceText": "Sadly, there's no controlling the battlefield with brute force alone.",
-        "voiceTitle": "In Battle 4",
-        "voiceIndex": 28,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BATTLE_SKILL_4",
-        "voiceAsset": "char_4195_radian/CN_028"
-      }
-    ,
-    
-      "char_4195_radian_CN_029": {
-        "charWordId": "char_4195_radian_CN_029",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_029",
-        "voiceText": "How was the battle, Doctor? You want <i>my</i> evaluation? Dendie and Axie have already given you my answer, haven't they?",
-        "voiceTitle": "4-star Result",
-        "voiceIndex": 29,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "FOUR_STAR",
-        "voiceAsset": "char_4195_radian/CN_029"
-      }
-    ,
-    
-      "char_4195_radian_CN_030": {
-        "charWordId": "char_4195_radian_CN_030",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_030",
-        "voiceText": "No further enemy signals in range. Mission complete, perfectly executed. Phew... Alright, Doctor, give me a high-five!",
-        "voiceTitle": "3-star Result",
-        "voiceIndex": 30,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "THREE_STAR",
-        "voiceAsset": "char_4195_radian/CN_030"
-      }
-    ,
-    
-      "char_4195_radian_CN_031": {
-        "charWordId": "char_4195_radian_CN_031",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_031",
-        "voiceText": "I have their signals in my head now. They won't get away.",
-        "voiceTitle": "Sub 3-star Result",
-        "voiceIndex": 31,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "TWO_STAR",
-        "voiceAsset": "char_4195_radian/CN_031"
-      }
-    ,
-    
-      "char_4195_radian_CN_032": {
-        "charWordId": "char_4195_radian_CN_032",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_032",
-        "voiceText": "Don't lose heart, Doctor. We'll win next time, alright?",
-        "voiceTitle": "Operation Failure",
-        "voiceIndex": 32,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "LOSE",
-        "voiceAsset": "char_4195_radian/CN_032"
-      }
-    ,
-    
-      "char_4195_radian_CN_033": {
-        "charWordId": "char_4195_radian_CN_033",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_033",
-        "voiceText": "Rhodes Island's signal still puts me at ease.",
-        "voiceTitle": "Assigned to Facility",
-        "voiceIndex": 33,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BUILDING_PLACE",
-        "voiceAsset": "char_4195_radian/CN_033"
-      }
-    ,
-    
-      "char_4195_radian_CN_034": {
-        "charWordId": "char_4195_radian_CN_034",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_034",
-        "voiceText": "Doctor, did I not tell you to behave yourself?",
-        "voiceTitle": "Tap",
-        "voiceIndex": 34,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BUILDING_TOUCHING",
-        "voiceAsset": "char_4195_radian/CN_034"
-      }
-    ,
-    
-      "char_4195_radian_CN_036": {
-        "charWordId": "char_4195_radian_CN_036",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_036",
-        "voiceText": "Are you heading over to the meeting too, Doctor? Let's go together then.",
-        "voiceTitle": "Trust Tap",
-        "voiceIndex": 36,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BUILDING_FAVOR_BUBBLE",
-        "voiceAsset": "char_4195_radian/CN_036"
-      }
-    ,
-    
-      "char_4195_radian_CN_037": {
-        "charWordId": "char_4195_radian_CN_037",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_037",
-        "voiceText": "Arknights.",
-        "voiceTitle": "Title",
-        "voiceIndex": 37,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "LOADING_PANEL",
-        "voiceAsset": "char_4195_radian/CN_037"
-      }
-    ,
-    
-      "char_4195_radian_CN_038": {
-        "charWordId": "char_4195_radian_CN_038",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_038",
-        "voiceText": "Thank you, Doctor, till the deck will do... No, I'm not drunk... It's just, there's always so much joy and excitement in everyone's signals this time of year. It always gets me a little dizzy. I suppose this is a good problem to have. Happy New Year, Doctor.",
-        "voiceTitle": "New Year's blessing",
-        "voiceIndex": 38,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "NEW_YEAR",
-        "voiceAsset": "char_4195_radian/CN_038"
-      }
-    ,
-    
-      "char_4195_radian_CN_042": {
-        "charWordId": "char_4195_radian_CN_042",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_042",
-        "voiceText": "Doctor, were you looking for me?",
-        "voiceTitle": "Greeting",
-        "voiceIndex": 42,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "GREETING",
-        "voiceAsset": "char_4195_radian/CN_042"
-      }
-    ,
-    
-      "char_4195_radian_CN_043": {
-        "charWordId": "char_4195_radian_CN_043",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_043",
-        "voiceText": "Doctor, I just sent you a map. It shows the locations of everyone who wishes to celebrate your birthday. I've already planned the shortest route you can take, and you should be done by dinner time, if there aren't any hiccups on the way. The question mark at the end? That's my present for you, I hope you're excited for it.",
-        "voiceTitle": "Birthday",
-        "voiceIndex": 43,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "BIRTHDAY",
-        "voiceAsset": "char_4195_radian/CN_043"
-      }
-    ,
-    
-      "char_4195_radian_CN_044": {
-        "charWordId": "char_4195_radian_CN_044",
-        "wordKey": "char_4195_radian",
-        "charId": "char_4195_radian",
-        "voiceId": "CN_044",
-        "voiceText": "We've lost a lot of people, but there are always more joining our ranks. Gradually, the newbies inherit their seniors' ideas as they in turn become mentors to others. Doctor, judging from the signals I'm getting, sometimes I even find myself mistaken—I get the feeling my comrades never change.",
-        "voiceTitle": "Anniversary Celebration",
-        "voiceIndex": 44,
-        "voiceType": "ENUM",
-        "unlockType": "DIRECT",
-        "unlockParam": [
-
-        ],
-        "lockDescription": null,
-        "placeType": "ANNIVERSARY",
-        "voiceAsset": "char_4195_radian/CN_044"
-      }
-    ,
-    
       "char_4196_reckpr_CN_001": {
         "charWordId": "char_4196_reckpr_CN_001",
         "wordKey": "char_4196_reckpr",
@@ -320135,7 +319376,7 @@
               "wordkey": "char_452_bstalk",
               "voiceLangType": "EN",
               "cvName": [
-                "Roshni Edwards"
+                "Roshini Edwards"
               ],
               "voicePath": null
             }
@@ -321495,7 +320736,7 @@
               "wordkey": "char_258_podego",
               "voiceLangType": "EN",
               "cvName": [
-                "Lourdes Arruti"
+                "Lou Arruti"
               ],
               "voicePath": null
             }
@@ -337139,6 +336380,26 @@
               ],
               "voicePath": null
             }
+          ,
+          
+            "KR": {
+              "wordkey": "char_4198_christ",
+              "voiceLangType": "KR",
+              "cvName": [
+                "-"
+              ],
+              "voicePath": null
+            }
+          ,
+          
+            "EN": {
+              "wordkey": "char_4198_christ",
+              "voiceLangType": "EN",
+              "cvName": [
+                "-"
+              ],
+              "voicePath": null
+            }
           
         }
       }
@@ -337185,7 +336446,7 @@
               "wordkey": "char_4196_reckpr",
               "voiceLangType": "EN",
               "cvName": [
-                "Jonathon Ha"
+                "Jonathan Ha"
               ],
               "voicePath": null
             }
@@ -337236,56 +336497,6 @@
               "voiceLangType": "EN",
               "cvName": [
                 "小巫"
-              ],
-              "voicePath": null
-            }
-          
-        }
-      }
-    ,
-    
-      "char_4195_radian": {
-        "wordkeys": [
-          "char_4195_radian"
-        ],
-        "charId": "char_4195_radian",
-        "dict": {
-          
-            "CN_MANDARIN": {
-              "wordkey": "char_4195_radian",
-              "voiceLangType": "CN_MANDARIN",
-              "cvName": [
-                "Chloe"
-              ],
-              "voicePath": null
-            }
-          ,
-          
-            "JP": {
-              "wordkey": "char_4195_radian",
-              "voiceLangType": "JP",
-              "cvName": [
-                "Yukari Fukui"
-              ],
-              "voicePath": null
-            }
-          ,
-          
-            "KR": {
-              "wordkey": "char_4195_radian",
-              "voiceLangType": "KR",
-              "cvName": [
-                "Lee I-ro"
-              ],
-              "voicePath": null
-            }
-          ,
-          
-            "EN": {
-              "wordkey": "char_4195_radian",
-              "voiceLangType": "EN",
-              "cvName": [
-                "Elizaveta Bulatova"
               ],
               "voicePath": null
             }
@@ -337931,8 +337142,7 @@
   "defaultLangType": "JP",
   "newTagList": [
     "char_4196_reckpr",
-    "char_1043_leizi2",
-    "char_4195_radian"
+    "char_1043_leizi2"
   ],
   "voiceLangTypeDict": {
     
@@ -339203,9 +338413,6 @@
     ,
     
       "char_1043_leizi2": "JP"
-    ,
-    
-      "char_4195_radian": "JP"
     
   },
   "startTimeWithTypeDict": {
@@ -339272,12 +338479,6 @@
     
       "KR": [
         {
-          "timestamp": 1766070000,
-          "charSet": [
-            "char_4195_radian"
-          ]
-        },
-        {
           "timestamp": 1765454400,
           "charSet": [
             "char_4196_reckpr",
@@ -339288,7 +338489,8 @@
           "timestamp": 1763046000,
           "charSet": [
             "char_1042_phatm2",
-            "char_4191_tippi"
+            "char_4191_tippi",
+            "char_4198_christ"
           ]
         },
         {
@@ -339873,12 +339075,6 @@
     
       "EN": [
         {
-          "timestamp": 1766070000,
-          "charSet": [
-            "char_4195_radian"
-          ]
-        },
-        {
           "timestamp": 1765454400,
           "charSet": [
             "char_328_cammou",
@@ -339913,7 +339109,8 @@
             "char_264_f12yin",
             "char_4043_erato",
             "char_1042_phatm2",
-            "char_4191_tippi"
+            "char_4191_tippi",
+            "char_4198_christ"
           ]
         },
         {

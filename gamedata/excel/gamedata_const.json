@@ -2102,13 +2102,6 @@
       }
     ,
     
-      "cc.g.elite": {
-        "termId": "cc.g.elite",
-        "termName": "Elite Operator",
-        "description": "Includes the following Operators:\nRosmontis, Blaze, Logos, Blaze the Igniting Spark, Raidian"
-      }
-    ,
-    
       "cc.c.abyssal2_1": {
         "termId": "cc.c.abyssal2_1",
         "termName": "Special Bonus",
@@ -2306,8 +2299,8 @@
     
   },
   "storyReviewUnlockItemLackTip": "Insufficient Information Fragments. Acquire more from the Purchase Certificates Store or the Event Store.",
-  "dataVersion": "47.2.0",
-  "resPrefVersion": "63d2d0",
+  "dataVersion": "47.1.0",
+  "resPrefVersion": "63d0d0",
   "announceWebBusType": "ak_announcement",
   "videoPlayerWebBusType": "ak_video_player",
   "gachaLogBusType": "ak_gacha_log",

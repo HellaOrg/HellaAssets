@@ -74400,16 +74400,19 @@
           
             "LOW": [
               "furniM_amiya_door_01",
-              "furniM_amiya_door_02"
+              "furniM_amiya_door_02",
+              "furniM_amiya_door_light_01"
             ]
           ,
           
             "LOWEST": [
-              "furniM_amiya_door_01"
+              "furniM_amiya_door_01",
+              "furniM_amiya_door_02",
+              "furniM_amiya_door_light_01"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74440,16 +74443,18 @@
           ,
           
             "LOW": [
-              "furniM_amiya_fountain_01"
+              "furniM_amiya_fountain_01",
+              "furniM_amiya_fountain_02"
             ]
           ,
           
             "LOWEST": [
-              "furniM_amiya_fountain_01"
+              "furniM_amiya_fountain_01",
+              "furniM_amiya_fountain_02"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74467,7 +74472,8 @@
             "HIGH": [
               "furniM_amiya_stair_01",
               "furniM_amiya_stair_02",
-              "furniM_amiya_stair_03"
+              "furniM_amiya_stair_03",
+              "shadow_01"
             ]
           ,
           
@@ -74479,11 +74485,13 @@
           ,
           
             "LOWEST": [
-              "furniM_amiya_stair_01"
+              "furniM_amiya_stair_01",
+              "furniM_amiya_stair_02",
+              "furniM_amiya_stair_03"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74510,7 +74518,7 @@
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74532,17 +74540,18 @@
           ,
           
             "LOW": [
-              "furniM_amiya_ceilingLight_01",
-              "furniM_amiya_ceilingLight_02"
+              "furniM_amiya_ceilingLight_02",
+              "furniM_amiya_ceilingLight_light_01"
             ]
           ,
           
             "LOWEST": [
-
+              "furniM_amiya_ceilingLight_02",
+              "furniM_amiya_ceilingLight_light_01"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74560,23 +74569,28 @@
             "HIGH": [
               "furniM_amiya_musicPlayer_01",
               "furniM_amiya_musicPlayer_02",
-              "furniM_amiya_musicPlayer_03"
+              "furniM_amiya_musicPlayer_03",
+              "shadow_01"
             ]
           ,
           
             "LOW": [
               "furniM_amiya_musicPlayer_01",
-              "furniM_amiya_musicPlayer_02"
+              "furniM_amiya_musicPlayer_02",
+              "furniM_amiya_musicPlayer_03",
+              "shadow_01"
             ]
           ,
           
             "LOWEST": [
               "furniM_amiya_musicPlayer_01",
-              "furniM_amiya_musicPlayer_02"
+              "furniM_amiya_musicPlayer_02",
+              "furniM_amiya_musicPlayer_03",
+              "shadow_01"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74606,11 +74620,12 @@
           
             "LOWEST": [
               "furniM_amiya_ceilingLamp_01",
-              "furniM_amiya_ceilingLamp_02"
+              "furniM_amiya_ceilingLamp_02",
+              "furniM_amiya_ceilingLamp_03"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74633,16 +74648,20 @@
           ,
           
             "LOW": [
-
+              "furniM_amiya_diningTable_01",
+              "furniM_amiya_diningTable_02",
+              "furniM_amiya_diningTable_03"
             ]
           ,
           
             "LOWEST": [
-
+              "furniM_amiya_diningTable_01",
+              "furniM_amiya_diningTable_02",
+              "furniM_amiya_diningTable_03"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74674,7 +74693,7 @@
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74706,7 +74725,7 @@
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74725,8 +74744,7 @@
             "HIGH": [
               "furniM_amiya_teapoy_01",
               "furniM_amiya_teapoy_02",
-              "furniM_amiya_teapoy_03",
-              "furniM_amiya_teapoy_light_01"
+              "furniM_amiya_teapoy_03"
             ]
           ,
           
@@ -74744,7 +74762,7 @@
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74761,7 +74779,8 @@
           
             "HIGH": [
               "furniM_amiya_chairRight_01",
-              "furniM_amiya_chairRight_02"
+              "furniM_amiya_chairRight_02",
+              "shadow_02"
             ]
           ,
           
@@ -74772,11 +74791,12 @@
           ,
           
             "LOWEST": [
-
+              "furniM_amiya_chairRight_01",
+              "furniM_amiya_chairRight_02"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74796,24 +74816,30 @@
               "furniM_amiya_messageBoard_01",
               "furniM_amiya_messageBoard_02",
               "furniM_amiya_messageBoard_03",
-              "furniM_amiya_messageBoard_light_01"
+              "furniM_amiya_messageBoard_light_01",
+              "shadow_01"
             ]
           ,
           
             "LOW": [
               "furniM_amiya_messageBoard_01",
               "furniM_amiya_messageBoard_02",
-              "furniM_amiya_messageBoard_03"
+              "furniM_amiya_messageBoard_03",
+              "furniM_amiya_messageBoard_light_01",
+              "shadow_01"
             ]
           ,
           
             "LOWEST": [
               "furniM_amiya_messageBoard_01",
-              "furniM_amiya_messageBoard_02"
+              "furniM_amiya_messageBoard_02",
+              "furniM_amiya_messageBoard_03",
+              "furniM_amiya_messageBoard_light_01",
+              "shadow_01"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74842,18 +74868,18 @@
             "LOW": [
               "furniM_amiya_fence_01",
               "furniM_amiya_fence_02",
-              "furniM_amiya_fence_03",
               "furniM_amiya_fence_04"
             ]
           ,
           
             "LOWEST": [
               "furniM_amiya_fence_01",
-              "furniM_amiya_fence_02"
+              "furniM_amiya_fence_02",
+              "furniM_amiya_fence_04"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74873,23 +74899,28 @@
               "furniM_amiya_stoneChair_01",
               "furniM_amiya_stoneChair_02",
               "furniM_amiya_stoneChair_03",
-              "furniM_amiya_stoneChair_light_01"
+              "furniM_amiya_stoneChair_light_01",
+              "shadow_01"
             ]
           ,
           
             "LOW": [
               "furniM_amiya_stoneChair_01",
               "furniM_amiya_stoneChair_02",
-              "furniM_amiya_stoneChair_03"
+              "furniM_amiya_stoneChair_03",
+              "furniM_amiya_stoneChair_light_01"
             ]
           ,
           
             "LOWEST": [
-              "furniM_amiya_stoneChair_01"
+              "furniM_amiya_stoneChair_01",
+              "furniM_amiya_stoneChair_02",
+              "furniM_amiya_stoneChair_03",
+              "furniM_amiya_stoneChair_light_01"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74920,11 +74951,12 @@
           
             "LOWEST": [
               "furniM_amiya_giftTable_01",
-              "furniM_amiya_giftTable_02"
+              "furniM_amiya_giftTable_02",
+              "furniM_amiya_giftTable_03"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74951,7 +74983,7 @@
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     ,
     
@@ -74976,29 +75008,33 @@
           
             "HIGHEST": [
               "Bone_all_01",
-              "S_furni_act68d4_woodenHorse_01"
+              "S_furni_act68d4_woodenHorse_01",
+              "furni_woodenorse_01"
             ]
           ,
           
             "HIGH": [
               "Bone_all_01",
-              "S_furni_act68d4_woodenHorse_01"
+              "S_furni_act68d4_woodenHorse_01",
+              "furni_woodenorse_01"
             ]
           ,
           
             "LOW": [
               "Bone_all_01",
-              "S_furni_act68d4_woodenHorse_01"
+              "S_furni_act68d4_woodenHorse_01",
+              "furni_woodenorse_01"
             ]
           ,
           
             "LOWEST": [
               "Bone_all_01",
-              "S_furni_act68d4_woodenHorse_01"
+              "S_furni_act68d4_woodenHorse_01",
+              "furni_woodenorse_01"
             ]
           
         },
-        "isOverWrite": true
+        "isOverWrite": false
       }
     
   }
