@@ -175,8 +175,10 @@ jobs:
 
           if [[ "${{ inputs.skip_apk_update }}" == "true" ]]; then
             wget -nv "$LOCAL_URL" -O temp/download/${{ inputs.server }}.apk
-            unzip -q temp/download/${{ inputs.server }}.apk -d temp/apk \
-            && unzip -q temp/apk/Android/obb/com.YoStarEN.Arknights/main*.obb -d temp/obb
+            unzip -q temp/download/${{ inputs.server }}.apk -d temp/apk
+            if [[ "${{ inputs.server }}" == "en"  ]] && [[ "${{ inputs.extract_en_assets }}" == "true" ]]; then
+              unzip -q temp/apk/Android/obb/com.YoStarEN.Arknights/main*.obb -d temp/obb
+            fi
           else
             python3 download_apk.py         \
               --server ${{ inputs.server }} \
@@ -412,7 +414,7 @@ jobs:
           source $HOME/venv/bin/activate
           source scripts/utils.sh
 
-          FILES=battle/prefabs/[uc]tokens.ab
+          FILES=pkgrps/btl_pfb_tokens*.ab
           FOLDER=spine/deploy
           mkdir -p scripts/temp/assets/$FOLDER scripts/temp/extracted/$FOLDER
           cp -f scripts/temp/apk/assets/AB/Android/$FILES scripts/temp/assets/$FOLDER || :
