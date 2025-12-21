@@ -446,7 +446,7 @@ jobs:
           source $HOME/venv/bin/activate
           source scripts/utils.sh
 
-          extract_ab "battle/prefabs/enemies/enemy*.ab" "spine/enemy" "-t tex2d,textAsset -g none --log-level warning"
+          extract_ab "refs/arts/enm_art*.ab" "spine/enemy" "-t tex2d,textAsset -g none --log-level warning"
           python3 scripts/spine_enemy.py scripts/temp/extracted/spine/enemy
 
           mkdir -p spine/enemy
