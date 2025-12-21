@@ -6,28 +6,37 @@ import json
 import os
 import requests
 import time
+import zipfile
 
 
-def download_file(item, assets_url, download_dir):
+def download_file(item, assets_url, download_dir, session):
     filename = item['name']
-    print(round(item['totalSize']/1000/1000, 1), 'MB', filename)
-    filename = filename.replace('/', '_').replace('#', '__').split('.')[0] + '.dat'
-    retries = 5
-    for attempt in range(retries):
+    print(round(item['totalSize'] / 1e6, 1), 'MB', filename)
+
+    safe_name = filename.replace('/', '_').replace('#', '__').split('.')[0] + '.dat'
+    path = os.path.join(download_dir, safe_name)
+
+    for attempt in range(5):
         try:
-            response = requests.get(f'{assets_url}/{filename}')
-            response.raise_for_status()
-            with open(f'{download_dir}/{filename}', 'wb') as f:
-                f.write(response.content)
-            os.system(f'unzip -q "{download_dir}/{filename}" -d "{download_dir}/"')
-            os.remove(f'{download_dir}/{filename}')
-            break
-        except requests.exceptions.RequestException as e:
-            print(f'Attempt {attempt + 1} failed: {e}')
-            if attempt == retries - 1:
-                print(f'Failed to download {filename} after {retries} attempts.')
-            else:
-                time.sleep(attempt * 2 + 1)
+            url = f"{assets_url}/{safe_name}"
+            with session.get(url, stream=True, timeout=30) as r:
+                r.raise_for_status()
+                with open(path, "wb") as f:
+                    for chunk in r.iter_content(chunk_size=1024 * 1024):
+                        if chunk:
+                            f.write(chunk)
+
+            with zipfile.ZipFile(path) as z:
+                z.extractall(download_dir)
+
+            os.remove(path)
+            return
+
+        except Exception as e:
+            print(f"Attempt {attempt+1} failed for {filename}: {e}")
+            time.sleep(2 ** attempt)
+
+    print(f"Failed to download {filename}")
 
 
 def main():
@@ -70,7 +79,8 @@ def main():
         print(f'Updated {old_list_file}: {old_list["versionId"]} -> {res_version}')
 
     os.makedirs(dest, exist_ok=True)
-    with ThreadPoolExecutor(max_workers=2) as executor:
+    session = requests.Session()
+    with ThreadPoolExecutor(max_workers=4) as executor:
         for item in new_list['abInfos']:
             filename = item['name']
             hash = item['hash']
@@ -88,7 +98,7 @@ def main():
                 if is_old_file:
                     continue
 
-            executor.submit(download_file, item, assets_url, dest)
+            executor.submit(download_file, item, assets_url, dest, session)
 
 
 if __name__ == "__main__":

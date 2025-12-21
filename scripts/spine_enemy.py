@@ -24,7 +24,7 @@ for item in os.listdir(source_directory):
         item = new_filename
 
     # Organize files into their respective enemy folders
-    enemy_name = re.split('[\.\[]', item)[0]
+    enemy_name = re.split(r"[.\[]", item)[0]
     enemy_folder = os.path.join(source_directory, enemy_name)
     if not os.path.exists(enemy_folder):
         os.makedirs(enemy_folder)
