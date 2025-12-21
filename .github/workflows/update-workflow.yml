@@ -299,7 +299,7 @@ jobs:
 
           extract_ab "chararts/*.ab" "operator/arts" "--filter-by-text characters -t sprite -g none --log-level warning"
           extract_ab "skinpack/*.ab" "operator/arts" "--filter-by-text characters -t sprite -g none --log-level warning"
-          extract_ab "spritepack/ui_char_avatar_*.ab" "operator/avatars" "--filter-by-text char_ -t sprite -g none --log-level warning"
+          extract_ab "spritepack/ui_char_avatar_*.ab" "operator/avatars" "--filter-by-text char_,token_ -t sprite -g none --log-level warning"
           extract_ab "spritepack/building_ui_buff_skills_h1_0.ab" "operator/bases" "--filter-by-text bskill -t sprite -g none --log-level warning"
           extract_ab "spritepack/ui_equip_big_img_hub_*.ab" "operator/modules" "--filter-by-text uniequip -t sprite -g none --log-level warning"
           extract_ab "spritepack/skill_icons_*.ab" "operator/skills" "--filter-by-text skill_icon -t sprite -g none --log-level warning"
