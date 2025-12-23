@@ -107568,6 +107568,690 @@
         }
       ,
       
+        "furniM_amiya_fountain_01": {
+          "id": "furniM_amiya_fountain_01",
+          "sortId": 80135,
+          "name": "Teapot Fountain",
+          "iconId": "furniM_amiya_fountain_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "ART_D",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_1",
+          "width": 5,
+          "depth": 5,
+          "height": 6,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "For Amiya's birthday, a small fountain was specially made, inspired by teaware. She touches the clear water, feeling time's endless flow, confirming her growth.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_stair_01": {
+          "id": "furniM_amiya_stair_01",
+          "sortId": 80136,
+          "name": "'Pure Gift' Stairs",
+          "iconId": "furniM_amiya_stair_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "ORTHER_D",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_1",
+          "width": 5,
+          "depth": 8,
+          "height": 7,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "Stairs crafted from pure stone, adorned with gifts for Amiya's birthday. As she picks up a wrapped present, she knows she has found her destined home.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_door_01": {
+          "id": "furniM_amiya_door_01",
+          "sortId": 80137,
+          "name": "'First Star' Stone Arch",
+          "iconId": "furniM_amiya_door_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "ART_D",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_1",
+          "width": 8,
+          "depth": 3,
+          "height": 10,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A stone arch with grass walls, decorated with starlight. The stars Amiya once wished to pluck now illuminate her path with everyone's blessings.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_carpet_01": {
+          "id": "furniM_amiya_carpet_01",
+          "sortId": 80138,
+          "name": "Stone Tile Carpet",
+          "iconId": "furniM_amiya_carpet_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CARPET",
+          "subType": "NONE",
+          "location": "CARPET",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_1",
+          "width": 10,
+          "depth": 11,
+          "height": 1,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A carpet made to resemble stone tiles, printed with grass and flower patterns. She walked a long road alone, but now, wherever the future leads, she walks with companions.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_ceilingLight_01": {
+          "id": "furniM_amiya_ceilingLight_01",
+          "sortId": 80139,
+          "name": "Starlight Chandelier",
+          "iconId": "furniM_amiya_ceilingLight_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_2",
+          "width": 4,
+          "depth": 1,
+          "height": 4,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A small chandelier with a star-shaped frame, its light soft and elegant. The universes she witnessed weren't always joyful, but today, she leaves Rhodes Island its most beautiful memory.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 2,
+          "enableRoomType": 32,
+          "quantity": 2
+        }
+      ,
+      
+        "furniM_amiya_musicPlayer_01": {
+          "id": "furniM_amiya_musicPlayer_01",
+          "sortId": 90140,
+          "name": "Bunny Record Player",
+          "iconId": "furniM_amiya_musicPlayer_01",
+          "interactType": "FUNCTION",
+          "musicId": "",
+          "type": "FUNCTION",
+          "subType": "MUSIC",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_2",
+          "width": 4,
+          "depth": 4,
+          "height": 7,
+          "comfort": 0,
+          "usage": "[Functional Furniture - Record Player] Can be used to decorate the Reception Room",
+          "description": "A record player custom-made for Amiya's birthday, with a carefully crafted green bunny figure. Everyone gathers here, singing 'Happy Birthday' with the flowing melody.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_ceilingLamp_01": {
+          "id": "furniM_amiya_ceilingLamp_01",
+          "sortId": 80141,
+          "name": "'Radiant Recollection'",
+          "iconId": "furniM_amiya_ceilingLamp_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CEILINGLAMP",
+          "subType": "NONE",
+          "location": "CEILING",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_2",
+          "width": 13,
+          "depth": 6,
+          "height": 4,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "An exquisite ceiling lamp, assembled from a photo frame-shaped fixture and star-shaped lights. Amiya looks at the shining stars, remembering how they guided her to Rhodes Island.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_diningTable_01": {
+          "id": "furniM_amiya_diningTable_01",
+          "sortId": 80142,
+          "name": "Semicircular Dessert Table",
+          "iconId": "furniM_amiya_diningTable_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_3",
+          "width": 3,
+          "depth": 3,
+          "height": 5,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A semicircular table for desserts, covered with a starry blue satin tablecloth. Pick up a cake roll, see frosting on each other's smiles, and laugh heartily.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_chairLeft_01": {
+          "id": "furniM_amiya_chairLeft_01",
+          "sortId": 80143,
+          "name": "'Guiding Star'",
+          "iconId": "furniM_amiya_chairLeft_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "CHAIR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_3",
+          "width": 3,
+          "depth": 4,
+          "height": 4,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A table and chair set specially prepared for the birthday banquet, with striking contrasting colors. 'I believe that where the Doctor and everyone are, there is the brightest light and hope.'",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_sofa_01": {
+          "id": "furniM_amiya_sofa_01",
+          "sortId": 80144,
+          "name": "'Blessed One'",
+          "iconId": "furniM_amiya_sofa_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "SOFA",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_3",
+          "width": 8,
+          "depth": 3,
+          "height": 4,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A long sofa at the center of the hall, with a star on the backrest marking Amiya's seat. She posed here for a birthday photo, her expression gentle and warm.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_teapoy_01": {
+          "id": "furniM_amiya_teapoy_01",
+          "sortId": 80145,
+          "name": "Banquet Tea Table",
+          "iconId": "furniM_amiya_teapoy_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_3",
+          "width": 6,
+          "depth": 3,
+          "height": 4,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A delicate and simple tea table, with charming teaware featuring cute patterns. Raise a bunny teacup, drink the warmth with everyone, and share this cozy moment.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_chairRight_01": {
+          "id": "furniM_amiya_chairRight_01",
+          "sortId": 80146,
+          "name": "'Serene Nightfall'",
+          "iconId": "furniM_amiya_chairRight_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "CHAIR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_3",
+          "width": 3,
+          "depth": 4,
+          "height": 5,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A table and chair set specially prepared for the birthday banquet, with striking contrasting colors. 'I believe that as long as we work together, we can overcome the long night and welcome the dawn.'",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_messageBoard_01": {
+          "id": "furniM_amiya_messageBoard_01",
+          "sortId": 90147,
+          "name": "'Dreams Come True' Message Board",
+          "iconId": "furniM_amiya_messageBoard_01",
+          "interactType": "FUNCTION",
+          "musicId": "",
+          "type": "FUNCTION",
+          "subType": "VISITOR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_4",
+          "width": 6,
+          "depth": 4,
+          "height": 8,
+          "comfort": 0,
+          "usage": "[Functional Furniture - Pinboard] Can be used to decorate the Reception Room",
+          "description": "A message board made from engraved frames, with a night sky background and painted butterflies. Amiya stands here, filled with warmth as she reads all the blessings.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_fence_01": {
+          "id": "furniM_amiya_fence_01",
+          "sortId": 80148,
+          "name": "Stone Pillar Fence",
+          "iconId": "furniM_amiya_fence_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "DECORATION",
+          "subType": "PARTITION",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_2",
+          "width": 4,
+          "depth": 3,
+          "height": 7,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A fence adorned with green vines, with projection lights installed on an adjacent stone pillar. The story of the bunny knight continues, not ending until everyone gets their happy ending.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_stoneChair_01": {
+          "id": "furniM_amiya_stoneChair_01",
+          "sortId": 80149,
+          "name": "'Tranquil Respite'",
+          "iconId": "furniM_amiya_stoneChair_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "SEATING",
+          "subType": "CHAIR",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_4",
+          "width": 4,
+          "depth": 5,
+          "height": 10,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A stone seat with a backrest for resting, decorated with ribbons and a night light. Amiya sits quietly side-by-side with the Doctor, smiling at everyone enjoying the celebration night.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_giftTable_01": {
+          "id": "furniM_amiya_giftTable_01",
+          "sortId": 80150,
+          "name": "Celebration Gift Table",
+          "iconId": "furniM_amiya_giftTable_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "TABLE",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_4",
+          "width": 4,
+          "depth": 2,
+          "height": 4,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A metal table for birthday gifts, with stars and a moon adorning its support columns. Three bunny dolls, a mystery as to who sent them, are placed here, cherished by Amiya.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_carpet_02": {
+          "id": "furniM_amiya_carpet_02",
+          "sortId": 80151,
+          "name": "Greenery Rug",
+          "iconId": "furniM_amiya_carpet_02",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "CARPET",
+          "subType": "NONE",
+          "location": "CARPET",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": true,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_4",
+          "width": 9,
+          "depth": 4,
+          "height": 1,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "An irregularly shaped rug laid in the hall, its lush green color making one feel like they are on a peaceful grassy field under the night sky. She made a wish as stars streaked across the sky, that this vibrant life never fades.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_wallpaper_01": {
+          "id": "furniM_amiya_wallpaper_01",
+          "sortId": 80152,
+          "name": "'Wishing Night Sky'",
+          "iconId": "furniM_amiya_wallpaper_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "WALLPAPER",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "WALL",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_2",
+          "width": 46,
+          "depth": 1,
+          "height": 16,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A panoramic display showing the night view of the birthday banquet, a dreamy night sky that draws one to gaze. As she looks back under the starry sky, the blessings from a myriad of universes are captured in this moment.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
+        "furniM_amiya_floor_01": {
+          "id": "furniM_amiya_floor_01",
+          "sortId": 80153,
+          "name": "'Journey of Hope'",
+          "iconId": "furniM_amiya_floor_01",
+          "interactType": "NONE",
+          "musicId": "",
+          "type": "FLOOR",
+          "subType": "NONE",
+          "location": "NONE",
+          "category": "FLOOR",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "furniM_set_amiya",
+          "groupId": "furniM_set_amiya_3",
+          "width": 46,
+          "depth": 16,
+          "height": 1,
+          "comfort": 0,
+          "usage": "Can be used to decorate the Reception Room",
+          "description": "A black and white checkerboard floor crafted from fine stone, its polished surface reflecting the soft lights of the hall. As she steps onto the squares, countless friends' congratulations gather here.",
+          "obtainApproach": "Amiya's Blissful Universe",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 32,
+          "quantity": 1
+        }
+      ,
+      
         "furni_act38d0_Galleria_01": {
           "id": "furni_act38d0_Galleria_01",
           "sortId": 20000,
@@ -107950,6 +108634,42 @@
           "comfort": 600,
           "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
           "description": "This music box was created to commemorate the conclusion of an anime.\nMay all beings find the peace they deserve. 'Sleep, sleep, my dear baby.'",
+          "obtainApproach": "Event Reward",
+          "processedProductId": "3401",
+          "processedProductCount": 0,
+          "processedByProductPercentage": 0,
+          "processedByProductGroup": [
+
+          ],
+          "canBeDestroy": false,
+          "isOnly": 1,
+          "enableRoomType": 4144,
+          "quantity": 0
+        }
+      ,
+      
+        "furni_act68d4_woodenHorse_01": {
+          "id": "furni_act68d4_woodenHorse_01",
+          "sortId": 20014,
+          "name": "'Starlight Wheel' Cake",
+          "iconId": "furni_act68d4_woodenHorse_01",
+          "interactType": "ANIMATOR",
+          "musicId": "",
+          "type": "INTERACT",
+          "subType": "NONE",
+          "location": "FLOOR",
+          "category": "FURNITURE",
+          "validOnRotate": false,
+          "enableRotate": false,
+          "rarity": 2,
+          "themeId": "",
+          "groupId": "",
+          "width": 6,
+          "depth": 3,
+          "height": 6,
+          "comfort": 300,
+          "usage": "Can be used to decorate and increase Ambience in the Activity Room and Dormitory, or decorate the Reception Room.",
+          "description": "A delicious cake, themed for Amiya's birthday, with a tray designed to float like a sky-wagon. The delicious cake, carrying Amiya's wishes, floats past everyone, inviting all to enjoy its sweetness and blessings!",
           "obtainApproach": "Event Reward",
           "processedProductId": "3401",
           "processedProductCount": 0,
@@ -125455,6 +126175,165 @@
             "furniM_taiko_floor_01"
           ]
         }
+      ,
+      
+        "furniM_set_amiya": {
+          "id": "furniM_set_amiya",
+          "enableRoomType": 32,
+          "sortId": 1003,
+          "name": "Amiya's Blissful Universe",
+          "themeType": "LINKAGE",
+          "desc": "A recreation of Amiya's birthday party. Through countless cosmic tales and trials, she'll always cross time and space to be here, guarding pure hope. On her birthday, let's send our sincerest wishes to her—to our Amiya.",
+          "quickSetup": [
+            {
+              "furnitureId": "furniM_amiya_fountain_01",
+              "pos0": 5,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_stair_01",
+              "pos0": 0,
+              "pos1": 4,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_door_01",
+              "pos0": 3,
+              "pos1": 1,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_carpet_01",
+              "pos0": 2,
+              "pos1": 1,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_ceilingLight_01",
+              "pos0": 11,
+              "pos1": 7,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_ceilingLight_01",
+              "pos0": 35,
+              "pos1": 8,
+              "dir": 2
+            },
+            {
+              "furnitureId": "furniM_amiya_musicPlayer_01",
+              "pos0": 12,
+              "pos1": 8,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_ceilingLamp_01",
+              "pos0": 17,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_diningTable_01",
+              "pos0": 16,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_chairLeft_01",
+              "pos0": 16,
+              "pos1": 8,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_sofa_01",
+              "pos0": 19,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_teapoy_01",
+              "pos0": 20,
+              "pos1": 9,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_chairRight_01",
+              "pos0": 27,
+              "pos1": 8,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_messageBoard_01",
+              "pos0": 34,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_fence_01",
+              "pos0": 30,
+              "pos1": 11,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_stoneChair_01",
+              "pos0": 42,
+              "pos1": 5,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_giftTable_01",
+              "pos0": 38,
+              "pos1": 7,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_carpet_02",
+              "pos0": 36,
+              "pos1": 7,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_wallpaper_01",
+              "pos0": 0,
+              "pos1": 0,
+              "dir": 0
+            },
+            {
+              "furnitureId": "furniM_amiya_floor_01",
+              "pos0": 0,
+              "pos1": 10,
+              "dir": 0
+            }
+          ],
+          "groups": [
+            "furniM_set_amiya_1",
+            "furniM_set_amiya_2",
+            "furniM_set_amiya_3",
+            "furniM_set_amiya_4"
+          ],
+          "furnitures": [
+            "furniM_amiya_fountain_01",
+            "furniM_amiya_stair_01",
+            "furniM_amiya_door_01",
+            "furniM_amiya_carpet_01",
+            "furniM_amiya_ceilingLight_01",
+            "furniM_amiya_musicPlayer_01",
+            "furniM_amiya_ceilingLamp_01",
+            "furniM_amiya_diningTable_01",
+            "furniM_amiya_chairLeft_01",
+            "furniM_amiya_sofa_01",
+            "furniM_amiya_teapoy_01",
+            "furniM_amiya_chairRight_01",
+            "furniM_amiya_messageBoard_01",
+            "furniM_amiya_fence_01",
+            "furniM_amiya_stoneChair_01",
+            "furniM_amiya_giftTable_01",
+            "furniM_amiya_carpet_02",
+            "furniM_amiya_wallpaper_01",
+            "furniM_amiya_floor_01"
+          ]
+        }
       
     },
     "groups": {
@@ -132982,6 +133861,73 @@
             "furniM_taiko_bambooSideTable_01",
             "furniM_taiko_wallpaper_01",
             "furniM_taiko_floor_01"
+          ]
+        }
+      ,
+      
+        "furniM_set_amiya_1": {
+          "id": "furniM_set_amiya_1",
+          "sortId": 1,
+          "name": "Heartfelt Joy",
+          "themeId": "furniM_set_amiya",
+          "comfort": 0,
+          "count": 4,
+          "furniture": [
+            "furniM_amiya_fountain_01",
+            "furniM_amiya_stair_01",
+            "furniM_amiya_door_01",
+            "furniM_amiya_carpet_01"
+          ]
+        }
+      ,
+      
+        "furniM_set_amiya_2": {
+          "id": "furniM_set_amiya_2",
+          "sortId": 2,
+          "name": "Moments of Expectations",
+          "themeId": "furniM_set_amiya",
+          "comfort": 0,
+          "count": 5,
+          "furniture": [
+            "furniM_amiya_ceilingLight_01",
+            "furniM_amiya_musicPlayer_01",
+            "furniM_amiya_ceilingLamp_01",
+            "furniM_amiya_fence_01",
+            "furniM_amiya_wallpaper_01"
+          ]
+        }
+      ,
+      
+        "furniM_set_amiya_3": {
+          "id": "furniM_set_amiya_3",
+          "sortId": 3,
+          "name": "Reflections of Imagination\n",
+          "themeId": "furniM_set_amiya",
+          "comfort": 0,
+          "count": 6,
+          "furniture": [
+            "furniM_amiya_diningTable_01",
+            "furniM_amiya_chairLeft_01",
+            "furniM_amiya_sofa_01",
+            "furniM_amiya_teapoy_01",
+            "furniM_amiya_chairRight_01",
+            "furniM_amiya_floor_01"
+          ]
+        }
+      ,
+      
+        "furniM_set_amiya_4": {
+          "id": "furniM_set_amiya_4",
+          "sortId": 4,
+          "name": "Worlds of Wishes",
+          "themeId": "furniM_set_amiya",
+          "comfort": 0,
+          "count": 4,
+          "furniture": [
+            "furniM_amiya_messageBoard_01",
+            "furniM_amiya_stoneChair_01",
+            "furniM_amiya_giftTable_01",
+            "furniM_amiya_carpet_02"
           ]
         }
       
