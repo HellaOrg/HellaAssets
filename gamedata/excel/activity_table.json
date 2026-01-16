@@ -27,6 +27,136 @@
       }
     ,
     
+      "act50sign": {
+        "id": "act50sign",
+        "type": "CHECKIN_ONLY",
+        "displayType": "NONE",
+        "name": "Traces of Time Sign-in Event",
+        "startTime": 1768575600,
+        "endTime": 1769770799,
+        "rewardEndTime": 1769770799,
+        "displayOnHome": false,
+        "hasStage": false,
+        "templateShopId": null,
+        "medalGroupId": null,
+        "ungroupedMedalIds": null,
+        "isReplicate": false,
+        "needFixedSync": false,
+        "trapDomainId": null,
+        "recType": "CAN_COMPLETE",
+        "isPageEntry": false,
+        "isMagnify": false,
+        "picGroup": [
+
+        ],
+        "usePicGroup": false
+      }
+    ,
+    
+      "act2unique": {
+        "id": "act2unique",
+        "type": "UNIQUE_ONLY",
+        "displayType": "NONE",
+        "name": "Anniversary Celebration Special Event",
+        "startTime": 1768575600,
+        "endTime": 1772449199,
+        "rewardEndTime": 1772449199,
+        "displayOnHome": false,
+        "hasStage": false,
+        "templateShopId": null,
+        "medalGroupId": null,
+        "ungroupedMedalIds": null,
+        "isReplicate": false,
+        "needFixedSync": false,
+        "trapDomainId": null,
+        "recType": "CAN_COMPLETE",
+        "isPageEntry": false,
+        "isMagnify": false,
+        "picGroup": [
+
+        ],
+        "usePicGroup": false
+      }
+    ,
+    
+      "act24login": {
+        "id": "act24login",
+        "type": "LOGIN_ONLY",
+        "displayType": "NONE",
+        "name": "Sign-In Campaign",
+        "startTime": 1768575600,
+        "endTime": 1769770799,
+        "rewardEndTime": 1769770799,
+        "displayOnHome": false,
+        "hasStage": false,
+        "templateShopId": null,
+        "medalGroupId": null,
+        "ungroupedMedalIds": null,
+        "isReplicate": false,
+        "needFixedSync": false,
+        "trapDomainId": null,
+        "recType": "CAN_COMPLETE",
+        "isPageEntry": false,
+        "isMagnify": false,
+        "picGroup": [
+
+        ],
+        "usePicGroup": false
+      }
+    ,
+    
+      "act12pray": {
+        "id": "act12pray",
+        "type": "PRAY_ONLY",
+        "displayType": "NONE",
+        "name": "Lucky Strips Login Event",
+        "startTime": 1768575600,
+        "endTime": 1769770799,
+        "rewardEndTime": 1769770799,
+        "displayOnHome": false,
+        "hasStage": false,
+        "templateShopId": null,
+        "medalGroupId": null,
+        "ungroupedMedalIds": null,
+        "isReplicate": false,
+        "needFixedSync": false,
+        "trapDomainId": null,
+        "recType": "CANNOT_COMPLETE",
+        "isPageEntry": false,
+        "isMagnify": false,
+        "picGroup": [
+
+        ],
+        "usePicGroup": false
+      }
+    ,
+    
+      "act44side": {
+        "id": "act44side",
+        "type": "ENUM",
+        "displayType": "NONE",
+        "name": "Ato",
+        "startTime": 1768575600,
+        "endTime": 1770375599,
+        "rewardEndTime": 1770980399,
+        "displayOnHome": true,
+        "hasStage": true,
+        "templateShopId": "shop_act44side",
+        "medalGroupId": "medalGroupActivity44side",
+        "ungroupedMedalIds": null,
+        "isReplicate": false,
+        "needFixedSync": false,
+        "trapDomainId": null,
+        "recType": "SPECIAL",
+        "isPageEntry": false,
+        "isMagnify": false,
+        "picGroup": [
+
+        ],
+        "usePicGroup": false
+      }
+    ,
+    
       "act19mini": {
         "id": "act19mini",
         "type": "MINISTORY",
@@ -6212,6 +6342,42 @@
   },
   "homeActConfig": {
     
+      "act50sign": {
+        "actId": "act50sign",
+        "isPopupAfterCheckin": false,
+        "showTopBarMenu": true,
+        "actTopBarColor": "ae1b31",
+        "actTopBarText": "Traces of Time Sign-in Event"
+      }
+    ,
+    
+      "act2unique": {
+        "actId": "act2unique",
+        "isPopupAfterCheckin": false,
+        "showTopBarMenu": true,
+        "actTopBarColor": "e8720d",
+        "actTopBarText": "Anniversary Celebration\nSpecial Event"
+      }
+    ,
+    
+      "act24login": {
+        "actId": "act24login",
+        "isPopupAfterCheckin": false,
+        "showTopBarMenu": true,
+        "actTopBarColor": "00bc91",
+        "actTopBarText": "Ballad of Vagabonds Login Event"
+      }
+    ,
+    
+      "act12pray": {
+        "actId": "act12pray",
+        "isPopupAfterCheckin": false,
+        "showTopBarMenu": true,
+        "actTopBarColor": "e04831",
+        "actTopBarText": "Enmusubi Wishing Wall"
+      }
+    ,
+    
       "act5collection": {
         "actId": "act5collection",
         "isPopupAfterCheckin": false,
@@ -7265,6 +7431,15 @@
     ,
     
       "act35sre_zone3": "act35sre"
+    ,
+    
+      "act44side_zone1": "act44side"
+    ,
+    
+      "act44side_zone2": "act44side"
+    ,
+    
+      "act44side_zone3": "act44side"
     ,
     
       "act19mini_zone1": "act19mini"
@@ -8933,6 +9108,894 @@
         {
           "type": "ACTIVITY_ITEM",
           "id": "act35side_token_dust_rep_1",
+          "count": 120
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_1",
+      "sortId": 1,
+      "description": "Clear AT-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_01",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_2",
+      "sortId": 2,
+      "description": "Clear AT-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_02",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_3",
+      "sortId": 3,
+      "description": "Clear AT-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_03",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_4",
+      "sortId": 4,
+      "description": "Clear AT-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_04",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        },
+        {
+          "type": "CHAR",
+          "id": "char_4199_makiri",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_5",
+      "sortId": 5,
+      "description": "Clear AT-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_05",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_6",
+      "sortId": 6,
+      "description": "Clear AT-5 with a 3-star rating",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_05",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_7",
+      "sortId": 7,
+      "description": "Clear AT-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_06",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 80
+        },
+        {
+          "type": "FURN",
+          "id": "furni_odenShop_ceilingLight_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_8",
+      "sortId": 8,
+      "description": "Clear AT-6 with a 3-star rating",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_06",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_odenShop_ceilingLight_02",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_9",
+      "sortId": 9,
+      "description": "Clear AT-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_07",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 80
+        },
+        {
+          "type": "FURN",
+          "id": "furni_odenShop_cart_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_10",
+      "sortId": 10,
+      "description": "Clear AT-7 with a 3-star rating",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_07",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_odenShop_billBoard_02",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_11",
+      "sortId": 11,
+      "description": "Clear AT-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_08",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 80
+        },
+        {
+          "type": "FURN",
+          "id": "furni_odenShop_floor_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_12",
+      "sortId": 12,
+      "description": "Clear AT-8 with a 3-star rating",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_08",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_13",
+      "sortId": 13,
+      "description": "Clear AT-EX-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex01",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 40
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_14",
+      "sortId": 14,
+      "description": "Clear AT-EX-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex02",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 40
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_15",
+      "sortId": 15,
+      "description": "Clear AT-EX-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex03",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_16",
+      "sortId": 16,
+      "description": "Clear AT-EX-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex04",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_17",
+      "sortId": 17,
+      "description": "Clear AT-EX-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex05",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_18",
+      "sortId": 18,
+      "description": "Clear AT-EX-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex06",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_19",
+      "sortId": 19,
+      "description": "Clear AT-EX-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex07",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_20",
+      "sortId": 20,
+      "description": "Clear AT-EX-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex08",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_21",
+      "sortId": 21,
+      "description": "Clear AT-EX-8 Challenge Mode",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex08#f#",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_terratimes_Higashi_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_22",
+      "sortId": 22,
+      "description": "Clear AT-S-1 with a 3-star rating",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_s01",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_23",
+      "sortId": 23,
+      "description": "Clear AT-S-2 with a 3-star rating",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_s02",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_24",
+      "sortId": 24,
+      "description": "Clear AT-S-3 with a 3-star rating",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_s03",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_25",
+      "sortId": 25,
+      "description": "Clear AT-S-4 with a 3-star rating",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_s04",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_26",
+      "sortId": 26,
+      "description": "Clear event stages 15 times, not including tutorial stages",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_01^act44side_02^act44side_03^act44side_04^act44side_05^act44side_06^act44side_07^act44side_08^act44side_ex01^act44side_ex01#f#^act44side_ex02^act44side_ex02#f#^act44side_ex03^act44side_ex03#f#^act44side_ex04^act44side_ex04#f#^act44side_ex05^act44side_ex05#f#^act44side_ex06^act44side_ex06#f#^act44side_ex07^act44side_ex07#f#^act44side_ex08^act44side_ex08#f#^act44side_s01^act44side_s01#f#^act44side_s02^act44side_s02#f#^act44side_s03^act44side_s03#f#^act44side_s04^act44side_s04#f#",
+        "15"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_27",
+      "sortId": 27,
+      "description": "Clear event stages 45 times, not including tutorial stages",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_01^act44side_02^act44side_03^act44side_04^act44side_05^act44side_06^act44side_07^act44side_08^act44side_ex01^act44side_ex01#f#^act44side_ex02^act44side_ex02#f#^act44side_ex03^act44side_ex03#f#^act44side_ex04^act44side_ex04#f#^act44side_ex05^act44side_ex05#f#^act44side_ex06^act44side_ex06#f#^act44side_ex07^act44side_ex07#f#^act44side_ex08^act44side_ex08#f#^act44side_s01^act44side_s01#f#^act44side_s02^act44side_s02#f#^act44side_s03^act44side_s03#f#^act44side_s04^act44side_s04#f#",
+        "45"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_28",
+      "sortId": 28,
+      "description": "Clear event stages 85 times, not including tutorial stages",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_01^act44side_02^act44side_03^act44side_04^act44side_05^act44side_06^act44side_07^act44side_08^act44side_ex01^act44side_ex01#f#^act44side_ex02^act44side_ex02#f#^act44side_ex03^act44side_ex03#f#^act44side_ex04^act44side_ex04#f#^act44side_ex05^act44side_ex05#f#^act44side_ex06^act44side_ex06#f#^act44side_ex07^act44side_ex07#f#^act44side_ex08^act44side_ex08#f#^act44side_s01^act44side_s01#f#^act44side_s02^act44side_s02#f#^act44side_s03^act44side_s03#f#^act44side_s04^act44side_s04#f#",
+        "85"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act44side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
           "count": 120
         }
       ],
@@ -95745,6 +96808,48 @@
       "endTs": 1768906799
     },
     {
+      "id": "act44side",
+      "title": null,
+      "type": "ACTIVITY",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": [
+
+      ],
+      "missionIds": [
+        "44sideActivity_1",
+        "44sideActivity_2",
+        "44sideActivity_3",
+        "44sideActivity_4",
+        "44sideActivity_5",
+        "44sideActivity_6",
+        "44sideActivity_7",
+        "44sideActivity_8",
+        "44sideActivity_9",
+        "44sideActivity_10",
+        "44sideActivity_11",
+        "44sideActivity_12",
+        "44sideActivity_13",
+        "44sideActivity_14",
+        "44sideActivity_15",
+        "44sideActivity_16",
+        "44sideActivity_17",
+        "44sideActivity_18",
+        "44sideActivity_19",
+        "44sideActivity_20",
+        "44sideActivity_21",
+        "44sideActivity_22",
+        "44sideActivity_23",
+        "44sideActivity_24",
+        "44sideActivity_25",
+        "44sideActivity_26",
+        "44sideActivity_27",
+        "44sideActivity_28"
+      ],
+      "startTs": 1768575600,
+      "endTs": 1770980399
+    },
+    {
       "id": "act5bossrush",
       "title": null,
       "type": "ACTIVITY",
@@ -99831,6 +100936,229 @@
       
     },
     "CHECKIN_ONLY": {
+      
+        "act50sign": {
+          "checkInList": {
+            
+              "0": {
+                "itemList": [
+                  {
+                    "id": "ap_supply_lt_120",
+                    "count": 1,
+                    "type": "AP_SUPPLY"
+                  },
+                  {
+                    "id": "4001",
+                    "count": 30000,
+                    "type": "GOLD"
+                  }
+                ],
+                "order": 1,
+                "color": 0,
+                "keyItem": 0,
+                "showItemOrder": 0,
+                "isDynItem": false
+              }
+            ,
+            
+              "1": {
+                "itemList": [
+                  {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                  },
+                  {
+                    "id": "7001",
+                    "count": 5,
+                    "type": "TKT_RECRUIT"
+                  }
+                ],
+                "order": 2,
+                "color": 0,
+                "keyItem": 1,
+                "showItemOrder": 0,
+                "isDynItem": false
+              }
+            ,
+            
+              "2": {
+                "itemList": [
+                  {
+                    "id": "furni_terracommericials_ScreamingCherry_01",
+                    "count": 1,
+                    "type": "FURN"
+                  },
+                  {
+                    "id": "2003",
+                    "count": 20,
+                    "type": "CARD_EXP"
+                  }
+                ],
+                "order": 3,
+                "color": 0,
+                "keyItem": 1,
+                "showItemOrder": 0,
+                "isDynItem": false
+              }
+            ,
+            
+              "3": {
+                "itemList": [
+                  {
+                    "id": "32001",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "7002",
+                    "count": 5,
+                    "type": "TKT_INST_FIN"
+                  }
+                ],
+                "order": 4,
+                "color": 0,
+                "keyItem": 0,
+                "showItemOrder": 0,
+                "isDynItem": false
+              }
+            ,
+            
+              "4": {
+                "itemList": [
+                  {
+                    "id": "furni_act64d5_motorcycle_01",
+                    "count": 1,
+                    "type": "FURN"
+                  },
+                  {
+                    "id": "2003",
+                    "count": 20,
+                    "type": "CARD_EXP"
+                  }
+                ],
+                "order": 5,
+                "color": 0,
+                "keyItem": 1,
+                "showItemOrder": 0,
+                "isDynItem": false
+              }
+            ,
+            
+              "5": {
+                "itemList": [
+                  {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                  },
+                  {
+                    "id": "3003",
+                    "count": 20,
+                    "type": "MATERIAL"
+                  }
+                ],
+                "order": 6,
+                "color": 0,
+                "keyItem": 0,
+                "showItemOrder": 0,
+                "isDynItem": false
+              }
+            ,
+            
+              "6": {
+                "itemList": [
+                  {
+                    "id": "mod_update_token_2",
+                    "count": 3,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "3302",
+                    "count": 20,
+                    "type": "MATERIAL"
+                  }
+                ],
+                "order": 7,
+                "color": 0,
+                "keyItem": 0,
+                "showItemOrder": 0,
+                "isDynItem": false
+              }
+            ,
+            
+              "7": {
+                "itemList": [
+                  {
+                    "id": "mod_update_token_1",
+                    "count": 10,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "4001",
+                    "count": 30000,
+                    "type": "GOLD"
+                  }
+                ],
+                "order": 8,
+                "color": 0,
+                "keyItem": 0,
+                "showItemOrder": 0,
+                "isDynItem": false
+              }
+            ,
+            
+              "8": {
+                "itemList": [
+                  {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                  },
+                  {
+                    "id": "3401",
+                    "count": 300,
+                    "type": "MATERIAL"
+                  }
+                ],
+                "order": 9,
+                "color": 0,
+                "keyItem": 1,
+                "showItemOrder": 0,
+                "isDynItem": false
+              }
+            ,
+            
+              "9": {
+                "itemList": [
+                  {
+                    "id": "mod_unlock_token",
+                    "count": 1,
+                    "type": "MATERIAL"
+                  },
+                  {
+                    "id": "3303",
+                    "count": 8,
+                    "type": "MATERIAL"
+                  }
+                ],
+                "order": 10,
+                "color": 0,
+                "keyItem": 0,
+                "showItemOrder": 0,
+                "isDynItem": false
+              }
+            
+          },
+          "apSupplyOutOfDateDict": {
+            
+              "ap_supply_lt_120": 1770634799
+            
+          },
+          "dynCheckInData": null,
+          "extraCheckinList": null
+        }
+      ,
       
         "act49sign": {
           "checkInList": {
@@ -166032,6 +167360,21 @@
       
     },
     "LOGIN_ONLY": {
+      
+        "act24login": {
+          "description": "<color value=#bfbfbf>This item expires on</color>\n<color value=#bfbfbf>01/30/2026 03:59</color>",
+          "itemList": [
+            {
+              "id": "LIMITED_TKT_GACHA_10_6401",
+              "count": 1,
+              "type": "LIMITED_TKT_GACHA_10"
+            }
+          ],
+          "apSupplyOutOfDateDict": {
+
+          }
+        }
+      ,
       
         "act23login": {
           "description": "<color value=#bfbfbf>Expires: </color>\n<color value=#bfbfbf>2025/07/31 03:59</color>",
@@ -247234,6 +248577,13 @@
       ]
     ,
     
+      "act44side": [
+        "act44side_token_ticket",
+        "act44side_token_information",
+        "act44side_token_treasure"
+      ]
+    ,
+    
       "act19mini": [
         "act19mini_token_sweetie"
       ]
@@ -248335,6 +249685,9 @@
   },
   "dynActs": {
     
+      "act12pray": {"rule1":"Select Wishing Tickets as permitted. The Wishing Ticket with the most Orundum will be awarded.","rule2":"If less than 400 Orundum is awarded, you may select 3 Wishing Tickets tomorrow.","slotCount":12}
+    ,
+    
       "act11pray": {"rule1":"Select Wishing Tickets as permitted. The Wishing Ticket with the most Orundum will be awarded.","rule2":"If less than 400 Orundum is awarded, you may select 3 Wishing Tickets tomorrow.","slotCount":12}
     ,
     
@@ -248387,6 +249740,9 @@
     ,
     
       "act1flip": {"apSupplyOutOfDateDict":{"ap_supply_lt_120":1695639599},"grandPrizeDesc":"Flip over all Prayer Plaques to receive the Prayer Grand Prize","grandRewards":{"count":1,"id":"itempack_gacha_1","type":"ITEM_PACK"},"gridAmount":20,"ignorePos":[14,15,19,20],"ruleDesc":"Sign in every day to obtain one Prayer. Prayers have a chance to yield an additional Prayer chance. Prayer chances are refreshed every day and do not accumulate.","showPrizeId":["prize_16","prize_15"]}
+    ,
+    
+      "act2unique": {"itemList":[{"itemNameIconId":null,"needStorageCheck":false,"rewardItem":{"count":1,"id":"voucher_recruitR6_pick6401","type":"VOUCHER_PICK"},"useItemNameIcon":false},{"itemNameIconId":null,"needStorageCheck":false,"rewardItem":{"count":1,"id":"voucher_skin","type":"VOUCHER_SKIN"},"useItemNameIcon":false}]}
     ,
     
       "act1unique": {"itemList":[{"itemNameIconId":"name_ncdeer","needStorageCheck":true,"rewardItem":{"count":1,"id":"char_4019_ncdeer","type":"CHAR"},"useItemNameIcon":true},{"itemNameIconId":"name_furni_dunhuang","needStorageCheck":true,"rewardItem":{"count":1,"id":"furni_act24d0_dunhuang_01","type":"FURN"},"useItemNameIcon":true}]}
@@ -253108,6 +254464,32 @@
 
       ],
       "startTs": 1766070000
+    },
+    {
+      "id": "dis_side_44",
+      "type": "ACTIVITY",
+      "funcId": "act44side",
+      "endTs": 1770375599,
+      "sortId": 122,
+      "itemId": "act44side_token_ticket",
+      "timeNodes": [
+        {
+          "title": "<Ato> is now open",
+          "ts": 1768575600
+        },
+        {
+          "title": "'Remnants of Kajimachi' stages opened",
+          "ts": 1769209200
+        },
+        {
+          "title": "'Stairway to Severance' stages opened",
+          "ts": 1769814000
+        }
+      ],
+      "picGroups": [
+
+      ],
+      "startTs": 1768575600
     },
     {
       "id": "dis_side_35_sre",
@@ -279806,6 +281188,13 @@
   },
   "dynEntrySwitchData": {
     
+      "act44side": {
+        "entrySwitchInfo": {
+
+        }
+      }
+    ,
+    
       "act2mainss": {
         "entrySwitchInfo": {
           
@@ -283727,6 +285116,29 @@
         "titleType": "COMMON",
         "coinType": "COMMON",
         "coinBackColor": "8f45d6"
+      }
+    ,
+    
+      "act44side": {
+        "bigRewardType": "ILLUST_CHAR_REWARD",
+        "bigRewardParamList": [
+          "char_4199_makiri",
+          "Clear AT-4 to obtain this Operator",
+          "4a7b50",
+          "60,14"
+        ],
+        "isMissionListCommonType": true,
+        "isMissionItemCommonType": false,
+        "missionItemMainColor": null,
+        "isMissionItemCompleteUseMainColor": false,
+        "missionItemCompleteColor": null,
+        "isMissionRewardItemCommonType": true,
+        "isClaimAllBtnCommonType": false,
+        "claimAllBtnMainColor": null,
+        "claimAllBtnTips": null,
+        "titleType": "COMMON",
+        "coinType": "COMMON",
+        "coinBackColor": "313131"
       }
     ,
     
