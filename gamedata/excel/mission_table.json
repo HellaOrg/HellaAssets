@@ -14053,7 +14053,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_11",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
@@ -14085,7 +14085,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_11",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
@@ -14117,7 +14117,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_11",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
@@ -14181,7 +14181,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_12",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
@@ -14213,7 +14213,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_12",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
@@ -14245,7 +14245,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_12",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
@@ -14309,7 +14309,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_13",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
@@ -14341,7 +14341,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_13",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
@@ -14373,7 +14373,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_13",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
@@ -14437,7 +14437,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_14",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
@@ -14469,7 +14469,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_14",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
@@ -14501,7 +14501,7 @@
         ],
         "backImagePath": "Arts/UI/MainMission/main_14",
         "foldId": null,
-        "haveSubMissionToUnlock": false,
+        "haveSubMissionToUnlock": true,
         "countEndTs": -1
       }
     ,
