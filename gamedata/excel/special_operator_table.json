@@ -945,6 +945,48 @@
               "conditionViewType": "TASK",
               "topoOrder": 2
             }
+          ,
+          
+            "n_uniequip2_1": {
+              "nodeId": "n_uniequip2_1",
+              "nodeType": "UNIEQUIP",
+              "isInGameMechanics": false,
+              "unlockEvolvePhase": "PHASE_2",
+              "unlockLevel": 60,
+              "unlockTaskId": "t_uniequip2_1",
+              "frontNodeId": null,
+              "ifAutoUnlock": false,
+              "conditionViewType": "TASK",
+              "topoOrder": 0
+            }
+          ,
+          
+            "n_uniequip2_2": {
+              "nodeId": "n_uniequip2_2",
+              "nodeType": "UNIEQUIP",
+              "isInGameMechanics": false,
+              "unlockEvolvePhase": "PHASE_2",
+              "unlockLevel": 60,
+              "unlockTaskId": "t_uniequip2_2",
+              "frontNodeId": "n_uniequip2_1",
+              "ifAutoUnlock": false,
+              "conditionViewType": "TASK",
+              "topoOrder": 1
+            }
+          ,
+          
+            "n_uniequip2_3": {
+              "nodeId": "n_uniequip2_3",
+              "nodeType": "UNIEQUIP",
+              "isInGameMechanics": false,
+              "unlockEvolvePhase": "PHASE_2",
+              "unlockLevel": 60,
+              "unlockTaskId": "t_uniequip2_3",
+              "frontNodeId": "n_uniequip2_2",
+              "ifAutoUnlock": false,
+              "conditionViewType": "TASK",
+              "topoOrder": 2
+            }
           
         },
         "evolveNodeData": {
@@ -1270,6 +1312,27 @@
             "n_uniequip1_3": {
               "nodeId": "n_uniequip1_3",
               "uniEquipId": "uniequip_002_radian",
+              "equipLevel": 3
+            }
+          ,
+          
+            "n_uniequip2_1": {
+              "nodeId": "n_uniequip2_1",
+              "uniEquipId": "uniequip_003_radian",
+              "equipLevel": 1
+            }
+          ,
+          
+            "n_uniequip2_2": {
+              "nodeId": "n_uniequip2_2",
+              "uniEquipId": "uniequip_003_radian",
+              "equipLevel": 2
+            }
+          ,
+          
+            "n_uniequip2_3": {
+              "nodeId": "n_uniequip2_3",
+              "uniEquipId": "uniequip_003_radian",
               "equipLevel": 3
             }
           
@@ -3473,13 +3536,13 @@
           
             "UNIEQUIP": {
               "width": 1490.0,
-              "height": 200.0,
+              "height": 350.0,
               "pointPosDataMap": {
                 
                   "point_0": {
                     "pos": {
                       "x": 270.0,
-                      "y": -100.0
+                      "y": -175.0
                     }
                   }
                 ,
@@ -3495,31 +3558,63 @@
                   "point_2": {
                     "pos": {
                       "x": 500.0,
-                      "y": -200.0
+                      "y": -175.0
                     }
                   }
                 ,
                 
                   "point_3": {
                     "pos": {
-                      "x": 730.0,
-                      "y": -200.0
+                      "x": 500.0,
+                      "y": -350.0
                     }
                   }
                 ,
                 
                   "point_4": {
                     "pos": {
-                      "x": 960.0,
-                      "y": -200.0
+                      "x": 730.0,
+                      "y": -175.0
                     }
                   }
                 ,
                 
                   "point_5": {
                     "pos": {
+                      "x": 730.0,
+                      "y": -350.0
+                    }
+                  }
+                ,
+                
+                  "point_6": {
+                    "pos": {
+                      "x": 960.0,
+                      "y": -175.0
+                    }
+                  }
+                ,
+                
+                  "point_7": {
+                    "pos": {
+                      "x": 960.0,
+                      "y": -350.0
+                    }
+                  }
+                ,
+                
+                  "point_8": {
+                    "pos": {
                       "x": 1190.0,
-                      "y": -200.0
+                      "y": -175.0
+                    }
+                  }
+                ,
+                
+                  "point_9": {
+                    "pos": {
+                      "x": 1190.0,
+                      "y": -350.0
                     }
                   }
                 
@@ -3531,18 +3626,33 @@
                   }
                 ,
                 
-                  "point_3": {
+                  "point_4": {
                     "nodeId": "n_uniequip1_1"
                   }
                 ,
                 
-                  "point_4": {
+                  "point_5": {
+                    "nodeId": "n_uniequip2_1"
+                  }
+                ,
+                
+                  "point_6": {
                     "nodeId": "n_uniequip1_2"
                   }
                 ,
                 
-                  "point_5": {
+                  "point_7": {
+                    "nodeId": "n_uniequip2_2"
+                  }
+                ,
+                
+                  "point_8": {
                     "nodeId": "n_uniequip1_3"
+                  }
+                ,
+                
+                  "point_9": {
+                    "nodeId": "n_uniequip2_3"
                   }
                 
               },
@@ -3559,6 +3669,12 @@
                     "evolvePhase": "PHASE_2",
                     "level": 60
                   }
+                ,
+                
+                  "point_3": {
+                    "evolvePhase": "PHASE_2",
+                    "level": 60
+                  }
                 
               },
               "linePosDataMap": {
@@ -3566,11 +3682,11 @@
                   "line_0": {
                     "startPos": {
                       "x": 270.0,
-                      "y": -100.0
+                      "y": -175.0
                     },
                     "endPos": {
                       "x": 385.0,
-                      "y": -100.0
+                      "y": -175.0
                     }
                   }
                 ,
@@ -3578,11 +3694,11 @@
                   "line_1": {
                     "startPos": {
                       "x": 385.0,
-                      "y": 0.0
+                      "y": -175.0
                     },
                     "endPos": {
                       "x": 500.0,
-                      "y": 0.0
+                      "y": -175.0
                     }
                   }
                 ,
@@ -3590,10 +3706,10 @@
                   "line_2": {
                     "startPos": {
                       "x": 385.0,
-                      "y": -100.0
+                      "y": 0.0
                     },
                     "endPos": {
-                      "x": 385.0,
+                      "x": 500.0,
                       "y": 0.0
                     }
                   }
@@ -3602,11 +3718,11 @@
                   "line_3": {
                     "startPos": {
                       "x": 385.0,
-                      "y": -200.0
+                      "y": -175.0
                     },
                     "endPos": {
-                      "x": 500.0,
-                      "y": -200.0
+                      "x": 385.0,
+                      "y": 0.0
                     }
                   }
                 ,
@@ -3614,47 +3730,95 @@
                   "line_4": {
                     "startPos": {
                       "x": 385.0,
-                      "y": -100.0
+                      "y": -350.0
                     },
                     "endPos": {
-                      "x": 385.0,
-                      "y": -200.0
+                      "x": 500.0,
+                      "y": -350.0
                     }
                   }
                 ,
                 
                   "line_5": {
                     "startPos": {
-                      "x": 500.0,
-                      "y": -200.0
+                      "x": 385.0,
+                      "y": -175.0
                     },
                     "endPos": {
-                      "x": 730.0,
-                      "y": -200.0
+                      "x": 385.0,
+                      "y": -350.0
                     }
                   }
                 ,
                 
                   "line_6": {
                     "startPos": {
-                      "x": 730.0,
-                      "y": -200.0
+                      "x": 500.0,
+                      "y": -175.0
                     },
                     "endPos": {
-                      "x": 960.0,
-                      "y": -200.0
+                      "x": 730.0,
+                      "y": -175.0
                     }
                   }
                 ,
                 
                   "line_7": {
                     "startPos": {
+                      "x": 500.0,
+                      "y": -350.0
+                    },
+                    "endPos": {
+                      "x": 730.0,
+                      "y": -350.0
+                    }
+                  }
+                ,
+                
+                  "line_8": {
+                    "startPos": {
+                      "x": 730.0,
+                      "y": -175.0
+                    },
+                    "endPos": {
                       "x": 960.0,
-                      "y": -200.0
+                      "y": -175.0
+                    }
+                  }
+                ,
+                
+                  "line_9": {
+                    "startPos": {
+                      "x": 730.0,
+                      "y": -350.0
+                    },
+                    "endPos": {
+                      "x": 960.0,
+                      "y": -350.0
+                    }
+                  }
+                ,
+                
+                  "line_10": {
+                    "startPos": {
+                      "x": 960.0,
+                      "y": -175.0
                     },
                     "endPos": {
                       "x": 1190.0,
-                      "y": -200.0
+                      "y": -175.0
+                    }
+                  }
+                ,
+                
+                  "line_11": {
+                    "startPos": {
+                      "x": 960.0,
+                      "y": -350.0
+                    },
+                    "endPos": {
+                      "x": 1190.0,
+                      "y": -350.0
                     }
                   }
                 
@@ -3667,7 +3831,8 @@
                     ],
                     "endPointList": [
                       "point_1",
-                      "point_2"
+                      "point_2",
+                      "point_3"
                     ]
                   }
                 ,
@@ -3677,7 +3842,7 @@
                       "point_0"
                     ],
                     "endPointList": [
-                      "point_1"
+                      "point_2"
                     ]
                   }
                 ,
@@ -3697,7 +3862,7 @@
                       "point_0"
                     ],
                     "endPointList": [
-                      "point_2"
+                      "point_1"
                     ]
                   }
                 ,
@@ -3707,14 +3872,14 @@
                       "point_0"
                     ],
                     "endPointList": [
-                      "point_2"
+                      "point_3"
                     ]
                   }
                 ,
                 
                   "line_5": {
                     "startPointList": [
-                      "point_2"
+                      "point_0"
                     ],
                     "endPointList": [
                       "point_3"
@@ -3724,7 +3889,7 @@
                 
                   "line_6": {
                     "startPointList": [
-                      "point_3"
+                      "point_2"
                     ],
                     "endPointList": [
                       "point_4"
@@ -3734,10 +3899,50 @@
                 
                   "line_7": {
                     "startPointList": [
-                      "point_4"
+                      "point_3"
                     ],
                     "endPointList": [
                       "point_5"
+                    ]
+                  }
+                ,
+                
+                  "line_8": {
+                    "startPointList": [
+                      "point_4"
+                    ],
+                    "endPointList": [
+                      "point_6"
+                    ]
+                  }
+                ,
+                
+                  "line_9": {
+                    "startPointList": [
+                      "point_5"
+                    ],
+                    "endPointList": [
+                      "point_7"
+                    ]
+                  }
+                ,
+                
+                  "line_10": {
+                    "startPointList": [
+                      "point_6"
+                    ],
+                    "endPointList": [
+                      "point_8"
+                    ]
+                  }
+                ,
+                
+                  "line_11": {
+                    "startPointList": [
+                      "point_7"
+                    ],
+                    "endPointList": [
+                      "point_9"
                     ]
                   }
                 
@@ -4581,6 +4786,97 @@
         "haveSubMissionToUnlock": false,
         "countEndTs": -1
       }
+    ,
+    
+      "t_uniequip2_1": {
+        "id": "t_uniequip2_1",
+        "sortId": 0,
+        "description": "Clear ending 'Out of Nothingness' in Integrated Strategies: Sui's Garden of Grotesqueries (Regular Operations) on Guided Tour 2 or above",
+        "type": "SPECIAL_OPERATOR",
+        "itemBgType": "COMMON",
+        "preMissionIds": null,
+        "template": "Rlv2EndingModeGrade",
+        "templateType": "1",
+        "param": [
+          "1",
+          "rogue_5",
+          "NORMAL",
+          "2",
+          "ro5_ending_4"
+        ],
+        "unlockCondition": null,
+        "unlockParam": null,
+        "missionGroup": "char_4195_radian",
+        "toPage": null,
+        "periodicalPoint": 0,
+        "rewards": null,
+        "backImagePath": null,
+        "foldId": null,
+        "haveSubMissionToUnlock": false,
+        "countEndTs": -1
+      }
+    ,
+    
+      "t_uniequip2_2": {
+        "id": "t_uniequip2_2",
+        "sortId": 0,
+        "description": "Clear ending 'Out of Nothingness' with Raidian recruited in Integrated Strategies: Sui's Garden of Grotesqueries (Regular Operations) on Guided Tour 3 or above",
+        "type": "SPECIAL_OPERATOR",
+        "itemBgType": "COMMON",
+        "preMissionIds": null,
+        "template": "Rlv2EndingWithCandleChar",
+        "templateType": "1",
+        "param": [
+          "1",
+          "rogue_5",
+          "NORMAL",
+          "3",
+          "char_4195_radian",
+          "0",
+          "ro5_ending_4"
+        ],
+        "unlockCondition": null,
+        "unlockParam": null,
+        "missionGroup": "char_4195_radian",
+        "toPage": null,
+        "periodicalPoint": 0,
+        "rewards": null,
+        "backImagePath": null,
+        "foldId": null,
+        "haveSubMissionToUnlock": false,
+        "countEndTs": -1
+      }
+    ,
+    
+      "t_uniequip2_3": {
+        "id": "t_uniequip2_3",
+        "sortId": 0,
+        "description": "Clear ending 'Out of Nothingness' with Raidian recruited in Integrated Strategies: Sui's Garden of Grotesqueries (Regular Operations) on Guided Tour 4 or above",
+        "type": "SPECIAL_OPERATOR",
+        "itemBgType": "COMMON",
+        "preMissionIds": null,
+        "template": "Rlv2EndingWithCandleChar",
+        "templateType": "1",
+        "param": [
+          "1",
+          "rogue_5",
+          "NORMAL",
+          "4",
+          "char_4195_radian",
+          "0",
+          "ro5_ending_4"
+        ],
+        "unlockCondition": null,
+        "unlockParam": null,
+        "missionGroup": "char_4195_radian",
+        "toPage": null,
+        "periodicalPoint": 0,
+        "rewards": null,
+        "backImagePath": null,
+        "foldId": null,
+        "haveSubMissionToUnlock": false,
+        "countEndTs": -1
+      }
     
   },
   "nodeUnlockMissionGroup": {
@@ -4620,7 +4916,10 @@
           "t_master6_3",
           "t_uniequip1_1",
           "t_uniequip1_2",
-          "t_uniequip1_3"
+          "t_uniequip1_3",
+          "t_uniequip2_1",
+          "t_uniequip2_2",
+          "t_uniequip2_3"
         ],
         "startTs": -1,
         "endTs": -1

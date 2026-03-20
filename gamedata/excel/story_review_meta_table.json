@@ -3611,6 +3611,17 @@
         }
       ,
       
+        "pic_rogue_5_KV2": {
+          "id": "pic_rogue_5_KV2",
+          "desc": "Out of Nothingness",
+          "assetPath": "pic_rogue_5_KV2",
+          "type": "IMAGE",
+          "subType": null,
+          "picDescription": "With this fabric, the narration changes.",
+          "kvId": "rogue_5_kv_1_2"
+        }
+      ,
+      
         "pic_rogue_5_1": {
           "id": "pic_rogue_5_1",
           "desc": "Presence of Stone",
@@ -4161,6 +4172,50 @@
         }
       ,
       
+        "pic_rogue_5_55": {
+          "id": "pic_rogue_5_55",
+          "desc": "Crystallized Time",
+          "assetPath": "pic_rogue_5_55",
+          "type": "ROGUE_IMAGE",
+          "subType": null,
+          "picDescription": "With the Sui Regulator's research, the Hours of Sui have become more useful.",
+          "kvId": null
+        }
+      ,
+      
+        "pic_rogue_5_56": {
+          "id": "pic_rogue_5_56",
+          "desc": "Curtain",
+          "assetPath": "pic_rogue_5_56",
+          "type": "ROGUE_IMAGE",
+          "subType": null,
+          "picDescription": "History and reality are separated by this thin sheet of paper, so perhaps changing fate is no difficult affair either.",
+          "kvId": null
+        }
+      ,
+      
+        "pic_rogue_5_57": {
+          "id": "pic_rogue_5_57",
+          "desc": "Scroll's End",
+          "assetPath": "pic_rogue_5_57",
+          "type": "ROGUE_IMAGE",
+          "subType": null,
+          "picDescription": "The final step before crossing causality.",
+          "kvId": null
+        }
+      ,
+      
+        "pic_rogue_5_58": {
+          "id": "pic_rogue_5_58",
+          "desc": "Nomadic Beast",
+          "assetPath": "pic_rogue_5_58",
+          "type": "ROGUE_IMAGE",
+          "subType": null,
+          "picDescription": "The landscape can move, not to mention Beast Stewards too.",
+          "kvId": null
+        }
+      ,
+      
         "pic_rogue_5_47": {
           "id": "pic_rogue_5_47",
           "desc": "Intermission",
@@ -4201,6 +4256,28 @@
           "type": "ENDING_IMAGE",
           "subType": "rogue_5_ending_3",
           "picDescription": "The plot is done, the words faded, only a scroll of emptiness, and a little bit of hope that someone else would put ink to it.",
+          "kvId": null
+        }
+      ,
+      
+        "pic_rogue_5_59": {
+          "id": "pic_rogue_5_59",
+          "desc": "Unfurled Scroll",
+          "assetPath": "pic_rogue_5_59",
+          "type": "ENDING_IMAGE",
+          "subType": "rogue_5_ending_4",
+          "picDescription": "A hundred plots all borne in one scroll.",
+          "kvId": null
+        }
+      ,
+      
+        "pic_rogue_5_60": {
+          "id": "pic_rogue_5_60",
+          "desc": "Inkblot",
+          "assetPath": "pic_rogue_5_60",
+          "type": "ENDING_IMAGE",
+          "subType": "rogue_5_ending_4",
+          "picDescription": "From blank white, a realm takes shape within the scroll. With dark black, written words become records.",
           "kvId": null
         }
       
@@ -4680,6 +4757,27 @@
           "id": "music_rogue_5_12",
           "desc": "music_rogue_5_12",
           "name": "Fair Trade"
+        }
+      ,
+      
+        "music_rogue_5_13": {
+          "id": "music_rogue_5_13",
+          "desc": "music_rogue_5_13",
+          "name": "A Stroll in the Tomb of Sui"
+        }
+      ,
+      
+        "music_rogue_5_14": {
+          "id": "music_rogue_5_14",
+          "desc": "music_rogue_5_14",
+          "name": "The Rule of Justice"
+        }
+      ,
+      
+        "music_rogue_5_15": {
+          "id": "music_rogue_5_15",
+          "desc": "music_rogue_5_15",
+          "name": "A Room With a View"
         }
       ,
       
@@ -12260,6 +12358,24 @@
                   "musicId": "music_rogue_5_12",
                   "musicSortId": 12
                 }
+              ,
+              
+                "music_rogue_5_13": {
+                  "musicId": "music_rogue_5_13",
+                  "musicSortId": 13
+                }
+              ,
+              
+                "music_rogue_5_14": {
+                  "musicId": "music_rogue_5_14",
+                  "musicSortId": 14
+                }
+              ,
+              
+                "music_rogue_5_15": {
+                  "musicId": "music_rogue_5_15",
+                  "musicSortId": 15
+                }
               
             }
           },
@@ -12269,6 +12385,12 @@
                 "pic_rogue_5_KV1": {
                   "picId": "pic_rogue_5_KV1",
                   "picSortId": 1
+                }
+              ,
+              
+                "pic_rogue_5_KV2": {
+                  "picId": "pic_rogue_5_KV2",
+                  "picSortId": 2
                 }
               ,
               
@@ -12572,6 +12694,30 @@
                 }
               ,
               
+                "pic_rogue_5_55": {
+                  "picId": "pic_rogue_5_55",
+                  "picSortId": 53
+                }
+              ,
+              
+                "pic_rogue_5_56": {
+                  "picId": "pic_rogue_5_56",
+                  "picSortId": 54
+                }
+              ,
+              
+                "pic_rogue_5_57": {
+                  "picId": "pic_rogue_5_57",
+                  "picSortId": 55
+                }
+              ,
+              
+                "pic_rogue_5_58": {
+                  "picId": "pic_rogue_5_58",
+                  "picSortId": 56
+                }
+              ,
+              
                 "pic_rogue_5_47": {
                   "picId": "pic_rogue_5_47",
                   "picSortId": 57
@@ -12593,6 +12739,18 @@
                 "pic_rogue_5_50": {
                   "picId": "pic_rogue_5_50",
                   "picSortId": 60
+                }
+              ,
+              
+                "pic_rogue_5_59": {
+                  "picId": "pic_rogue_5_59",
+                  "picSortId": 61
+                }
+              ,
+              
+                "pic_rogue_5_60": {
+                  "picId": "pic_rogue_5_60",
+                  "picSortId": 62
                 }
               
             }
