@@ -198,6 +198,11 @@
       ]
     ,
     
+      "char_4051_akkord": [
+        "char_4051_akkord"
+      ]
+    ,
+    
       "char_328_cammou": [
         "char_328_cammou"
       ]
@@ -765,6 +770,11 @@
       ]
     ,
     
+      "char_394_hadiya": [
+        "char_394_hadiya"
+      ]
+    ,
+    
       "char_129_bluep": [
         "char_129_bluep"
       ]
@@ -863,7 +873,8 @@
     ,
     
       "char_135_halo": [
-        "char_135_halo"
+        "char_135_halo",
+        "char_1047_halo2"
       ]
     ,
     
@@ -1209,6 +1220,11 @@
       ]
     ,
     
+      "char_4211_snhunt": [
+        "char_4211_snhunt"
+      ]
+    ,
+    
       "char_4177_brigid": [
         "char_4177_brigid"
       ]
@@ -1235,7 +1251,8 @@
     ,
     
       "char_174_slbell": [
-        "char_174_slbell"
+        "char_174_slbell",
+        "char_1046_sbell2"
       ]
     ,
     
@@ -1826,7 +1843,8 @@
     ,
     
       "char_172_svrash": [
-        "char_172_svrash"
+        "char_172_svrash",
+        "char_1045_svash2"
       ]
     ,
     
