@@ -1011,6 +1011,9 @@
       "ba.drop": "<color=#36ACFF>{0}</color>"
     ,
     
+      "ba.acrem": "<color=#727272>{0}</color>"
+    ,
+    
       "eb.key": "<color=#00FFFF>{0}</color>"
     ,
     
@@ -1201,6 +1204,12 @@
     ,
     
       "lv.hdbg": "<color=#7ba61f>{0}</color>"
+    ,
+    
+      "autochess.gray": "<color=#777777>{0}</color>"
+    ,
+    
+      "autochess.dgreen": "<color=#40B196>{0}</color>"
     ,
     
       "vecbreakv2.highlight": "<color=#d8741a>{0}</color>"
@@ -1420,7 +1429,7 @@
   "commonPotentialLvlUpCount": 4,
   "weeklyOverrideDesc": "",
   "voucherDiv": 5,
-  "recruitPoolVersion": 22,
+  "recruitPoolVersion": 23,
   "v006RecruitTimeStep1Refresh": 1577226600,
   "v006RecruitTimeStep2Check": 1577208600,
   "v006RecruitTimeStep2Flush": 1577703600,
@@ -1879,6 +1888,13 @@
       }
     ,
     
+      "ba.alter": {
+        "termId": "ba.alter",
+        "termName": "Equipment Alteration",
+        "description": "When selecting a deployed Operator, can activate extra effects when certain conditions are fulfilled"
+      }
+    ,
+    
       "cc.bd_A_1": {
         "termId": "cc.bd_A_1",
         "termName": "Psychokinesis",
@@ -2126,8 +2142,8 @@
     
       "cc.g.karlan": {
         "termId": "cc.g.karlan",
-        "termName": "Karlan Trade",
-        "description": "Includes the following Operators:\nSilverAsh, Gnosis, Pramanix, Cliffheart, Matterhorn, Courier, Kjera, Aurora, Degenbrecher"
+        "termName": "Kjerag",
+        "description": "Includes the following Operators:\nSilverAsh, Gnosis, Pramanix, Cliffheart, Matterhorn, Courier, Kjera, Aurora, Degenbrecher, Snow Hunter"
       }
     ,
     
@@ -2405,8 +2421,8 @@
     
   },
   "storyReviewUnlockItemLackTip": "Insufficient Information Fragments. Acquire more from the Purchase Certificates Store or the Event Store.",
-  "dataVersion": "48.6.0",
-  "resPrefVersion": "66d0d0",
+  "dataVersion": "49.0.0",
+  "resPrefVersion": "67d0d0",
   "announceWebBusType": "ak_announcement",
   "videoPlayerWebBusType": "ak_video_player",
   "gachaLogBusType": "ak_gacha_log",
@@ -2629,6 +2645,12 @@
     ,
     
       "counsellor": "PHYSICAL"
+    ,
+    
+      "mercenary": "PHYSICAL"
+    ,
+    
+      "skybreaker": "PHYSICAL"
     
   },
   "classicProtectChar": [

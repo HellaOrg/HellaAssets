@@ -95329,6 +95329,4520 @@
       }
     ,
     
+      "act46side_st01": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "main_01-10",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_st01",
+        "levelId": null,
+        "zoneId": "act46side_zone1",
+        "code": "OS-ST-1",
+        "name": "Landslide",
+        "description": "And She said, henceforth you shall walk the path forward alone.",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 0,
+        "apFailReturn": 0,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 0,
+        "dailyStageDifficulty": 0,
+        "expGain": 0,
+        "goldGain": 0,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 0,
+        "completeFavor": 0,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": true,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_tr01": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_st01",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_tr01",
+        "levelId": "Activities/act46side/level_act46side_tr01",
+        "zoneId": "act46side_zone1",
+        "code": "OS-TR-1",
+        "name": "First Snow",
+        "description": "Nobody could have predicted what would happen when the first snow fell.\n<@lv.item><Saintess Statue></> Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": false,
+        "canBattleReplay": false,
+        "apCost": 0,
+        "apFailReturn": 0,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": -1,
+        "dailyStageDifficulty": 0,
+        "expGain": 0,
+        "goldGain": 0,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 0,
+        "completeFavor": 0,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": true,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "TRAINING",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_01": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_tr01",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_01",
+        "levelId": "Activities/act46side/level_act46side_01",
+        "zoneId": "act46side_zone1",
+        "code": "OS-1",
+        "name": "Amidst the Wailing",
+        "description": "The wailing fowlbeasts continue to circle above the snow, heralding news of death. More misfortune is still on its way.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "LV.20",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 9,
+        "apFailReturn": 9,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 90,
+        "goldGain": 90,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 9,
+        "completeFavor": 9,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30031",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30061",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30041",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30051",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30021",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30011",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30031",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30061",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30041",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30051",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30021",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "USUAL",
+              "type": "MATERIAL",
+              "id": "30011",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_02": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_01",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_02",
+        "levelId": "Activities/act46side/level_act46side_02",
+        "zoneId": "act46side_zone1",
+        "code": "OS-2",
+        "name": "Lovely Neighbors",
+        "description": "The visitor knocks on the door, bringing fine food and wine and putting on a show of friendship, waiting for a sign of weakness he can exploit.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "LV.35",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 9,
+        "apFailReturn": 9,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 90,
+        "goldGain": 90,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 9,
+        "completeFavor": 9,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30031",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30061",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30041",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30051",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30021",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30011",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30031",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30061",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30041",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30051",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30021",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "USUAL",
+              "type": "MATERIAL",
+              "id": "30011",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_03": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_02",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_03",
+        "levelId": "Activities/act46side/level_act46side_03",
+        "zoneId": "act46side_zone1",
+        "code": "OS-3",
+        "name": "Among Snowy Shrubs",
+        "description": "New friends bring opportunities, if you seize the day.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 1 Lv. 1",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 9,
+        "apFailReturn": 9,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 90,
+        "goldGain": 90,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 9,
+        "completeFavor": 9,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30031",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30061",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30041",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30051",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30021",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30011",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30031",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30061",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30041",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30051",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30021",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "USUAL",
+              "type": "MATERIAL",
+              "id": "30011",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_04": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_03",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_04",
+        "levelId": "Activities/act46side/level_act46side_04",
+        "zoneId": "act46side_zone1",
+        "code": "OS-4",
+        "name": "Conjoined Lives",
+        "description": "We put aside our differences and the conflicts of the past, and walk hand-in-hand towards the same future.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 1 Lv. 20",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_RS_lake",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 12,
+        "apFailReturn": 12,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 120,
+        "goldGain": 120,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 12,
+        "completeFavor": 12,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30012",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30042",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "MATERIAL",
+              "id": "30012",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30042",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_st02": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_04",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_st02",
+        "levelId": null,
+        "zoneId": "act46side_zone1",
+        "code": "OS-ST-2",
+        "name": "A Pilgrimage, A Knell",
+        "description": "As the others weep, it is time for you to depart. The snow never waits, nor is it ever in a hurry.",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 0,
+        "apFailReturn": 0,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 0,
+        "dailyStageDifficulty": 0,
+        "expGain": 0,
+        "goldGain": 0,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 0,
+        "completeFavor": 0,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": true,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_05": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_st02",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_05",
+        "levelId": "Activities/act46side/level_act46side_05",
+        "zoneId": "act46side_zone1",
+        "code": "OS-5",
+        "name": "A Lonely Winter's Night",
+        "description": "Even as those who could be trusted are separated, she sets out on her journey, with her brave heart as companion.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 1 Lv. 30",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 12,
+        "apFailReturn": 12,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 120,
+        "goldGain": 120,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 12,
+        "completeFavor": 12,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30022",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30032",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "MATERIAL",
+              "id": "30022",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "USUAL",
+              "type": "MATERIAL",
+              "id": "30032",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_06": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_05",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_06",
+        "levelId": "Activities/act46side/level_act46side_06",
+        "zoneId": "act46side_zone1",
+        "code": "OS-6",
+        "name": "Emerald",
+        "description": "Patience is the hunter's virtue. It will help you find a gap, an opportunity, a beginning, and the dawn of friendship.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 1 Lv. 50",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 12,
+        "apFailReturn": 12,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 120,
+        "goldGain": 120,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 12,
+        "completeFavor": 12,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30052",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30062",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALMOST",
+              "type": "MATERIAL",
+              "id": "30052",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "OFTEN",
+              "type": "MATERIAL",
+              "id": "30062",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_07": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_06",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_07",
+        "levelId": "Activities/act46side/level_act46side_07",
+        "zoneId": "act46side_zone1",
+        "code": "OS-7",
+        "name": "Incense and Shadows",
+        "description": "A secret in a haze, a stick of incense burned down to ash, a rumbling roar, two lovers, three children.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 1 Lv. 60",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 21,
+        "apFailReturn": 21,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 210,
+        "goldGain": 210,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 21,
+        "completeFavor": 21,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30023",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALMOST",
+              "type": "MATERIAL",
+              "id": "30023",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_08": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_07",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_08",
+        "levelId": "Activities/act46side/level_act46side_08",
+        "zoneId": "act46side_zone1",
+        "code": "OS-8",
+        "name": "Proclamation",
+        "description": "What people believe depends on what they see and hear. Thus the art of deception is born.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 2 Lv. 10",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 21,
+        "apFailReturn": 21,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 210,
+        "goldGain": 210,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 21,
+        "completeFavor": 21,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30103",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "USUAL",
+              "type": "MATERIAL",
+              "id": "30103",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_st03": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_08",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_st03",
+        "levelId": null,
+        "zoneId": "act46side_zone1",
+        "code": "OS-ST-3",
+        "name": "Road of the Heartseekers",
+        "description": "The path of the righteous is narrow, fraught with hardship and snowstorms, with fiends and terrors. For the heart has never been readily found, for the heart is forged through countless trials.",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 0,
+        "apFailReturn": 0,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 0,
+        "dailyStageDifficulty": 0,
+        "expGain": 0,
+        "goldGain": 0,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 0,
+        "completeFavor": 0,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": true,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_09": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_st03",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_09",
+        "levelId": "Activities/act46side/level_act46side_09",
+        "zoneId": "act46side_zone1",
+        "code": "OS-9",
+        "name": "Cold Steel",
+        "description": "Some still futilely long for a warm spring.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 2 Lv. 10",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 21,
+        "apFailReturn": 21,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 210,
+        "goldGain": 210,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 21,
+        "completeFavor": 21,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "31053",
+              "dropType": "NORMAL"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "USUAL",
+              "type": "MATERIAL",
+              "id": "31053",
+              "dropType": "NORMAL"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_10": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_09",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_10",
+        "levelId": "Activities/act46side/level_act46side_10",
+        "zoneId": "act46side_zone1",
+        "code": "OS-10",
+        "name": "By Kjeragandr",
+        "description": "By Kjeragandr, blessed be Her name.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 2 Lv. 10",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_cave",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 10,
+        "apFailReturn": 10,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 100,
+        "goldGain": 100,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 10,
+        "completeFavor": 10,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_st04": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_10",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_st04",
+        "levelId": null,
+        "zoneId": "act46side_zone1",
+        "code": "OS-ST-4",
+        "name": "'Arrival'",
+        "description": "Whispers and fragments of finality, a single boat that escaped the flood that sweeps all. Good luck, Terra.",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 0,
+        "apFailReturn": 0,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 0,
+        "dailyStageDifficulty": 0,
+        "expGain": 0,
+        "goldGain": 0,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 0,
+        "completeFavor": 0,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": true,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_st01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex01": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_st04",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_ex01",
+        "levelId": "Activities/act46side/level_act46side_ex01",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-1",
+        "name": "Pure Springs",
+        "description": "Pay close attention to what you drink. Avoid water that is turbid, filled with the floating bodies of the dead, tastes strange, or is near unusual plants.\n<@lv.rem>No melee/ranged deployment restrictions</>\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_ex01#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 1 Lv. 50",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_BI",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 10,
+        "apFailReturn": 10,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 100,
+        "goldGain": 100,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 10,
+        "completeFavor": 10,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex01#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex01",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_ex01",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_ex01#f#",
+        "levelId": "Activities/act46side/level_act46side_ex01",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-1",
+        "name": "Pure Springs",
+        "description": "<@lv.fs>Condition:</>\nMore <Isbit High Grounds> appear",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_BI",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 10,
+        "apFailReturn": 10,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 100,
+        "goldGain": 100,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 10,
+        "completeFavor": 10,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex02": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex01",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_ex02",
+        "levelId": "Activities/act46side/level_act46side_ex02",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-2",
+        "name": "Friendly Neighbors",
+        "description": "Love your neighbor as you love your family, and your home shall be safe and at peace.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_ex02#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 1 Lv. 60",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 10,
+        "apFailReturn": 10,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 100,
+        "goldGain": 100,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 10,
+        "completeFavor": 10,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex02#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex02",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_ex02",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_ex02#f#",
+        "levelId": "Activities/act46side/level_act46side_ex02",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-2",
+        "name": "Friendly Neighbors",
+        "description": "<@lv.fs>Condition:</>\nRime Frostdillo and Storisbit HP increased",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 10,
+        "apFailReturn": 10,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 100,
+        "goldGain": 100,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 10,
+        "completeFavor": 10,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex03": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex02",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_ex03",
+        "levelId": "Activities/act46side/level_act46side_ex03",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-3",
+        "name": "Foreign Foes",
+        "description": "When traveling and defending your home, observe your surroundings carefully and be on guard for foes lying in ambush and marauding beasts. Do not seek battles that need not be fought, but do not fear battles that must. Do not sing of your victories and defeats in the name of others.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_ex03#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 2 Lv. 1",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex03#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex03",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_ex03",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_ex03#f#",
+        "levelId": "Activities/act46side/level_act46side_ex03",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-3",
+        "name": "Foreign Foes",
+        "description": "<@lv.fs>Condition:</>\nRime Frostdillo HP increased",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex04": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex03",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_ex04",
+        "levelId": "Activities/act46side/level_act46side_ex04",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-4",
+        "name": "Secret of Cooking",
+        "description": "Roast meat over a fire, boil it in water, or dry it in the wind. Do not eat meat that has not been fully cooked, has rotted or smells strange, or does not look normal.\n<@lv.item><Saintess Statue></>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_ex04#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 2 Lv. 1",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex04#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex04",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_ex04",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_ex04#f#",
+        "levelId": "Activities/act46side/level_act46side_ex04",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-4",
+        "name": "Secret of Cooking",
+        "description": "<@lv.fs>Condition:</>\nOne Avalanche Area's starting Avalanche Warning Index increased",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex05": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex04",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_ex05",
+        "levelId": "Activities/act46side/level_act46side_ex05",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-5",
+        "name": "Secret of Furs",
+        "description": "To survive the harsh winter, hunt in the forests in spring and autumn, and save the meat and furs of beasts so that you may wrap yourself in their furs and cook their meat in pots when the snowfall begins.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_ex05#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 2 Lv. 10",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_BI",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex05#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex05",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_ex05",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_ex05#f#",
+        "levelId": "Activities/act46side/level_act46side_ex05",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-5",
+        "name": "Secret of Furs",
+        "description": "<@lv.fs>Condition:</>\nMore enemies will appear",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_BI",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex06": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex05",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_ex06",
+        "levelId": "Activities/act46side/level_act46side_ex06",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-6",
+        "name": "Secret of Farming",
+        "description": "Plant your crops according to the seasons. Sow seeds in spring when the snow begins to melt, and the rivers begin to flow again. Water the crops every day, pull weeds and cull pests every three days, and you shall not want for food.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_ex06#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 2 Lv. 20",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex06#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex06",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_ex06",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_ex06#f#",
+        "levelId": "Activities/act46side/level_act46side_ex06",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-6",
+        "name": "Secret of Farming",
+        "description": "<@lv.fs>Condition:</>\n5 tiles on the battlefield are no longer available for deployment.",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex07": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex06",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_ex07",
+        "levelId": "Activities/act46side/level_act46side_ex07",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-7",
+        "name": "Stone from Stone",
+        "description": "Do not dig with your bare hands. Use hardened tools to mine for ore, and seek the ore with the purest color and cleanest sheen. Use the neighboring veins as your guide, and you can extract the finest essence.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_ex07#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 2 Lv. 35",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_BI",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 20,
+        "apFailReturn": 20,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 200,
+        "goldGain": 200,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 20,
+        "completeFavor": 20,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex07#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex07",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_ex07",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_ex07#f#",
+        "levelId": "Activities/act46side/level_act46side_ex07",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-7",
+        "name": "Stone from Stone",
+        "description": "<@lv.fs>Condition:</>\nMore Avalanche Areas appear",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_BI",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 20,
+        "apFailReturn": 20,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 200,
+        "goldGain": 200,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 20,
+        "completeFavor": 20,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex08": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex07",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_ex08",
+        "levelId": "Activities/act46side/level_act46side_ex08",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-8",
+        "name": "In the Name of Man",
+        "description": "And last of all, know that you are children of Kjerag, dwelling upon the land of Kjerag. All days forever forth are yours, and yours alone.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_ex08#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "Elite 2 Lv. 40",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_cave",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 20,
+        "apFailReturn": 20,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 200,
+        "goldGain": 200,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 20,
+        "completeFavor": 20,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_ex08#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_ex08",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_ex08",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_ex08#f#",
+        "levelId": "Activities/act46side/level_act46side_ex08",
+        "zoneId": "act46side_zone2",
+        "code": "OS-EX-8",
+        "name": "In the Name of Man",
+        "description": "<@lv.fs>Condition:</>\n All allies have -20 ASPD",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_cave",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 20,
+        "apFailReturn": 20,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 200,
+        "goldGain": 200,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 20,
+        "completeFavor": 20,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_ex01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_s01": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_st04",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_s01",
+        "levelId": "Activities/act46side/level_act46side_sub-1-1",
+        "zoneId": "act46side_zone3",
+        "code": "OS-S-1",
+        "name": "Snowfight",
+        "description": "Make a ball with your hands and throw it as hard as you can. A joyous game with simple rules.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_s01#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_s01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_s01#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_s01",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_s01",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_s01#f#",
+        "levelId": "Activities/act46side/level_act46side_sub-1-1",
+        "zoneId": "act46side_zone3",
+        "code": "OS-S-1",
+        "name": "Snowfight",
+        "description": "<@lv.fs>Condition:</>\nOne Avalanche Area's position changed",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_s01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_s02": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_s01",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_s02",
+        "levelId": "Activities/act46side/level_act46side_sub-1-2",
+        "zoneId": "act46side_zone3",
+        "code": "OS-S-2",
+        "name": "Build a Snowman",
+        "description": "Is it a friend you want, or another snow-white version of yourself?\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_s02#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_s01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_s02#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_s02",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_s02",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_s02#f#",
+        "levelId": "Activities/act46side/level_act46side_sub-1-2",
+        "zoneId": "act46side_zone3",
+        "code": "OS-S-2",
+        "name": "Build a Snowman",
+        "description": "<@lv.fs>Condition:</>\nMore Snowbrats appear in the Avalanche Area",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 15,
+        "apFailReturn": 15,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 150,
+        "goldGain": 150,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 15,
+        "completeFavor": 15,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_s01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_s03": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_s02",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_s03",
+        "levelId": "Activities/act46side/level_act46side_sub-1-3",
+        "zoneId": "act46side_zone3",
+        "code": "OS-S-3",
+        "name": "Snowchild",
+        "description": "Give the snowman eyes of pebbles and hands of twigs, and wrap a blanket around it. Now it is a good boy or girl, just like you.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_s03#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 20,
+        "apFailReturn": 20,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 200,
+        "goldGain": 200,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 20,
+        "completeFavor": 20,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_s01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_s03#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_s03",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_s03",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_s03#f#",
+        "levelId": "Activities/act46side/level_act46side_sub-1-3",
+        "zoneId": "act46side_zone3",
+        "code": "OS-S-3",
+        "name": "Snowchild",
+        "description": "<@lv.fs>Condition:</>\n<Saintess Statue> direction in one Avalanche Area changed",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 20,
+        "apFailReturn": 20,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 200,
+        "goldGain": 200,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 20,
+        "completeFavor": 20,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_s01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_s04": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_s03",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_s04",
+        "levelId": "Activities/act46side/level_act46side_sub-1-4",
+        "zoneId": "act46side_zone3",
+        "code": "OS-S-4",
+        "name": "Rimehymn",
+        "description": "Sing with your song or seek it in song. It will answer your call, until the coming of spring.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_s04#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 20,
+        "apFailReturn": 20,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 200,
+        "goldGain": 200,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 20,
+        "completeFavor": 20,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_s01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_s04#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_s04",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_s04",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_s04#f#",
+        "levelId": "Activities/act46side/level_act46side_sub-1-4",
+        "zoneId": "act46side_zone3",
+        "code": "OS-S-4",
+        "name": "Rimehymn",
+        "description": "<@lv.fs>Condition:</>\nSome 'Boom Canisters' are replaced with Bright Snowcaps",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 20,
+        "apFailReturn": 20,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 200,
+        "goldGain": 200,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 20,
+        "completeFavor": 20,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_s01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_s05": {
+        "stageType": "ACTIVITY",
+        "difficulty": "NORMAL",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_s04",
+            "completeState": "PASS"
+          }
+        ],
+        "stageId": "act46side_s05",
+        "levelId": "Activities/act46side/level_act46side_sub-1-5",
+        "zoneId": "act46side_zone3",
+        "code": "OS-S-5",
+        "name": "Snow and I and Snow",
+        "description": "In Kjerag, the snow is the best friend of every child.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
+        "hardStagedId": "act46side_s05#f#",
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": true,
+        "apCost": 25,
+        "apFailReturn": 25,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 1,
+        "dailyStageDifficulty": 0,
+        "expGain": 250,
+        "goldGain": 250,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 25,
+        "completeFavor": 25,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "ACTIVITY_ITEM",
+              "id": "act46side_token_detector",
+              "dropType": "COMPLETE"
+            },
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": true,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_s01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
+      "act46side_s05#f#": {
+        "stageType": "ACTIVITY",
+        "difficulty": "FOUR_STAR",
+        "performanceStageFlag": "NORMAL_STAGE",
+        "diffGroup": "NONE",
+        "unlockCondition": [
+          {
+            "stageId": "act46side_s05",
+            "completeState": "PASS"
+          },
+          {
+            "stageId": "act46side_s05",
+            "completeState": "COMPLETE"
+          }
+        ],
+        "stageId": "act46side_s05#f#",
+        "levelId": "Activities/act46side/level_act46side_sub-1-5",
+        "zoneId": "act46side_zone3",
+        "code": "OS-S-5",
+        "name": "Snow and I and Snow",
+        "description": "<@lv.fs>Condition:</>\nThe DP Cost of Defender and Guard Operators is doubled",
+        "hardStagedId": null,
+        "sixStarStageId": null,
+        "dangerLevel": "-",
+        "dangerPoint": -1.0,
+        "loadingPicId": "loading_OS_relic",
+        "canPractice": true,
+        "canBattleReplay": false,
+        "apCost": 25,
+        "apFailReturn": 25,
+        "maxSlot": -1,
+        "etItemId": null,
+        "etCost": -1,
+        "etFailReturn": -1,
+        "etButtonStyle": null,
+        "apProtectTimes": 0,
+        "diamondOnceDrop": 1,
+        "practiceTicketCost": 3,
+        "dailyStageDifficulty": 0,
+        "expGain": 250,
+        "goldGain": 250,
+        "loseExpGain": 0,
+        "loseGoldGain": 0,
+        "passFavor": 25,
+        "completeFavor": 25,
+        "slProgress": 0,
+        "displayMainItem": null,
+        "hilightMark": false,
+        "bossMark": false,
+        "isPredefined": false,
+        "isHardPredefined": false,
+        "isSkillSelectablePredefined": false,
+        "isStoryOnly": false,
+        "appearanceStyle": "MAIN_NORMAL",
+        "stageDropInfo": {
+          "firstPassRewards": null,
+          "firstCompleteRewards": null,
+          "passRewards": null,
+          "completeRewards": null,
+          "displayRewards": [
+            {
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ],
+          "displayDetailRewards": [
+            {
+              "occPercent": "ALWAYS",
+              "type": "DIAMOND",
+              "id": "4002",
+              "dropType": "COMPLETE"
+            }
+          ]
+        },
+        "canUseCharm": false,
+        "canUseTech": false,
+        "canUseTrapTool": false,
+        "canUseBattlePerformance": false,
+        "canUseFirework": false,
+        "canMultipleBattle": false,
+        "startButtonOverrideId": null,
+        "isStagePatch": false,
+        "mainStageId": "act46side_s01",
+        "extraCondition": null,
+        "extraInfo": null,
+        "sixStarBaseDesc": null,
+        "sixStarDisplayRewardList": null,
+        "advancedRuneIdList1": [
+
+        ],
+        "advancedRuneIdList2": [
+
+        ]
+      }
+    ,
+    
       "st_16-01": {
         "stageType": "MAIN",
         "difficulty": "NORMAL",
@@ -360105,6 +364619,22 @@
         "description": "Operators deployed on it can absorb 'Certain Fates'",
         "isFunctional": true
       }
+    ,
+    
+      "tile_balloon": {
+        "tileKey": "tile_balloon",
+        "name": "Levitatable Zone",
+        "description": "Units inside can block aerial enemies when levitating",
+        "isFunctional": true
+      }
+    ,
+    
+      "tile_balloon_fbd": {
+        "tileKey": "tile_balloon_fbd",
+        "name": "Levitatable Zone",
+        "description": "Units inside can block aerial enemies when levitating",
+        "isFunctional": true
+      }
     
   },
   "forceOpenTable": {
@@ -585422,6 +589952,252 @@
       }
     ,
     
+      "act46side_st01": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_tr01": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_01": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_02": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_03": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_04": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_st02": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_05": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_06": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_07": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_08": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_st03": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_09": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_10": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_st04": {
+        "startTs": 1776168000,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex01": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex01#f#": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex02": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex02#f#": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex03": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex03#f#": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex04": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex04#f#": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex05": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex05#f#": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex06": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex06#f#": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex07": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex07#f#": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex08": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_ex08#f#": {
+        "startTs": 1776812400,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_s01": {
+        "startTs": 1777417200,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_s01#f#": {
+        "startTs": 1777417200,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_s02": {
+        "startTs": 1777417200,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_s02#f#": {
+        "startTs": 1777417200,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_s03": {
+        "startTs": 1777417200,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_s03#f#": {
+        "startTs": 1777417200,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_s04": {
+        "startTs": 1777417200,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_s04#f#": {
+        "startTs": 1777417200,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_s05": {
+        "startTs": 1777417200,
+        "endTs": 1777978799
+      }
+    ,
+    
+      "act46side_s05#f#": {
+        "startTs": 1777417200,
+        "endTs": 1777978799
+      }
+    ,
+    
       "st_16-01": {
         "startTs": 1773932400,
         "endTs": 1775127599
@@ -600993,6 +605769,30 @@
               "relevantStorySetId": "setId_ssLine_act30side",
               "mainlineSplitData": null
             }
+          ,
+          
+            "ssLine_act46side_before1": {
+              "locationId": "ssLine_act46side_before1",
+              "locationType": "BEFORE",
+              "sortId": 3029,
+              "startTime": 0,
+              "presentStageId": "main_01-10",
+              "unlockStageId": "main_01-10",
+              "relevantStorySetId": "setId_ssLine_act25side",
+              "mainlineSplitData": null
+            }
+          ,
+          
+            "ssLine_act46side": {
+              "locationId": "ssLine_act46side",
+              "locationType": "STORY_SET",
+              "sortId": 3030,
+              "startTime": 0,
+              "presentStageId": "main_01-10",
+              "unlockStageId": "main_01-10",
+              "relevantStorySetId": "setId_ssLine_act46side",
+              "mainlineSplitData": null
+            }
           
         }
       }
@@ -602571,6 +607371,38 @@
       }
     ,
     
+      "setId_ssLine_act46side": {
+        "storySetId": "setId_ssLine_act46side",
+        "storySetType": "SS",
+        "sortByYear": 7,
+        "sortWithinYear": 3,
+        "kvImageId": "kv_retracing_our_steps",
+        "titleImageId": "title_retracing_our_steps",
+        "haveVideoToPlay": false,
+        "backgroundId": null,
+        "gameMusicId": "music_3in1bg_act46side",
+        "coreRewardType": "CHAR",
+        "coreRewardId": "char_1047_halo2",
+        "relevantActivityId": "act46side",
+        "mainlineData": null,
+        "ssData": {
+          "name": "Retracing Our Steps",
+          "desc": "Catastrophe descends upon Kjerag, plunging countless into calamity.\nAs hearts waver in terror, those who lurk in the shadows bide their time.\nMeetings and partings, flames that light up the sky—the journey through the snow to find one's heart is long and fraught with peril.\nThe one who moves the pieces knows the price of a single misstep.\nThe loyal, the resolute, and those who relentlessly pursue the truth walk side-by-side.\nAfter this farewell, the mountain winds of Kjerag will blow on, ever unchanged.",
+          "backgroundId": "storybg_retracing_our_steps",
+          "tags": [
+            "tag_13",
+            "tag_14"
+          ],
+          "reopenActivityId": null,
+          "retroActivityId": null,
+          "isRecommended": false,
+          "recommendHideStageId": null,
+          "overrideStageList": null
+        },
+        "collectData": null
+      }
+    ,
+    
       "setId_ssLine_act21side": {
         "storySetId": "setId_ssLine_act21side",
         "storySetType": "SS",
@@ -603350,7 +608182,7 @@
         "backgroundId": null,
         "gameMusicId": "music_3in1bg_act29side",
         "coreRewardType": "CHAR",
-        "coreRewardId": "char_4109_baslin",
+        "coreRewardId": "char_4011_lessng",
         "relevantActivityId": "act29side",
         "mainlineData": null,
         "ssData": {
