@@ -106,7 +106,7 @@ jobs:
           && cd temp
 
           # official flatc releases don't preserve null fields, but this one does?
-          wget -nv https://raw.githubusercontent.com/MooncellWiki/torappu/refs/heads/main/bin/flatc \
+          wget -nv https://github.com/MooncellWiki/torappu/raw/4b2987ab92d33db8233a64e9b996ff28a766c4a8/bin/flatc \
           && chmod +x ./flatc \
           && sudo cp -f flatc /usr/local/bin/flatc \
           && flatc --version
@@ -669,7 +669,7 @@ jobs:
           || :
 
       - name: Merge pull request
-        if: inputs.auto_merge_pr == true && needs.update.outputs.json-valid != 'false'
+        if: inputs.auto_merge_pr == true && needs.update.outputs.json-valid == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
