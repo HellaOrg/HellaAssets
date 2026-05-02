@@ -87,7 +87,7 @@ jobs:
       enemy-spine-condition: ${{ steps.extract-enemy-spine.outputs.condition }}
       operator-spine-condition: ${{ steps.extract-operator-spine.outputs.condition }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           ref: ${{ github.head_ref }}
 
@@ -517,7 +517,7 @@ jobs:
     if: needs.update.outputs.deploy-spine-condition == 'true' || needs.update.outputs.enemy-spine-condition == 'true' || needs.update.outputs.operator-spine-condition == 'true'
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           ref: ${{ needs.update.outputs.branch-name }}
           sparse-checkout: |
@@ -648,7 +648,7 @@ jobs:
     if: always() && needs.update.outputs.update-condition == 'true'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           sparse-checkout: .github
 
