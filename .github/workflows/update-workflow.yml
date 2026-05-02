@@ -669,7 +669,7 @@ jobs:
           || :
 
       - name: Merge pull request
-        if: inputs.auto_merge_pr == true && needs.update.outputs.json-valid == 'true'
+        if: success() && inputs.auto_merge_pr == true && needs.update.outputs.json-valid != 'false'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
