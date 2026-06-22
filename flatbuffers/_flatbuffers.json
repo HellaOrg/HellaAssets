@@ -1,12 +1,12 @@
 {
     "activity_table.fbs": {
-        "commit": "ad1f7afbe2085100005d6af9d45087e5d4e07e80"
+        "commit": "b11b249f1feeb34ba863ae822d81f9ac2c8c3f9f"
     },
     "audio_data.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
     },
     "battle_equip_table.fbs": {
-        "commit": "3cc62e82842f8b54c4fd20973e8be9ed3dd1732a"
+        "commit": "0bd9e7c27493ef96308ced91d8df3df62412baa6"
     },
     "buff_table.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
@@ -60,7 +60,7 @@
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
     },
     "display_meta_table.fbs": {
-        "commit": "7fb23434462ac948c1a88143fb08828aca8f2cf9"
+        "commit": "0bd9e7c27493ef96308ced91d8df3df62412baa6"
     },
     "enemy_database.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
@@ -129,7 +129,7 @@
         "commit": "3cd83986000ba0bd4a88d78a636558cb7505684a"
     },
     "roguelike_topic_table.fbs": {
-        "commit": "3cc62e82842f8b54c4fd20973e8be9ed3dd1732a"
+        "commit": "b11b249f1feeb34ba863ae822d81f9ac2c8c3f9f"
     },
     "sandbox_perm_table.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
@@ -147,7 +147,7 @@
         "commit": "3cc62e82842f8b54c4fd20973e8be9ed3dd1732a"
     },
     "stage_table.fbs": {
-        "commit": "3cc62e82842f8b54c4fd20973e8be9ed3dd1732a"
+        "commit": "0bd9e7c27493ef96308ced91d8df3df62412baa6"
     },
     "story_review_meta_table.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
