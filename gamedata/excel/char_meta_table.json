@@ -421,7 +421,8 @@
     ,
     
       "char_181_flower": [
-        "char_181_flower"
+        "char_181_flower",
+        "char_1022_flwr2"
       ]
     ,
     
@@ -727,6 +728,11 @@
     
       "char_4126_fuze": [
         "char_4126_fuze"
+      ]
+    ,
+    
+      "char_4166_varkis": [
+        "char_4166_varkis"
       ]
     ,
     
@@ -1778,6 +1784,11 @@
     
       "char_4042_lumen": [
         "char_4042_lumen"
+      ]
+    ,
+    
+      "char_4056_titi": [
+        "char_4056_titi"
       ]
     ,
     
