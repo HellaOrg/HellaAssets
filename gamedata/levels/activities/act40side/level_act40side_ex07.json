@@ -10,6 +10,7 @@
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
+    "displayRestTime": false,
     "maxPlayTime": -1.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": null
@@ -5105,6 +5106,8 @@
         "hidden": true,
         "alias": "trap_211_cjgtow#1",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_211_cjgtow",
           "level": 1,
@@ -5133,6 +5136,8 @@
         "hidden": true,
         "alias": "trap_212_cjbtow#1",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_212_cjbtow",
           "level": 1,
@@ -5161,6 +5166,8 @@
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_001_crate",
           "level": 1,
@@ -5183,6 +5190,8 @@
         "hidden": true,
         "alias": "trap_211_cjgtow#2",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_211_cjgtow",
           "level": 1,
@@ -5211,6 +5220,8 @@
         "hidden": true,
         "alias": "trap_212_cjbtow#2",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_212_cjbtow",
           "level": 1,
