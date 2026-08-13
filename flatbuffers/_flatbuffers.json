@@ -1,6 +1,6 @@
 {
     "activity_table.fbs": {
-        "commit": "b11b249f1feeb34ba863ae822d81f9ac2c8c3f9f"
+        "commit": "4975a03f61c54aa9e4ea792c7fd193039166d0cd"
     },
     "audio_data.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
@@ -60,7 +60,7 @@
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
     },
     "display_meta_table.fbs": {
-        "commit": "0bd9e7c27493ef96308ced91d8df3df62412baa6"
+        "commit": "4975a03f61c54aa9e4ea792c7fd193039166d0cd"
     },
     "enemy_database.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
@@ -69,7 +69,7 @@
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
     },
     "ep_breakbuff_table.fbs": {
-        "commit": "83ecc786245435932e84812ff34820782b8a1824"
+        "commit": "4975a03f61c54aa9e4ea792c7fd193039166d0cd"
     },
     "extra_battlelog_table.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
@@ -114,7 +114,7 @@
         "commit": "7179e140534a75ebe5f6c44b0e0f93c4b2a6642c"
     },
     "open_server_table.fbs": {
-        "commit": "83ecc786245435932e84812ff34820782b8a1824"
+        "commit": "4975a03f61c54aa9e4ea792c7fd193039166d0cd"
     },
     "prts___levels.fbs": {
         "commit": "7179e140534a75ebe5f6c44b0e0f93c4b2a6642c"
@@ -129,7 +129,7 @@
         "commit": "3cd83986000ba0bd4a88d78a636558cb7505684a"
     },
     "roguelike_topic_table.fbs": {
-        "commit": "b11b249f1feeb34ba863ae822d81f9ac2c8c3f9f"
+        "commit": "e6719301bd97ad8769fd7a4874e9ca9a674a9e63"
     },
     "sandbox_perm_table.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
@@ -141,7 +141,7 @@
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
     },
     "skin_table.fbs": {
-        "commit": "3eb9eea6dd28420bf595fc9244b03fe0a1a36b65"
+        "commit": "4975a03f61c54aa9e4ea792c7fd193039166d0cd"
     },
     "special_operator_table.fbs": {
         "commit": "3cc62e82842f8b54c4fd20973e8be9ed3dd1732a"
