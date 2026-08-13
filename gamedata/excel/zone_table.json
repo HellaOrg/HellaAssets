@@ -1401,6 +1401,26 @@
       }
     ,
     
+      "act20mini_zone1": {
+        "zoneID": "act20mini_zone1",
+        "zoneIndex": 0,
+        "type": "ACTIVITY",
+        "zoneNameFirst": null,
+        "zoneNameSecond": "Shadow Ledger",
+        "zoneNameTitleCurrent": null,
+        "zoneNameTitleUnCurrent": null,
+        "zoneNameTitleEx": null,
+        "zoneNameThird": null,
+        "lockedText": null,
+        "antiSpoilerId": null,
+        "canPreview": false,
+        "hasAdditionalPanel": false,
+        "sixStarMilestoneGroupId": null,
+        "bindMainlineZoneId": null,
+        "bindMainlineRetroZoneId": null
+      }
+    ,
+    
       "act2break_zone1": {
         "zoneID": "act2break_zone1",
         "zoneIndex": 0,
@@ -8746,6 +8766,12 @@
     
   },
   "zoneValidInfo": {
+    
+      "act20mini_zone1": {
+        "startTs": 1786622400,
+        "endTs": 1787223599
+      }
+    ,
     
       "act2break_zone1": {
         "startTs": 1785423600,
