@@ -10,6 +10,7 @@
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
+    "displayRestTime": false,
     "maxPlayTime": -1.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": null
@@ -1965,6 +1966,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -1988,6 +1990,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -2011,6 +2014,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -2034,6 +2038,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -2057,6 +2062,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -2080,6 +2086,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -2103,6 +2110,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -2126,6 +2134,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -2149,6 +2158,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
