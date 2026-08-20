@@ -10,6 +10,7 @@
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
+    "displayRestTime": false,
     "maxPlayTime": -1.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": null
@@ -3150,8 +3151,12 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
             "m_value": false
           },
           "silenceImmune": {
@@ -3179,7 +3184,11 @@
             "m_value": false
           },
           "palsyImmune": {
-            "m_defined": true,
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
+            "m_defined": false,
             "m_value": false
           }
         },
@@ -3371,8 +3380,12 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
             "m_value": false
           },
           "silenceImmune": {
@@ -3400,7 +3413,11 @@
             "m_value": false
           },
           "palsyImmune": {
-            "m_defined": true,
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
+            "m_defined": false,
             "m_value": false
           }
         },
@@ -3592,8 +3609,12 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
             "m_value": false
           },
           "silenceImmune": {
@@ -3621,7 +3642,11 @@
             "m_value": false
           },
           "palsyImmune": {
-            "m_defined": true,
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
+            "m_defined": false,
             "m_value": false
           }
         },
@@ -3813,8 +3838,12 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
             "m_value": false
           },
           "silenceImmune": {
@@ -3842,7 +3871,11 @@
             "m_value": false
           },
           "palsyImmune": {
-            "m_defined": true,
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
+            "m_defined": false,
             "m_value": false
           }
         },
@@ -4034,8 +4067,12 @@
             "m_defined": false,
             "m_value": 0.0
           },
-          "stunImmune": {
+          "epBreakRecoverSpeed": {
             "m_defined": false,
+            "m_value": 0.0
+          },
+          "stunImmune": {
+            "m_defined": true,
             "m_value": false
           },
           "silenceImmune": {
@@ -4063,7 +4100,11 @@
             "m_value": false
           },
           "palsyImmune": {
-            "m_defined": true,
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
+            "m_defined": false,
             "m_value": false
           }
         },
@@ -4722,6 +4763,7 @@
         "alias": "trap_218_fttree#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -4745,6 +4787,7 @@
         "alias": "trap_218_fttree#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -4768,6 +4811,7 @@
         "alias": "trap_218_fttree#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -4791,6 +4835,7 @@
         "alias": "trap_218_fttree#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
