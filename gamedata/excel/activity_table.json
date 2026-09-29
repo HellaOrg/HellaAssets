@@ -1,6 +1,32 @@
 {
   "basicInfo": {
     
+      "act3video": {
+        "id": "act3video",
+        "type": "CHECKIN_VIDEO",
+        "displayType": "NONE",
+        "name": "To Look Back on Terra Limited Login Event",
+        "startTime": 1791457200,
+        "endTime": 1794826799,
+        "rewardEndTime": 1794826799,
+        "displayOnHome": false,
+        "hasStage": false,
+        "templateShopId": null,
+        "medalGroupId": null,
+        "ungroupedMedalIds": null,
+        "isReplicate": false,
+        "needFixedSync": false,
+        "trapDomainId": null,
+        "recType": "CAN_COMPLETE",
+        "isPageEntry": false,
+        "isMagnify": false,
+        "picGroup": [
+
+        ],
+        "usePicGroup": false
+      }
+    ,
+    
       "act3enemyduel": {
         "id": "act3enemyduel",
         "type": "ENEMY_DUEL",
@@ -22,6 +48,32 @@
         "trapDomainId": null,
         "recType": "SPECIAL",
         "isPageEntry": true,
+        "isMagnify": false,
+        "picGroup": [
+
+        ],
+        "usePicGroup": false
+      }
+    ,
+    
+      "act3access": {
+        "id": "act3access",
+        "type": "CHECKIN_ACCESS",
+        "displayType": "NONE",
+        "name": "Exclusive Event",
+        "startTime": 1791457200,
+        "endTime": 1794826799,
+        "rewardEndTime": 1794826799,
+        "displayOnHome": false,
+        "hasStage": false,
+        "templateShopId": null,
+        "medalGroupId": null,
+        "ungroupedMedalIds": null,
+        "isReplicate": false,
+        "needFixedSync": false,
+        "trapDomainId": null,
+        "recType": "CAN_COMPLETE",
+        "isPageEntry": false,
         "isMagnify": false,
         "picGroup": [
 
@@ -7511,6 +7563,24 @@
     
   },
   "homeActConfig": {
+    
+      "act3video": {
+        "actId": "act3video",
+        "isPopupAfterCheckin": false,
+        "showTopBarMenu": true,
+        "actTopBarColor": "a0b42d",
+        "actTopBarText": "To Look Back on Terra Limited Login"
+      }
+    ,
+    
+      "act3access": {
+        "actId": "act3access",
+        "isPopupAfterCheckin": false,
+        "showTopBarMenu": true,
+        "actTopBarColor": "b20030",
+        "actTopBarText": "Exclusive Event"
+      }
+    ,
     
       "act3blessing": {
         "actId": "act3blessing",
@@ -263268,7 +263338,8 @@
                 "isRoom": false,
                 "modeType": "OPERATION",
                 "stageIds": [
-                  "act3enemyduel_01a"
+                  "act3enemyduel_01a",
+                  "act3enemyduel_01b"
                 ],
                 "pageId": 1,
                 "innerSortId": 3,
@@ -263302,7 +263373,8 @@
                 "isRoom": false,
                 "modeType": "OPERATION",
                 "stageIds": [
-                  "act3enemyduel_01a"
+                  "act3enemyduel_01a",
+                  "act3enemyduel_01b"
                 ],
                 "pageId": 1,
                 "innerSortId": 2,
@@ -263336,7 +263408,8 @@
                 "isRoom": false,
                 "modeType": "STAND",
                 "stageIds": [
-                  "act3enemyduel_01a"
+                  "act3enemyduel_01a",
+                  "act3enemyduel_01b"
                 ],
                 "pageId": 1,
                 "innerSortId": 1,
@@ -263370,7 +263443,8 @@
                 "isRoom": true,
                 "modeType": "OPERATION",
                 "stageIds": [
-                  "act3enemyduel_01a"
+                  "act3enemyduel_01a",
+                  "act3enemyduel_01b"
                 ],
                 "pageId": 2,
                 "innerSortId": 2,
@@ -263404,7 +263478,8 @@
                 "isRoom": true,
                 "modeType": "STAND",
                 "stageIds": [
-                  "act3enemyduel_01a"
+                  "act3enemyduel_01a",
+                  "act3enemyduel_01b"
                 ],
                 "pageId": 2,
                 "innerSortId": 1,
@@ -266180,6 +266255,10 @@
                     "score": 15.0
                   },
                   {
+                    "enemyId": "enemy_15092_dqudg",
+                    "score": 50.0
+                  },
+                  {
                     "enemyId": "enemy_15093_dqzfkl",
                     "score": 125.0
                   },
@@ -266217,6 +266296,14 @@
                   },
                   {
                     "enemyId": "enemy_15074_dqdght",
+                    "score": 125.0
+                  },
+                  {
+                    "enemyId": "enemy_15075_dqzklz",
+                    "score": 125.0
+                  },
+                  {
+                    "enemyId": "enemy_15076_dqzmst",
                     "score": 125.0
                   }
                 ]
@@ -266619,6 +266706,10 @@
                     "score": -1.0
                   },
                   {
+                    "enemyId": "enemy_15092_dqudg",
+                    "score": 12.0
+                  },
+                  {
                     "enemyId": "enemy_15093_dqzfkl",
                     "score": 25.0
                   },
@@ -266656,6 +266747,14 @@
                   },
                   {
                     "enemyId": "enemy_15074_dqdght",
+                    "score": 3.0
+                  },
+                  {
+                    "enemyId": "enemy_15075_dqzklz",
+                    "score": 25.0
+                  },
+                  {
+                    "enemyId": "enemy_15076_dqzmst",
                     "score": 3.0
                   }
                 ]
@@ -266924,6 +267023,10 @@
                   {
                     "enemyId": "enemy_15073_dqkght",
                     "score": 100.0
+                  },
+                  {
+                    "enemyId": "enemy_15075_dqzklz",
+                    "score": 100.0
                   }
                 ]
               }
@@ -267070,6 +267173,10 @@
                   },
                   {
                     "enemyId": "enemy_15090_dqacpa",
+                    "score": 100.0
+                  },
+                  {
+                    "enemyId": "enemy_15092_dqudg",
                     "score": 100.0
                   },
                   {
@@ -267531,6 +267638,10 @@
                   {
                     "enemyId": "enemy_15073_dqkght",
                     "score": 300.0
+                  },
+                  {
+                    "enemyId": "enemy_15075_dqzklz",
+                    "score": 200.0
                   }
                 ]
               }
@@ -267613,6 +267724,10 @@
                   },
                   {
                     "enemyId": "enemy_15090_dqacpa",
+                    "score": 300.0
+                  },
+                  {
+                    "enemyId": "enemy_15092_dqudg",
                     "score": 300.0
                   },
                   {
@@ -268121,6 +268236,10 @@
                     "score": 200.0
                   },
                   {
+                    "enemyId": "enemy_15092_dqudg",
+                    "score": 0.0
+                  },
+                  {
                     "enemyId": "enemy_15093_dqzfkl",
                     "score": 0.0
                   },
@@ -268158,6 +268277,14 @@
                   },
                   {
                     "enemyId": "enemy_15074_dqdght",
+                    "score": 0.0
+                  },
+                  {
+                    "enemyId": "enemy_15075_dqzklz",
+                    "score": 0.0
+                  },
+                  {
+                    "enemyId": "enemy_15076_dqzmst",
                     "score": 0.0
                   }
                 ]
@@ -268366,6 +268493,10 @@
                   {
                     "enemyId": "enemy_15072_dqlbgg",
                     "score": 100.0
+                  },
+                  {
+                    "enemyId": "enemy_15075_dqzklz",
+                    "score": 100.0
                   }
                 ]
               }
@@ -268450,6 +268581,10 @@
                   },
                   {
                     "enemyId": "enemy_15073_dqkght",
+                    "score": 300.0
+                  },
+                  {
+                    "enemyId": "enemy_15075_dqzklz",
                     "score": 300.0
                   },
                   {
@@ -268911,6 +269046,10 @@
                     "score": 15000.0
                   },
                   {
+                    "enemyId": "enemy_15092_dqudg",
+                    "score": 38000.0
+                  },
+                  {
                     "enemyId": "enemy_15093_dqzfkl",
                     "score": 300000.0
                   },
@@ -268949,6 +269088,14 @@
                   {
                     "enemyId": "enemy_15074_dqdght",
                     "score": 70000.0
+                  },
+                  {
+                    "enemyId": "enemy_15075_dqzklz",
+                    "score": 60000.0
+                  },
+                  {
+                    "enemyId": "enemy_15076_dqzmst",
+                    "score": 120000.0
                   }
                 ]
               }
@@ -269656,6 +269803,13 @@
               }
             ,
             
+              "enemy_15092_dqudg": {
+                "enemyId": "enemy_15092_dqudg",
+                "originalEnemyId": "enemy_2026_syudg",
+                "tagType": "tag_single"
+              }
+            ,
+            
               "enemy_15093_dqzfkl": {
                 "enemyId": "enemy_15093_dqzfkl",
                 "originalEnemyId": "enemy_2099_skzfkl",
@@ -269722,6 +269876,20 @@
               "enemy_15074_dqdght": {
                 "enemyId": "enemy_15074_dqdght",
                 "originalEnemyId": "enemy_1513_dekght_2",
+                "tagType": "tag_single"
+              }
+            ,
+            
+              "enemy_15075_dqzklz": {
+                "enemyId": "enemy_15075_dqzklz",
+                "originalEnemyId": "enemy_2076_skzklz",
+                "tagType": "tag_multi"
+              }
+            ,
+            
+              "enemy_15076_dqzmst": {
+                "enemyId": "enemy_15076_dqzmst",
+                "originalEnemyId": "enemy_2078_skzmst",
                 "tagType": "tag_single"
               }
             
@@ -409583,10 +409751,16 @@
       "act1blessing": {"apSupplyOutOfDateDict":{"ap_supply_lt_120":1724669999},"checkInInfos":{"0":{"itemList":[{"count":1,"id":"ap_supply_lt_120","type":"AP_SUPPLY"},{"count":30000,"id":"4001","type":"GOLD"}],"keyItem":true,"order":1},"1":{"itemList":[{"count":20,"id":"2003","type":"CARD_EXP"},{"count":5,"id":"7001","type":"TKT_RECRUIT"}],"keyItem":false,"order":2},"2":{"itemList":[{"count":1,"id":"32001","type":"MATERIAL"},{"count":20,"id":"3302","type":"MATERIAL"}],"keyItem":false,"order":3},"3":{"itemList":[{"count":10,"id":"2004","type":"CARD_EXP"},{"count":3,"id":"30023","type":"MATERIAL"}],"keyItem":false,"order":4},"4":{"itemList":[{"count":30000,"id":"4001","type":"GOLD"},{"count":5,"id":"7002","type":"TKT_INST_FIN"}],"keyItem":false,"order":5},"5":{"itemList":[{"count":8,"id":"3303","type":"MATERIAL"},{"count":3,"id":"31033","type":"MATERIAL"}],"keyItem":false,"order":6},"6":{"itemList":[{"count":3,"id":"mod_update_token_2","type":"MATERIAL"},{"count":20,"id":"3003","type":"MATERIAL"}],"keyItem":false,"order":7},"7":{"itemList":[{"count":1,"id":"furni_SF2024_blessingPic_01","type":"FURN"},{"count":300,"id":"3401","type":"MATERIAL"}],"keyItem":true,"order":8},"8":{"itemList":[{"count":10,"id":"mod_update_token_1","type":"MATERIAL"},{"count":3,"id":"30013","type":"MATERIAL"}],"keyItem":false,"order":9},"9":{"itemList":[{"count":1,"id":"mod_unlock_token","type":"MATERIAL"},{"count":30,"id":"3301","type":"MATERIAL"}],"keyItem":true,"order":10}},"festivalCharInfos":{"act1blessing_festival_1_1":{"charBlessing":"Want to sit a while and have something to eat? I'm cooking... You say it's rare that I'm not looking for peace and quiet? Well, it's not such a bad thing to have one day each year for gatherings and festivities. Keeps the warmth in the air, you know.","charId":"char_322_lmlee","charName":"Lee","charSkinId":"char_322_lmlee#1","festivalCharId":"act1blessing_festival_1_1","festivalId":"act1blessing_festival_1","sortId":1},"act1blessing_festival_1_2":{"charBlessing":"There you are, Doctor! I was thinking about divining your fortune for the new year. You want to know about the past? Ah, but each person's past is their own to discover. Here, have some walnuts, and don't worry too much about it.","charId":"char_455_nothin","charName":"Mr. Nothing","charSkinId":"char_455_nothin#1","festivalCharId":"act1blessing_festival_1_2","festivalId":"act1blessing_festival_1","sortId":2},"act1blessing_festival_1_3":{"charBlessing":"Of course I know there's a festival going on. How could I miss all that noise and commotion... Clear out the old? Tradition? What a contradiction. Why set a fixed date every year, if you really want to clear out the old? A new chapter writes itself, whenever inspiration comes.","charId":"char_2015_dusk","charName":"Dusk","charSkinId":"char_2015_dusk#1","festivalCharId":"act1blessing_festival_1_3","festivalId":"act1blessing_festival_1","sortId":3},"act1blessing_festival_2_1":{"charBlessing":"I worked hard on these fireworks. They're filled with my special chili powder, guaranteed to give everyone a real jolt! I'll let you do the honors of lighting them, Doctor.","charId":"char_2014_nian","charName":"Nian","charSkinId":"char_2014_nian#1","festivalCharId":"act1blessing_festival_2_1","festivalId":"act1blessing_festival_2","sortId":1},"act1blessing_festival_2_2":{"charBlessing":"Do you have any ink with you? My tail's feeling creative now that I've had a drink or two. Well, I suppose I can write with this liquor. Only fitting that a poem inspired by wine would fill one's senses with the same fragrance.","charId":"char_2023_ling","charName":"Ling","charSkinId":"char_2023_ling#1","festivalCharId":"act1blessing_festival_2_2","festivalId":"act1blessing_festival_2","sortId":2},"act1blessing_festival_2_3":{"charBlessing":"No, no, don't worry about it, I'll get it cleaned up in a moment. Want to sit a while? I'll make a dish or two... No, don't worry, I'm not tired at all. Can't celebrate the new year without cleaning up, after all.","charId":"char_226_hmau","charName":"Hung","charSkinId":"char_226_hmau#1","festivalCharId":"act1blessing_festival_2_3","festivalId":"act1blessing_festival_2","sortId":3},"act1blessing_festival_3_1":{"charBlessing":"Still thinking about arrangements for the festival? Why don't we hold a big banquet for everyone on Rhodes Island? I know a restaurant that can hold all of us!","charId":"char_308_swire","charName":"Swire","charSkinId":"char_308_swire#1","festivalCharId":"act1blessing_festival_3_1","festivalId":"act1blessing_festival_3","sortId":1},"act1blessing_festival_3_2":{"charBlessing":"Happy New Year! I haven't forgotten what you've done for me, and I've procured two crates of superb equipment for you. I guarantee you won't be disappointed!","charId":"char_201_moeshd","charName":"Croissant","charSkinId":"char_201_moeshd#1","festivalCharId":"act1blessing_festival_3_2","festivalId":"act1blessing_festival_3","sortId":2},"act1blessing_festival_3_3":{"charBlessing":"Yes, this is the report I have to hand in after the festival. Everyone says today is the day to pray to the God of Wealth, but wealth will mean so much more if I get my research out of the way... You'll help me with the experiments? Thank you so much!","charId":"char_383_snsant","charName":"Snowsant","charSkinId":"char_383_snsant#1","festivalCharId":"act1blessing_festival_3_3","festivalId":"act1blessing_festival_3","sortId":3},"act1blessing_festival_4_1":{"charBlessing":"Holidays always feel so short. If you're lacking in motivation to get back to work, feel free to train with me in the morning. Maybe it'll give you a boost of energy.","charId":"char_2024_chyue","charName":"Chongyue","charSkinId":"char_2024_chyue#1","festivalCharId":"act1blessing_festival_4_1","festivalId":"act1blessing_festival_4","sortId":1},"act1blessing_festival_4_2":{"charBlessing":"How did you get yourself so tired? Holidays are supposed to be for rest and recuperation... No, no, no, you're going to REST today. I don't want to have to give you electric shocks to wake you up tomorrow.","charId":"char_306_leizi","charName":"Leizi","charSkinId":"char_306_leizi#1","festivalCharId":"act1blessing_festival_4_2","festivalId":"act1blessing_festival_4","sortId":2},"act1blessing_festival_4_3":{"charBlessing":"Swire brought a whole brigade to Lungmen for dinner? She likes her parties big, doesn't she? How about we get something to eat together too, if you have the time? Just a little snack. Can't work on an empty stomach.","charId":"char_4080_lin","charName":"Lin","charSkinId":"char_4080_lin#1","festivalCharId":"act1blessing_festival_4_3","festivalId":"act1blessing_festival_4","sortId":3}},"festivalInfoList":[{"absoluteTime":1722427200,"adTips":"Available on Day 1","charList":["act1blessing_festival_1_1","act1blessing_festival_1_2","act1blessing_festival_1_3"],"fesBlessingGroup":"img_bless_1","fesBlessingText1":"img_bless_text_1_1","fesBlessingText2":"img_bless_text_1_2","fesTitleText":"img_fes_text_1","festivalId":"act1blessing_festival_1","festivalTitle":"Day 1","itemList":[{"count":500,"id":"4003","type":"DIAMOND_SHD"}],"order":1,"relativeDate":1,"rewardCnt":500},{"absoluteTime":1722682800,"adTips":"Available Day 4","charList":["act1blessing_festival_2_1","act1blessing_festival_2_2","act1blessing_festival_2_3"],"fesBlessingGroup":"img_bless_2","fesBlessingText1":"img_bless_text_2_1","fesBlessingText2":"img_bless_text_2_2","fesTitleText":"img_fes_text_2","festivalId":"act1blessing_festival_2","festivalTitle":"Day 4","itemList":[{"count":500,"id":"4003","type":"DIAMOND_SHD"}],"order":2,"relativeDate":4,"rewardCnt":500},{"absoluteTime":1722942000,"adTips":"Available Day 7","charList":["act1blessing_festival_3_1","act1blessing_festival_3_2","act1blessing_festival_3_3"],"fesBlessingGroup":"img_bless_3","fesBlessingText1":"img_bless_text_3_1","fesBlessingText2":"img_bless_text_3_2","fesTitleText":"img_fes_text_3","festivalId":"act1blessing_festival_3","festivalTitle":"Day 7","itemList":[{"count":500,"id":"4003","type":"DIAMOND_SHD"}],"order":3,"relativeDate":7,"rewardCnt":500},{"absoluteTime":1723201200,"adTips":"Available Day 10","charList":["act1blessing_festival_4_1","act1blessing_festival_4_2","act1blessing_festival_4_3"],"fesBlessingGroup":"img_bless_4","fesBlessingText1":"img_bless_text_4_1","fesBlessingText2":"img_bless_text_4_2","fesTitleText":"img_fes_text_4","festivalId":"act1blessing_festival_4","festivalTitle":"Day 10","itemList":[{"count":500,"id":"4003","type":"DIAMOND_SHD"}],"order":4,"relativeDate":10,"rewardCnt":500}]}
     ,
     
+      "act3access": {"apSupplyOutOfDateDict":{"ap_supply_lt_80":1795431599},"constData":{"actUrl":null,"btnDescText":null,"colorBtn":null,"colorTotalTimes":"b20030","dayCount":30,"showUrlBtn":false},"dayCount":30,"rewardItemPerDay":[{"count":200,"id":"4003","type":"DIAMOND_SHD"},{"count":1,"id":"ap_supply_lt_80","type":"AP_SUPPLY"}]}
+    ,
+    
       "act2access": {"apSupplyOutOfDateDict":{"ap_supply_lt_80":1763377199},"constData":{"actUrl":null,"btnDescText":null,"colorBtn":null,"colorTotalTimes":"b20030","dayCount":30,"showUrlBtn":false},"dayCount":30,"rewardItemPerDay":[{"count":200,"id":"4003","type":"DIAMOND_SHD"},{"count":1,"id":"ap_supply_lt_80","type":"AP_SUPPLY"}]}
     ,
     
       "act1access": {"apSupplyOutOfDateDict":{"ap_supply_lt_80":1733741999},"constData":{"actUrl":null,"btnDescText":null,"colorBtn":null,"colorTotalTimes":"b20030","dayCount":30,"showUrlBtn":false},"dayCount":30,"rewardItemPerDay":[{"count":200,"id":"4003","type":"DIAMOND_SHD"},{"count":1,"id":"ap_supply_lt_80","type":"AP_SUPPLY"}]}
+    ,
+    
+      "act3video": {"apSupplyOutOfDateDict":{},"checkInList":{"0":{"blurCol":"ffffff","hasSecondBtn":true,"hasShareBtn":true,"introImgList":["act3video_bg_1","act3video_title_1","act3video_name","act3video_logo"],"itemList":[{"count":1,"id":"voucher_recruitR6_pick7201","type":"VOUCHER_PICK"}],"mainBgCol":"ffffff","mainBtnAfterClickTxt":"Claimed","mainBtnCol":"333333","mainBtnLightCol":"dfff71","mainBtnTxt":"Collect","newCol":"e2ff40","order":1,"picId":null,"progressDotCol":"000000","secondBtnCol":"718c16","secondBtnLink":"https://www.arknights.global/comic-detail?name=Prelude+Suite:+The+Lone+Walker&chapter=2","secondBtnTxt":"Read Comic","secondBtnTxtCol":"718c16","shareImgList":["act3video_sharebg_1","act3video_playertitle_1","act3video_sharename","act3video_logo"],"signLockedTxt":"Unlocked after logging in for {0} day(s)","videoId":null},"1":{"blurCol":"ffffff","hasSecondBtn":true,"hasShareBtn":true,"introImgList":["act3video_bg_2","act3video_title_2","act3video_name","act3video_logo"],"itemList":[{"count":1,"id":"furni_act72d6_audioPlayer_01","type":"FURN"}],"mainBgCol":"ffffff","mainBtnAfterClickTxt":"Claimed","mainBtnCol":"333333","mainBtnLightCol":"dfff71","mainBtnTxt":"Collect","newCol":"e2ff40","order":2,"picId":null,"progressDotCol":"000000","secondBtnCol":"718c16","secondBtnLink":"https://www.arknights.global/comic-detail?name=Prelude%20Suite:%20The%20Lone%20Walker&chapter=2","secondBtnTxt":"Read Comic","secondBtnTxtCol":"718c16","shareImgList":["act3video_sharebg_2","act3video_playertitle_2","act3video_sharename","act3video_logo"],"signLockedTxt":"Unlocked after logging in for {0} day(s)","videoId":null},"2":{"blurCol":"ffffff","hasSecondBtn":true,"hasShareBtn":true,"introImgList":["act3video_bg_3","act3video_title_3","act3video_name","act3video_logo"],"itemList":[{"count":1,"id":"tm_kaltsit_1","type":"HOME_THEME"}],"mainBgCol":"ffffff","mainBtnAfterClickTxt":"Claimed","mainBtnCol":"333333","mainBtnLightCol":"dfff71","mainBtnTxt":"Collect","newCol":"e2ff40","order":3,"picId":null,"progressDotCol":"000000","secondBtnCol":"718c16","secondBtnLink":"https://www.arknights.global/comic-detail?name=Prelude+Suite:+The+Lone+Walker&chapter=3","secondBtnTxt":"Read Comic","secondBtnTxtCol":"718c16","shareImgList":["act3video_sharebg_3","act3video_playertitle_3","act3video_sharename","act3video_logo"],"signLockedTxt":"Unlocked after logging in for {0} day(s)","videoId":null}}}
     ,
     
       "act1teamquest": {"constData":{"inviteFormatStr":"Team number [{0}], Dr. {1}#{2} invites you to join their Icebreaker team. (Paste the code into input box for automatic recognition)","milestoneItemId":"act1teamquest_point","targetId":"act2multi","targetType":1,"teamSlotCnt":2,"themeColor":"e4264f"},"displayMilestoneId":null,"milestoneList":[{"id":"1","isBetterShow":false,"level":1,"needPointCnt":100,"rewardItem":{"count":10000,"id":"4001","type":"GOLD"}},{"id":"2","isBetterShow":false,"level":2,"needPointCnt":200,"rewardItem":{"count":10,"id":"2003","type":"CARD_EXP"}},{"id":"3","isBetterShow":false,"level":3,"needPointCnt":300,"rewardItem":{"count":10,"id":"3302","type":"MATERIAL"}},{"id":"4","isBetterShow":false,"level":4,"needPointCnt":400,"rewardItem":{"count":2,"id":"30043","type":"MATERIAL"}},{"id":"5","isBetterShow":true,"level":5,"needPointCnt":550,"rewardItem":{"count":2,"id":"7001","type":"TKT_RECRUIT"}},{"id":"6","isBetterShow":false,"level":6,"needPointCnt":700,"rewardItem":{"count":10,"id":"3003","type":"MATERIAL"}},{"id":"7","isBetterShow":false,"level":7,"needPointCnt":850,"rewardItem":{"count":2,"id":"31023","type":"MATERIAL"}},{"id":"8","isBetterShow":false,"level":8,"needPointCnt":1000,"rewardItem":{"count":10000,"id":"4001","type":"GOLD"}},{"id":"9","isBetterShow":false,"level":9,"needPointCnt":1150,"rewardItem":{"count":10,"id":"2003","type":"CARD_EXP"}},{"id":"10","isBetterShow":true,"level":10,"needPointCnt":1350,"rewardItem":{"count":1,"id":"32001","type":"MATERIAL"}},{"id":"11","isBetterShow":false,"level":11,"needPointCnt":1550,"rewardItem":{"count":10,"id":"3302","type":"MATERIAL"}},{"id":"12","isBetterShow":false,"level":12,"needPointCnt":1750,"rewardItem":{"count":2,"id":"30043","type":"MATERIAL"}},{"id":"13","isBetterShow":false,"level":13,"needPointCnt":1950,"rewardItem":{"count":10,"id":"3003","type":"MATERIAL"}},{"id":"14","isBetterShow":false,"level":14,"needPointCnt":2150,"rewardItem":{"count":10000,"id":"4001","type":"GOLD"}},{"id":"15","isBetterShow":true,"level":15,"needPointCnt":2450,"rewardItem":{"count":2,"id":"7001","type":"TKT_RECRUIT"}},{"id":"16","isBetterShow":false,"level":16,"needPointCnt":2750,"rewardItem":{"count":10,"id":"2003","type":"CARD_EXP"}},{"id":"17","isBetterShow":false,"level":17,"needPointCnt":3050,"rewardItem":{"count":2,"id":"31023","type":"MATERIAL"}},{"id":"18","isBetterShow":false,"level":18,"needPointCnt":3350,"rewardItem":{"count":10,"id":"3302","type":"MATERIAL"}},{"id":"19","isBetterShow":false,"level":19,"needPointCnt":3650,"rewardItem":{"count":10,"id":"3003","type":"MATERIAL"}},{"id":"20","isBetterShow":true,"level":20,"needPointCnt":4150,"rewardItem":{"count":1,"id":"30115","type":"MATERIAL"}}],"missionList":[{"description":"During Icebreaker Games #2, your Team clears event stages 5 times","id":"1teamquest_1","normalRewardCnt":150,"sortId":1,"teamRewardCnt":30},{"description":"During Icebreaker Games #2, your Team clears event stages 10 times","id":"1teamquest_2","normalRewardCnt":200,"sortId":2,"teamRewardCnt":40},{"description":"During Icebreaker Games #2, your Team clears event stages 20 times","id":"1teamquest_3","normalRewardCnt":250,"sortId":3,"teamRewardCnt":50},{"description":"During Icebreaker Games #2, your Team earns a total of 10 Merit Medals","id":"1teamquest_4","normalRewardCnt":150,"sortId":4,"teamRewardCnt":30},{"description":"During Icebreaker Games #2, your Team earns a total of 20 Merit Medals","id":"1teamquest_5","normalRewardCnt":200,"sortId":5,"teamRewardCnt":40},{"description":"During Icebreaker Games #2, your Team earns a total of 40 Merit Medals","id":"1teamquest_6","normalRewardCnt":250,"sortId":6,"teamRewardCnt":50},{"description":"During Icebreaker Games #2, your Team defeats a total of 150 enemies","id":"1teamquest_7","normalRewardCnt":150,"sortId":7,"teamRewardCnt":30},{"description":"During Icebreaker Games #2, your Team defeats a total of 300 enemies","id":"1teamquest_8","normalRewardCnt":200,"sortId":8,"teamRewardCnt":40},{"description":"During Icebreaker Games #2, your Team defeats a total of 500 enemies","id":"1teamquest_9","normalRewardCnt":250,"sortId":9,"teamRewardCnt":50},{"description":"During Icebreaker Games #2, your Team defeats a total of 5 Ruby Flightwings, Sapphire Flightwings or Diamond Flightwings in Obstacle Drift","id":"1teamquest_10","normalRewardCnt":150,"sortId":10,"teamRewardCnt":30},{"description":"During Icebreaker Games #2, your Team defeats a total of 10 Ruby Flightwings, Sapphire Flightwings or Diamond Flightwings in Obstacle Drift","id":"1teamquest_11","normalRewardCnt":200,"sortId":11,"teamRewardCnt":40},{"description":"During Icebreaker Games #2, your Team defeats a total of 20 Ruby Flightwings, Sapphire Flightwings or Diamond Flightwings in Obstacle Drift","id":"1teamquest_12","normalRewardCnt":250,"sortId":12,"teamRewardCnt":50},{"description":"During Icebreaker Games #2, your Team withstands a total of 5 waves in Bastion Defense.","id":"1teamquest_13","normalRewardCnt":150,"sortId":13,"teamRewardCnt":30},{"description":"During Icebreaker Games #2, your Team withstands a total of 10 waves in Bastion Defense.","id":"1teamquest_14","normalRewardCnt":200,"sortId":14,"teamRewardCnt":40},{"description":"During Icebreaker Games #2, your Team withstands a total of 20 waves in Bastion Defense.","id":"1teamquest_15","normalRewardCnt":250,"sortId":15,"teamRewardCnt":50},{"description":"During Icebreaker Games #2, your Team plays Lineup Exchange mode 3 times","id":"1teamquest_16","normalRewardCnt":150,"sortId":16,"teamRewardCnt":30},{"description":"During Icebreaker Games #2, your Team plays Lineup Exchange mode 5 times","id":"1teamquest_17","normalRewardCnt":200,"sortId":17,"teamRewardCnt":40},{"description":"During Icebreaker Games #2, your Team plays Lineup Exchange mode 10 times","id":"1teamquest_18","normalRewardCnt":250,"sortId":18,"teamRewardCnt":50},{"description":"During Icebreaker Games #2, your Team earn a total of 10 titles.","id":"1teamquest_19","normalRewardCnt":150,"sortId":19,"teamRewardCnt":30},{"description":"During Icebreaker Games #2, your Team earn a total of 20 titles.","id":"1teamquest_20","normalRewardCnt":200,"sortId":20,"teamRewardCnt":40},{"description":"During Icebreaker Games #2, your Team earn a total of 40 titles.","id":"1teamquest_21","normalRewardCnt":250,"sortId":21,"teamRewardCnt":50},{"description":"During Icebreaker Games #2, your Team obtains 5 photos.","id":"1teamquest_22","normalRewardCnt":150,"sortId":22,"teamRewardCnt":30},{"description":"During Icebreaker Games #2, your Team obtains 10 photos.","id":"1teamquest_23","normalRewardCnt":200,"sortId":23,"teamRewardCnt":40},{"description":"During Icebreaker Games #2, your Team obtains 20 photos.","id":"1teamquest_24","normalRewardCnt":250,"sortId":24,"teamRewardCnt":50},{"description":"During Icebreaker Games #2, your Team gives 5 Likes to other players","id":"1teamquest_25","normalRewardCnt":150,"sortId":25,"teamRewardCnt":30},{"description":"During Icebreaker Games #2, your Team gives 10 Likes to other players","id":"1teamquest_26","normalRewardCnt":200,"sortId":26,"teamRewardCnt":40},{"description":"During Icebreaker Games #2, your Team gives 20 Likes to other players","id":"1teamquest_27","normalRewardCnt":250,"sortId":27,"teamRewardCnt":50}],"shareInfoData":[{"shareDataOrder":1,"shareId":"showData_1","shareName":"Team Total Matches","sharePic":"sharePic_cup"},{"shareDataOrder":2,"shareId":"showData_2","shareName":"Team Drift Sections","sharePic":"sharePic_bar"},{"shareDataOrder":3,"shareId":"showData_3","shareName":"Team Likes Received","sharePic":"sharePic_cake"},{"shareDataOrder":4,"shareId":"showData_4","shareName":"Team Merit Medals","sharePic":"sharePic_star"},{"shareDataOrder":5,"shareId":"showData_5","shareName":"Team Waves Survived","sharePic":"sharePic_thumb"},{"shareDataOrder":6,"shareId":"showData_6","shareName":"Players Team has Helped","sharePic":"sharePic_pie"}]}
