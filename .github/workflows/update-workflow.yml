@@ -282,7 +282,7 @@ jobs:
         run: |
           source scripts/utils.sh
 
-          extract_ab "spritepack/ui_item_*.ab" "items" "-t sprite -g none --log-level warning"
+          extract_ab "arts/ui_item_*.ab" "items" "-t sprite -g none --log-level warning"
 
           mkdir -p items
           cp -r scripts/temp/extracted/items/* items/ || :
