@@ -90,7 +90,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               },
               {
@@ -121,7 +123,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               }
             ],
@@ -160,7 +164,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               },
               {
@@ -191,7 +197,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               }
             ],
@@ -246,7 +254,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               },
               {
@@ -277,7 +287,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               }
             ],
@@ -671,7 +683,9 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false,
+              "groundBoundImmune": false
             }
           },
           {
@@ -702,7 +716,9 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false,
+              "groundBoundImmune": false
             }
           }
         ],
@@ -916,7 +932,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               },
               {
@@ -947,7 +965,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               }
             ],
@@ -986,7 +1006,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               },
               {
@@ -1017,7 +1039,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               }
             ],
@@ -1072,7 +1096,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               },
               {
@@ -1103,7 +1129,9 @@
                   "disarmedCombatImmune": false,
                   "fearedImmune": false,
                   "palsyImmune": false,
-                  "attractImmune": false
+                  "attractImmune": false,
+                  "teleportImmune": false,
+                  "groundBoundImmune": false
                 }
               }
             ],
@@ -1497,7 +1525,9 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false,
+              "groundBoundImmune": false
             }
           },
           {
@@ -1528,7 +1558,9 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false,
+              "groundBoundImmune": false
             }
           }
         ],

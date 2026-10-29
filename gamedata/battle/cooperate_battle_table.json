@@ -517,31 +517,38 @@
   "footballTeamWeights": [
     {
       "teamName": "normal",
-      "weight": 10
+      "weight": 10,
+      "teamType": 1
     },
     {
       "teamName": "shooter",
-      "weight": 10
+      "weight": 10,
+      "teamType": 1
     },
     {
       "teamName": "hurrier",
-      "weight": 10
+      "weight": 10,
+      "teamType": 2
     },
     {
       "teamName": "kungfuer",
-      "weight": 10
+      "weight": 10,
+      "teamType": 2
     },
     {
       "teamName": "superer",
-      "weight": 10
+      "weight": 10,
+      "teamType": 2
     },
     {
       "teamName": "bigbroer",
-      "weight": 10
+      "weight": 10,
+      "teamType": 2
     },
     {
       "teamName": "liner",
-      "weight": 10
+      "weight": 10,
+      "teamType": 1
     }
   ],
   "footballTeamPlayers": {
@@ -605,5 +612,28 @@
     
       "mugnfu": "muscleman"
     
-  }
+  },
+  "footballPlayersWaitTimeOnWaveStart": 3,
+  "footballStadiumWeights": [
+    {
+      "stadiumType": 1,
+      "weight": 20
+    },
+    {
+      "stadiumType": 2,
+      "weight": 20
+    },
+    {
+      "stadiumType": 3,
+      "weight": 20
+    },
+    {
+      "stadiumType": 4,
+      "weight": 20
+    },
+    {
+      "stadiumType": 5,
+      "weight": 20
+    }
+  ]
 }

@@ -8625,7 +8625,7 @@
       "CDPrimColor": null,
       "CDSecColor": null,
       "freeBackColor": null,
-      "gachaRuleType": 11,
+      "gachaRuleType": "BACKFLOW",
       "dynMeta": {"detailInfo":"During <@ga.SPGacha.Return>Returning Headhunting</>, you can <@ga.SPGacha.Return>freely select and lock in </><@ga.SPGacha.Return>three 6-star </>and<@ga.SPGacha.Return> three 5-star </>Operators and raise their rates!\n<@ga.SPGacha.Return>After selection, the rate-up Operators cannot be changed</>.","detailTitle":"Returning Headhunting Introduction","homeIntroDesc":"In Returning Headhunting, you can <@ga.SPGacha.Return>freely select and lock in</> <@ga.SPGacha.Return>three 6-star and three 5-star Operators</> of this pool and raise their rates! After selection, the rate-up Operators <@ga.SPGacha.Return>cannot be changed</>. A <@ga.SPGacha.Return>5-star</> and above operator is guaranteed within the first 10 headhunting attempts!","rarityPickCharDict":{"TIER_5":["char_497_ctable","char_4032_provs","char_4071_peper","char_4014_lunacu","char_493_firwhl","char_446_aroma"],"TIER_6":["char_1020_reed2","char_4082_qiubai","char_2012_typhon","char_1032_excu2","char_4117_ray","char_4132_ascln"]},"star5ChooseRule":"In the current Returning Headhunting, you can select <@ga.SPGacha.Return>3 operators</> from the following 5-star operators, increasing their <@ga.SPGacha.Return>total appearance rate to be 60% of the 5-star rate.</>","star6ChooseRule":"In the current Returning Headhunting, you can select <@ga.SPGacha.Return>3 operators</> from the following 6-star operators, increasing their <@ga.SPGacha.Return>total appearance rate to be 100% of the 6-star rate.</>"},
       "linkageRuleId": null,
       "linkageParam": null,
@@ -12094,36 +12094,42 @@
       "endTime": 1793185199
     }
   ],
-  "linkageTenGachaItem": [
+  "linkageGachaItem": [
     {
       "itemId": "LINKAGE_TKT_GACHA_10_1701",
       "endTime": 1630493999,
-      "gachaPoolId": "LINKAGE_EN_9_2_1"
+      "gachaPoolId": "LINKAGE_EN_9_2_1",
+      "isTen": false
     },
     {
       "itemId": "LINKAGE_TKT_GACHA_10_3601",
       "endTime": 1695293999,
-      "gachaPoolId": "LINKAGE_EN_23_1_1"
+      "gachaPoolId": "LINKAGE_EN_23_1_1",
+      "isTen": false
     },
     {
       "itemId": "LINKAGE_TKT_GACHA_10_3602",
       "endTime": 1695293999,
-      "gachaPoolId": "LINKAGE_EN_23_1_1"
+      "gachaPoolId": "LINKAGE_EN_23_1_1",
+      "isTen": false
     },
     {
       "itemId": "LINKAGE_TKT_GACHA_10_4801",
       "endTime": 1726743599,
-      "gachaPoolId": "LINKAGE_EN_29_0_7"
+      "gachaPoolId": "LINKAGE_EN_29_0_7",
+      "isTen": false
     },
     {
       "itemId": "LINKAGE_TKT_GACHA_10_5401",
       "endTime": 1742813999,
-      "gachaPoolId": "LINKAGE_EN_32_0_6"
+      "gachaPoolId": "LINKAGE_EN_32_0_6",
+      "isTen": false
     },
     {
       "itemId": "LINKAGE_TKT_GACHA_10_6501",
       "endTime": 1771930799,
-      "gachaPoolId": "LINKAGE_EN_38_0_1"
+      "gachaPoolId": "LINKAGE_EN_38_0_1",
+      "isTen": false
     }
   ],
   "normalGachaItem": [

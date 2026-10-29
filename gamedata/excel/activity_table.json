@@ -410775,6 +410775,9 @@
           }
         }
       
+    },
+    "ACT_FOOTBALL": {
+
     }
   },
   "extraData": {
@@ -445318,14 +445321,16 @@
             "act18sre_kv_01": {
               "isDefault": true,
               "displayTime": 0,
-              "zoneId": null
+              "stageId": null,
+              "passState": "PASS"
             }
           ,
           
             "act18sre_kv_02": {
               "isDefault": false,
               "displayTime": 1704474000,
-              "zoneId": "act18side_08"
+              "stageId": "act18side_08",
+              "passState": "PASS"
             }
           
         }
@@ -445338,14 +445343,16 @@
             "act18side_kv_01": {
               "isDefault": true,
               "displayTime": 0,
-              "zoneId": null
+              "stageId": null,
+              "passState": "PASS"
             }
           ,
           
             "act18side_kv_02": {
               "isDefault": false,
               "displayTime": 1672786800,
-              "zoneId": "act18side_08"
+              "stageId": "act18side_08",
+              "passState": "PASS"
             }
           
         }
@@ -456379,10 +456386,12 @@
               "trapName": "Avalanche Trigger System",
               "trapDesc": "For a short time after deployment, greatly increases the Avalanche Warning Index of its Avalanche Area",
               "trapText": "Snow Removal System",
-              "trapTaskId": "trap_267_xdmac1_icon_1",
-              "trapUnlockDesc": "trap_267_xdmac1_icon_2",
-              "trapBuffId": "act46side_trap_unlock_1",
-              "availableCount": 36
+              "trapIcon1": "trap_267_xdmac1_icon_1",
+              "trapIcon2": "trap_267_xdmac1_icon_2",
+              "trapTaskId": "act46side_trap_unlock_1",
+              "trapUnlockDesc": "Clear OS-2 to unlock",
+              "trapBuffId": "rune_act46side_xdmac1",
+              "availableCount": 3
             }
           ,
           
@@ -456392,10 +456401,12 @@
               "trapName": "Snow Retention System",
               "trapDesc": "While deployed, prevents Avalanches in its Avalanche Area, then retreats from the field after a period of time",
               "trapText": "Snow Removal System",
-              "trapTaskId": "trap_268_xdmac2_icon_1",
-              "trapUnlockDesc": "trap_268_xdmac2_icon_2",
-              "trapBuffId": "act46side_trap_unlock_2",
-              "availableCount": 36
+              "trapIcon1": "trap_268_xdmac2_icon_1",
+              "trapIcon2": "trap_268_xdmac2_icon_2",
+              "trapTaskId": "act46side_trap_unlock_2",
+              "trapUnlockDesc": "Clear OS-4 to unlock",
+              "trapBuffId": "rune_act46side_xdmac2",
+              "availableCount": 2
             }
           ,
           
@@ -456405,10 +456416,12 @@
               "trapName": "Avalanche Control System",
               "trapDesc": "While deployed, protects all units behind from Avalanches, and retreats from the field after an Avalanche occurs",
               "trapText": "Snow Removal System",
-              "trapTaskId": "trap_269_xdmac3_icon_1",
-              "trapUnlockDesc": "trap_269_xdmac3_icon_2",
-              "trapBuffId": "act46side_trap_unlock_3",
-              "availableCount": 36
+              "trapIcon1": "trap_269_xdmac3_icon_1",
+              "trapIcon2": "trap_269_xdmac3_icon_2",
+              "trapTaskId": "act46side_trap_unlock_3",
+              "trapUnlockDesc": "Clear OS-7 to unlock",
+              "trapBuffId": "rune_act46side_xdmac3",
+              "availableCount": 2
             }
           
         },
@@ -456422,7 +456435,8 @@
           "systemUnlockToast": "Snow Removal System unlocked",
           "squadSaveSuccessToast": "Snow Removal System Switched to '{0}'",
           "lockedToast": "Clear OS-2 to unlock",
-          "showBtnBack": false
+          "showBtnBack": false,
+          "useSpecialToast": false
         }
       }
     ,
@@ -456436,10 +456450,12 @@
               "trapName": "Block Reinforcement Device",
               "trapDesc": "Reinforces a forward barricade, increasing its max HP and DEF.",
               "trapText": "Automatic block reinforcement device. The most complex tactics start with the basics: Take cover.",
-              "trapTaskId": "trap_rnfcar_icon_1",
-              "trapUnlockDesc": "trap_rnfcar_icon_2",
-              "trapBuffId": "32sidetrap_1",
-              "availableCount": 36
+              "trapIcon1": "trap_rnfcar_icon_1",
+              "trapIcon2": "trap_rnfcar_icon_2",
+              "trapTaskId": "32sidetrap_1",
+              "trapUnlockDesc": "Clear CR-3 to unlock",
+              "trapBuffId": "rune_act32side_rnfcar",
+              "availableCount": 0
             }
           ,
           
@@ -456449,10 +456465,12 @@
               "trapName": "Temporary Cover",
               "trapDesc": "Intercepts direct shots from nearby enemies for 1s. Can be used up to 4 times.",
               "trapText": "High-energy counter-projectile system. Be careful about burns when in its vicinity while active.",
-              "trapTaskId": "trap_ads_icon_1",
-              "trapUnlockDesc": "trap_ads_icon_2",
-              "trapBuffId": "32sidetrap_2",
-              "availableCount": 36
+              "trapIcon1": "trap_ads_icon_1",
+              "trapIcon2": "trap_ads_icon_2",
+              "trapTaskId": "32sidetrap_2",
+              "trapUnlockDesc": "Clear CR-4 to unlock",
+              "trapBuffId": "rune_act32side_ads",
+              "availableCount": 0
             }
           ,
           
@@ -456462,10 +456480,12 @@
               "trapName": "Mine Deployer",
               "trapDesc": "Sends a detection line forward that extends until it reaches high ground; enemies that cross the detection line will be tagged with time bombs that also detonate Originium explosives when they explode.",
               "trapText": "Sensor-based mine deployment device. A challenge for the careful, a nightmare for the careless.",
-              "trapTaskId": "trap_edd_icon_1",
-              "trapUnlockDesc": "trap_edd_icon_2",
-              "trapBuffId": "32sidetrap_3",
-              "availableCount": 36
+              "trapIcon1": "trap_edd_icon_1",
+              "trapIcon2": "trap_edd_icon_2",
+              "trapTaskId": "32sidetrap_3",
+              "trapUnlockDesc": "Clear CR-5 to unlock",
+              "trapBuffId": "rune_act32side_edd",
+              "availableCount": 0
             }
           
         },
@@ -456480,7 +456500,8 @@
           "systemUnlockToast": null,
           "squadSaveSuccessToast": "Saved",
           "lockedToast": null,
-          "showBtnBack": true
+          "showBtnBack": true,
+          "useSpecialToast": false
         }
       }
     
