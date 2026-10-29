@@ -8055,7 +8055,9 @@
           "autochess_battle_dying"
         ]
       
-    }
+    },
+    "emoticonThemeTypeDict": null,
+    "emoticonThemeReverseDict": null
   },
   "storyVariantData": {
     
@@ -9281,7 +9283,7 @@
           "funcType": "BATTLE",
           "keyEffectGroup": "BATTLE",
           "isHidden": false,
-          "relatedActType": 63,
+          "relatedActType": "ENUM",
           "gameModeTag": null,
           "sortId": 1,
           "startTs": -1,
@@ -9331,7 +9333,7 @@
           "funcType": "NORMAL",
           "keyEffectGroup": "OUT_BATTLE",
           "isHidden": false,
-          "relatedActType": 63,
+          "relatedActType": "ENUM",
           "gameModeTag": null,
           "sortId": 2,
           "startTs": -1,
@@ -9353,7 +9355,7 @@
           "funcType": "NORMAL",
           "keyEffectGroup": "ALL",
           "isHidden": true,
-          "relatedActType": 63,
+          "relatedActType": "ENUM",
           "gameModeTag": null,
           "sortId": 3,
           "startTs": -1,

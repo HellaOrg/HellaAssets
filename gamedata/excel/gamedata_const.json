@@ -2767,5 +2767,13 @@
   "leapBirthdayRewardDay": 28,
   "birthdaySettingShowStageId": "tr_05",
   "isBirthdayFuncEnabled": true,
-  "isSoCharEnabled": true
+  "isSoCharEnabled": true,
+  "avgReaderModeDefaultSetting": {
+    "defaultReaderFontsize": 24,
+    "defaultReaderLinespace": 10,
+    "defaultReaderBackgroundAlpha": 75,
+    "defaultNameReaderFontsize": 0
+  },
+  "friendAddUidLimit": 0,
+  "friendUrlFormat": null
 }
