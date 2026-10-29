@@ -137,6 +137,9 @@
     "sandbox_perm_table.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
     },
+    "sandbox_table.fbs": {
+        "commit": "4d96f8de9ca31bc85cb940906bdf01d6d1a23639"
+    },
     "shop_client_table.fbs": {
         "commit": "fdb838a2305922358dc4cae6b1d505f45cd5ddaf"
     },
