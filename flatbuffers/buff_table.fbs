@@ -1,5 +1,4 @@
 // This file is auto-generated, see https://github.com/MooncellWiki/OpenArknightsFBS for details.
-// YoStar version
 enum enum__Torappu_AbnormalFlag : int {
     STUNNED = 0,
     SP_RECOVER_STOPPED = 1,
@@ -38,7 +37,15 @@ enum enum__Torappu_AbnormalFlag : int {
     SKILL_ACTIVABLE_IN_ABNORMAL = 34,
     MOTION_TARGET_FREE = 35,
     FORCE_LEVITATE = 36,
-    E_NUM = 37,
+    BUFF_ADD_CAN_BE_CANCELED_IF_DEFENSE = 37,
+    DEFENSE_BUFF_ADD_IF_CANCELABLE_BUFF = 38,
+    PALSY = 39,
+    PALSYING = 40,
+    ATTRACTED = 41,
+    FEARED_PRIVATE = 42,
+    DOZE = 43,
+    TELEPORTED = 44,
+    E_NUM = 45,
 }
 
 enum enum__Torappu_AbnormalCombo : int {
@@ -83,7 +90,10 @@ enum enum__Torappu_AttributeType : int {
     EP_RESISTANCE = 32,
     DAMAGE_HITRATE_PHYSICAL = 33,
     DAMAGE_HITRATE_MAGICAL = 34,
-    E_NUM = 35,
+    EP_BREAK_RECOVER_SPEED = 35,
+    SLOW_DOWN = 36,
+    BLOCK_RADIUS_SCALE = 37,
+    E_NUM = 38,
 }
 
 enum enum__Torappu_AttributeModifierData_AttributeModifier_FormulaItemType : int {
@@ -131,6 +141,7 @@ enum enum__Torappu_BuffData_OnEventPriority : int {
     LOW_PRIORITY = -1000,
     LOWER_PRIORITY = -2000,
     LOWEST_PRIORITY = -3000,
+    TITI_DOZE_PRIORITY = -4000,
 }
 
 enum enum__Torappu_LifeType : ubyte {
@@ -183,6 +194,7 @@ table clz_Torappu_BuffData {
     priorityBBKeys: [string]; 
     stripBlackboardParamsWithBuffKey: bool; 
     blackboard: [clz_Torappu_Blackboard_DataPair]; 
+    enableInitDirectionFromSource: bool; 
 }
 
 table dict__string__clz_Torappu_BuffData {
