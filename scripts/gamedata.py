@@ -4,6 +4,7 @@ import os
 import requests
 import shutil
 import subprocess
+import time
 
 flatbuffer_list = [
     "activity_table",
@@ -11,6 +12,7 @@ flatbuffer_list = [
     "battle_equip_table",
     "buff_table",
     "building_data",
+    "building_local_data",
     "campaign_table",
     "chapter_table",
     "char_master_table",
@@ -22,27 +24,35 @@ flatbuffer_list = [
     "checkin_table",
     "climb_tower_table",
     "clue_data",
+    "cooperate_battle_table",
     "crisis_table",
     "crisis_v2_table",
     "display_meta_table",
     "enemy_database",
     "enemy_handbook_table",
+    "ep_breakbuff_table",
+    "extra_battlelog_table",
     "favor_table",
     "gacha_table",
     "gamedata_const",
     "handbook_info_table",
     "handbook_team_table",
     "hotupdate_meta_table",
+    "init_text",
     "item_table",
+    "legion_mode_buff_table",
     "level_script_table",
+    "main_text",
     "medal_table",
     "meta_ui_table",
     "mission_table",
     "open_server_table",
     "replicate_table",
+    "resource_manifest",
     "retro_table",
     "roguelike_topic_table",
     "sandbox_perm_table",
+    # "sandbox_table",
     "shop_client_table",
     "skill_table",
     "skin_table",
@@ -55,11 +65,6 @@ flatbuffer_list = [
     "token_table",
     "uniequip_table",
     "zone_table",
-    "cooperate_battle_table",
-    "ep_breakbuff_table",
-    "extra_battlelog_table",
-    "legion_mode_buff_table",
-    "building_local_data",
 ]
 
 flatbuffer_mappings = {
@@ -74,11 +79,17 @@ def get_commits_page(page):
     if page <= len(commits_page_cache) and commits_page_cache[page - 1]:
         # print(f"Fetching cached data for FB commits page {page}")
         return commits_page_cache[page - 1]
-    # print(f"Fetching data for FB commits page {page}")
-    response = requests.get(f"https://api.github.com/repos/MooncellWiki/OpenArknightsFBS/commits?sha=main&page={page}&per_page=100")
-    commits = response.json()
-    commits_page_cache.append(commits)
-    return commits
+    print(f"Fetching data for FB commits page {page}")
+    for i in range(5):
+        response = requests.get(f"https://api.github.com/repos/MooncellWiki/OpenArknightsFBS/commits?sha=main&page={page}&per_page=50")
+        if response.status_code == 403:
+            print(f"Fetch 403 attempt {i}")
+            time.sleep(i**2)
+            continue
+        commits = response.json()
+        commits_page_cache.append(commits)
+        return commits
+    exit(1)
 
 
 def get_flatbuffer_name(path: str) -> str | None:
@@ -106,7 +117,7 @@ def main():
                     continue
                 base = fname[:-6]  # strip ".bytes"
                 core = None
-                if get_flatbuffer_name(base):
+                if get_flatbuffer_name(base) and not "level_script_table" in base:
                     core = base
                 elif len(base) > 6 and get_flatbuffer_name(base[:-6]):
                     core = base[:-6]
@@ -161,7 +172,7 @@ def main():
                     "--",
                     src_path
                 ])
-                # print(" ".join([
+                # print(' '.join([
                 #     "flatc",
                 #     "-o", out_subdir,
                 #     "--no-warnings",
@@ -174,13 +185,10 @@ def main():
                 #     "--",
                 #     src_path
                 # ]))
-                # print(result.returncode)
-                return True
+                return result.returncode == 0
 
             def validate(commit):
                 json_file_path = os.path.join(out_subdir, base + ".json")
-                # print(out_subdir)
-                # print(json_file_path)
                 if not os.path.exists(json_file_path):
                     return False
                 with open(json_file_path, 'r') as json_file:
@@ -191,21 +199,22 @@ def main():
                             print(f"Validated {schema_file} at {commit}")
                         return True
                     except Exception as e:
-                        # print(f"Error decoding JSON for {json_file_path}: {e}")
+                        print(f"Error decoding JSON for {json_file_path}: {e}")
                         return False
 
-            def find_next_commit(commit):
+            def find_prev_commit(commit):
                 page = 1
                 while True:
                     commits = get_commits_page(page)
                     if not commits:
                         print(f"Error finding next commit at {commit}")
                         return False
-                    parent_commits = [x for x in commits if x['parents'] and x['parents'][0]['sha'] == commit]
-                    if parent_commits:
-                        return parent_commits[0]['sha']
+                    matching_commit = [x for x in commits if x['sha'] == commit]
+                    if matching_commit and matching_commit[0]['parents'][0]:
+                        return matching_commit[0]['parents'][0]['sha']
                     else:
                         page += 1
+                        continue
 
             def replace_schema(commit):
                 try:
@@ -217,18 +226,17 @@ def main():
                     print(f"Error replacing {schema_file}: {e}")
                     return False
 
-            # print(schema_file)
             current_commit = _flatbuffers[schema_file]['commit']
-            while deserialize() and not validate(current_commit):
-                next_commit = find_next_commit(current_commit)
-                if (next_commit):
-                    replace_schema(next_commit)
-                    current_commit = next_commit
-                else:
-                    break
+            latest_commit = get_commits_page(1)[0]['sha']
 
-    with open(os.path.join(args.schema_dir, "_flatbuffers.json"), "w") as f:
-        f.write(json.dumps(_flatbuffers, indent=4))
+            if current_commit == latest_commit:
+                continue
+
+            while replace_schema(latest_commit) and not (deserialize() and validate(latest_commit)):
+                latest_commit = find_prev_commit(latest_commit)
+
+            with open(os.path.join(args.schema_dir, "_flatbuffers.json"), "w") as f:
+                f.write(json.dumps(_flatbuffers, indent=4))
 
 
 if __name__ == "__main__":
