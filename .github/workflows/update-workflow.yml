@@ -240,13 +240,12 @@ jobs:
           --out-dir gamedata
 
           ERROR=0
-          while read -r file; do
-            if ! jq empty "$file" 2>err.log; then
-              echo "$file: JSON parse error"
-              cat err.log
+          while IFS= read -r file; do
+            err=$(jq empty "$file" 2>&1) || {
+              printf '%s: JSON parse error\n%s\n' "$file" "$err"
               ERROR=1
-            fi
-          done < <(find gamedata -type f -name "*.json")
+            }
+          done < <(find gamedata -type f -name '*.json')
           if [[ $ERROR -ne 0 ]]; then
             echo "json-valid=false" >> $GITHUB_OUTPUT
           else
