@@ -101,6 +101,9 @@
     "legion_mode_buff_table.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
     },
+    "level_script_table.fbs": {
+        "commit": "83ecc786245435932e84812ff34820782b8a1824"
+    },
     "main_text.fbs": {
         "commit": "83ecc786245435932e84812ff34820782b8a1824"
     },
