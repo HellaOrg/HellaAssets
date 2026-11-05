@@ -81,7 +81,7 @@
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "gamedata_const.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "handbook_info_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
@@ -141,13 +141,13 @@
         "commit": "4d96f8de9ca31bc85cb940906bdf01d6d1a23639"
     },
     "shop_client_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "skill_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "skin_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "special_operator_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
@@ -174,6 +174,6 @@
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "zone_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     }
 }
