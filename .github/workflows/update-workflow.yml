@@ -362,8 +362,8 @@ jobs:
 
           extract_ab "ui/sandboxperm/[uc]common.ab" "sandbox/items" "--filter-by-text itemicon -t sprite -g none --log-level warning"
           extract_ab "spritepack/sandbox*.ab" "sandbox/stages" "-t sprite -g none --log-level warning"
-          extract_ab "ui/sandboxv2/topics/[uc]sandbox_1.ab" "sandbox/weather" "--filter-by-text weathertypeicons -t sprite -g none --log-level warning"
-          extract_ab "ui/sandboxv3/[uc]common.ab" "sandbox/weather" "--filter-by-text daypasssettlementweathericon -t sprite -g none --log-level warning"
+          extract_ab "ui/sandboxv2/topics/[uc]sandbox_1.ab" "sandbox/v2/weather" "--filter-by-text weathertypeicons -t sprite -g none --log-level warning"
+          extract_ab "ui/sandboxv3/[uc]common.ab" "sandbox/v3/weather" "--filter-by-text daypasssettlementweathericon -t sprite -g none --log-level warning"
           extract_ab "ui/sandboxv3/topics/[uc]sandbox_2.ab" "sandbox/stages" "--filter-by-text mappreview -t sprite -g none --log-level warning"
 
           mkdir -p sandbox
