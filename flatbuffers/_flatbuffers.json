@@ -3,10 +3,10 @@
         "commit": "b251597f596621e47036d9543264564220133680"
     },
     "audio_data.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "battle_equip_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "buff_table.fbs": {
         "commit": "b251597f596621e47036d9543264564220133680"
@@ -24,13 +24,13 @@
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "character_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "char_master_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "char_meta_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "charm_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
@@ -39,7 +39,7 @@
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "charword_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "checkin_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
@@ -63,34 +63,34 @@
         "commit": "b251597f596621e47036d9543264564220133680"
     },
     "enemy_database.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "enemy_handbook_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "ep_breakbuff_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "extra_battlelog_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "favor_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "gacha_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "gamedata_const.fbs": {
         "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "handbook_info_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "handbook_team_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "hotupdate_meta_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "init_text.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
@@ -105,10 +105,10 @@
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "main_text.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "medal_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "meta_ui_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
@@ -120,7 +120,7 @@
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "prts___levels.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "replicate_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
@@ -144,7 +144,7 @@
         "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "skill_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "skin_table.fbs": {
         "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
@@ -159,10 +159,10 @@
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "story_review_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "story_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "tip_table.fbs": {
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
@@ -171,7 +171,7 @@
         "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
     },
     "uniequip_table.fbs": {
-        "commit": "dbbc98306982259956f271b71c7fb63a05cdd5d5"
+        "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
     },
     "zone_table.fbs": {
         "commit": "6b17ffebbfcc5cc5a9c743eb69822f8e8294e739"
