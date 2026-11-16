@@ -51,6 +51,11 @@
       ]
     ,
     
+      "char_4215_buddy": [
+        "char_4215_buddy"
+      ]
+    ,
+    
       "char_502_nblade": [
         "char_502_nblade",
         "char_1029_yato2"
@@ -178,7 +183,8 @@
     ,
     
       "char_278_orchid": [
-        "char_278_orchid"
+        "char_278_orchid",
+        "char_1048_orchd2"
       ]
     ,
     
@@ -2046,7 +2052,8 @@
     ,
     
       "char_282_catap": [
-        "char_282_catap"
+        "char_282_catap",
+        "char_1049_catap2"
       ]
     ,
     
