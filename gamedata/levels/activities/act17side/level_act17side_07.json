@@ -7,11 +7,12 @@
     "costIncreaseTime": 1.0,
     "moveMultiplier": 0.5,
     "steeringEnabled": true,
+    "reachableCheckIgnoreStartTile": false,
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
     "displayRestTime": false,
-    "maxPlayTime": -1.0,
+    "maxPlayTime": 0.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": null
   },
@@ -3866,7 +3867,8 @@
         "tmplId": null,
         "overrideSkillBlackboard": [
 
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -3892,7 +3894,8 @@
         "tmplId": null,
         "overrideSkillBlackboard": [
 
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -3918,7 +3921,8 @@
         "tmplId": null,
         "overrideSkillBlackboard": [
 
-        ]
+        ],
+        "overrideTalents": null
       }
     ],
     "characterCards": [
@@ -3943,7 +3947,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ]
   },
