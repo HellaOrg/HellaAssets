@@ -230,6 +230,7 @@ def main():
             latest_commit = get_commits_page(1)[0]['sha']
 
             if current_commit == latest_commit:
+                deserialize()
                 continue
 
             while replace_schema(latest_commit) and not (deserialize() and validate(latest_commit)):
