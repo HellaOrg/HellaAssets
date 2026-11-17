@@ -7,11 +7,12 @@
     "costIncreaseTime": 1.0,
     "moveMultiplier": 0.5,
     "steeringEnabled": true,
-    "isTrainingLevel": true,
+    "reachableCheckIgnoreStartTile": true,
+    "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
     "displayRestTime": false,
-    "maxPlayTime": -1.0,
+    "maxPlayTime": 0.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": null
   },
@@ -1616,7 +1617,8 @@
         "mainSkillLvl": 7,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -1640,7 +1642,8 @@
         "mainSkillLvl": 7,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenInsts": [
@@ -1664,7 +1667,8 @@
         "mainSkillLvl": 7,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
@@ -1683,7 +1687,8 @@
         "mainSkillLvl": 7,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
@@ -1702,7 +1707,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenCards": [

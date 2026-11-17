@@ -7,11 +7,12 @@
     "costIncreaseTime": 1.0,
     "moveMultiplier": 0.5,
     "steeringEnabled": true,
+    "reachableCheckIgnoreStartTile": false,
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
     "displayRestTime": false,
-    "maxPlayTime": -1.0,
+    "maxPlayTime": 0.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": null
   },
@@ -10604,13 +10605,17 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": true,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "sleepImmune": {
             "m_defined": true,
@@ -10629,17 +10634,16 @@
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -10830,6 +10834,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": false,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -10862,10 +10870,9 @@
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": false,
@@ -11022,6 +11029,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": false,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -11054,10 +11065,9 @@
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": false,
@@ -11213,6 +11223,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": false,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -11245,10 +11259,9 @@
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": false,
@@ -11399,6 +11412,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": false
@@ -11424,17 +11441,16 @@
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -11630,6 +11646,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -255327999
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -11648,24 +11668,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -11823,6 +11842,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -303300351
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -11841,24 +11864,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -12016,6 +12038,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -351272703
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -12034,24 +12060,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -12209,6 +12234,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -399245055
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -12227,24 +12256,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -12414,6 +12442,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -445775615
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -12432,24 +12464,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -12612,6 +12643,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -495845119
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -12630,24 +12665,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -12810,6 +12844,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -545914623
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -12828,24 +12866,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -13008,6 +13045,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -595984127
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -13026,24 +13067,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -13206,6 +13246,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -646053631
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -13224,24 +13268,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -13404,6 +13447,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -695860991
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -13422,24 +13469,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -13602,6 +13648,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -745930495
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -13620,24 +13670,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -13800,6 +13849,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -795999999
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -13818,24 +13871,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -13998,6 +14050,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -846069503
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -14016,24 +14072,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -14196,6 +14251,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -896139007
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -14214,24 +14273,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -14394,6 +14452,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -946208511
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -14412,24 +14474,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -14592,6 +14653,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -1002438399
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -14610,24 +14675,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -14785,6 +14849,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -1050410751
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -14803,24 +14871,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -14978,6 +15045,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": -1098383103
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": true
@@ -14996,24 +15067,23 @@
           },
           "levitateImmune": {
             "m_defined": true,
-            "m_value": true
+            "m_value": false
           },
           "disarmedCombatImmune": {
             "m_defined": true,
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -15171,6 +15241,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": false,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -15203,10 +15277,9 @@
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": false,
@@ -15351,6 +15424,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": false,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -15383,10 +15460,9 @@
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": false,
@@ -15531,6 +15607,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": false,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -15563,10 +15643,9 @@
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": false,
@@ -15717,6 +15796,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": false
@@ -15742,17 +15825,16 @@
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -15904,6 +15986,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": false,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -15936,10 +16022,9 @@
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": false,
@@ -16084,6 +16169,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": false,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -16116,10 +16205,9 @@
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": false,
@@ -16286,6 +16374,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": true,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": false
@@ -16311,17 +16403,16 @@
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": true,
+            "m_defined": false,
             "m_value": false
           },
           "palsyImmune": {
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": true,
@@ -18769,7 +18860,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "characterCards": [

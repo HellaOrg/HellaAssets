@@ -7,11 +7,12 @@
     "costIncreaseTime": 1.0,
     "moveMultiplier": 0.5,
     "steeringEnabled": true,
+    "reachableCheckIgnoreStartTile": false,
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
     "displayRestTime": false,
-    "maxPlayTime": -1.0,
+    "maxPlayTime": 0.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": null
   },
@@ -2310,6 +2311,7 @@
         "tauntLevel": 0,
         "massLevel": 2,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -2318,7 +2320,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2360,6 +2364,7 @@
         "tauntLevel": 0,
         "massLevel": 2,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -2368,7 +2373,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2410,6 +2417,7 @@
         "tauntLevel": 0,
         "massLevel": 1,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -2418,7 +2426,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2460,6 +2470,7 @@
         "tauntLevel": 0,
         "massLevel": 1,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -2468,7 +2479,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2510,15 +2523,18 @@
         "tauntLevel": 0,
         "massLevel": 1,
         "baseForceLevel": 0,
-        "stunImmune": false,
-        "silenceImmune": true,
+        "blockVolume": 0,
+        "stunImmune": true,
+        "silenceImmune": false,
         "sleepImmune": false,
         "frozenImmune": false,
         "levitateImmune": false,
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2560,15 +2576,18 @@
         "tauntLevel": 0,
         "massLevel": 1,
         "baseForceLevel": 0,
-        "stunImmune": false,
-        "silenceImmune": true,
+        "blockVolume": 0,
+        "stunImmune": true,
+        "silenceImmune": false,
         "sleepImmune": false,
         "frozenImmune": false,
         "levitateImmune": false,
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2610,6 +2629,7 @@
         "tauntLevel": 0,
         "massLevel": 4,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -2618,7 +2638,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2660,6 +2682,7 @@
         "tauntLevel": 0,
         "massLevel": 4,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -2668,7 +2691,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2710,6 +2735,7 @@
         "tauntLevel": 0,
         "massLevel": 3,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -2718,7 +2744,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2773,6 +2801,7 @@
         "tauntLevel": 0,
         "massLevel": 3,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -2781,7 +2810,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2836,6 +2867,7 @@
         "tauntLevel": 0,
         "massLevel": 3,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -2844,7 +2876,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2914,6 +2948,7 @@
         "tauntLevel": 0,
         "massLevel": 3,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -2922,7 +2957,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -2992,6 +3029,7 @@
         "tauntLevel": 0,
         "massLevel": 4,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -3000,7 +3038,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -3042,6 +3082,7 @@
         "tauntLevel": 0,
         "massLevel": 4,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -3050,7 +3091,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -3092,6 +3135,7 @@
         "tauntLevel": 0,
         "massLevel": 4,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -3100,7 +3144,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -3146,6 +3192,7 @@
         "tauntLevel": 0,
         "massLevel": 4,
         "baseForceLevel": 0,
+        "blockVolume": 0,
         "stunImmune": false,
         "silenceImmune": false,
         "sleepImmune": false,
@@ -3154,7 +3201,9 @@
         "disarmedCombatImmune": false,
         "fearedImmune": false,
         "palsyImmune": false,
-        "attractImmune": false
+        "attractImmune": false,
+        "teleportImmune": false,
+        "groundBoundImmune": false
       },
       "applyWay": "MELEE",
       "motion": "WALK",
@@ -3699,7 +3748,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -3723,7 +3773,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -3747,7 +3798,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -3771,7 +3823,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -3795,7 +3848,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "characterCards": [

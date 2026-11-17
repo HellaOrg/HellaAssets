@@ -7,11 +7,12 @@
     "costIncreaseTime": 2.0,
     "moveMultiplier": 0.5,
     "steeringEnabled": true,
-    "isTrainingLevel": true,
+    "reachableCheckIgnoreStartTile": true,
+    "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
     "displayRestTime": false,
-    "maxPlayTime": -1.0,
+    "maxPlayTime": 0.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": null
   },
@@ -1957,6 +1958,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "blockVolume": {
+            "m_defined": false,
+            "m_value": 0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -1989,10 +1994,9 @@
             "m_defined": false,
             "m_value": false
           },
-          "attractImmune": {
-            "m_defined": false,
-            "m_value": false
-          }
+          "attractImmune": null,
+          "teleportImmune": null,
+          "groundBoundImmune": null
         },
         "applyWay": {
           "m_defined": false,
@@ -2476,7 +2480,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2500,7 +2505,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2524,7 +2530,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2548,7 +2555,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenInsts": [
@@ -2585,7 +2593,8 @@
             "value": 0.0,
             "valueStr": "enemy_1343_ltrock"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2620,7 +2629,8 @@
             "value": 0.0,
             "valueStr": "enemy_1343_ltrock"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2650,7 +2660,8 @@
             "value": 0.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2674,7 +2685,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "characterCards": [
@@ -2695,7 +2707,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": true,
@@ -2714,7 +2727,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenCards": [
@@ -2736,7 +2750,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "initialCnt": 5,
@@ -2756,7 +2771,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ]
   },
