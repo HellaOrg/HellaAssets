@@ -53369,6 +53369,70 @@
       }
     ,
     
+      "act1football_milestone_point": {
+        "itemId": "act1football_milestone_point",
+        "name": "Championship Point Ticket",
+        "description": "Digital point tickets prepared for championship competitors by the competition committee, recording everything the players get up to on the field. Apparently, the tickets of the winners will have a special visual effect.",
+        "rarity": "TIER_5",
+        "iconId": "act1football_milestone_point",
+        "overrideBkg": null,
+        "stackIconId": null,
+        "sortId": -10000,
+        "usage": "Can be exchanged for all sorts of supplies in Positional Football Championship.",
+        "obtainApproach": "Limited Event Drop",
+        "hideInItemGet": false,
+        "classifyType": "NONE",
+        "itemType": "ACTIVITY_ITEM",
+        "stageDropList": [
+          {
+            "stageId": "act1football_01",
+            "occPer": "ALWAYS",
+            "sortId": 0
+          },
+          {
+            "stageId": "act1football_02",
+            "occPer": "ALWAYS",
+            "sortId": 1
+          },
+          {
+            "stageId": "act1football_03",
+            "occPer": "ALWAYS",
+            "sortId": 2
+          },
+          {
+            "stageId": "act1football_04",
+            "occPer": "ALWAYS",
+            "sortId": 3
+          },
+          {
+            "stageId": "act1football_05",
+            "occPer": "ALWAYS",
+            "sortId": 4
+          },
+          {
+            "stageId": "act1football_06",
+            "occPer": "ALWAYS",
+            "sortId": 5
+          },
+          {
+            "stageId": "act1football_07",
+            "occPer": "ALWAYS",
+            "sortId": 6
+          },
+          {
+            "stageId": "act1football_s01",
+            "occPer": "ALWAYS",
+            "sortId": 7
+          }
+        ],
+        "buildingProductList": [
+
+        ],
+        "voucherRelateList": null,
+        "shopRelateInfoList": null
+      }
+    ,
+    
       "act50side_melding_1": {
         "itemId": "act50side_melding_1",
         "name": "Bone Fragments",
@@ -58855,6 +58919,12 @@
       "furni_act71d0_grill_01": 1
     ,
     
+      "furni_duanwu2026_sweet_01": 1
+    ,
+    
+      "furni_duanwu2026_salted_01": 1
+    ,
+    
       "furni_terratimes_AbyssalHunters_01": 1
     ,
     
@@ -60331,6 +60401,9 @@
       "char_264_f12yin@marthe#13": 1
     ,
     
+      "char_4171_wulfen@marthe#14": 1
+    ,
+    
       "char_179_cgbird@witch#1": 1
     ,
     
@@ -60932,6 +61005,9 @@
     ,
     
       "char_4155_talr@yun#9": 1
+    ,
+    
+      "char_4207_branch@yun#10": 1
     ,
     
       "char_4048_doroth@witch#4": 1
